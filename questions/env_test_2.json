@@ -1,0 +1,2477 @@
+[
+  {
+    "question": "Which of the following CRZ zones covers the water area from Low Tide Line (LTL) to 12 nautical miles on the seaward side?",
+    "options": [
+      "CRZ-I",
+      "CRZ-II",
+      "CRZ-IV A",
+      "CRZ-III"
+    ],
+    "correct": 2,
+    "explanation": "CRZ-IV A covers the water area from LTL to 12 nautical miles on the seaward side, while CRZ-IV B covers tidal influenced water bodies."
+  },
+  {
+    "question": "For CRZ clearance, which authority handles projects located in CRZ-I and CRZ-IV?",
+    "options": [
+      "State Government",
+      "CZMA",
+      "National Green Tribunal",
+      "MoEFCC"
+    ],
+    "correct": 3,
+    "explanation": "Projects located in CRZ-I (Ecologically Sensitive Areas) and CRZ-IV (area covered between Low Tide Line and 12 Nautical Miles seaward) are dealt with for CRZ clearance by the MoEFCC."
+  },
+  {
+    "question": "Which of the following activities is permitted in CRZ-IV?",
+    "options": [
+      "Traditional fishing and allied activities",
+      "Hotel construction",
+      "Non-hazardous cargo storage",
+      "LNG regasification"
+    ],
+    "correct": 0,
+    "explanation": "CRZ-IV permits traditional fishing and allied activities. Untreated discharge/dumping is prohibited in this zone."
+  },
+  {
+    "question": "The National Green Tribunal was established with constitutional backing linked to which Article?",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 48A"
+    ],
+    "correct": 2,
+    "explanation": "The NGT has a constitutional link to Article 21, which guarantees the right to a healthy environment."
+  },
+  {
+    "question": "Within how many months must the National Green Tribunal dispose of cases from the date of appeals?",
+    "options": [
+      "6 months",
+      "3 months",
+      "9 months",
+      "12 months"
+    ],
+    "correct": 0,
+    "explanation": "As per the NGT Act, cases are to be disposed within 6 months of appeals."
+  },
+  {
+    "question": "Which of the following is the Principal Bench of the National Green Tribunal?",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "Bhopal",
+      "New Delhi"
+    ],
+    "correct": 3,
+    "explanation": "The Principal Bench of the NGT is located in New Delhi, while regional benches are at Pune (West), Bhopal (Central), Chennai (South), and Kolkata (East)."
+  },
+  {
+    "question": "The NGT does NOT have jurisdiction over matters relating to which of the following Acts?",
+    "options": [
+      "Wildlife (Protection) Act, 1972",
+      "The Water (Control of Pollution) Act, 1974",
+      "The Biological Diversity Act, 2002",
+      "The Air (Prevention & Control of Pollution) Act, 1981"
+    ],
+    "correct": 0,
+    "explanation": "The NGT has not been vested with powers to hear any matter relating to the Wildlife (Protection) Act, 1972 and the Indian Forest Act, 1927."
+  },
+  {
+    "question": "Within how many days can the order of the National Green Tribunal be challenged before the Supreme Court?",
+    "options": [
+      "30 days",
+      "60 days",
+      "120 days",
+      "90 days"
+    ],
+    "correct": 3,
+    "explanation": "The order of the National Green Tribunal can be challenged before the Supreme Court within 90 days."
+  },
+  {
+    "question": "Under the NGT Act, 2010, which principle of liability applies even if a disaster is accidental in hazardous industries?",
+    "options": [
+      "Absolute liability",
+      "Strict liability",
+      "Contributory liability",
+      "Vicarious liability"
+    ],
+    "correct": 0,
+    "explanation": "The NGT Act, 2010 incorporates absolute liability, which applies even if the disaster is accidental, with no exemptions for hazardous industries."
+  },
+  {
+    "question": "The PPVFR Act, 2001 was enacted in India to give effect to which international agreement?",
+    "options": [
+      "CBD",
+      "TRIPS Agreement",
+      "Nagoya Protocol",
+      "UPOV Convention"
+    ],
+    "correct": 1,
+    "explanation": "The Protection of Plant Varieties & Farmers' Rights (PPVFR) Act, 2001 has been enacted in India for giving effect to the TRIPS Agreement."
+  },
+  {
+    "question": "Under the PPVFR Act, 2001, what are the three roles recognized for farmers?",
+    "options": [
+      "Cultivator, breeder, and conserver",
+      "Producer, breeder, and seller",
+      "Grower, trader, and preserver",
+      "Farmer, researcher, and innovator"
+    ],
+    "correct": 0,
+    "explanation": "The PPVFR Act recognized three roles for the farmer: cultivator, breeder, and conserver."
+  },
+  {
+    "question": "Under Section 39(1) of the PPVFR Act, farmers can do all of the following EXCEPT:",
+    "options": [
+      "Save seeds",
+      "Sell seeds as branded seed",
+      "Exchange seeds",
+      "Resow seeds"
+    ],
+    "correct": 1,
+    "explanation": "Section 39(1) allows farmers to save/use/sow/resow/exchange/share/sell farm produce including seeds, EXCEPT selling it as branded seed."
+  },
+  {
+    "question": "Which criteria must a seed fulfill for registration under the PPVFR Act?",
+    "options": [
+      "Novelty, Uniformity and Stability",
+      "Novelty, Distinctiveness and Stability",
+      "Distinctiveness, Uniformity and Stability",
+      "Distinctiveness, Novelty and Uniformity"
+    ],
+    "correct": 2,
+    "explanation": "The criteria for registration under the PPVFR Act are Distinctiveness, Uniformity and Stability (DUS). Seeds get IPR, not patents."
+  },
+  {
+    "question": "India's status with respect to the International Union for the Protection of New Varieties of Plants (UPOV) is:",
+    "options": [
+      "A founding member since 1961",
+      "Not a member and uses its own sui generis law",
+      "A member since 2001",
+      "A member but with reservations"
+    ],
+    "correct": 1,
+    "explanation": "India is not a member of UPOV and uses its own sui generis law, the Protection of Plant Varieties and Farmers' Rights Authority Act, 2001, which uniquely protects both breeder and farmer's rights."
+  },
+  {
+    "question": "The Biological Diversity Act, 2002 was enacted in response to India's commitments under which international agreements?",
+    "options": [
+      "TRIPS Agreement and UPOV Convention",
+      "Kyoto Protocol and Paris Agreement",
+      "CBD, 1992 and Nagoya Protocol on Access and Benefit Sharing",
+      "CITES and Ramsar Convention"
+    ],
+    "correct": 2,
+    "explanation": "The Biological Diversity Act, 2002 was enacted in response to India's commitments under the Convention on Biological Diversity (CBD), 1992 and Nagoya Protocol on Access and Benefit Sharing."
+  },
+  {
+    "question": "Which of the following correctly describes the three-tier structure under the Biological Diversity Act, 2002?",
+    "options": [
+      "CZMA at national level, NBA at state level, BMCs at local level",
+      "NBA at national level, SBBs at state level, BMCs at local level",
+      "NBA at national level, BMCs at state level, SBBs at local level",
+      "MoEFCC at national level, NBA at state level, SBBs at local level"
+    ],
+    "correct": 1,
+    "explanation": "The Biological Diversity Act, 2002 envisaged a three-tier structure: the National Biodiversity Authority (NBA) at the National level, the State Biodiversity Boards (SBBs) at the state level, and the Biodiversity Management Committees (BMCs) at local level."
+  },
+  {
+    "question": "Under the Biological Diversity Act, 2002, the People's Biodiversity Register is maintained by which body?",
+    "options": [
+      "National Biodiversity Authority",
+      "State Biodiversity Board",
+      "Biodiversity Management Committee",
+      "Ministry of Agriculture"
+    ],
+    "correct": 2,
+    "explanation": "The People's Biodiversity Register is maintained by BMC (Biodiversity Management Committee) with the help of gram sabha, and contains information about local flora and fauna, climate, landscape, agriculture and traditional knowledge."
+  },
+  {
+    "question": "Under Section 37 of the Biological Diversity Act, 2002, which authority can notify Biodiversity Heritage Sites?",
+    "options": [
+      "Central Government in consultation with NBA",
+      "National Biodiversity Authority independently",
+      "Ministry of Environment, Forest and Climate Change",
+      "State Government in consultation with local bodies"
+    ],
+    "correct": 3,
+    "explanation": "Under Section 37 of Biological Diversity Act, 2002, the State Government in consultation with local bodies may notify the areas of biodiversity importance as Biodiversity Heritage Sites."
+  },
+  {
+    "question": "What is the first Biodiversity Heritage Site of India?",
+    "options": [
+      "Majuli, Assam",
+      "Arittapatti, Tamil Nadu",
+      "Nallur Tamarind Grove in Bengaluru, Karnataka",
+      "Amarkantak, Madhya Pradesh"
+    ],
+    "correct": 2,
+    "explanation": "The first Biodiversity Heritage Site of India is the Nallur Tamarind Grove in Bengaluru, Karnataka, notified in 2007."
+  },
+  {
+    "question": "How many Biodiversity Heritage Sites (BHS) are currently present in India as per the document?",
+    "options": [
+      "36",
+      "21",
+      "28",
+      "46"
+    ],
+    "correct": 0,
+    "explanation": "Presently 36 BHS are in India including Majuli, Unakoti, Silachari Caves, Amarkantak etc."
+  },
+  {
+    "question": "The Biological Diversity (Amendment) Act, 2023 introduced which major change regarding offences?",
+    "options": [
+      "Increased imprisonment terms for violations",
+      "Transferred adjudication to NGT",
+      "Decriminalized offences with only monetary penalties",
+      "Made all offences non-cognizable"
+    ],
+    "correct": 2,
+    "explanation": "The Biological Diversity (Amendment) Act, 2023 decriminalized offences, replacing imprisonment with only monetary penalties ranging from ₹1 lakh to ₹50 lakh."
+  },
+  {
+    "question": "Which of the following is a criticism of the Biological Diversity (Amendment) Act, 2023?",
+    "options": [
+      "It expanded the role of local communities in benefit sharing",
+      "It introduced Prior Informed Consent for indigenous communities",
+      "It increased penalties for biopiracy",
+      "It lacks mechanism for Prior Informed Consent from local/indigenous communities, contradicting the Nagoya Protocol"
+    ],
+    "correct": 3,
+    "explanation": "A major criticism of BDA, 2023 is that there is no mechanism to seek consent from local/indigenous communities before accessing resources, which contradicts the Nagoya Protocol that mandates such consent."
+  },
+  {
+    "question": "What does 'Biopiracy' refer to?",
+    "options": [
+      "Legal bioprospecting for commercial gain",
+      "Taking genetic resources or traditional knowledge without permission to create products benefiting non-indigenous actors while indigenous communities receive no compensation",
+      "Systematic exploration of biodiversity for commercial products",
+      "Conservation of endangered species through genetic research"
+    ],
+    "correct": 1,
+    "explanation": "Biopiracy occurs when genetic resources and/or traditional knowledge from biodiverse countries are taken without permission, and then used to create products or patents that benefit non-indigenous actors, while the indigenous communities receive no compensation."
+  },
+  {
+    "question": "Which body is the nodal agency for CITES enforcement in India?",
+    "options": [
+      "National Biodiversity Authority",
+      "Central Zoo Authority",
+      "Wildlife Crime Control Bureau",
+      "Wildlife Institute of India"
+    ],
+    "correct": 2,
+    "explanation": "The Wildlife Crime Control Bureau (WCCB) is the nodal agency for CITES enforcement in India and also serves as the nodal point for SAWEN (South Asia Wildlife Enforcement Network) in India."
+  },
+  {
+    "question": "The National Board for Wildlife (NBWL) is headed by which authority?",
+    "options": [
+      "Minister of Environment, Forest and Climate Change",
+      "Chief Justice of India",
+      "President of India",
+      "Prime Minister of India"
+    ],
+    "correct": 3,
+    "explanation": "The National Board for Wildlife (NBWL) is headed by the Prime Minister."
+  },
+  {
+    "question": "Which organization publishes the India State of Forest Report (ISFR) biennially?",
+    "options": [
+      "Forest Survey of India",
+      "National Biodiversity Authority",
+      "Wildlife Institute of India",
+      "Botanical Survey of India"
+    ],
+    "correct": 0,
+    "explanation": "Forest Survey of India (FSI) publishes India State of Forest Report (ISFR) biennially, since 1987."
+  },
+  {
+    "question": "The Bombay Natural History Society (BNHS) has been recognized by DST as:",
+    "options": [
+      "A Centre of Excellence",
+      "A National Institute of Importance",
+      "A Scientific and Industrial Research Organisation (SIRO)",
+      "A Deemed University"
+    ],
+    "correct": 2,
+    "explanation": "The Bombay Natural History Society (BNHS) has been recognized by DST as a Scientific and Industrial Research Organisation (SIRO)."
+  },
+  {
+    "question": "Which of the following correctly describes the difference between Climate Change and Global Warming?",
+    "options": [
+      "Climate change is a broader term that includes global warming along with other changes like sea level rise, while global warming refers specifically to the long-term rise in global average temperature",
+      "They are the same phenomenon",
+      "Global warming is broader and includes climate change",
+      "Climate change refers only to natural causes while global warming refers only to human causes"
+    ],
+    "correct": 0,
+    "explanation": "Global warming is the long-term rise in global average temperature and is one component of climate change. Climate change is broader and includes global warming, changes in rainfall, rising sea levels, shrinking glaciers, and ocean acidification."
+  },
+  {
+    "question": "Which method uses annual growth rings in trees to study past climate events?",
+    "options": [
+      "Glaciology",
+      "Palynology",
+      "Dendroclimatology",
+      "Stratigraphy"
+    ],
+    "correct": 2,
+    "explanation": "Dendroclimatology uses tree rings to record climate. One light + one dark ring equals one year, with wider rings indicating wet years and thinner rings indicating dry years."
+  },
+  {
+    "question": "The natural greenhouse effect maintains Earth's average global temperature at approximately:",
+    "options": [
+      "-17°C",
+      "0°C",
+      "30°C",
+      "15°C"
+    ],
+    "correct": 3,
+    "explanation": "The natural greenhouse effect maintains average global temperature at approximately 15°C. Without it, Earth's average temperature would be around -17°C."
+  },
+  {
+    "question": "What percentage of the greenhouse effect is caused by water vapour and small water particles in the atmosphere?",
+    "options": [
+      "50%",
+      "70%",
+      "95%",
+      "85%"
+    ],
+    "correct": 2,
+    "explanation": "95% of the greenhouse effect is caused by water vapour and small water particles in the atmosphere."
+  },
+  {
+    "question": "Which greenhouse gas is the second most important GHG after CO₂?",
+    "options": [
+      "Nitrous Oxide (N₂O)",
+      "Methane (CH₄)",
+      "Chlorofluorocarbons (CFCs)",
+      "Ozone (O₃)"
+    ],
+    "correct": 1,
+    "explanation": "Methane (CH₄) is the second most important greenhouse gas after CO₂."
+  },
+  {
+    "question": "What is the 20-year Global Warming Potential (GWP) of Methane compared to CO₂?",
+    "options": [
+      "84",
+      "21",
+      "45",
+      "273"
+    ],
+    "correct": 0,
+    "explanation": "Methane's 20-year GWP = 84, meaning it traps 84 times more heat than CO₂ (per unit mass)."
+  },
+  {
+    "question": "Which is the single biggest natural source of methane emissions?",
+    "options": [
+      "Freshwater systems",
+      "Wetlands",
+      "Termites",
+      "Geologic seepage"
+    ],
+    "correct": 1,
+    "explanation": "Wetlands are the single biggest natural source of methane; methane is produced by anaerobic microbes in waterlogged soils."
+  },
+  {
+    "question": "Nitrous Oxide (N₂O) has a global warming potential of approximately how many times CO₂ over 100 years?",
+    "options": [
+      "21",
+      "84",
+      "273",
+      "310"
+    ],
+    "correct": 3,
+    "explanation": "N₂O has a very high warming potential, around 273 times CO₂ over 100 years according to the document."
+  },
+  {
+    "question": "N₂O is described as the largest known remaining anthropogenic threat to which environmental system?",
+    "options": [
+      "Stratospheric ozone layer",
+      "Tropospheric ozone layer",
+      "Marine biodiversity",
+      "Freshwater systems"
+    ],
+    "correct": 0,
+    "explanation": "N₂O is a long-lived greenhouse gas and the largest known remaining anthropogenic threat to the stratospheric ozone layer."
+  },
+  {
+    "question": "Which country is identified as the largest emitter of Nitrous Oxide (N₂O)?",
+    "options": [
+      "USA",
+      "China",
+      "India",
+      "Brazil"
+    ],
+    "correct": 1,
+    "explanation": "China is the largest emitter of N₂O, followed by India and the USA."
+  },
+  {
+    "question": "Black carbon is said to remain in the atmosphere for how long before descending as rain or snow?",
+    "options": [
+      "Months",
+      "Years",
+      "Decades",
+      "Days to weeks"
+    ],
+    "correct": 3,
+    "explanation": "Black carbon is short-lived and remains only for days to weeks before it descends as rain or snow, unlike CO₂ which can stay in the atmosphere for years."
+  },
+  {
+    "question": "Which sector contributes the highest percentage of India's total black carbon emissions?",
+    "options": [
+      "Residential sector (47%)",
+      "Industries (22%)",
+      "Diesel vehicles (17%)",
+      "Open burning (12%)"
+    ],
+    "correct": 0,
+    "explanation": "The residential sector contributes 47% of India's total black carbon emissions, mainly from burning biomass in traditional cookstoves."
+  },
+  {
+    "question": "How does black carbon affect ice and snow through the albedo effect?",
+    "options": [
+      "It increases albedo, leading to cooling",
+      "It forms a protective layer on ice",
+      "It has no effect on ice reflectivity",
+      "It darkens snow/ice, reduces albedo, increases heat absorption, and accelerates melting"
+    ],
+    "correct": 3,
+    "explanation": "Black carbon darkens snow and ice when deposited on Arctic surfaces. This reduces albedo (reflectivity), causing more solar energy absorption, earlier snow melt, and faster sea ice thinning."
+  },
+  {
+    "question": "Global Warming Potential (GWP) is measured relative to which gas?",
+    "options": [
+      "Carbon Dioxide (CO₂)",
+      "Methane (CH₄)",
+      "Nitrous Oxide (N₂O)",
+      "Water vapour (H₂O)"
+    ],
+    "correct": 0,
+    "explanation": "GWP is a metric comparing the heat-trapping capacity of greenhouse gases over a specific timeframe (usually 100 years) relative to carbon dioxide, which has a GWP of 1."
+  },
+  {
+    "question": "GWP* was introduced at which COP to the UNFCCC?",
+    "options": [
+      "COP21",
+      "COP24",
+      "COP26",
+      "COP27"
+    ],
+    "correct": 1,
+    "explanation": "GWP* was introduced in 2018 at COP24 to the UNFCCC."
+  },
+  {
+    "question": "GWP* is best suited for measuring which type of greenhouse gases?",
+    "options": [
+      "Short-lived gases like CH₄",
+      "Long-lived gases like CO₂ and N₂O",
+      "All greenhouse gases equally",
+      "Only fluorinated gases"
+    ],
+    "correct": 0,
+    "explanation": "GWP* better captures the rate-driven, non-cumulative nature of short-lived climate pollutants like methane, while GWP100 is better suited for long-lived gases."
+  },
+  {
+    "question": "Which of the following is NOT a Short-Lived Climate Pollutant (Super Pollutant)?",
+    "options": [
+      "Methane (CH₄)",
+      "Carbon Dioxide (CO₂)",
+      "Black carbon",
+      "Hydrofluorocarbons (HFCs)"
+    ],
+    "correct": 1,
+    "explanation": "Short-Lived Climate Pollutants (SLCPs) include Methane (CH₄), Black carbon, Hydrofluorocarbons (HFCs), and Tropospheric ozone (O₃). CO₂ is a long-lived greenhouse gas, not a super pollutant."
+  },
+  {
+    "question": "The Keeling Curve records which environmental data?",
+    "options": [
+      "Global atmospheric carbon dioxide concentrations",
+      "Global temperature changes",
+      "Sea level measurements",
+      "Ozone layer thickness"
+    ],
+    "correct": 0,
+    "explanation": "The Keeling Curve is a daily record of global atmospheric carbon dioxide concentrations, initiated by Dr. Charles David Keeling in 1958 at the Mauna Loa Observatory in Hawaii."
+  },
+  {
+    "question": "What is the difference between Greenwashing and Greenhushing?",
+    "options": [
+      "They are the same concept",
+      "Greenwashing is legal while Greenhushing is illegal",
+      "Greenhushing involves false claims while Greenwashing involves silence",
+      "Greenwashing involves false claims of being eco-friendly, while Greenhushing involves withholding or downplaying environmental information to avoid scrutiny"
+    ],
+    "correct": 3,
+    "explanation": "Greenwashing involves marketing that overstates or falsely claims environmental friendliness, while Greenhushing is a strategy where a company withholds or downplays its environmental impacts to prevent scrutiny."
+  },
+  {
+    "question": "Only water vapour among GHGs can absorb both which types of radiation?",
+    "options": [
+      "Visible and ultraviolet radiation",
+      "Incoming infrared and outgoing visible radiation",
+      "Incoming UV and outgoing infrared radiation",
+      "Microwave and radio wave radiation"
+    ],
+    "correct": 2,
+    "explanation": "Among GHGs, only water vapour can absorb both incoming (UV) and outgoing (infrared) radiation - it absorbs long-wave terrestrial infrared radiation emitted by Earth and also absorbs part of incoming short-wave solar radiation."
+  },
+  {
+    "question": "Which of the following is NOT a component of the water vapour 'triple effect'?",
+    "options": [
+      "Water vapour increases cloud cover that can trap outgoing heat",
+      "Water vapour increases surface albedo reducing warming",
+      "Water vapour condensing releases latent heat warming surrounding air",
+      "Water vapour directly absorbs outgoing infrared radiation"
+    ],
+    "correct": 1,
+    "explanation": "The water vapour triple effect includes: increasing cloud cover, releasing latent heat during condensation, and being a greenhouse gas that absorbs outgoing infrared radiation. Water vapour does NOT increase surface albedo."
+  },
+  {
+    "question": "The Climate Change Performance Index (CCPI) is published by which organizations?",
+    "options": [
+      "IPCC and UNEP",
+      "World Economic Forum, Yale and Columbia Universities",
+      "Germanwatch, NewClimate Institute, and Climate Action Network",
+      "UNFCCC and World Bank"
+    ],
+    "correct": 2,
+    "explanation": "CCPI is published by Germanwatch, NewClimate Institute, and Climate Action Network annually since 2005."
+  },
+  {
+    "question": "In CCPI 2026, what is India's rank and performance category?",
+    "options": [
+      "Rank 7th, high performer",
+      "Rank 23rd, medium performer",
+      "Rank 10th, high performer",
+      "Rank 13th, low performer"
+    ],
+    "correct": 1,
+    "explanation": "In CCPI 2026, India dropped 13 places to rank 23rd, shifting from a 'high' to a 'medium' performer."
+  },
+  {
+    "question": "In CCPI 2026, how is the highest GHG Emissions category weighted in the overall score?",
+    "options": [
+      "40%",
+      "20%",
+      "30%",
+      "50%"
+    ],
+    "correct": 0,
+    "explanation": "In CCPI, Greenhouse Gas Emissions carries 40% of the overall score, while Renewable Energy, Energy Use, and Climate Policy each carry 20%."
+  },
+  {
+    "question": "In the Environmental Performance Index 2024, what is India's rank out of 180 countries?",
+    "options": [
+      "150th",
+      "176th",
+      "163rd",
+      "172nd"
+    ],
+    "correct": 1,
+    "explanation": "India's rank in the Environmental Performance Index 2024 is 176th out of 180 countries with an overall score of 27.6."
+  },
+  {
+    "question": "The Environmental Performance Index (EPI) is a biennial report published by collaboration between which institutions?",
+    "options": [
+      "IPCC and WMO",
+      "UNEP and World Bank",
+      "World Economic Forum and Yale and Columbia Universities",
+      "Germanwatch and Climate Action Network"
+    ],
+    "correct": 2,
+    "explanation": "The Environmental Performance Index (EPI) is a biennial report by a collaboration between the World Economic Forum and Yale and Columbia Universities."
+  },
+  {
+    "question": "According to the EPI 2024, which five countries have reduced greenhouse gas emissions at the pace needed to reach net zero by 2050?",
+    "options": [
+      "USA, Germany, UK, France, Japan",
+      "Denmark, Norway, Sweden, Netherlands, Switzerland",
+      "China, India, Brazil, Russia, South Africa",
+      "Estonia, Finland, Greece, Timor-Leste and the United Kingdom"
+    ],
+    "correct": 3,
+    "explanation": "The EPI 2024 report states that only five countries: Estonia, Finland, Greece, Timor-Leste and the United Kingdom have reduced greenhouse gas emissions at the pace needed to reach net zero by 2050."
+  },
+  {
+    "question": "According to the document, what percentage of global GHG emissions does electricity and heat generation contribute?",
+    "options": [
+      "24.9%",
+      "14.7%",
+      "14.3%",
+      "13.8%"
+    ],
+    "correct": 0,
+    "explanation": "According to the World Resources Institute (WRI), electricity and heat generation contributes 24.9% of global GHG emissions, making it the largest single sector."
+  },
+  {
+    "question": "What are 'Carbon Bombs' in the context of climate change?",
+    "options": [
+      "Large volcanic eruptions that release CO₂",
+      "Large-scale fossil fuel projects projected to release at least one billion tonnes of CO₂ over their lifetime",
+      "Nuclear power plants with high carbon output",
+      "Urban areas with extremely high per capita emissions"
+    ],
+    "correct": 1,
+    "explanation": "Carbon bombs refer to large-scale, individual fossil fuel projects (specifically coal, oil, or gas) that are projected to release at least one billion tonnes over their lifetime."
+  },
+  {
+    "question": "Which Indian coal mines are cited as examples of 'carbon bombs'?",
+    "options": [
+      "Gevra Coal Mine (Chhattisgarh) and Rajmahal Coal Mine (Jharkhand)",
+      "Jharia and Raniganj Coal Mines",
+      "Singrauli and Korba Coal Mines",
+      "Talcher and Neyveli Coal Mines"
+    ],
+    "correct": 0,
+    "explanation": "The document cites Gevra Coal Mine (Chhattisgarh, India) and Rajmahal Coal Mine (Jharkhand, India) as Indian examples of carbon bombs."
+  },
+  {
+    "question": "Climate sensitivity is defined as the global average temperature increase expected after atmospheric CO₂ concentration:",
+    "options": [
+      "Increases by 100 ppm",
+      "Doubles compared to pre-industrial levels",
+      "Reaches 500 ppm",
+      "Increases by 50% from current levels"
+    ],
+    "correct": 1,
+    "explanation": "Climate sensitivity is defined as the global average temperature increase expected after atmospheric CO₂ concentration doubles compared to pre-industrial levels."
+  },
+  {
+    "question": "Which of the 'Big 4 feedbacks' is described as the largest source of uncertainty in climate sensitivity?",
+    "options": [
+      "Cloud feedback",
+      "Water vapour feedback",
+      "Albedo feedback",
+      "Permafrost carbon feedback"
+    ],
+    "correct": 0,
+    "explanation": "Cloud feedback is described as the largest source of uncertainty in climate sensitivity because cloud microphysics and global shifts in cloud cover are difficult to model accurately."
+  },
+  {
+    "question": "What is the IPCC's estimated total carbon budget from pre-industrial times until the end of the 21st century?",
+    "options": [
+      "1,500 gigatonnes",
+      "2,200 gigatonnes",
+      "2,900 gigatonnes",
+      "3,500 gigatonnes"
+    ],
+    "correct": 2,
+    "explanation": "The IPCC estimated the total carbon budget to be about 2,900 gigatonnes (gt) from pre-industrial times until the end of the 21st century."
+  },
+  {
+    "question": "According to IMD, a heat wave is declared when the maximum temperature of a station reaches at least how much for plains?",
+    "options": [
+      "35°C",
+      "40°C",
+      "37°C",
+      "45°C"
+    ],
+    "correct": 1,
+    "explanation": "As per IMD, heat wave is considered if the maximum temperature of a station reaches at least 40°C or more for Plains and at least 30°C or more for Hilly regions."
+  },
+  {
+    "question": "What departure from normal temperature constitutes a 'Severe Heat Wave' based on departure from normal?",
+    "options": [
+      "More than 4.5°C",
+      "More than 5.5°C",
+      "More than 6.4°C",
+      "More than 7.5°C"
+    ],
+    "correct": 2,
+    "explanation": "A Severe Heat Wave is declared when departure from normal is greater than 6.4°C, while a regular heat wave has departure from normal of 4.5°C to 6.4°C."
+  },
+  {
+    "question": "Marine heatwaves are primarily caused by which atmospheric condition?",
+    "options": [
+      "Stagnant/weak wind patterns",
+      "Strong trade winds",
+      "High pressure systems",
+      "Monsoon circulation"
+    ],
+    "correct": 0,
+    "explanation": "According to the document, stagnant wind patterns are the direct cause of extreme ocean temperature spikes leading to marine heatwaves."
+  },
+  {
+    "question": "The 'Urban Heat Island effect' occurs because:",
+    "options": [
+      "Urban areas have more vegetation causing heat absorption",
+      "Cities are located in naturally warmer geographical zones",
+      "Concrete and asphalt replace natural vegetation, reducing evaporation while adding heat-absorbing surfaces",
+      "Urban areas receive more solar radiation due to lack of cloud cover"
+    ],
+    "correct": 2,
+    "explanation": "Urban Heat Islands occur because concrete and asphalt (with very low albedo) replace natural vegetation and water, leading to reduced evaporation and evapotranspiration, along with other factors like vehicle heat and air conditioners."
+  },
+  {
+    "question": "What is a 'Zombie fire' (holdover fire)?",
+    "options": [
+      "A fire that spreads extremely rapidly through forests",
+      "An artificial fire set deliberately to prevent larger wildfires",
+      "A fire that occurs in areas that were previously considered fire-resistant",
+      "A fire from a previous growing season that burns slowly underground in carbon-rich peat with smoke but no flame"
+    ],
+    "correct": 3,
+    "explanation": "A zombie fire (holdover fire) is a fire from a previous growing season that can burn slowly with smoke but no flame under the ground made of carbon-rich peat."
+  },
+  {
+    "question": "The cryosphere covers approximately what percentage of the planet?",
+    "options": [
+      "5%",
+      "10%",
+      "15%",
+      "20%"
+    ],
+    "correct": 1,
+    "explanation": "The cryosphere covers 10 percent of the planet, regulates Earth's climate by reflecting solar radiation, holds nearly 70 percent of the world's freshwater, and impacts global sea levels."
+  },
+  {
+    "question": "What is Arctic (or Polar) Amplification?",
+    "options": [
+      "The ratio of warming differential between the poles and the tropics, where the Arctic warms faster",
+      "The tendency of the Arctic to experience more earthquakes",
+      "The amplification of radio signals in the polar region",
+      "The increased intensity of Arctic storms due to climate change"
+    ],
+    "correct": 0,
+    "explanation": "Arctic (or polar) Amplification is the ratio of warming differential between the poles (polar warming) and the tropics (tropical warming). The Arctic region is warming faster than other parts of the globe."
+  },
+  {
+    "question": "Why is Arctic Amplification much stronger in the Arctic than in Antarctica?",
+    "options": [
+      "The Arctic is more populated causing more local emissions",
+      "The Arctic is an ocean covered by sea ice (more variable), while Antarctica is an elevated continent covered in more permanent ice and snow",
+      "Antarctica is protected by the ozone layer",
+      "The Arctic receives more solar radiation annually"
+    ],
+    "correct": 1,
+    "explanation": "Arctic Amplification is much stronger in the Arctic than in Antarctica because the Arctic is an ocean covered by sea ice, while Antarctica is an elevated continent covered in more permanent ice and snow."
+  },
+  {
+    "question": "What are 'Eustatic changes' in the context of sea level change?",
+    "options": [
+      "Changes due to land level alterations",
+      "Changes due to isostatic adjustments",
+      "Changes occurring when the volume of seawater changes due to global warming/melting of ice sheets or changes in oceanic ridge volumes",
+      "Changes caused by atmospheric pressure variations"
+    ],
+    "correct": 2,
+    "explanation": "Eustatic changes occur when the volume of seawater changes due to global warming and melting of ice sheets (rise in sea level) or ice ages (fall in sea level), or changes in the volume of mid-oceanic ridges."
+  },
+  {
+    "question": "According to the IPCC, approximately how many people worldwide live below the annual coastal flood line?",
+    "options": [
+      "80 million",
+      "300 million",
+      "150 million",
+      "500 million"
+    ],
+    "correct": 1,
+    "explanation": "About 300 million people worldwide, not 80 million as estimated earlier, live below the annual coastal flood line."
+  },
+  {
+    "question": "The UN programme of action on sustainable development of Small Island Development States (SIDS) is referred to as:",
+    "options": [
+      "Mauritius Strategy",
+      "Samoa Pathway",
+      "Caribbean Declaration",
+      "Barbados Plan of Action (BPOA)"
+    ],
+    "correct": 3,
+    "explanation": "The UN programme of action on sustainable development of SIDS is popularly referred to as the Barbados Plan of Action (BPOA). It is the only internationally approved programme specific to SIDS."
+  },
+  {
+    "question": "Indonesia relocated its capital from Jakarta primarily due to which climate-related issue?",
+    "options": [
+      "Jakarta being the world's fastest-sinking city due to climate change and heavy congestion",
+      "Extreme heat waves",
+      "Severe cyclone threats",
+      "Air pollution levels"
+    ],
+    "correct": 0,
+    "explanation": "Indonesia's capital was relocated from Jakarta to East Kalimantan in Borneo because climate change and heavy congestion are making Jakarta the 'world's fastest-sinking city,' sinking by about 25 centimetres every year."
+  },
+  {
+    "question": "Which climate tipping points have been identified by the IPCC?",
+    "options": [
+      "Sahara desertification, Pacific Ocean cooling, European glacier loss",
+      "North Atlantic cooling, Tibetan Plateau ice loss, Australian coral bleaching",
+      "Siberian permafrost release, Atlantic hurricane intensification, Indian monsoon shift",
+      "Amazon rainforest dieback, permafrost collapse, AMOC slowdown, Boreal Forest shift, Greenland and Antarctic ice sheets collapse"
+    ],
+    "correct": 3,
+    "explanation": "Tipping points identified by IPCC include Amazon rainforest dieback, permafrost collapse, Atlantic Meridional Overturning Circulation (AMOC) slowdown, Boreal Forest shift, and Greenland and Antarctic ice sheets collapse."
+  },
+  {
+    "question": "What is the World Risk Index 2025 focused on, and what is India's rank?",
+    "options": [
+      "Focused on droughts; India ranks 5th",
+      "Focused on cyclones; India ranks 8th",
+      "Focused on floods and prevention strategies; India ranks 2nd",
+      "Focused on earthquakes; India ranks 15th"
+    ],
+    "correct": 2,
+    "explanation": "The World Risk Index 2025 focuses on floods and prevention strategies. India is ranked second worldwide in World Risk Index 2025, while the Philippines ranks first."
+  },
+  {
+    "question": "The Planetary Boundaries framework identifies how many critical global processes?",
+    "options": [
+      "Nine",
+      "Six",
+      "Seven",
+      "Eleven"
+    ],
+    "correct": 0,
+    "explanation": "The Planetary Boundaries framework highlights rising risks from human pressure on nine critical global processes that regulate the stability and resilience of the Earth system."
+  },
+  {
+    "question": "Which planetary boundary was breached for the first time in 2025?",
+    "options": [
+      "Climate change",
+      "Ocean acidification",
+      "Land system change",
+      "Freshwater change"
+    ],
+    "correct": 1,
+    "explanation": "Ocean acidification was breached in 2025 for the first time. Surface pH has fallen by about 0.1 units since the industrial era, increasing acidity by about 30 to 40 per cent."
+  },
+  {
+    "question": "Which planetary boundary is described as being in 'Safe operating space' due to global phase-out of ozone-depleting substances?",
+    "options": [
+      "Climate change",
+      "Novel entities",
+      "Stratospheric ozone depletion",
+      "Atmospheric aerosol loading"
+    ],
+    "correct": 2,
+    "explanation": "Stratospheric ozone depletion is in 'Safe operating space' as ozone is slowly recovering due to the global phase-out of ozone-depleting substances since the late 1980s."
+  },
+  {
+    "question": "The Climate Risk Index 2026 is published by which organization?",
+    "options": [
+      "UNEP",
+      "WMO",
+      "Climate Action Network",
+      "Germanwatch"
+    ],
+    "correct": 3,
+    "explanation": "The Climate Risk Index is published by Germanwatch and ranks countries based on the human and economic toll of extreme weather events."
+  },
+  {
+    "question": "What is a coral polyp?",
+    "options": [
+      "An individual animal belonging to phylum cnidaria with soft bodies covered by calcareous skeletons",
+      "A type of marine fish that builds coral reefs",
+      "A type of marine algae that forms coral reefs",
+      "A microorganism living symbiotically with corals"
+    ],
+    "correct": 0,
+    "explanation": "Polyps are individual animals belonging to phylum cnidaria, related to anemones and jellyfish. They are shallow warm-water organisms with soft bodies covered by calcareous skeletons."
+  },
+  {
+    "question": "Coral reefs are referred to as 'Tropical Rainforests of the Oceans' because:",
+    "options": [
+      "They are found in the same geographic zones as tropical rainforests",
+      "They produce large amounts of oxygen",
+      "They regulate rainfall patterns similar to rainforests",
+      "They have extremely high productivity and biodiversity"
+    ],
+    "correct": 3,
+    "explanation": "The coral reefs are referred to as the 'Tropical Rainforests of the Oceans' because they have extremely high productivity and biodiversity."
+  },
+  {
+    "question": "What are Zooxanthellae and what is their relationship with corals?",
+    "options": [
+      "Microscopic algae (Phylum Dinoflagellata) that live in coral tissues in a symbiotic relationship, providing corals with fixed carbon compounds for energy",
+      "Parasitic organisms that cause coral bleaching",
+      "Bacteria that help corals build calcium carbonate skeletons",
+      "Predatory organisms that feed on coral polyps"
+    ],
+    "correct": 0,
+    "explanation": "Zooxanthellae are microscopic algae (Phylum Dinoflagellata) that live in coral tissues. They have a symbiotic relationship with corals, providing fixed carbon compounds for energy, enhancing calcification, and serving as the coral's primary food source."
+  },
+  {
+    "question": "What happens during coral bleaching?",
+    "options": [
+      "Corals are painted white by human activity",
+      "Corals dissolve due to ocean acidification",
+      "Predators consume the colored tissues of corals",
+      "When stressed, corals expel their symbiotic zooxanthellae, turning completely white"
+    ],
+    "correct": 3,
+    "explanation": "When corals are stressed by changes in conditions such as temperature, light, or nutrients, they expel the symbiotic algae (zooxanthellae) living in their tissues, causing them to turn completely white - this is coral bleaching."
+  },
+  {
+    "question": "Which type of coral builds reefs by secreting a rigid calcium carbonate skeleton?",
+    "options": [
+      "Soft corals",
+      "Ahermatypic corals",
+      "Hard (stony) corals (Scleractinian/Hermatypic corals)",
+      "Black corals"
+    ],
+    "correct": 2,
+    "explanation": "Hard (stony) corals, also known as Scleractinian corals or Hermatypic corals, build reefs by secreting a rigid calcium carbonate skeleton that protects the soft body."
+  },
+  {
+    "question": "Ahermatypic corals are distinguished by which characteristic?",
+    "options": [
+      "They build large reef structures",
+      "They are found only in shallow tropical waters",
+      "They are the most abundant type of coral in Indian waters",
+      "They live without symbiotic Zooxanthellae, do not build reefs, and are found in deep oceans"
+    ],
+    "correct": 3,
+    "explanation": "Ahermatypic Polyps are corals which live without symbiotic relations and Zooxanthellae. They do NOT build reefs and are found not in shallow waters but in the ocean bottom floor (deep ocean)."
+  },
+  {
+    "question": "Which type of coral reef is the most common?",
+    "options": [
+      "Barrier reefs",
+      "Atolls",
+      "Fringing reefs",
+      "Patch reefs"
+    ],
+    "correct": 2,
+    "explanation": "Fringing reefs are the most common type of coral reef. They grow directly from a shore and are located very close to land."
+  },
+  {
+    "question": "The Great Barrier Reef was designated a World Heritage Site in which year?",
+    "options": [
+      "1972",
+      "1990",
+      "2000",
+      "1981"
+    ],
+    "correct": 3,
+    "explanation": "The Great Barrier Reef was designated a World Heritage Site in 1981."
+  },
+  {
+    "question": "Where do coral reefs occur in India?",
+    "options": [
+      "Only in Andaman and Nicobar Islands",
+      "Gulf of Kutch, Gulf of Mannar, Andaman and Nicobar, Lakshadweep Islands, and Malvan",
+      "Only in Lakshadweep Islands",
+      "Gulf of Bengal, Andaman and Nicobar, and Gulf of Kutch"
+    ],
+    "correct": 1,
+    "explanation": "Coral reefs in India occur in the Gulf of Kutch, Gulf of Mannar, Andaman and Nicobar, Lakshadweep Islands, and Malvan."
+  },
+  {
+    "question": "The Coral Bleaching Alert System (CBAS) uses which data to assess thermal stress in coral environments?",
+    "options": [
+      "In-situ temperature measurements by divers",
+      "Underwater drone measurements",
+      "Weather station data from coastal areas",
+      "Satellite-derived Sea Surface Temperature (SST)"
+    ],
+    "correct": 3,
+    "explanation": "The Coral Bleaching Alert System (CBAS) uses the satellite-derived Sea Surface Temperature (SST) in order to assess the thermal stress accumulated in the coral environment."
+  },
+  {
+    "question": "SNAP-X technology was developed to:",
+    "options": [
+      "Monitor coral bleaching using satellite imagery",
+      "Reduce ocean acidification around coral reef areas",
+      "Help corals settle and grow on damaged reefs by mimicking chemical signals from healthy reefs",
+      "Remove invasive species from coral reef ecosystems"
+    ],
+    "correct": 2,
+    "explanation": "Scientists have developed an ink called SNAP-X to help corals settle and grow on damaged reefs. Healthy reefs emit chemical signals that guide floating corals, but damaged reefs lack these cues."
+  },
+  {
+    "question": "What is Biorock Technology used for in coral restoration?",
+    "options": [
+      "A method that uses chemicals to restore coral colors",
+      "A technique to transplant healthy corals from one reef to another",
+      "A method to reduce water temperature around damaged reefs",
+      "A restoration method using low-voltage direct current through seawater causing minerals to crystallize on a submerged metal structure, creating a substrate for coral attachment"
+    ],
+    "correct": 3,
+    "explanation": "Biorock technology (mineral accretion technology) is a restoration method for coral reefs that uses low-voltage direct current passed through seawater so that dissolved minerals crystallise on a submerged metal structure, forming a limestone-like coating similar to natural reef substrate."
+  },
+  {
+    "question": "Blue Flag Certification is awarded by which organization?",
+    "options": [
+      "UNESCO",
+      "IUCN",
+      "Foundation for Environment Education, Denmark",
+      "UNEP"
+    ],
+    "correct": 2,
+    "explanation": "Blue Flag Certification is accorded by an international agency 'Foundation for Environment Education (FEE), Denmark' based on 33 stringent criteria in four major areas."
+  },
+  {
+    "question": "How many Blue Flag certified beaches does India currently have?",
+    "options": [
+      "18",
+      "10",
+      "14",
+      "22"
+    ],
+    "correct": 0,
+    "explanation": "India has 18 Blue Flag certified beaches as mentioned in the document."
+  },
+  {
+    "question": "The IPCC was founded in which year by which organizations?",
+    "options": [
+      "1972 by UNESCO and UNEP",
+      "1992 by UNFCCC and WMO",
+      "1988 by WMO and UNEP",
+      "2000 by UN General Assembly"
+    ],
+    "correct": 2,
+    "explanation": "The IPCC (Intergovernmental Panel on Climate Change) is a UN body founded in 1988 by the WMO (World Meteorological Organization) and UNEP (United Nations Environment Programme)."
+  },
+  {
+    "question": "Which IPCC assessment report formed the basis for the UNFCCC, 1992?",
+    "options": [
+      "AR2 (Second Assessment Report, 1995)",
+      "AR3 (Third Assessment Report, 2001)",
+      "SR15 (Special Report, 2018)",
+      "AR1 (First Assessment Report, 1990)"
+    ],
+    "correct": 3,
+    "explanation": "AR1 (First Assessment Report, 1990) formed the basis for UNFCCC, 1992, while AR2 formed the basis for the Kyoto Protocol and AR5 formed the scientific basis for the Paris Agreement."
+  },
+  {
+    "question": "The IPCC's Special Report SR15 (2018) recommended what percentage reduction in GHG emissions by 2030 to keep warming within 1.5°C?",
+    "options": [
+      "25% reduction from 2010 levels",
+      "45% reduction from 2010 levels (half of 2010 levels)",
+      "35% reduction from 2010 levels",
+      "60% reduction from 2010 levels"
+    ],
+    "correct": 1,
+    "explanation": "SR1.5 said it was possible to keep the rise in temperature to within 1.5°C if the world brings down its GHG emissions to half of its 2010 levels by 2030 (45 per cent by 2030), and to net zero by 2050."
+  },
+  {
+    "question": "According to IPCC's AR6, by how much has human-induced global warming already risen since the industrial age?",
+    "options": [
+      "0.5°C",
+      "0.8°C",
+      "1.5°C",
+      "1.1°C"
+    ],
+    "correct": 3,
+    "explanation": "The AR6 Synthesis Report states that human-induced Global Warming has already risen by 1.1°C since the industrial age."
+  },
+  {
+    "question": "The IPCC's SROCC (2019) found that the global ocean has taken up more than what percentage of excess heat in the climate system?",
+    "options": [
+      "90%",
+      "50%",
+      "70%",
+      "95%"
+    ],
+    "correct": 0,
+    "explanation": "According to SROCC (2019), the global ocean has taken up more than 90% of the excess heat in the climate system."
+  },
+  {
+    "question": "Isoprene is described as the most abundant non-methane VOC in the atmosphere. What is primarily responsible for its emission?",
+    "options": [
+      "Ocean phytoplankton",
+      "Plants (mainly oaks, poplars), algae and bacteria",
+      "Industrial manufacturing processes",
+      "Animal respiration"
+    ],
+    "correct": 1,
+    "explanation": "Isoprene is mainly emitted by plants (oaks, poplars), algae and bacteria. It is also released from fossil fuel combustion and synthetic rubber industry."
+  },
+  {
+    "question": "How does excess isoprene indirectly affect methane's atmospheric lifetime?",
+    "options": [
+      "Isoprene directly reacts with methane to break it down",
+      "Isoprene acts as a catalyst speeding up methane removal",
+      "Isoprene has no relationship with methane chemistry",
+      "Isoprene oxidation reduces hydroxyl radical (OH) availability, which is the main sink for methane, causing methane to be removed more slowly thus increasing its lifetime"
+    ],
+    "correct": 3,
+    "explanation": "Isoprene oxidation can reduce hydroxyl radical availability. Since hydroxyl radicals are the main sink for methane, when hydroxyl radicals are lower, methane is removed more slowly and its atmospheric lifetime increases, leading to more warming."
+  },
+  {
+    "question": "According to the Global Methane Assessment 2030 Baseline Report, what percentage of pre-industrial levels is the current atmospheric methane?",
+    "options": [
+      "260%",
+      "150%",
+      "200%",
+      "320%"
+    ],
+    "correct": 0,
+    "explanation": "According to the Global Methane Assessment 2030 Baseline Report, the amount of Methane in the atmosphere is 260% of pre-industrial levels."
+  },
+  {
+    "question": "The Carbon Dioxide Fertilization Effect (CFE) refers to:",
+    "options": [
+      "Adding CO₂ to agricultural soils to improve fertility",
+      "CO₂ being used as a fertilizer in controlled greenhouse environments",
+      "The process by which plants release CO₂ during respiration",
+      "The increased rate of photosynthesis in plants caused by higher levels of atmospheric CO₂"
+    ],
+    "correct": 3,
+    "explanation": "Carbon Dioxide Fertilization (Carbon Fertilization Effect - CFE) is the increased rate of photosynthesis in plants caused by higher levels of atmospheric CO₂."
+  },
+  {
+    "question": "Which gas has the highest Global Warming Potential over 100 years among those listed in the document?",
+    "options": [
+      "HFCs (Hydrofluorocarbons)",
+      "Sulphur hexafluoride (SF₆)",
+      "PFCs (Perfluorocarbons)",
+      "N₂O (Nitrous oxide)"
+    ],
+    "correct": 1,
+    "explanation": "According to the GWP table in the document, Sulphur hexafluoride (SF₆) has GWP of 23,900 over 100 years, which is the highest among the gases listed (HFCs: 140-11,700; PFCs: 6,500-9,200; N₂O: 310)."
+  },
+  {
+    "question": "HFCs were developed as a replacement for which substances?",
+    "options": [
+      "CFCs",
+      "PFCs",
+      "SF₆",
+      "N₂O"
+    ],
+    "correct": 0,
+    "explanation": "Hydrofluorocarbons (HFCs) were developed as a replacement for CFCs (Chlorofluorocarbons), which were phased out via the Montreal Protocol due to their role in ozone depletion."
+  },
+  {
+    "question": "The 'Social cost of carbon' refers to:",
+    "options": [
+      "The total cost of switching to renewable energy",
+      "The economic cost of carbon capture technologies",
+      "The loss from emitting one ton of carbon dioxide",
+      "The tax imposed on carbon emissions"
+    ],
+    "correct": 2,
+    "explanation": "The loss from emitting one ton of carbon dioxide is called the social cost of carbon."
+  },
+  {
+    "question": "Which of the following correctly describes 'Surge-Type Glaciers'?",
+    "options": [
+      "Glaciers that are completely stationary",
+      "Glaciers that are retreating at an unusually fast rate",
+      "Glaciers that form and melt seasonally",
+      "Glaciers that show periodic advances in volume and length, going against the usual trend of shrinking glaciers"
+    ],
+    "correct": 3,
+    "explanation": "Surge-type glaciers are glaciers that show periodic advances in volume and length, going against the usual trend of shrinking glaciers. When such glaciers break due to global warming, they can trigger catastrophic glacial lake outburst floods (GLOFs)."
+  },
+  {
+    "question": "The United Nations declared which year as the International Year of Glaciers' Preservation?",
+    "options": [
+      "2023",
+      "2025",
+      "2024",
+      "2026"
+    ],
+    "correct": 1,
+    "explanation": "The United Nations declared 2025 as the International Year of Glaciers' Preservation and proclaimed 21 March as the World Day for Glaciers starting 2025."
+  },
+  {
+    "question": "What is Cryomesh Technology designed to do?",
+    "options": [
+      "Monitor glacier melting using satellite technology",
+      "Create artificial ice structures to replace melting glaciers",
+      "Cryopreserve biological samples such as coral larvae at -196°C",
+      "Measure ice core samples for climate research"
+    ],
+    "correct": 2,
+    "explanation": "Cryomesh technology is a lightweight, low-cost tool designed to cryopreserve biological samples such as coral larvae. The mesh technology will help to store coral larvae at -196°C (-320.8°F)."
+  },
+  {
+    "question": "What is the Northern Sea Route and why is it becoming accessible?",
+    "options": [
+      "A trade route through the Indian Ocean that is becoming safer due to piracy reduction",
+      "A proposed canal through Central America to reduce shipping distances",
+      "A submarine route through Arctic waters for military purposes",
+      "A route connecting North Atlantic to North Pacific through a shorter polar arc, becoming accessible due to Arctic melting"
+    ],
+    "correct": 3,
+    "explanation": "The Northern Sea Route connects the North Atlantic to the North Pacific through a shorter polar arc. It is gradually opening because the Arctic Region is warming about twice as fast as the global average, melting the ice."
+  },
+  {
+    "question": "According to IPCC's AR6 Working Group II, what percentage of species faces a very high risk of extinction at global warming of 1.5°C over pre-industrial levels?",
+    "options": [
+      "Up to 5%",
+      "Up to 14%",
+      "Up to 9%",
+      "Up to 20%"
+    ],
+    "correct": 1,
+    "explanation": "According to IPCC AR6 Working Group II (2022), up to 14% of species face a very high risk of extinction at global warming of 1.5°C over pre-industrial levels."
+  },
+  {
+    "question": "CRZ-IIIA covers the zone from 0 to 200m from the HTL. Which of the following is NOT permitted in CRZ-IIIA?",
+    "options": [
+      "Agriculture/parks",
+      "Salt harvesting",
+      "DAE projects",
+      "Non-traditional commercial structures"
+    ],
+    "correct": 3,
+    "explanation": "Non-traditional commercial structures are prohibited in CRZ-IIIA (0-200m). Only listed uses are permitted including agriculture/parks, DAE, rare mineral mining, salt, LNG/petroleum regasification, non-conventional power, desalination, weather radar, local amenities, sewage treatment, fishing facilities, and Navi Mumbai airport."
+  },
+  {
+    "question": "According to the PPVFR Act, what is the role of farmers as 'Conservers'?",
+    "options": [
+      "Farmers are entitled to plant-back rights",
+      "Farmers are held equivalent to plant breeders",
+      "Farmers are entitled to rewards from a National Gene Fund",
+      "Farmers are given exclusive rights to sell seeds"
+    ],
+    "correct": 2,
+    "explanation": "As conservers, farmers were entitled to rewards from a National Gene Fund under the PPVFR Act."
+  },
+  {
+    "question": "The Biological Diversity (Access and Benefit Sharing) Regulation 2025 introduced which new concept for benefit-sharing?",
+    "options": [
+      "Turnover-based slabs as percentage of annual gross ex-factory sale price",
+      "Voluntary benefit sharing based on company profits",
+      "Fixed flat rate for all biological resources",
+      "Government-determined rates based on resource rarity"
+    ],
+    "correct": 0,
+    "explanation": "The Biological Diversity (Access and Benefit Sharing) Regulation 2025 introduced turnover-based slabs: benefit-sharing payable as a percentage of the annual gross ex-factory sale price, ranging from nil (up to ₹5 crore turnover) to 0.6% (above ₹250 crore turnover)."
+  },
+  {
+    "question": "The UPOV Convention 1991 is significant because it:",
+    "options": [
+      "Made farmers' seed saving rights mandatory for all member countries",
+      "Abolished all intellectual property rights for plants",
+      "Required equal protection for both breeders and farmers",
+      "Strengthened breeders' rights and made the farmer's privilege (to save seeds) optional for member countries"
+    ],
+    "correct": 3,
+    "explanation": "The UPOV Convention 1991 strengthens breeders' rights and makes the farmer's privilege (to save seeds) optional for member countries."
+  },
+  {
+    "question": "What is 'Maladaptation' as described in the IPCC AR6 Synthesis Report?",
+    "options": [
+      "The failure to implement any adaptation measures",
+      "The process of adapting to climate change through natural selection",
+      "Actions or measures taken to adapt to climate change impacts that have unintended negative consequences, making vulnerable communities more helpless",
+      "The economic costs of adapting to climate change"
+    ],
+    "correct": 2,
+    "explanation": "Maladaptation refers to actions or measures taken to adapt to the impacts of climate change that have unintended negative consequences, making vulnerable communities more helpless."
+  },
+  {
+    "question": "NTCA (National Tiger Conservation Authority) leadership structure includes which positions?",
+    "options": [
+      "Minister of Home Affairs = Chairperson; Defence Minister = Vice-Chairperson",
+      "MoEFCC Minister = Chairperson; MoEFCC Minister of State = Vice-Chairperson",
+      "Prime Minister = Chairperson; MoEFCC Minister = Vice-Chairperson",
+      "President of India = Chairperson; Prime Minister = Vice-Chairperson"
+    ],
+    "correct": 1,
+    "explanation": "NTCA leadership: MoEFCC Minister = Chairperson; MoEFCC Minister of State = Vice-Chairperson."
+  },
+  {
+    "question": "What is the significance of the 'Permafrost Carbon Feedback' as one of the Big 4 climate feedbacks?",
+    "options": [
+      "Rising temperatures freeze more carbon in permafrost, acting as a negative feedback",
+      "Permafrost acts as a carbon sink as temperatures rise",
+      "Rising temperatures thaw permafrost, releasing CO₂ and methane which increase warming and promote further thawing - a positive feedback",
+      "Permafrost carbon feedback is a negative feedback that counteracts warming"
+    ],
+    "correct": 2,
+    "explanation": "Rising temperatures thaw permafrost and allow decomposition of long-frozen organic matter, releasing CO₂ and methane into the atmosphere. The added greenhouse gases increase warming and promote further thawing, making this a positive feedback."
+  },
+  {
+    "question": "In the context of Biodiversity Rules, 2024, for how long is the NBA Chairperson appointed?",
+    "options": [
+      "Two years",
+      "Five years",
+      "Seven years",
+      "Three years"
+    ],
+    "correct": 3,
+    "explanation": "Under Biodiversity Rules, 2024, the Chairperson is appointed by the Central Government for a three-year term, with eligibility for reappointment, generally up to age 65."
+  },
+  {
+    "question": "Which of the following correctly describes the National Biodiversity Authority's (NBA) legal powers?",
+    "options": [
+      "Powers of a criminal court",
+      "Powers of a civil court",
+      "Powers of an appellate tribunal",
+      "Powers of a revenue court"
+    ],
+    "correct": 1,
+    "explanation": "The NBA has powers of a civil court as mentioned in the Biological Diversity Act, 2002."
+  },
+  {
+    "question": "Tropospheric ozone is formed through which process?",
+    "options": [
+      "Direct emission from industrial smokestacks",
+      "Breakdown of stratospheric ozone that descends to lower atmosphere",
+      "When pollutants like CO, NO₂, and VOCs react with oxygen in the presence of sunlight",
+      "Natural volcanic emissions that mix with atmospheric oxygen"
+    ],
+    "correct": 2,
+    "explanation": "Tropospheric (ground-level) ozone is formed when pollutants like Carbon Monoxide (CO), Nitrogen Dioxide (NO₂), and Volatile Organic Compounds (VOCs) react with oxygen (O₂) in the presence of sunlight."
+  },
+  {
+    "question": "According to the document, the Global Methane Status Report 2025 found that methane's atmospheric concentrations have:",
+    "options": [
+      "Increased by 50% since pre-industrial times",
+      "Tripled since pre-industrial times",
+      "Increased by 160% since pre-industrial times",
+      "Doubled since pre-industrial times in 2020"
+    ],
+    "correct": 3,
+    "explanation": "Global Methane Status Report 2025, released by UNEP with Climate and Clean Air Coalition (CCAC), found that Methane's atmospheric concentrations have more than doubled since pre-industrial times in 2020."
+  },
+  {
+    "question": "The 'Aichi Target 10' under the Convention on Biological Diversity concerns:",
+    "options": [
+      "Reducing habitat fragmentation",
+      "Protecting 10% of marine areas by 2020",
+      "Reducing pressures on coral reefs and other vulnerable ecosystems impacted by climate change or ocean acidification",
+      "Eliminating invasive alien species from island ecosystems"
+    ],
+    "correct": 2,
+    "explanation": "Aichi Target 10 concerns reducing pressures on coral reefs and other vulnerable ecosystems impacted by climate change or ocean acidification."
+  },
+  {
+    "question": "India's ICE-CRUNCH initiative, launched by the Ministry of Earth Sciences, is:",
+    "options": [
+      "A programme to monitor Himalayan glacier retreat",
+      "A programme to extract ice cores from polar regions",
+      "A technology to artificially cool urban areas using ice-based systems",
+      "An India-Switzerland collaborative study to improve understanding of aerosols, clouds, and precipitation over the Himalayas"
+    ],
+    "correct": 3,
+    "explanation": "ICE-CRUNCH (Ice nucleating particles and cloud condensation nuclei properties in the North-Western Himalayas) is an India-Switzerland collaborative scientific study to improve understanding of aerosols, clouds, and precipitation over the Himalayas, launched by the Ministry of Earth Sciences."
+  },
+  {
+    "question": "India's Polar research stations include all of the following EXCEPT:",
+    "options": [
+      "Maitri (Antarctica)",
+      "Shackleton (Antarctica)",
+      "Bharati (Antarctica)",
+      "Himadri (Arctic)"
+    ],
+    "correct": 1,
+    "explanation": "India's Polar research stations are Maitri (Antarctica), Bharati (Antarctica), Dakshin Gangotri (first scientific base station, now decommissioned), and Himadri (Arctic), under the Indian Antarctic Act, 2022."
+  },
+  {
+    "question": "What is the Coral Triangle Initiative and which countries are part of it?",
+    "options": [
+      "A global partnership of all coral reef nations to establish marine protected areas",
+      "An ASEAN initiative for sustainable fishing in tropical waters",
+      "A partnership of six governments (Indonesia, Malaysia, Papua New Guinea, Philippines, Solomon Islands, and Timor Leste) to conserve coral reefs and fisheries",
+      "A joint initiative of Australia, India, and small island nations for coral restoration"
+    ],
+    "correct": 2,
+    "explanation": "The Coral Triangle Initiative involves six governments: Indonesia, Malaysia, Papua New Guinea, the Philippines, Solomon Islands, and Timor Leste, established to conserve coral reefs and the multitude of species and fisheries they support."
+  },
+  {
+    "question": "Regarding the Cryosphere data mentioned in the document for the period 2006-2015, which of the following represents the correct descending order of ice mass loss?",
+    "options": [
+      "Antarctic > Greenland > Himalayas",
+      "Arctic > Himalayas > Antarctic",
+      "Greenland > Antarctic > Himalayas",
+      "Himalayas > Arctic > Antarctic"
+    ],
+    "correct": 1,
+    "explanation": "According to the document under the 'Cryosphere' section, the loss in mass follows the order: Loss in Arctic > Loss in Himalayas > Loss in Antarctic."
+  },
+  {
+    "question": "In the context of clean coal technology, what is the primary function of an Electrostatic Precipitator (ESP)?",
+    "options": [
+      "To react coal with steam and pressurized oxygen to produce syngas.",
+      "To remove SO2 from flue gas using a limestone slurry.",
+      "To mix crushed coal with liquid to separate impurities before burning.",
+      "To use an electric field to charge and capture particulate matter on collection plates."
+    ],
+    "correct": 3,
+    "explanation": "The document defines an Electrostatic Precipitator (ESP) as a technology that uses an electric field to charge particulate matter, which is then captured on collection plates, mainly cutting dust/particulate emissions."
+  },
+  {
+    "question": "Which specific process in clean coal technology involves reacting coal with steam and hot pressurized air/oxygen instead of direct burning?",
+    "options": [
+      "Coal gasification",
+      "Coal washing",
+      "Flue Gas Desulphurisation",
+      "Low-NOx burners"
+    ],
+    "correct": 0,
+    "explanation": "Coal gasification is explained as reacting coal with steam + hot pressurized air/oxygen instead of direct burning to produce syngas."
+  },
+  {
+    "question": "According to the document, what is the primary purpose of Flue Gas Desulphurisation (FGD) systems?",
+    "options": [
+      "To reduce the ash content of Indian coal before combustion.",
+      "To charge particulate matter using an electric field.",
+      "To remove SO2 from flue gas, commonly converting it into gypsum.",
+      "To lower the peak flame temperature to prevent NOx formation."
+    ],
+    "correct": 2,
+    "explanation": "The document states that FGD is a specific scrubber system focused on removing SO2 from flue gas, commonly using limestone/lime slurry to convert it into gypsum."
+  },
+  {
+    "question": "How do Low-NOx burners reduce the formation of nitrogen oxides during coal combustion?",
+    "options": [
+      "By restricting oxygen and staging combustion to lower peak flame temperatures.",
+      "By using chemical solvent absorption after the fuel is burned.",
+      "By reacting coal with steam to produce a hydrogen-rich gas.",
+      "By using an electric field to charge particles."
+    ],
+    "correct": 0,
+    "explanation": "Low-NOx burners restrict oxygen and stage combustion to control reaction conditions, which lowers peak flame temperature, resulting in less NOx formation."
+  },
+  {
+    "question": "Which of the following is a characteristic feature of Indian coal as described in the PDF?",
+    "options": [
+      "It is primarily Carboniferous coal of high grade.",
+      "It has a high ash content, commonly around 30-45%.",
+      "It typically has a very high sulphur content compared to international coals.",
+      "It has a high calorific value due to low moisture content."
+    ],
+    "correct": 1,
+    "explanation": "The document notes that Indian coal often has a high ash content, commonly around 30-45% in many deposits."
+  },
+  {
+    "question": "What is the technical distinction between 'Sub-critical' and 'Supercritical' coal power plants regarding the state of water?",
+    "options": [
+      "In sub-critical plants, water exists only as a supercritical fluid.",
+      "Sub-critical plants operate at temperatures above 374°C.",
+      "Supercritical plants operate at pressures below 22.1 MPa.",
+      "In supercritical plants, there is no distinct liquid-steam phase change."
+    ],
+    "correct": 3,
+    "explanation": "The document states that sub-critical plants have water and steam as separate phases, while in supercritical plants (operating above the critical point), there is no distinct liquid-steam phase change."
+  },
+  {
+    "question": "As per Niti Aayog's assessment mentioned in the text, what critical role does CCUS play for India?",
+    "options": [
+      "To replace all renewable energy sources by 2050.",
+      "To halve CO2 emissions by 2050 and help achieve net-zero by 2070.",
+      "To increase the sulphur content of exported coal.",
+      "To eliminate the need for the hydrogen economy."
+    ],
+    "correct": 1,
+    "explanation": "The text states: 'According to Niti Aayog, CCUS has a critical role to play in the country to halve CO2 emissions by 2050. It will help India to achieve net-zero CO2 emissions by 2070'."
+  },
+  {
+    "question": "In the context of Carbon Capture, Utilisation and Storage (CCUS), what is 'CO2 valorisation'?",
+    "options": [
+      "The process of storing CO2 in deep saline aquifers.",
+      "The measurement of the social cost of carbon.",
+      "Converting captured CO2 into value-added products like green urea or bioplastics.",
+      "The transportation of CO2 via long-distance ships."
+    ],
+    "correct": 2,
+    "explanation": "The document mentions CCUS supports CO2 valorisation by converting captured carbon dioxide into value-added products such as green urea, green ammonia, concrete, and bioplastics."
+  },
+  {
+    "question": "Which method of CO2 capture involves separating CO2 from flue gas after the fuel has been burned in a boiler?",
+    "options": [
+      "Post-combustion capture",
+      "Pre-combustion capture",
+      "Oxy-fuel combustion capture",
+      "Direct Air Capture"
+    ],
+    "correct": 0,
+    "explanation": "Post-combustion capture happens after fuel is burned in a boiler/turbine, where CO2 is separated from the flue gas."
+  },
+  {
+    "question": "What is the core idea behind 'Oxy-fuel combustion' capture technology?",
+    "options": [
+      "Fuel is processed into syngas before combustion.",
+      "Fuel is burned in nearly pure oxygen instead of air.",
+      "CO2 is captured directly from the ambient atmosphere using machines.",
+      "Chemical solvents are used to scrub CO2 from standard exhaust."
+    ],
+    "correct": 1,
+    "explanation": "Oxy-fuel combustion involves burning fuel in nearly pure oxygen (not air), resulting in a flue gas of mainly CO2 and water vapour."
+  },
+  {
+    "question": "In Pre-combustion capture, what are the primary components of the 'syngas' produced during gasification?",
+    "options": [
+      "CO2 and N2",
+      "CH4 and O2",
+      "SO2 and NOx",
+      "CO and H2"
+    ],
+    "correct": 3,
+    "explanation": "The document states that during pre-combustion capture, fuel is converted into syngas, which consists mainly of CO + H2."
+  },
+  {
+    "options": [
+      "Retrofitting existing stacks",
+      "High-pressure separation",
+      "Simple CO2 purification",
+      "Low energy requirement for solvent heat"
+    ],
+    "question": "According to the 'Technical Pathway Comparison' table in the PDF, what is a primary advantage of Pre-combustion capture?",
+    "correct": 1,
+    "explanation": "The table lists 'High-pressure separation' as a primary advantage of Pre-combustion capture."
+  },
+  {
+    "question": "Which mode of CO2 transportation is identified as most common for moving large volumes from capture sites to storage hubs?",
+    "options": [
+      "Ships",
+      "Road tankers",
+      "Pipelines",
+      "Rail cylinders"
+    ],
+    "correct": 2,
+    "explanation": "The PDF explicitly states: 'Pipelines (most common for large volumes): CO2 is compressed... and moved through dedicated pipelines'."
+  },
+  {
+    "question": "Why is the use of CO2 in Enhanced Oil Recovery (EOR) sometimes a subject of debate in climate mitigation?",
+    "options": [
+      "It can enable more fossil fuel extraction.",
+      "It is too expensive to implement.",
+      "CO2 cannot be effectively injected into oil reservoirs.",
+      "It leads to immediate release of CO2 into the atmosphere."
+    ],
+    "correct": 0,
+    "explanation": "The text notes that EOR utilization is debated because 'it can enable more fossil extraction'."
+  },
+  {
+    "question": "Which of the following describes 'Ocean Alkalinity Enhancement' (OAE) as a storage/mitigation method?",
+    "options": [
+      "Stimulating phytoplankton growth by adding nitrogen and phosphorus.",
+      "Injecting liquid CO2 into deep ocean waters to damage marine ecosystems.",
+      "Adding finely ground alkaline minerals like lime to increase the ocean's CO2 absorption capacity.",
+      "Using microbubbles to increase the reflectivity of the ocean surface."
+    ],
+    "correct": 2,
+    "explanation": "OAE aims to increase the ocean's capacity to absorb CO2 by raising seawater alkalinity, done by adding finely ground alkaline minerals or using electrochemical approaches."
+  },
+  {
+    "question": "The Union Budget 2026-27 has proposed an outlay of how much for scaling up CCUS over 5 years?",
+    "options": [
+      "₹10,000 crore",
+      "₹15,000 crore",
+      "₹50,000 crore",
+      "₹20,000 crore"
+    ],
+    "correct": 3,
+    "explanation": "The document states: 'Union Budget 2026-27 proposes an outlay of ₹20,000 crore over 5 years to scale up Carbon Capture, Utilisation and Storage'."
+  },
+  {
+    "question": "Which department prepared the CCUS roadmap launched in December 2025, as mentioned in the Budget 2026 section?",
+    "options": [
+      "Department of Economic Affairs",
+      "Ministry of Power",
+      "Department of Science and Technology (DST)",
+      "Niti Aayog"
+    ],
+    "correct": 2,
+    "explanation": "The text mentions the roadmap was 'prepared by the Department of Science and Technology (DST)'."
+  },
+  {
+    "question": "Which of the following are identified as 'hard-to-abate' sectors targeted for CCUS deployment in India?",
+    "options": [
+      "Power, Steel, Cement, Refineries, and Chemicals",
+      "Agriculture, Textiles, and IT",
+      "Telecommunications and Banking",
+      "Food Processing and Pharmaceuticals"
+    ],
+    "correct": 0,
+    "explanation": "The document specifies the focus on hard-to-abate sectors: power, steel, cement, refineries, and chemicals."
+  },
+  {
+    "question": "What is the difference between a 'carbon sink' and a 'carbon source'?",
+    "options": [
+      "A sink releases more carbon than it absorbs, while a source absorbs more.",
+      "They are the same; the terms are used interchangeably.",
+      "A sink absorbs more carbon than it releases, while a source releases more.",
+      "A sink refers only to man-made reservoirs, while a source is always natural."
+    ],
+    "correct": 2,
+    "explanation": "The text states: 'A carbon sink absorbs more carbon than it releases, while a carbon source releases more carbon than it absorbs'."
+  },
+  {
+    "question": "What does the term 'Blue Carbon' specifically refer to?",
+    "options": [
+      "Carbon captured by boreal forests in the Arctic.",
+      "Carbon captured and stored by ocean and coastal ecosystems like mangroves and seagrasses.",
+      "Carbon emissions from deep-sea mining activities.",
+      "The use of hydrogen produced from natural gas with CCUS."
+    ],
+    "correct": 1,
+    "explanation": "The document defines Blue Carbon as 'carbon captured and stored by ocean and coastal ecosystems, especially mangroves, seagrasses, and salt marshes'."
+  },
+  {
+    "question": "In geoengineering, what is the 'Solar Radiation Management' (SRM) approach primarily aimed at?",
+    "options": [
+      "Reflecting a small fraction of sunlight back to space to cool the planet.",
+      "Directly lowering atmospheric CO2 concentrations.",
+      "Increasing the thickness of high clouds to retain heat.",
+      "Converting CO2 into synthetic fuels."
+    ],
+    "correct": 0,
+    "explanation": "The document states: 'SRM aims to reflect a small fraction of sunlight back to space, thereby cooling the planet without directly lowering atmospheric CO2'."
+  },
+  {
+    "question": "Which geoengineering proposal involves heating biomass with limited oxygen to create a substance that locks carbon into the soil?",
+    "options": [
+      "Afforestation",
+      "Biochar",
+      "Enhanced weathering",
+      "Direct Air Capture"
+    ],
+    "correct": 1,
+    "explanation": "Biochar is described as biomass heated with limited oxygen (pyrolysis) to create biochar, which is added to soil to lock carbon."
+  },
+  {
+    "question": "What is 'BECCS' in the context of carbon geoengineering?",
+    "options": [
+      "A method to increase cloud reflectivity using salt spray.",
+      "A system for placing reflective films in space.",
+      "Bioenergy with carbon capture and storage, where biomass used for energy has its emissions captured.",
+      "The process of adding nutrients to the ocean to stimulate plankton."
+    ],
+    "correct": 2,
+    "explanation": "BECCS stands for Bioenergy with carbon capture and storage. The document explains it as biomass used for energy where the CO2 emitted is captured and stored."
+  },
+  {
+    "question": "Regarding the 'Cryosphere geoengineering' proposal for the West Antarctic Ice Sheet, what is the suggested 'last-resort' intervention?",
+    "options": [
+      "Blanketing vulnerable areas with artificial snow made from frozen seawater.",
+      "Pumping warm water under the ice to speed up melting.",
+      "Covering the entire ice sheet with reflective plastic sheets.",
+      "Injecting liquid CO2 into the ice to increase its density."
+    ],
+    "correct": 0,
+    "explanation": "The document mentions a proposal to 'blanket vulnerable areas with artificial snow to add mass and slow collapse' by pumping seawater upward to freeze."
+  },
+  {
+    "question": "According to the IPCC AR6 (2022) mentioned in the text, what is required for a trajectory consistent with limiting warming to 1.5°C?",
+    "options": [
+      "Reducing coal-powered electricity to 50% by 2050.",
+      "Reducing coal-powered electricity to under 1% of the global mix by 2050.",
+      "Phasing out all renewable energy by 2030.",
+      "Increasing coal consumption by 29% globally."
+    ],
+    "correct": 1,
+    "explanation": "The text states: 'A trajectory consistent with limiting global warming to 1.5°C necessitates reducing coal-powered electricity to under 1% of the global mix by 2050'."
+  },
+  {
+    "question": "The 'Powering Past Coal Alliance' (PPCA) was launched by which two countries at COP23?",
+    "options": [
+      "USA and China",
+      "India and France",
+      "Germany and Italy",
+      "United Kingdom and Canada"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states: 'Powering Past Coal Alliance (PPCA): Launched by United Kingdom and Canada at COP23 (Bonn, 2017)'."
+  },
+  {
+    "question": "According to projections in the PDF, which country is expected to see a 29% rise in coal consumption by 2040?",
+    "options": [
+      "United Kingdom",
+      "India",
+      "Germany",
+      "USA"
+    ],
+    "correct": 1,
+    "explanation": "The text states: '...leading to... a rise in India's coal consumption (about 29 per cent by 2040)'."
+  },
+  {
+    "question": "What are 'Stranded Assets' in the context of the coal power transition?",
+    "options": [
+      "Coal mines that have been completely exhausted.",
+      "Renewable energy projects that are not yet connected to the grid.",
+      "Forests that no longer act as carbon sinks.",
+      "Coal plants that cannot run profitably due to policy shifts, preventing recovery of invested capital."
+    ],
+    "correct": 3,
+    "explanation": "The document defines stranded assets as: 'When policy, technology shifts, or climate rules make coal plants unable to run profitably for their full expected life, so the invested capital cannot be recovered'."
+  },
+  {
+    "question": "What percentage of India's installed coal capacity is currently identified as 'subcritical'?",
+    "options": [
+      "75%",
+      "25%",
+      "50%",
+      "90%"
+    ],
+    "correct": 0,
+    "explanation": "The document notes: 'India: About 75 per cent of the installed coal capacity is subcritical'."
+  },
+  {
+    "question": "According to the UNDP report mentioned in the text, cities are responsible for what percentage of global GHG emissions?",
+    "options": [
+      "30%",
+      "50%",
+      "90%",
+      "70%"
+    ],
+    "correct": 3,
+    "explanation": "The document states: 'Cities are responsible for 70% of GHG emissions (UNDP report)'."
+  },
+  {
+    "question": "Which of the following is an 'Architectural & Structural Solution' for reducing the urban heat island effect?",
+    "options": [
+      "Using light-colored reflective materials on roads.",
+      "Boosting public transport and cycling.",
+      "Installing roof ponds and external shading devices like canopies.",
+      "Using energy-efficient appliances."
+    ],
+    "correct": 2,
+    "explanation": "Under 'Active Cooling Features' in the Cooling City graphic, it lists 'Install roof ponds and external shading devices'."
+  },
+  {
+    "question": "The 'Cooling Singapore' initiative uses which specific nature-based solution to save 40% of electricity?",
+    "options": [
+      "Mandatory electric vehicles",
+      "Centralising the cooling plants (Singapore District Cooling)",
+      "Banning all air conditioners",
+      "Replacing all asphalt with grass"
+    ],
+    "correct": 1,
+    "explanation": "The case study states: 'Centralising the cooling plants (Singapore District Cooling) saves 40% of electricity'."
+  },
+  {
+    "question": "Which Indian institutional body supports MoHUA in the implementation of the Climate-Smart Cities Assessment Framework (CSCAF)?",
+    "options": [
+      "The Energy and Resources Institute (TERI)",
+      "Niti Aayog",
+      "Bureau of Energy Efficiency (BEE)",
+      "The Climate Centre for Cities under the National Institute of Urban Affairs (NIUA)"
+    ],
+    "correct": 3,
+    "explanation": "The document states: 'The Climate Centre for Cities under the National Institute of Urban Affairs (NIUA) supports MoHUA in CSCAF implementation'."
+  },
+  {
+    "question": "The Climate-Smart Cities Assessment Framework (CSCAF 2.0) comprises 28 indicators across how many categories?",
+    "options": [
+      "Three",
+      "Five",
+      "Four",
+      "Six"
+    ],
+    "correct": 1,
+    "explanation": "The CSCAF 2.0 structure section explicitly mentions '28 indicators across five categories'."
+  },
+  {
+    "question": "Who developed 'GRIHA', India's national building rating tool?",
+    "options": [
+      "The Energy and Resources Institute (TERI) with support from MNRE",
+      "Ministry of Environment, Forest and Climate Change",
+      "National Institute of Urban Affairs",
+      "Bureau of Indian Standards"
+    ],
+    "correct": 0,
+    "explanation": "The document says: 'Developed by: The Energy and Resources Institute (TERI) with support from the Ministry of New and Renewable Energy'."
+  },
+  {
+    "question": "Which of the following is NOT one of the 'Three Sister Conventions' that emerged from the 1992 Rio Earth Summit?",
+    "options": [
+      "UNFCCC (Climate Change)",
+      "CBD (Biological Diversity)",
+      "Montreal Protocol (Ozone Layer)",
+      "UNCCD (Combat Desertification)"
+    ],
+    "correct": 2,
+    "explanation": "The 'Three Sister Conventions' are UNFCCC, CBD, and UNCCD. The Montreal Protocol is not one of them."
+  },
+  {
+    "question": "What is the primary difference between a 'Green Contract' and a 'Green Tender' as per the document?",
+    "options": [
+      "Green tenders are the procurement process, while green contracts are the resulting agreements with sustainability clauses.",
+      "Green contracts are for private firms, green tenders are only for NGOs.",
+      "Green contracts are non-binding, while green tenders are legally enforceable.",
+      "There is no difference; they are synonymous."
+    ],
+    "correct": 0,
+    "explanation": "Green tenders (Green Public Procurement) are the process of buying goods/services, and the contract specify the green obligations once a bidder is selected."
+  },
+  {
+    "question": "According to the 'Global Carbon Budget for 2°C Rise', if the total allowance is 1000 Billion Tonnes and 531 Billion Tonnes were spent by 2011, how much is left?",
+    "options": [
+      "300 Billion Tonnes",
+      "469 Billion Tonnes",
+      "531 Billion Tonnes",
+      "1000 Billion Tonnes"
+    ],
+    "correct": 1,
+    "explanation": "The infographic on the Global Carbon Budget shows: 'Total Allowance: 1000... Spent by 2011: 531... Remaining: 469 Billion Tonnes Left'."
+  },
+  {
+    "question": "In global climate negotiations, what does 'CBDR-RC' stand for?",
+    "options": [
+      "Carbon Budgeting and Disaster Relief - Regional Center",
+      "Climate Balanced Development and Resource Control",
+      "Common But Differentiated Responsibilities and Respective Capabilities",
+      "Cooperative Biodiversity and Desertification Response"
+    ],
+    "correct": 2,
+    "explanation": "The PDF identifies 'CBDR-RC' as 'Common But Differentiated Responsibilities and Respective Capabilities'."
+  },
+  {
+    "question": "Under the UN climate negotiations, how is 'Loss and Damage' distinguished from 'Adaptation'?",
+    "options": [
+      "Loss and Damage refers to consequences that go beyond what people can adapt to.",
+      "Adaptation only refers to financial compensation.",
+      "Loss and Damage is only for developed countries.",
+      "They are exactly the same concept."
+    ],
+    "correct": 0,
+    "explanation": "The document defines Loss and Damage as 'consequences of climate change that go beyond what people can adapt to'."
+  },
+  {
+    "question": "The 'Polluter Pays' principle is the basis for which concept in climate negotiations?",
+    "options": [
+      "Carbon sequestration",
+      "Climate reparations",
+      "Ocean fertilization",
+      "Direct Air Capture"
+    ],
+    "correct": 1,
+    "explanation": "The document states: 'Climate reparations... is an extension of the universally acknowledged \"Polluter Pays\" principle'."
+  },
+  {
+    "question": "In international law, what is the formal act by which a state indicates its intention to comply with a treaty, which reflects political commitment but is not yet legally binding?",
+    "options": [
+      "Ratification",
+      "Entry into force",
+      "Signing",
+      "Adoption"
+    ],
+    "correct": 2,
+    "explanation": "The document defines 'Signing' as the act indicating intention to comply, which reflects political commitment but does not create a legally binding obligation."
+  },
+  {
+    "question": "Why is June 5th celebrated as World Environment Day according to the text?",
+    "options": [
+      "It marks the signing of the Paris Agreement.",
+      "It is the start date of the 1972 Stockholm Conference (UNCHE).",
+      "It is the date the UNFCCC was first negotiated.",
+      "It is the date India enacted the Environment Protection Act."
+    ],
+    "correct": 1,
+    "explanation": "The Stockholm Conference was held from 5th June to 16th June 1972, hence 5th June is celebrated as World Environment Day."
+  },
+  {
+    "question": "Which Indian Constitutional Amendment introduced Article 48A and 51A(g) related to the environment?",
+    "options": [
+      "24th Amendment",
+      "44th Amendment",
+      "42nd Amendment",
+      "73rd Amendment"
+    ],
+    "correct": 2,
+    "explanation": "The document explicitly links these articles to the '42nd Amendment, 1976'."
+  },
+  {
+    "question": "Where is the headquarters of the UN Environment Programme (UNEP) located?",
+    "options": [
+      "Nairobi, Kenya",
+      "Geneva, Switzerland",
+      "New York, USA",
+      "Stockholm, Sweden"
+    ],
+    "correct": 0,
+    "explanation": "The PDF states: 'Headquarters: It is based in Nairobi, Kenya'."
+  },
+  {
+    "question": "Which of the following Multilateral Environmental Agreements (MEAs) is NOT hosted by UNEP?",
+    "options": [
+      "Convention on Biological Diversity (CBD)",
+      "Minamata Convention on Mercury",
+      "United Nations Framework Convention on Climate Change (UNFCCC)",
+      "CITES"
+    ],
+    "correct": 2,
+    "explanation": "Under 'Not covered / not hosted by UNEP', the document lists 'United Nations Framework Convention on Climate Change'."
+  },
+  {
+    "question": "The 'Emissions Gap Report' is a flagship publication of which organization?",
+    "options": [
+      "UNEP",
+      "IPCC",
+      "WMO",
+      "UNDP"
+    ],
+    "correct": 0,
+    "explanation": "The document lists 'Emissions Gap Report' under UNEP's 'Reports'."
+  },
+  {
+    "question": "When did India join the 'Climate and Clean Air Coalition' (CCAC)?",
+    "options": [
+      "1972",
+      "1992",
+      "2019",
+      "2026"
+    ],
+    "correct": 2,
+    "explanation": "The document states: 'India joined CCAC in 2019'."
+  },
+  {
+    "question": "The Brundtland Commission's 1987 report, which popularized the concept of sustainable development, was titled:",
+    "options": [
+      "Only One Earth",
+      "Our Common Future",
+      "The Silent Spring",
+      "Agenda 21"
+    ],
+    "correct": 1,
+    "explanation": "The document states: 'The Commission's report, Our Common Future (1987), popularized the concept of sustainable development'."
+  },
+  {
+    "question": "Which document from the 1992 Earth Summit is described as a 'comprehensive, non-binding global action plan for sustainable development aimed at the 21st century'?",
+    "options": [
+      "Rio Declaration",
+      "Forest Principles",
+      "Kyoto Protocol",
+      "Agenda 21"
+    ],
+    "correct": 3,
+    "explanation": "Agenda 21 is defined as a 'comprehensive, non-binding global action plan for sustainable development aimed at the 21st century'."
+  },
+  {
+    "question": "What is the primary role of the Global Environment Facility (GEF) established in 1992?",
+    "options": [
+      "To serve as a legally binding treaty for forests.",
+      "To act as an independent financial mechanism supporting major environmental conventions.",
+      "To monitor the human rights of climate refugees.",
+      "To set global temperature limits."
+    ],
+    "correct": 1,
+    "explanation": "The PDF describes GEF as an 'independent financial mechanism supporting major environmental conventions, including UNFCCC, CBD, and UNCCD'."
+  },
+  {
+    "question": "The 'Partnership for Action on Green Economy' (PAGE) was a direct response to which summit?",
+    "options": [
+      "Stockholm 1972",
+      "Rio 1992",
+      "Paris 2015",
+      "Rio+20 (2012)"
+    ],
+    "correct": 3,
+    "explanation": "The text states: 'Partnership for Action on Green Economy (PAGE): It was launched in 2013 as a direct response to the Rio+20 Declaration'."
+  },
+  {
+    "question": "As of February 2026, how many parties does the UNFCCC have?",
+    "options": [
+      "198",
+      "192",
+      "195",
+      "200"
+    ],
+    "correct": 0,
+    "explanation": "The document says: 'As of Feb 2026, the UNFCCC has 198 parties (197 countries and EU)'."
+  },
+  {
+    "question": "Which body is the 'supreme decision-making body' of the UNFCCC?",
+    "options": [
+      "The Secretariat",
+      "The Conference of the Parties (COP)",
+      "The CMP",
+      "The Global Environment Facility"
+    ],
+    "correct": 1,
+    "explanation": "The document states: 'Conference of the Parties (COP)... Supreme decision-making body of the UNFCCC'."
+  },
+  {
+    "question": "Which of the following was the FIRST global treaty to set legally binding GHG emission reduction targets for developed countries?",
+    "options": [
+      "UNFCCC",
+      "Paris Agreement",
+      "Stockholm Declaration",
+      "Kyoto Protocol"
+    ],
+    "correct": 3,
+    "explanation": "The Kyoto Protocol is described as 'the first global treaty that set legally binding greenhouse gas (GHG) emission reduction targets for developed countries'."
+  },
+  {
+    "question": "Under the Kyoto Protocol, which group of parties was required to provide financial and technical support to developing countries?",
+    "options": [
+      "Non-Annex I",
+      "Annex II",
+      "LDCs",
+      "Annex B only"
+    ],
+    "correct": 1,
+    "explanation": "Annex II countries (subset of Annex I) were required to provide financial and technical support."
+  },
+  {
+    "question": "Which of the following was NOT one of the six main greenhouse gases covered in the first commitment period of the Kyoto Protocol?",
+    "options": [
+      "Carbon dioxide (CO2)",
+      "Methane (CH4)",
+      "Nitrous oxide (N2O)",
+      "Sulphur dioxide (SO2)"
+    ],
+    "correct": 3,
+    "explanation": "The Kyoto gases listed are CO2, CH4, N2O, HFCs, PFCs, and SF6. SO2 is not on the list."
+  },
+  {
+    "question": "Which Kyoto Protocol mechanism allows a developed country to invest in an emission-reduction project in a DEVELOPING country to earn credits?",
+    "options": [
+      "Joint Implementation (JI)",
+      "Clean Development Mechanism (CDM)",
+      "Emission Trading",
+      "Sustainable Development Mechanism"
+    ],
+    "correct": 1,
+    "explanation": "The Clean Development Mechanism (CDM) is defined as a developed country investing in a developing country."
+  },
+  {
+    "question": "What does a 'Certified Emission Reduction' (CER) credit represent?",
+    "options": [
+      "1 tonne of CO2",
+      "10 tonnes of CO2",
+      "100 tonnes of CO2",
+      "1 tonne of Methane"
+    ],
+    "correct": 0,
+    "explanation": "The document states: '1 CER = 1 tonne CO2'."
+  },
+  {
+    "question": "What percentage of CERs issued under CDM are automatically deducted and monetized for the Adaptation Fund?",
+    "options": [
+      "1%",
+      "5%",
+      "10%",
+      "2%"
+    ],
+    "correct": 3,
+    "explanation": "The text states: '2% of CERs issued under CDM are automatically deducted... Proceeds go to the Adaptation Fund'."
+  },
+  {
+    "question": "What is the penalty if a country exceeds its emissions cap under the Kyoto Protocol and fails to make up the difference?",
+    "options": [
+      "A flat fine of $1 billion.",
+      "Making up the difference plus an additional 30% in the next period.",
+      "Immediate expulsion from the UN.",
+      "Forfeiture of all domestic forests."
+    ],
+    "correct": 1,
+    "explanation": "The document states: 'the country must make up the difference plus an additional thirty per cent during the next period'."
+  },
+  {
+    "question": "What are 'Hot Air' credits in the context of the Kyoto Protocol?",
+    "options": [
+      "Credits generated from high-temperature solar plants.",
+      "Credits awarded for methane capture from livestock.",
+      "A term for fraudulent carbon offsets.",
+      "Surplus emission allowances arising from economic decline/industrial collapse rather than climate action."
+    ],
+    "correct": 3,
+    "explanation": "'Hot air' credits refer to surplus emission allowances... that arose not from deliberate climate action, but from economic decline (particularly in former Soviet economies)."
+  },
+  {
+    "question": "The goal of mobilizing US$100 billion a year in climate finance by 2020 was first promised at which COP?",
+    "options": [
+      "Copenhagen (COP15)",
+      "Kyoto (COP3)",
+      "Bali (COP13)",
+      "Paris (COP21)"
+    ],
+    "correct": 0,
+    "explanation": "The Copenhagen Accord included the goal of developed countries promising to 'mobilize long-term finance of a further US$100 billion a year by 2020'."
+  },
+  {
+    "question": "At which COP was the decision made to establish the 'Green Climate Fund' (GCF)?",
+    "options": [
+      "COP15 (Copenhagen)",
+      "COP17 (Durban)",
+      "COP21 (Paris)",
+      "COP16 (Cancun)"
+    ],
+    "correct": 3,
+    "explanation": "The document notes: 'Parties agreed to establish a Green Climate Fund (GCF)...' under Cancún (COP 16)."
+  },
+  {
+    "question": "The term 'Intended Nationally Determined Contributions' (INDC) was coined at which COP?",
+    "options": [
+      "COP19 (Warsaw)",
+      "COP18 (Doha)",
+      "COP20 (Lima)",
+      "COP21 (Paris)"
+    ],
+    "correct": 0,
+    "explanation": "The text explicitly states: 'The term Intended Nationally Determined Contributions (INDC) was coined in Warsaw (COP19)'."
+  },
+  {
+    "question": "The Paris Agreement entered into force in 2016 after meeting which two conditions?",
+    "options": [
+      "Ratification by 100 countries and 100% of emissions.",
+      "Ratification by 55 countries accounting for at least 55% of global emissions.",
+      "Ratification by all G20 members.",
+      "Ratification by USA and China only."
+    ],
+    "correct": 1,
+    "explanation": "The document states it entered into force 'after ratification by 55 countries that account for at least 55% of global emissions'."
+  },
+  {
+    "question": "What is the frequency mandated for the 'Global Stocktake' (GST) under the Paris Agreement?",
+    "options": [
+      "Every year",
+      "Every 10 years",
+      "Every 5 years",
+      "Once every 2 years"
+    ],
+    "correct": 2,
+    "explanation": "The agreement mandates that a GST be conducted every five years, starting in 2023."
+  },
+  {
+    "question": "At COP28, what was the 'Language Shift' regarding the future of coal?",
+    "options": [
+      "From 'Unabated Phase out' to 'Phase down'.",
+      "From 'Phase down' to 'Phase out'.",
+      "From 'Mandatory closure' to 'Voluntary reduction'.",
+      "From 'Phase out' to 'Increase efficiency'."
+    ],
+    "correct": 0,
+    "explanation": "The text notes: 'Earlier Negotiations were around the \"Unbated Phase out of coal.\" Final language: \"Phase down of coal.\"'."
+  },
+  {
+    "question": "Regarding the 'Global Goal on Adaptation' (GGA), what are the country responsibilities for the year 2030?",
+    "options": [
+      "Achieve net-zero emissions.",
+      "Establish monitoring & evaluation systems.",
+      "Conduct impact/vulnerability assessments and develop country-driven adaptation plans.",
+      "Provide $100 billion to developed countries."
+    ],
+    "correct": 2,
+    "explanation": "Under GGA 'Country Responsibilities', for 2030 it lists 'Conduct impact, vulnerability & risk assessments' and 'Develop country-driven adaptation plans'."
+  },
+  {
+    "question": "What was the agreed quantum of climate finance provided by developed countries per year by 2035 at COP29 (Baku)?",
+    "options": [
+      "USD 100 billion",
+      "USD 300 billion",
+      "USD 1.3 trillion",
+      "USD 2 trillion"
+    ],
+    "correct": 1,
+    "explanation": "The document states developed countries 'Agreed to provide USD 300 billion per year by 2035' at COP29."
+  },
+  {
+    "question": "Under the Paris Agreement's Article 6, what does 'ITMO' stand for?",
+    "options": [
+      "International Timber Management Organization",
+      "Internal Transport of Methane Objectives",
+      "Integrated Thermal Mitigation Operations",
+      "Internationally Transferred Mitigation Outcomes"
+    ],
+    "correct": 3,
+    "explanation": "The PDF identifies ITMOs as 'Internationally Transferred Mitigation Outcomes'."
+  },
+  {
+    "question": "What is 'Corresponding Adjustment' in the context of Article 6.2 carbon markets?",
+    "options": [
+      "An accounting correction to ensure an emission reduction is not counted twice.",
+      "A change in temperature targets based on new science.",
+      "A financial adjustment for inflation in climate funds.",
+      "A modification of NDC targets every year."
+    ],
+    "correct": 0,
+    "explanation": "It is defined as 'an accounting correction made by both the transferring and acquiring countries to ensure that the same emission reduction is not counted twice'."
+  },
+  {
+    "question": "Which body supervises the Sustainable Development Mechanism (SDM) under Article 6.4?",
+    "options": [
+      "The World Bank",
+      "The GEF",
+      "The Article 6.4 Supervisory Body (a UN body)",
+      "The European Union"
+    ],
+    "correct": 2,
+    "explanation": "The document states the SDM is 'Supervised by a UN body (Article 6.4 Supervisory Body)'."
+  },
+  {
+    "question": "COP30, held in Belém, Brazil, was framed as which of the following?",
+    "options": [
+      "The Desert COP",
+      "The Ocean COP",
+      "The Finance COP",
+      "The Forest COP"
+    ],
+    "correct": 3,
+    "explanation": "The text states COP30 was framed as the 'COP of Implementation', 'COP of Truth', and the 'Forest COP'."
+  },
+  {
+    "question": "What does the 'spirit of Mutirão' mean in the context of COP30?",
+    "options": [
+      "Aggressive competition",
+      "Strict legal enforcement",
+      "Collective mobilisation, inclusion, and balance",
+      "Rapid industrialization"
+    ],
+    "correct": 2,
+    "explanation": "The text defines it as 'inclusion and balance' and 'collective mobilisation'."
+  },
+  {
+    "question": "The 2025 Adaptation Gap Report is titled:",
+    "options": [
+      "The Boiling Point",
+      "The Green Horizon",
+      "Closing the Gap",
+      "Running on Empty"
+    ],
+    "correct": 3,
+    "explanation": "The document mentions the report is titled 'Running on Empty'."
+  },
+  {
+    "question": "What is a major criticism of the 'Belém Adaptation Indicators' adopted at COP30?",
+    "options": [
+      "They are too legally binding.",
+      "They focus only on developed countries.",
+      "They lack clear methodologies, metadata, and measurability.",
+      "They require immediate financial payments."
+    ],
+    "correct": 2,
+    "explanation": "Criticism in the text notes: 'No clear methodologies... immeasurable and unusable... No metadata'."
+  },
+  {
+    "question": "Which mechanism was adopted at COP30 to coordinate fragmented pathways for workers and communities in the shift to a low-carbon economy?",
+    "options": [
+      "Worker Welfare Fund",
+      "Green Employment Initiative",
+      "Global Labor Accord",
+      "Just Transition Mechanism (JTM)"
+    ],
+    "correct": 3,
+    "explanation": "The document states: 'COP30 adopted a new \"Just Transition Mechanism\" (JTM)'."
+  },
+  {
+    "question": "Which trade measure was a major point of contention at COP30, viewed by developing countries as protectionist?",
+    "options": [
+      "US Tax Credits",
+      "Global Minimum Tax",
+      "EU's Carbon Border Adjustment Mechanism (CBAM)",
+      "Plastic Import Ban"
+    ],
+    "correct": 2,
+    "explanation": "The text highlights the 'EU's Carbon Border Adjustment Mechanism (CBAM)' as a major point of contention."
+  },
+  {
+    "question": "What is the purpose of the 'Barbados Implementation Modality' (BIM) proposed at COP30?",
+    "options": [
+      "To ban all fossil fuel exports.",
+      "To seek streamlined, grant-based, faster, and less conditional climate finance delivery.",
+      "To create a new global central bank.",
+      "To monitor the growth of coral reefs."
+    ],
+    "correct": 1,
+    "explanation": "BIM seeks 'streamlined, grant-based, faster, and less conditional climate finance delivery, with MDB reform and debt-resilience integration'."
+  },
+  {
+    "question": "The 'Tropical Forest Forever Facility' (TFFF) aims to establish an investment fund of what size?",
+    "options": [
+      "USD 125 billion",
+      "USD 20 billion",
+      "USD 50 billion",
+      "USD 300 billion"
+    ],
+    "correct": 0,
+    "explanation": "The text states the aim is to 'Establish $125B Tropical Forest Investment Fund (TFIF)'."
+  },
+  {
+    "question": "Under the 'Belém 4x Pledge', countries aim to quadruple the use of what by 2035?",
+    "options": [
+      "Solar panels",
+      "Sustainable fuels (hydrogen, biofuels, e-fuels)",
+      "Electric cars",
+      "Nuclear power plants"
+    ],
+    "correct": 1,
+    "explanation": "The pledge is to 'Quadruple the use of sustainable fuels... by 2035'."
+  },
+  {
+    "question": "The 'Belém Declaration on Hunger, Poverty, and People-Centered Climate Action' was signed by how many countries?",
+    "options": [
+      "43 countries + EU",
+      "10",
+      "100",
+      "198"
+    ],
+    "correct": 0,
+    "explanation": "The text states: 'Signed by 43 countries + European Union'."
+  },
+  {
+    "question": "In which year was the UN Convention to Combat Desertification (UNCCD) established?",
+    "options": [
+      "1972",
+      "1992",
+      "1994",
+      "1996"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states: 'UNCCD was established in 1994 in Paris'."
+  },
+  {
+    "question": "Which of the following is the 'Financial Arm' of the UNCCD?",
+    "options": [
+      "Global Mechanism (GM)",
+      "Green Climate Fund",
+      "Adaptation Fund",
+      "World Bank"
+    ],
+    "correct": 0,
+    "explanation": "The document lists 'Global Mechanism (GM)' as the financial arm of the UNCCD."
+  },
+  {
+    "question": "What is the UNCCD definition of 'Desertification'?",
+    "options": [
+      "The expansion of existing deserts into fertile lands.",
+      "The total loss of all water bodies in a region.",
+      "Land degradation in arid, semi-arid and dry sub-humid areas caused by climatic variations and human activities.",
+      "Soil erosion caused specifically by overgrazing in tropical rainforests."
+    ],
+    "correct": 2,
+    "explanation": "The PDF defines desertification as 'land degradation in arid, semi-arid and dry sub-humid areas caused by climatic variations and human activities'."
+  },
+  {
+    "question": "The concept of 'Land Degradation Neutrality' (LDN) emerged from which conference?",
+    "options": [
+      "Rio+20 (2012)",
+      "Stockholm 1972",
+      "Rio Earth Summit 1992",
+      "Paris 2015"
+    ],
+    "correct": 0,
+    "explanation": "The document states: 'The concept of LDN emerged from the UN Conference on Sustainable Development (Rio+20) in 2012'."
+  },
+  {
+    "question": "Which city hosted the UNCCD COP14 where the 'Delhi Declaration' was adopted?",
+    "options": [
+      "Ordos City",
+      "Abidjan",
+      "Riyadh",
+      "New Delhi"
+    ],
+    "correct": 3,
+    "explanation": "The document lists 'COP 14 - 2019 - New Delhi (India)'."
+  },
+  {
+    "question": "The 'Abidjan Call' was issued at which UNCCD COP?",
+    "options": [
+      "COP15",
+      "COP13",
+      "COP14",
+      "COP16"
+    ],
+    "correct": 0,
+    "explanation": "The 'Abidjan Call' is listed under outcomes of 'COP 15, Abidjan'."
+  },
+  {
+    "question": "Which UNCCD COP was dubbed a 'moonshot moment' and was the first to be held in the MENA region?",
+    "options": [
+      "COP14",
+      "COP15",
+      "COP17",
+      "COP16"
+    ],
+    "correct": 3,
+    "explanation": "The text describes UNCCD COP16 (Riyadh, 2024) as the first held in the MENA region and dubbed a 'moonshot moment'."
+  },
+  {
+    "question": "What is the 'World Drought Atlas'?",
+    "options": [
+      "A publication that maps and analyzes systemic risks of drought across critical sectors.",
+      "A map of all historical deserts.",
+      "A platform to buy water credits.",
+      "A list of drought-resistant crops."
+    ],
+    "correct": 0,
+    "explanation": "The document describes it as a tool that 'Maps and analyzes systemic risks of drought across critical sectors like Agriculture, River transport, Trade and Energy'."
+  },
+  {
+    "question": "According to the 'Decent Work in Nature-Based Solutions' report, which region has the highest concentration of NbS employment?",
+    "options": [
+      "Europe",
+      "North America",
+      "Africa",
+      "Asia-Pacific"
+    ],
+    "correct": 3,
+    "explanation": "The report highlights: 'Regional Concentration: 95% in Asia-Pacific, majorly driven by MGNREGS (India)'."
+  },
+  {
+    "question": "What is the estimated annual economic cost of land degradation according to the 'Stepping Back from the Precipice' report?",
+    "options": [
+      "US$ 6.3-10.6 trillion",
+      "US$ 1-2 trillion",
+      "US$ 20 trillion",
+      "US$ 500 billion"
+    ],
+    "correct": 0,
+    "explanation": "The text states the economic cost is 'Estimated at US$ 6.3-10.6 trillion annually'."
+  },
+  {
+    "question": "In the context of CCUS, what is the 'Energy Penalty'?",
+    "options": [
+      "A tax on inefficient coal plants.",
+      "The significant additional energy required for solvent regeneration and air separation units.",
+      "The loss of electricity during long-distance transmission.",
+      "The cost of buying carbon credits from the market."
+    ],
+    "correct": 1,
+    "explanation": "The document defines the Energy Penalty Challenge: 'Solvent regeneration and air separation units require significant additional energy'."
+  },
+  {
+    "question": "Which capture technology is described as having a 'dilute' CO2 mixture, making separation harder?",
+    "options": [
+      "Pre-combustion capture",
+      "Oxy-fuel combustion",
+      "Direct Air Capture",
+      "Post-combustion capture"
+    ],
+    "correct": 3,
+    "explanation": "Under Post-combustion capture, it states: 'CO2 is relatively dilute, so separation is harder'."
+  },
+  {
+    "question": "How is 'Ocean Fertilisation' intended to work as a geoengineering method?",
+    "options": [
+      "By adding lime to reduce acidity.",
+      "By stimulating phytoplankton growth through the addition of nutrients like nitrogen and phosphorus.",
+      "By creating artificial reefs to block currents.",
+      "By injecting CO2 into deep-sea trenches."
+    ],
+    "correct": 1,
+    "explanation": "The document explains it as enhancing carbon uptake by 'stimulating phytoplankton growth through the addition of nutrients (such as nitrogen and phosphorus)'."
+  },
+  {
+    "question": "What was the 'Warsaw Mechanism' proposed for at COP19?",
+    "options": [
+      "To provide expertise and aid to developing nations to cope with loss and damage.",
+      "To regulate the global timber trade.",
+      "To mandate the closure of all coal mines in Europe.",
+      "To establish a new global carbon price."
+    ],
+    "correct": 0,
+    "explanation": "The document states the Warsaw Mechanism 'would provide expertise, and possibly aid, to developing nations to cope with loss and damage'."
+  },
+  {
+    "question": "The 'Nairobi Summit 1982' is significant because it led to the establishment of:",
+    "options": [
+      "UNEP",
+      "The Brundtland Commission",
+      "The IPCC",
+      "The UNFCCC"
+    ],
+    "correct": 1,
+    "explanation": "The text says the Nairobi Summit 'Led to a UN General Assembly resolution establishing the Brundtland Commission (1984)'."
+  },
+  {
+    "question": "Which report/initiative involves the 'Methane Alert and Response System' (MARS)?",
+    "options": [
+      "International Methane Emissions Observatory (IMEO)",
+      "Global Environment Outlook",
+      "Net-Zero Banking Alliance",
+      "Cool Coalition"
+    ],
+    "correct": 0,
+    "explanation": "The document links MARS to the 'International Methane Emissions Observatory (IMEO)'."
+  },
+  {
+    "question": "According to the 'Global Implementation Accelerator' initiative at COP30, when will the Presidencies report progress?",
+    "options": [
+      "CMA 7",
+      "CMA 9",
+      "CMA 8 (COP32)",
+      "CMA 10"
+    ],
+    "correct": 2,
+    "explanation": "The text states: 'Presidencies will report progress at CMA 8 (COP32)'."
+  }
+]

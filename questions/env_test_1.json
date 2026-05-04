@@ -1,0 +1,2224 @@
+[
+  {
+    "question": "With reference to the levels of ecological organization, which level is considered the 'unit of natural selection'?",
+    "options": [
+      "Population",
+      "Organism",
+      "Community",
+      "Ecosystem"
+    ],
+    "correct": 1,
+    "explanation": "According to the 'Levels of Organisation in Ecology' chart, the Organism is defined by survival and reproduction and is specifically identified as the 'unit of natural selection'."
+  },
+  {
+    "question": "Which of the following is an 'edaphic factor' in an ecosystem's abiotic components?",
+    "options": [
+      "Wind",
+      "Temperature",
+      "Rain",
+      "Topography"
+    ],
+    "correct": 3,
+    "explanation": "The PDF categorizes abiotic components into climatic factors (rain, light, wind, temperature) and edaphic factors (soil, pH, minerals, topography)."
+  },
+  {
+    "question": "In the context of ecological niches, how is a 'Realised Niche' different from a 'Fundamental Niche'?",
+    "options": [
+      "It represents the full range of conditions where a species can survive without competition.",
+      "It is the actual range a species occupies after accounting for competition and interactions.",
+      "It is the physical space occupied by an organism, whereas fundamental niche is the functional space.",
+      "It is a niche that exists only in aquatic ecosystems."
+    ],
+    "correct": 1,
+    "explanation": "The PDF states that the Fundamental Niche is the 'Could Live' zone without competition, while the Realised Niche is the 'Actually Lives' zone that a species occupies after competition and other interactions."
+  },
+  {
+    "question": "What is the primary reason the Detritus Food Chain (DFC) is the dominant pathway of energy flow in terrestrial ecosystems compared to aquatic ones?",
+    "options": [
+      "Terrestrial producers are more microscopic and easier to digest.",
+      "Aquatic ecosystems lack decomposers like bacteria and fungi.",
+      "Energy flow in terrestrial systems is unidimensional while aquatic is multidimensional.",
+      "Terrestrial biomass is largely rich in cellulose and lignin, making it mostly inedible for grazers."
+    ],
+    "correct": 3,
+    "explanation": "The PDF explains that in terrestrial ecosystems, a greater share of energy passes through the DFC because terrestrial producers are large and rich in cellulose/lignin, making their biomass largely inedible, unlike small, soft-bodied aquatic producers."
+  },
+  {
+    "question": "According to the 'Law of 10%', what happens to the energy that is not transferred to the next trophic level?",
+    "options": [
+      "It is stored forever in the lithosphere.",
+      "It is converted into inorganic nutrients by producers.",
+      "It is lost mainly as heat energy and consumed through movement.",
+      "It is recycled back to the sun via photosynthesis."
+    ],
+    "correct": 2,
+    "explanation": "The text states that only 10% of energy is used to make biomass for the next level; most of the energy loss occurs in the production of heat energy and movement."
+  },
+  {
+    "question": "Which of the following conditions is NOT a requirement for a region to be designated as a 'Biodiversity Hotspot' by Conservation International?",
+    "options": [
+      "It must be located within a megadiverse country.",
+      "It must contain at least 1,500 endemic vascular plant species.",
+      "It must have lost at least 70% of its original habitat.",
+      "It must contain at least 0.5% of the global total of endemic vascular plants."
+    ],
+    "correct": 0,
+    "explanation": "To qualify as a hotspot, an area must meet two criteria: 1,500 endemic vascular plants and loss of at least 70% of original habitat. Being in a megadiverse country is not a requirement."
+  },
+  {
+    "question": "What distinguishes 'Bioaccumulation' from 'Biomagnification'?",
+    "options": [
+      "Bioaccumulation refers to chemicals in water, while biomagnification refers to chemicals in soil.",
+      "Bioaccumulation involves only heavy metals, while biomagnification involves only pesticides.",
+      "Bioaccumulation occurs within a single organism over its life; biomagnification occurs across different trophic levels.",
+      "Bioaccumulation results in lower concentrations in older individuals."
+    ],
+    "correct": 2,
+    "explanation": "The PDF clarifies that Bioaccumulation takes place in a single organism over its life, while Biomagnification occurs as chemicals transfer from lower to higher trophic levels, resulting in higher concentrations in apex predators."
+  },
+  {
+    "question": "Which specific biotic interaction is described as 'favorable to both species and obligatory' for survival?",
+    "options": [
+      "Mutualism",
+      "Proto-cooperation",
+      "Commensalism",
+      "Amensalism"
+    ],
+    "correct": 0,
+    "explanation": "The table on Biotic Interactions defines Mutualism as an interaction that is '+' for both species and 'obligatory'."
+  },
+  {
+    "question": "In the process of ecological succession, what are 'Seral Communities'?",
+    "options": [
+      "The first organisms to colonize a bare habitat.",
+      "The transitional communities that appear and disappear in stages.",
+      "The final, stable stage that is in equilibrium with the environment.",
+      "The species that cause the 'Edge Effect' in ecotones."
+    ],
+    "correct": 1,
+    "explanation": "The PDF defines Seral Communities as transitional communities that appear and disappear in stages before reaching the final stable stage (Climax Community)."
+  },
+  {
+    "question": "Which of the following biogeochemical cycles is classified as an 'Imperfect' or 'Sedimentary' cycle?",
+    "options": [
+      "Phosphorus Cycle",
+      "Nitrogen Cycle",
+      "Carbon Cycle",
+      "Oxygen Cycle"
+    ],
+    "correct": 0,
+    "explanation": "The Biogeochemical Cycles table classifies Phosphorus and Sulphur as Sedimentary cycles, which are 'imperfect' because nutrients can be lost or locked up in sediments."
+  },
+  {
+    "question": "The 'Edge Effect' is most prominently observed in which of the following areas?",
+    "options": [
+      "The core of a Biome",
+      "The Abyssal zone of an ocean",
+      "An Ecotone",
+      "The peak of a mountain"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that Ecotones have richness in biodiversity due to the 'edge effect', where population density of some species is greater than in the adjoining communities."
+  },
+  {
+    "question": "What is 'Allelopathy' in the context of plant interactions?",
+    "options": [
+      "A symbiotic relationship between fungi and plant roots.",
+      "The process of plants capturing nitrogen from the air.",
+      "The movement of plants toward a light source.",
+      "Chemical inhibition of one plant's growth by another through secondary metabolites."
+    ],
+    "correct": 3,
+    "explanation": "Allelopathy is defined as a chemical interaction where one plant releases chemicals that affect the growth, survival, or reproduction of another plant."
+  },
+  {
+    "question": "In the Nitrogen Cycle, which bacteria are responsible for converting Nitrite into Nitrate?",
+    "options": [
+      "Nitrosomonas",
+      "Rhizobium",
+      "Nitrobacter",
+      "Azotobacter"
+    ],
+    "correct": 2,
+    "explanation": "The PDF specifies that Nitrite is transformed into Nitrate by the bacteria Nitrobacter."
+  },
+  {
+    "question": "According to the document, which ecosystem has the highest average Net Primary Productivity (NPP)?",
+    "options": [
+      "Open Ocean",
+      "Swamps and Marshes",
+      "Temperate Grassland",
+      "Tropical Rainforest"
+    ],
+    "correct": 1,
+    "explanation": "The 'Ecosystem Productivity' table lists Swamps and Marshes and Tropical Rainforests both with an average NPP of 2,000 g/m²/year, which is the highest on the list."
+  },
+  {
+    "question": "The concept of 'Gross Environment Product' (GEP) is used to measure:",
+    "options": [
+      "The total industrial output of a country adjusted for inflation.",
+      "The amount of carbon dioxide emitted per capita.",
+      "The rate of biodiversity loss in a given decade.",
+      "The value of an area's ecosystem services in biophysical and monetary terms."
+    ],
+    "correct": 3,
+    "explanation": "The PDF defines GEP as a measure of an area's ecosystem services in biophysical and monetary terms, which can feed into Green GDP accounting."
+  },
+  {
+    "question": "Which of the following is a key characteristic of a 'Climax Community'?",
+    "options": [
+      "It is a stable, self-sustaining ecosystem in equilibrium with the environment.",
+      "It is the first to colonize a bare rock.",
+      "It has very simple food webs and low biodiversity.",
+      "It is highly susceptible to small environmental changes."
+    ],
+    "correct": 0,
+    "explanation": "The PDF describes the Climax Community as the final, stable stage of succession that is self-sustaining and has maximum biodiversity."
+  },
+  {
+    "question": "The 'Gaia Hypothesis' proposes that:",
+    "options": [
+      "Life on Earth was brought by meteorites.",
+      "Humans are the only drivers of ecological change.",
+      "Extinction is a purely random event.",
+      "The Earth is a self-regulating complex system maintaining conditions for life."
+    ],
+    "correct": 3,
+    "explanation": "The Gaia Hypothesis, proposed by Lovelock and Margulis, suggests that living organisms and inorganic surroundings form a synergistic, self-regulating system to maintain habitability."
+  },
+  {
+    "question": "Which specific adaptation allows 'Halophytes' like Rhizophora to survive in saline environments?",
+    "options": [
+      "Hibernation",
+      "Sunken stomata",
+      "Viviparity",
+      "Aestivation"
+    ],
+    "correct": 2,
+    "explanation": "The PDF lists Viviparity (seeds germinating on the parent plant) as a specific adaptation of Halophytes to survive saline conditions."
+  },
+  {
+    "question": "What is the primary storage or reservoir for Phosphorus in its biogeochemical cycle?",
+    "options": [
+      "The Earth's Crust",
+      "The Atmosphere",
+      "Marine Zooplankton",
+      "The Stratosphere"
+    ],
+    "correct": 0,
+    "explanation": "The text explicitly states: 'The main storage for phosphorus is in the earth's crust.'"
+  },
+  {
+    "question": "What is 'Earth Overshoot Day'?",
+    "options": [
+      "The day a planet's population exceeds its food production.",
+      "The anniversary of the first Earth Summit in Rio.",
+      "The date when humanity's demand for resources exceeds Earth's biocapacity for that year.",
+      "The day when the sun is at its closest point to Earth."
+    ],
+    "correct": 2,
+    "explanation": "Earth Overshoot Day marks the date when humanity's demand for ecological resources and services exceeds what Earth can regenerate in that year."
+  },
+  {
+    "question": "Which of the following is an example of 'Amensalism'?",
+    "options": [
+      "A sucker fish attached to a shark.",
+      "Bees pollinating flowers while collecting nectar.",
+      "Ticks feeding on the blood of a mammal.",
+      "A large tree shading a small plant, retarding its growth without affecting the tree."
+    ],
+    "correct": 3,
+    "explanation": "The PDF provides the example of a large tree shading a small plant as amensalism, where one is harmed and the other is unaffected."
+  },
+  {
+    "question": "In the context of ecological pyramids, which pyramid is 'always upright' in a stable ecosystem?",
+    "options": [
+      "Pyramid of Energy",
+      "Pyramid of Numbers",
+      "Pyramid of Biomass",
+      "Pyramid of Species Richness"
+    ],
+    "correct": 0,
+    "explanation": "The document states that the Pyramid of Energy is 'always upright' because energy is lost at each transfer due to the laws of thermodynamics."
+  },
+  {
+    "question": "What is a 'Hope Spot' as defined in the document?",
+    "options": [
+      "A terrestrial area with 100% forest cover.",
+      "A region where extinct species have been rediscovered.",
+      "An agricultural land using zero pesticides.",
+      "A critical oceanic area identified for the health of the ocean."
+    ],
+    "correct": 3,
+    "explanation": "Hope Spots are 'special places that are scientifically identified as critical to the health of the ocean,' championed by Mission Blue."
+  },
+  {
+    "question": "Which of the following is NOT a natural source of methane emissions mentioned in the text?",
+    "options": [
+      "Volcanic eruptions",
+      "Wetlands",
+      "Termites",
+      "Oceans"
+    ],
+    "correct": 0,
+    "explanation": "The PDF lists natural sources of methane as Wetlands, Termites, and Oceans. Volcanic eruptions are mentioned as a source of Carbon and Sulphur, but not methane."
+  },
+  {
+    "question": "The 'Evil Quartet' refers to the four major threats to biodiversity. Which of the following is NOT part of the quartet?",
+    "options": [
+      "Habitat Loss",
+      "Overexploitation",
+      "Secondary Extinctions",
+      "Pollution"
+    ],
+    "correct": 3,
+    "explanation": "The PDF identifies the 'Evil Quartet' as: Habitat Loss, Overexploitation, Alien (Invasive) Species, and Secondary Extinctions."
+  },
+  {
+    "question": "What is the primary difference between a 'Habitat' and an 'Environment'?",
+    "options": [
+      "A habitat is specific to one species, while an environment can be shared by many.",
+      "An environment always supports life, while a habitat may not.",
+      "A habitat is the functional role, while environment is the physical space.",
+      "There is no difference; they are synonymous."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states: 'A habitat is specific to one species, while an environment can be shared by many species. A habitat always supports life, whereas an environment may or may not.'"
+  },
+  {
+    "question": "In an aquatic ecosystem, why is the Pyramid of Biomass typically inverted?",
+    "options": [
+      "Consumers are smaller and more numerous than producers.",
+      "Energy flows from sharks down to phytoplankton.",
+      "There are no decomposers in aquatic systems.",
+      "Producers have a much higher turnover rate and smaller standing crop than consumers."
+    ],
+    "correct": 3,
+    "explanation": "The PDF explains that in an inverted biomass pyramid (like in a pond), the biomass at lower trophic levels (phytoplankton) is lower at a specific time than higher levels because of short life spans."
+  },
+  {
+    "question": "Which term describes the 'zone of junction between two or more diverse ecosystems'?",
+    "options": [
+      "Ecocline",
+      "Ecotype",
+      "Ecotone",
+      "Ecological Niche"
+    ],
+    "correct": 2,
+    "explanation": "The PDF defines an Ecotone as a 'zone of junction between two or more diverse ecosystems'."
+  },
+  {
+    "question": "Which of the following is a 'provisioning service' of an ecosystem?",
+    "options": [
+      "Supply of food and water",
+      "Flood control",
+      "Soil formation",
+      "Aesthetic inspiration"
+    ],
+    "correct": 0,
+    "explanation": "Provisioning services are 'material benefits people get from ecosystems for e.g. supply of food, water, fibers, wood and fuels.'"
+  },
+  {
+    "question": "The process of 'Nitrogen Fixation' involves converting atmospheric nitrogen into:",
+    "options": [
+      "Nitrogen gas",
+      "Amino acids directly",
+      "Chlorophyll",
+      "Reactive compounds like ammonia or nitrates"
+    ],
+    "correct": 3,
+    "explanation": "Nitrogen fixation is the 'conversion of atmospheric nitrogen... to reactive compounds available to living organisms' like ammonia or nitrates."
+  },
+  {
+    "question": "Which invasive species is known for crowding out native vegetation in the Mudumalai Tiger Reserve?",
+    "options": [
+      "Senna spectabilis",
+      "Prosopis juliflora",
+      "Lantana camara",
+      "Water Hyacinth"
+    ],
+    "correct": 0,
+    "explanation": "The PDF states that Senna spectabilis 'has taken over between 800 and 1,200 hectares of the buffer zones of the Mudumalai Tiger Reserve'."
+  },
+  {
+    "question": "What is 'Ecological Footprint'?",
+    "options": [
+      "The physical size of a protected national park.",
+      "The amount of soil eroded per year by agriculture.",
+      "A measure of human demand on nature's ecosystems compared to Earth's biocapacity.",
+      "The path taken by migratory birds."
+    ],
+    "correct": 2,
+    "explanation": "Ecological Footprint accounting 'measures a population's demand for natural ecosystems' supply of resources and services.'"
+  },
+  {
+    "question": "Which type of succession occurs in an area where an existing community has been destroyed by a forest fire?",
+    "options": [
+      "Secondary Succession",
+      "Primary Succession",
+      "Autogenic Succession",
+      "Allogenic Succession"
+    ],
+    "correct": 0,
+    "explanation": "Secondary succession 'occurs in areas where an existing community was disturbed or destroyed,' with forest fires being a specific example given."
+  },
+  {
+    "question": "The 'Living Planet Report' is a biennial publication of which organization?",
+    "options": [
+      "IUCN",
+      "WWF",
+      "UNEP",
+      "BirdLife International"
+    ],
+    "correct": 1,
+    "explanation": "The PDF identifies the 'Living Planet Report' as a biennial WWF publication."
+  },
+  {
+    "question": "Which measurement of biodiversity looks at diversity 'over the total landscape'?",
+    "options": [
+      "Gamma Diversity",
+      "Alpha Diversity",
+      "Beta Diversity",
+      "Delta Diversity"
+    ],
+    "correct": 0,
+    "explanation": "Gamma diversity is defined as 'diversity over total landscape'."
+  },
+  {
+    "question": "What is the 'trophic cascade effect' mentioned in the State of the World's Birds Report?",
+    "options": [
+      "The process of energy being lost as heat.",
+      "A chain reaction across the food web triggered by the removal of a species.",
+      "The increase of pesticides in birds' eggs.",
+      "The migration of birds due to climate change."
+    ],
+    "correct": 1,
+    "explanation": "A trophic cascade is described as: 'when a species or an entire trophic level declines or is removed, it triggers a chain reaction across the food web'."
+  },
+  {
+    "question": "Which of the following is an example of an 'Ecotype' mentioned in the PDF?",
+    "options": [
+      "Royal Bengal Tiger adapted to mangroves",
+      "Lion in a grassland",
+      "Phytoplankton in a pond",
+      "Earthworm in topsoil"
+    ],
+    "correct": 0,
+    "explanation": "Ecotypes are populations adapted to an ecotone; the Royal Bengal Tiger adapted to mangroves (can drink salt water) is a cited example."
+  },
+  {
+    "question": "In 'Clement's theory of succession', what does 'Nudation' refer to?",
+    "options": [
+      "The arrival of seeds and spores.",
+      "The establishment of initial plant growth.",
+      "The stabilization of a climax community.",
+      "The development of a bare site due to disturbance."
+    ],
+    "correct": 3,
+    "explanation": "According to the PDF, Nudation is the 'development of a bare site, disturbance' in the phases of succession."
+  },
+  {
+    "question": "Which agricultural system in India is recognized as a 'GIAHS' for its unique below-sea-level rice-fish farming?",
+    "options": [
+      "Kuttanad Farming System",
+      "Koraput Traditional Agriculture",
+      "Pampore Saffron Heritage",
+      "Assam Tea Gardens"
+    ],
+    "correct": 0,
+    "explanation": "The 'Kuttanad Below Sea Level Farming System' is described as India's unique wetland rice-fish farming in reclaimed delta swamps."
+  },
+  {
+    "question": "What is the function of 'Decomposers' (Saprotrophs) in an ecosystem?",
+    "options": [
+      "To produce food from sunlight.",
+      "To prey on primary consumers.",
+      "To increase the population of invasive species.",
+      "To break down dead organic material and recycle nutrients."
+    ],
+    "correct": 3,
+    "explanation": "Decomposers 'obtain energy and nutrients by decomposing dead organic substances' and convert them into 'inorganic nutrients... reused by producers'."
+  },
+  {
+    "question": "Which of the following describes 'Proto-cooperation'?",
+    "options": [
+      "An obligatory interaction where both species must live together.",
+      "Early stages of mutualism where both benefit but are not yet fully dependent.",
+      "An interaction where one species is harmed and the other is unaffected.",
+      "Competition within the same species for mates."
+    ],
+    "correct": 1,
+    "explanation": "Proto-cooperation is 'a type of interaction... not yet fully mutualistic' where 'two or more species interact in a way that benefits both, but the relationship is not yet fully dependent'."
+  },
+  {
+    "question": "The 'Economics of Ecosystems and Biodiversity' (TEEB) initiative was principally objective about:",
+    "options": [
+      "Banning all forest logging worldwide.",
+      "Calculating the carbon footprint of industrial nations.",
+      "Providing insurance for farmers during droughts.",
+      "Mainstreaming the values of biodiversity into decision-making."
+    ],
+    "correct": 3,
+    "explanation": "The TEEB's principal objective is to 'mainstream the values of biodiversity and ecosystem services into decision-making at all levels'."
+  },
+  {
+    "question": "In the Sulphur cycle, how is atmospheric sulphur dioxide typically returned to the Earth?",
+    "options": [
+      "Dissolved in rainwater as weak sulphuric acid.",
+      "Through nitrogen fixation by bacteria.",
+      "By photosynthesis in green plants.",
+      "Through the respiration of herbivores."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states: 'Atmospheric sulphur dioxide is carried back to the earth after being dissolved in rainwater as weak sulphuric acid'."
+  },
+  {
+    "question": "Which level of biodiversity refers to the variation in genes within a single species?",
+    "options": [
+      "Species Diversity",
+      "Ecosystem Diversity",
+      "Genetic Diversity",
+      "Community Diversity"
+    ],
+    "correct": 2,
+    "explanation": "Genetic diversity is defined as 'Variation in genes/alleles within a species'."
+  },
+  {
+    "question": "What is 'Adaptive Radiation'?",
+    "options": [
+      "The spread of radiation from a nuclear disaster.",
+      "The movement of organisms to a higher altitude.",
+      "The change in body temperature to match the environment.",
+      "A single ancestral species diversifying into multiple forms due to environmental challenges."
+    ],
+    "correct": 3,
+    "explanation": "Adaptive radiation is defined as 'A single ancestral species diversifies into multiple forms in response to environmental challenges'."
+  },
+  {
+    "question": "Which of the following regions in India is identified as one of the 'Hottest of hotspots'?",
+    "options": [
+      "The Himalayas",
+      "The Indo-Burma region",
+      "The Desert of Rajasthan",
+      "The Gangetic Plains"
+    ],
+    "correct": 1,
+    "explanation": "The PDF lists the 'Indo-Burma region' under the 'Hottest of hotspots - 8' section."
+  },
+  {
+    "question": "What is 'Deep Ecology'?",
+    "options": [
+      "Assigning monetary value to nature to save it.",
+      "Studying the deepest parts of the ocean.",
+      "Preservation of nature for its own sake.",
+      "Using genetics to create new species."
+    ],
+    "correct": 2,
+    "explanation": "The text defines 'Deep ecology' as 'preservation for preservation's sake,' contrasting it with shallow ecology which uses monetary valuation."
+  },
+  {
+    "question": "In the Water Cycle, what is the term for ice sheets converting directly into water vapour?",
+    "options": [
+      "Sublimation",
+      "Evaporation",
+      "Transpiration",
+      "Infiltration"
+    ],
+    "correct": 0,
+    "explanation": "Sublimation is the process where 'Ice sheets and ice caps... get converted into water vapour directly, without converting into liquid.'"
+  },
+  {
+    "question": "Which organism is a typical 'Pioneer Species' on bare rock during primary succession?",
+    "options": [
+      "Grasses",
+      "Lichens",
+      "Oak Trees",
+      "Shrubs"
+    ],
+    "correct": 1,
+    "explanation": "The PDF lists Lichens as a primary example of pioneer species that grow on bare rock."
+  },
+  {
+    "question": "Which initiative calculates 'Green GDP' by adjusting for environmental degradation?",
+    "options": [
+      "The Amazon Fund",
+      "Mission Blue",
+      "The Economics of Ecosystems and Biodiversity (TEEB)",
+      "BirdLife International"
+    ],
+    "correct": 2,
+    "explanation": "TEEB is linked to 'Green Domestic Product' and green accounting methodologies in the document."
+  },
+  {
+    "question": "In Biotic Interactions, what is the '0' in a (+/0) relationship representing?",
+    "options": [
+      "The species is unaffected.",
+      "The species is killed.",
+      "The species benefits slightly.",
+      "The species is a parasite."
+    ],
+    "correct": 0,
+    "explanation": "In the provided table, '0' signifies that the population/host 'is not affected'."
+  },
+  {
+    "question": "Which of the following is a 'regulating service' of ecosystems?",
+    "options": [
+      "Timber production",
+      "Crop pollination",
+      "Spiritual well-being",
+      "Genetic diversity"
+    ],
+    "correct": 1,
+    "explanation": "Regulating services include 'benefits obtained from the regulation of ecosystem processes e.g. ... crop pollination.'"
+  },
+  {
+    "question": "What are 'Methanogens'?",
+    "options": [
+      "Plants that absorb methane from the air.",
+      "Chemicals used to kill termites.",
+      "Archaea that generate methane as a metabolic byproduct in low-oxygen environments.",
+      "A type of fossil fuel."
+    ],
+    "correct": 2,
+    "explanation": "Methanogens are 'prokaryotic archaea that generate methane as a metabolic byproduct in low-oxygen (hypoxic) environments'."
+  },
+  {
+    "question": "The term 'Ecology' was first coined by which scientist?",
+    "options": [
+      "Arthur Tansley",
+      "Charles Darwin",
+      "Raymond Lindeman",
+      "Ernst Haeckel"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states: 'The term ecology was first coined by the German biologist Ernst Haeckel in 1869.'"
+  },
+  {
+    "question": "What is 'Methane Hydrate'?",
+    "options": [
+      "Methane gas dissolved in rainwater.",
+      "A liquid form of methane used in rockets.",
+      "Crystalline ice where methane molecules are trapped in water molecules under high pressure.",
+      "The byproduct of burning coal."
+    ],
+    "correct": 2,
+    "explanation": "Methane hydrates 'form when methane gas interacts with hydrogen-bonded water... they exist as crystalline ice'."
+  },
+  {
+    "question": "Which component of 'Species Diversity' refers to the distribution of species in a habitat?",
+    "options": [
+      "Species Richness",
+      "Alpha Diversity",
+      "Beta Diversity",
+      "Species Evenness"
+    ],
+    "correct": 3,
+    "explanation": "The PDF defines Evenness as 'distribution of species in a habitat'."
+  },
+  {
+    "question": "According to the 'Living Planet Report 2022', which region saw the steepest decline in wildlife populations?",
+    "options": [
+      "Africa",
+      "Asia-Pacific",
+      "Latin America & the Caribbean",
+      "North America"
+    ],
+    "correct": 2,
+    "explanation": "The report notes the steepest fall was in 'Latin America & the Caribbean (94%)'."
+  },
+  {
+    "question": "Which of the following is an 'Interspecific Competition' example?",
+    "options": [
+      "Lions and hyenas competing for the same prey.",
+      "Two male lions fighting for a mate.",
+      "Plants of the same species competing for soil nutrients.",
+      "A parasite living inside a human."
+    ],
+    "correct": 0,
+    "explanation": "Interspecific competition occurs 'between different species that share the same resource requirements,' such as lions and hyenas."
+  },
+  {
+    "question": "In ecosystem productivity, what does 'NPP = GPP - R' stand for?",
+    "options": [
+      "Nitrogen = Growth - Rainfall",
+      "Natural Production = Gross Production - Runoff",
+      "Net Primary Productivity = Gross Primary Productivity - Respiration losses",
+      "New Productivity = Global Productivity - Radiation"
+    ],
+    "correct": 2,
+    "explanation": "The PDF defines Net primary productivity (NPP) as 'Gross primary productivity minus respiration losses (R)'."
+  },
+  {
+    "question": "Which of the following is a 'Supporting Service' of ecosystems?",
+    "options": [
+      "Wood and fuel",
+      "Maintaining genetic diversity",
+      "Spiritual well-being",
+      "Flood control"
+    ],
+    "correct": 1,
+    "explanation": "Supporting services are 'necessary for the production of all other ecosystem services, for e.g. ... maintaining genetic diversity.'"
+  },
+  {
+    "question": "Where does most life occur in the Biosphere?",
+    "options": [
+      "At the extremes of the North and South poles.",
+      "Above 9,000 metres where bacteria spores are active.",
+      "Between 500 m below the ocean surface and 6 km above sea level.",
+      "Only on the lithosphere."
+    ],
+    "correct": 2,
+    "explanation": "The PDF states: 'Most life occurs between 500 m below the surface of the ocean and about 6 km above sea level.'"
+  },
+  {
+    "question": "What is 'Speciation'?",
+    "options": [
+      "The formation of new species due to genetic isolation or environmental changes.",
+      "The death of all members of a species.",
+      "The counting of species in a hotspot.",
+      "The interaction between a predator and prey."
+    ],
+    "correct": 0,
+    "explanation": "Speciation is 'The formation of new species due to genetic isolation, environmental changes, or adaptation'."
+  },
+  {
+    "question": "Which bacteria is responsible for 'Denitrification'?",
+    "options": [
+      "Nitrobacter",
+      "Rhizobium",
+      "Nitrosomonas",
+      "Pseudomonas"
+    ],
+    "correct": 3,
+    "explanation": "The PDF lists 'Pseudomonas' as a free-living soil bacteria that reduces nitrate ions into gaseous nitrogen (Denitrification)."
+  },
+  {
+    "question": "The 'Amazon Fund' is a mechanism primarily supported by which two countries?",
+    "options": [
+      "USA and Brazil",
+      "China and India",
+      "Norway and Germany",
+      "UK and France"
+    ],
+    "correct": 2,
+    "explanation": "The Amazon Fund is described as 'a ~$1 billion fund backed by Norway and Germany'."
+  },
+  {
+    "question": "What is the 'Allen's Rule' mentioned in the principles of ecology?",
+    "options": [
+      "Plants in deserts have thick cuticles.",
+      "Energy flow is always 10%.",
+      "Insects evolve faster than mammals.",
+      "Mammals in cold regions have shorter limbs and ears to conserve heat."
+    ],
+    "correct": 3,
+    "explanation": "The text states: 'Mammals in cold regions have shorter limbs and ears to conserve heat (Allen's Rule).'"
+  },
+  {
+    "question": "Which of the following is an example of 'Commensalism'?",
+    "options": [
+      "Bees and flowers",
+      "Barnacles on a whale",
+      "Lions and deer",
+      "Ascaris in human gut"
+    ],
+    "correct": 1,
+    "explanation": "The PDF gives 'Barnacles and whales' as an example of commensalism, where barnacles benefit and the whale is unaffected."
+  },
+  {
+    "question": "The 'Like-Minded Megadiverse Countries' (LMMC) was created through which declaration?",
+    "options": [
+      "Rio Declaration",
+      "Paris Agreement",
+      "Cancún Declaration",
+      "Kyoto Protocol"
+    ],
+    "correct": 2,
+    "explanation": "The LMMC grouping 'was created through the Cancún Declaration (Feb 2002)'."
+  },
+  {
+    "question": "What is 'Xerarch' succession?",
+    "options": [
+      "Succession in dry areas.",
+      "Succession in wet areas.",
+      "Succession caused by human interference.",
+      "Succession that starts in the ocean."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states: 'Dry areas: Xerarch succession and the progress is from xeric to mesic conditions.'"
+  },
+  {
+    "question": "Which of the following is a 'Biotic component' of the environment according to the document?",
+    "options": [
+      "Humus",
+      "Lightning",
+      "Climate",
+      "Dead and decomposing materials"
+    ],
+    "correct": 3,
+    "explanation": "Biotic components 'comprise living organisms as well as dead and decomposing materials such as remains, bones, fossils, and organic debris.'"
+  },
+  {
+    "question": "What is 'Biofouling' in the context of invasive species?",
+    "options": [
+      "Aquatic organisms attaching to the hulls or propellers of ships.",
+      "The smell produced by decomposing invasive plants.",
+      "The pollution of soil by heavy metals.",
+      "The genetic mutation of native species."
+    ],
+    "correct": 0,
+    "explanation": "The text explains invasives spread via shipping routes where 'Aquatic organisms travel in ballast water and attach to hulls/propellers (biofouling).'"
+  },
+  {
+    "question": "Which ecosystem service price tag have researchers estimated on average per year?",
+    "options": [
+      "US $1 trillion",
+      "US $100 billion",
+      "US $33 trillion",
+      "US $50 trillion"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states: 'Researchers have put an average price tag of US $ 33 trillion a year on these fundamental ecosystems services'."
+  },
+  {
+    "question": "What is 'Autogenic Succession'?",
+    "options": [
+      "Succession brought about by outside forces like volcanoes.",
+      "Succession that never reaches a climax community.",
+      "Succession involving only animals.",
+      "Succession brought about by the living inhabitants of the community itself."
+    ],
+    "correct": 3,
+    "explanation": "Autogenic succession is 'Brought about by living inhabitants of that community itself'."
+  },
+  {
+    "question": "Which of the following is a 'Macro Consumer' that feeds on both plants and animals?",
+    "options": [
+      "Herbivore",
+      "Omnivore",
+      "Carnivore",
+      "Scavenger"
+    ],
+    "correct": 1,
+    "explanation": "Omnivores are defined as 'organisms that consume both plants and animals e.g. man, monkey'."
+  },
+  {
+    "question": "What is the 'Haber process' mentioned in the Nitrogen Cycle?",
+    "options": [
+      "A biological process in root nodules.",
+      "The way lightning fixes nitrogen.",
+      "The decomposition of urea by fungi.",
+      "A chemical process for ammonia production."
+    ],
+    "correct": 3,
+    "explanation": "The text lists 'Chemical: Haber process- ammonia production' as a way nitrogen fixation happens."
+  },
+  {
+    "question": "Which of the following is an 'indirect threat' from invasive alien species?",
+    "options": [
+      "Predation on native species.",
+      "Food-web alteration by replacing native food sources.",
+      "Spreading diseases to native wildlife.",
+      "Killing offspring of native animals."
+    ],
+    "correct": 1,
+    "explanation": "The PDF lists 'Food-web alteration by destroying or replacing native food sources' as an indirect threat."
+  },
+  {
+    "question": "According to the PDF, which ecosystem has the 'lowest' Net Primary Productivity per unit area?",
+    "options": [
+      "Extreme desert",
+      "Open Ocean",
+      "Agricultural land",
+      "Tundra"
+    ],
+    "correct": 0,
+    "explanation": "The table lists 'Extreme desert (sand/rock/ice)' with the lowest NPP of 3 g/m²/year."
+  },
+  {
+    "question": "What is 'Ecesis' in the phases of plant succession?",
+    "options": [
+      "Arrival of propagules.",
+      "Stable climax community.",
+      "Establishment of initial growth of vegetation.",
+      "Chemical inhibition of other plants."
+    ],
+    "correct": 2,
+    "explanation": "In Clement's theory, Ecesis is defined as the 'establishment of initial growth of vegetation'."
+  },
+  {
+    "question": "Which index is mentioned as being related to species diversity?",
+    "options": [
+      "Richter Scale",
+      "Shannon-Wiener Index",
+      "Gini Coefficient",
+      "Consumer Price Index"
+    ],
+    "correct": 1,
+    "explanation": "The PDF mentions 'Shannon-Wiener Species Diversity Index' and 'Simpson's Diversity Index' as related indices."
+  },
+  {
+    "question": "What is 'Niche Overlap'?",
+    "options": [
+      "When two species live in completely different biomes.",
+      "The evolution of a species into two different ones.",
+      "When co-occurring species share parts of their niche space with each other.",
+      "The death of a predator due to lack of prey."
+    ],
+    "correct": 2,
+    "explanation": "Niche overlap describes the 'situation in which co-occurring species share parts of their niche space with each other'."
+  },
+  {
+    "question": "Which organism is a 'Detritus feeder' that helps in decomposition?",
+    "options": [
+      "Lion",
+      "Wolf",
+      "Eagle",
+      "Earthworm"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states: 'Earthworms and certain soil organisms... are detritus feeders and help in the decomposition'."
+  },
+  {
+    "question": "The '10% Law' of energy transfer was given by whom?",
+    "options": [
+      "Ernst Haeckel",
+      "Raymond Lindeman",
+      "Arthur Tansley",
+      "James Lovelock"
+    ],
+    "correct": 1,
+    "explanation": "The document explicitly attributes the Law of 10% to 'Raymond Lindeman'."
+  },
+  {
+    "question": "Which of the following is a 'cultural service' of an ecosystem?",
+    "options": [
+      "Air quality regulation",
+      "Nutrient recycling",
+      "Spiritual well-being and aesthetic inspiration",
+      "Water purification"
+    ],
+    "correct": 2,
+    "explanation": "Cultural services are 'non-material benefits... for e.g. aesthetic and engineering inspiration, cultural identity and spiritual well-being.'"
+  },
+  {
+    "question": "In the Phosphorus cycle, what is 'Guano'?",
+    "options": [
+      "A type of rock found in the Himalayas.",
+      "Bird droppings rich in phosphorus compounds.",
+      "A deep-sea fish.",
+      "The process of phosphorus dissolving in water."
+    ],
+    "correct": 1,
+    "explanation": "Guano is defined as 'seabird populations... bird droppings that are rich in phosphorus compounds'."
+  },
+  {
+    "question": "Which type of 'Biotic Interaction' involves a large organism inhibiting the growth of a lower organism ( - / 0 )?",
+    "options": [
+      "Parasitism",
+      "Commensalism",
+      "Amensalism",
+      "Mutualism"
+    ],
+    "correct": 2,
+    "explanation": "The table on Biotic Interactions defines Amensalism as '-' for species 1 and '0' for species 2, often involving a larger organism inhibiting a lower one."
+  },
+  {
+    "question": "What is 'Endemism'?",
+    "options": [
+      "A species restricted to a specific, defined geographic area.",
+      "A species found all over the world.",
+      "A species that has gone extinct.",
+      "A species that can survive in space."
+    ],
+    "correct": 0,
+    "explanation": "Endemism is 'The condition in which a species is restricted to a specific, defined geographic area... and naturally occurs only there'."
+  },
+  {
+    "question": "The 'Living Planet Report 2022' noted an average decline of how much in global wildlife populations?",
+    "options": [
+      "25%",
+      "50%",
+      "69%",
+      "90%"
+    ],
+    "correct": 2,
+    "explanation": "The report notes a '69% average decline in global wildlife populations... over the last 50 years'."
+  },
+  {
+    "question": "Which of the following is an example of an 'endoparasite'?",
+    "options": [
+      "Tapeworm",
+      "Head lice",
+      "Leech",
+      "Ticks"
+    ],
+    "correct": 0,
+    "explanation": "The PDF categorizes Tapeworm (living within the body) as an endoparasite."
+  },
+  {
+    "question": "Which term refers to a region where there is a 'gradual and continuous transition' between ecosystems without a sharp boundary?",
+    "options": [
+      "Ecotone",
+      "Ecotype",
+      "Ecocline",
+      "Ecosphere"
+    ],
+    "correct": 2,
+    "explanation": "An ecocline 'refers to a region where there is a gradual and continuous transition from one ecosystem to another, without a distinct or sharp boundary'."
+  },
+  {
+    "question": "What is 'Primary Productivity'?",
+    "options": [
+      "The rate of formation of new organic matter by consumers.",
+      "The total energy found in the sun.",
+      "The amount of nitrogen in the soil.",
+      "The rate of biomass production by autotrophs."
+    ],
+    "correct": 3,
+    "explanation": "Primary productivity is the 'Rate of biomass production by autotrophs'."
+  },
+  {
+    "question": "Which 'Functional Unit' of an ecosystem involves the sequential process of energy moving between trophic levels?",
+    "options": [
+      "Productivity",
+      "Decomposition",
+      "Energy Flow",
+      "Nutrient Cycling"
+    ],
+    "correct": 2,
+    "explanation": "Energy flow is defined as 'the sequential process through which energy flows from one trophic level to another'."
+  },
+  {
+    "question": "In the Nitrogen Cycle, what is 'Ammonification'?",
+    "options": [
+      "Conversion of N2 to NO2.",
+      "Decomposition of nitrogenous waste into ammonium compounds.",
+      "Absorption of nitrates by plant leaves.",
+      "Conversion of nitrite to nitrate."
+    ],
+    "correct": 1,
+    "explanation": "Ammonification is 'The process of decomposition of nitrogenous waste by putrefying bacteria and fungi into ammonium compounds'."
+  },
+  {
+    "question": "What happens during a 'Food Web Collapse'?",
+    "options": [
+      "Interconnected food chains break down or fail to function sustainably.",
+      "The biodiversity of the area increases rapidly.",
+      "All organisms become primary producers.",
+      "Energy flow becomes 100% efficient."
+    ],
+    "correct": 0,
+    "explanation": "A food web collapse 'occurs when the interconnected food chain of an ecosystem breaks down or fails to function sustainably'."
+  },
+  {
+    "question": "Which of the following is an 'Abiotic' edaphic factor?",
+    "options": [
+      "Temperature",
+      "Wind speed",
+      "Soil pH",
+      "Rainfall"
+    ],
+    "correct": 2,
+    "explanation": "Edaphic factors listed under abiotic components include 'soil, pH, minerals, topography'."
+  },
+  {
+    "question": "What is the 'Biosphere'?",
+    "options": [
+      "The core of the Earth.",
+      "The part of the Earth where life can exist.",
+      "The layer of gases surrounding the Earth.",
+      "A man-made dome for growing plants."
+    ],
+    "correct": 1,
+    "explanation": "The biosphere is 'a part of the Earth where life can exist,' comprising atmosphere, hydrosphere, and lithosphere."
+  },
+  {
+    "question": "Which initiative is focused on 'making nature's values visible'?",
+    "options": [
+      "Mission Blue",
+      "GIAHS",
+      "WWF",
+      "TEEB"
+    ],
+    "correct": 3,
+    "explanation": "The Economics of Ecosystems and Biodiversity (TEEB) is a 'Global initiative focused on \"making nature's values visible\"'."
+  },
+  {
+    "question": "In the Water Cycle, what is 'Infiltration'?",
+    "options": [
+      "Water evaporating from leaves.",
+      "Precipitated water moving deep into the soil.",
+      "Water turning into ice.",
+      "Clouds moving across the ocean."
+    ],
+    "correct": 1,
+    "explanation": "Infiltration is when 'Some of the precipitated water moves deep into the soil'."
+  },
+  {
+    "question": "Which of the following is a characteristic of a 'Stable Community'?",
+    "options": [
+      "Productivity fluctuates wildly every year.",
+      "It is highly susceptible to invasive species.",
+      "It contains only one species.",
+      "Productivity remains relatively constant over time."
+    ],
+    "correct": 3,
+    "explanation": "A stable community is one in which 'productivity remains relatively constant over time, showing minimal year-to-year fluctuations'."
+  },
+  {
+    "question": "According to the PDF, how much sunlight do plants typically absorb?",
+    "options": [
+      "10%",
+      "Less than 1%",
+      "50%",
+      "90%"
+    ],
+    "correct": 1,
+    "explanation": "The PDF states: 'Plants absorb less than 1% of the sunlight that reaches them.'"
+  },
+  {
+    "question": "What is a 'Tipping Point' in an ecosystem?",
+    "options": [
+      "The highest point of a mountain in a biome.",
+      "The moment a predator catches its prey.",
+      "A critical threshold beyond which a small change triggers a large, irreversible shift.",
+      "The center of a food web."
+    ],
+    "correct": 2,
+    "explanation": "A tipping point is 'a critical threshold... beyond which a small change... triggers a large, often rapid and irreversible shift to a new ecological state'."
+  },
+  {
+    "question": "Which 'Functional Unit' of an ecosystem is the process of breakdown of dead organic material?",
+    "options": [
+      "Productivity",
+      "Decomposition",
+      "Energy Flow",
+      "Nutrient Cycling"
+    ],
+    "correct": 1,
+    "explanation": "Decomposition is defined as 'the process of breakdown of dead organic material'."
+  },
+  {
+    "question": "What is the primary objective of the 'Amazon Fund'?",
+    "options": [
+      "To fund industrial mining in Brazil.",
+      "To build a highway through the rainforest.",
+      "To export timber to Norway.",
+      "To support protection of the Brazilian Amazon through a REDD+ mechanism."
+    ],
+    "correct": 3,
+    "explanation": "The fund's objective is to 'support protection of the Brazilian Amazon through a REDD+ mechanism... to prevent, monitor and combat deforestation'."
+  },
+  {
+    "question": "With reference to in-situ conservation, which of the following are notified under the Wildlife (Protection) Act, 1972?",
+    "options": [
+      "Wildlife Sanctuaries and National Parks",
+      "Biosphere Reserves and National Parks",
+      "Wildlife Sanctuaries and Biosphere Reserves",
+      "Botanical Gardens and National Parks"
+    ],
+    "correct": 0,
+    "explanation": "According to the PDF, Wildlife Sanctuaries and National Parks are notified under the Wildlife (Protection) Act, 1972, whereas Biosphere Reserves are established as per the UNESCO MAB programme."
+  },
+  {
+    "question": "Which approach to biodiversity conservation involves taking threatened animals and plants out of their natural habitat and placing them in a unique setting for protection?",
+    "options": [
+      "In-situ conservation",
+      "Biosphere Reserve management",
+      "Community Reserve protection",
+      "Ex-situ conservation"
+    ],
+    "correct": 3,
+    "explanation": "Ex-situ conservation is defined as being 'outside natural habitat' where threatened species are protected and given special care in unique settings."
+  },
+  {
+    "question": "What is the specific legal difference between a Wildlife Sanctuary and a National Park regarding community rights?",
+    "options": [
+      "Some regulated rights may be allowed in a Sanctuary, but no rights are permitted inside a National Park.",
+      "No rights are permitted in a Sanctuary, while limited rights exist in a National Park.",
+      "Livestock grazing is permitted in both but regulated by the Chief Wildlife Warden.",
+      "Boundaries of National Parks are less rigid compared to Sanctuaries."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states that in a Sanctuary, some rights may be allowed (regulated), whereas in a National Park, no rights are permitted inside."
+  },
+  {
+    "question": "According to the UNESCO MAB programme, which zone of a Biosphere Reserve allows for sustainable human settlements and activities like agriculture and forestry?",
+    "options": [
+      "Core Area",
+      "Transition Area",
+      "Buffer Zone",
+      "Ecologically Sensitive Zone"
+    ],
+    "correct": 1,
+    "explanation": "The Transition Area is described as a zone of sustainable human settlements and livelihoods where activities like tourism, agriculture, and forestry are allowed if ecologically sustainable."
+  },
+  {
+    "question": "Which of the following is true regarding the declaration of a Community Reserve in India?",
+    "options": [
+      "It can be declared on government-owned land adjacent to National Parks.",
+      "It is declared by the Central Government only in Union Territories.",
+      "It can be declared by the State Government on private or community land where individuals have volunteered to conserve wildlife.",
+      "The rights of people living inside are completely restricted after notification."
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that Community Reserves can be declared by the State Government in any private or community land where an individual or a community has volunteered to conserve wildlife."
+  },
+  {
+    "question": "In the context of Tiger Reserves, what is the role of the National Tiger Conservation Authority (NTCA)?",
+    "options": [
+      "It is a non-governmental organization headquartered in New Delhi.",
+      "It is a statutory body under MoEF responsible for the management of Tiger Reserves.",
+      "It is the primary body that notifies National Parks.",
+      "It conducts the elephant census every five years."
+    ],
+    "correct": 1,
+    "explanation": "The Wild Life (Protection) Amendment Act, 2006 provides for creating the NTCA as a statutory body under the Ministry of Environment and Forests (MoEF)."
+  },
+  {
+    "question": "What does the term 'Cryopreservation' refer to in the context of seed banks?",
+    "options": [
+      "Storage of seeds at room temperature in airtight containers.",
+      "Preservation of seeds in their natural forest habitat.",
+      "Storage of seeds at ultra-low temperatures.",
+      "Genetic modification of seeds using CRISPR technology."
+    ],
+    "correct": 2,
+    "explanation": "The PDF defines cryopreservation as storing seeds at ultra-low temperatures, as practiced in seed banks."
+  },
+  {
+    "question": "Which body is responsible for recommending the alteration of boundaries for a National Park to the state legislature?",
+    "options": [
+      "State Wildlife Advisory Board",
+      "Chief Wildlife Warden",
+      "UNESCO MAB Committee",
+      "National Board for Wildlife"
+    ],
+    "correct": 3,
+    "explanation": "The PDF specifies that changes to boundaries of National Parks require the recommendation of the National Board for Wildlife (NBWL)."
+  },
+  {
+    "question": "According to the PDF, which Indian state/UT is home to the 'Cold Desert Biosphere Reserve', which was added to the World Network in 2025?",
+    "options": [
+      "Ladakh",
+      "Uttarakhand",
+      "Himachal Pradesh",
+      "Sikkim"
+    ],
+    "correct": 2,
+    "explanation": "The Cold Desert Biosphere Reserve is listed under India's Biosphere Reserves and contains Pin Valley National Park and Kibber Wildlife Sanctuary (located in Himachal Pradesh)."
+  },
+  {
+    "question": "What is the primary objective of the 'Seville Strategy' (1995) in the context of Biosphere Reserves?",
+    "options": [
+      "To ban all human activity within the transition zones.",
+      "To implement the first-ever tiger census in India.",
+      "To restrict the number of Biosphere Reserves to 10 per country.",
+      "To expand criteria beyond pure ecology to include social, cultural, and economic needs."
+    ],
+    "correct": 3,
+    "explanation": "The Seville Strategy (1995) expanded criteria to include social, cultural, spiritual, and economic needs, promoting a community-based model."
+  },
+  {
+    "question": "Under the Wetland (Conservation and Management) Rules 2017, who has the power to identify and notify wetlands?",
+    "options": [
+      "Central Wetland Regulatory Authority (CWRA)",
+      "National Green Tribunal",
+      "States and Union Territories",
+      "UNESCO Ramsar Secretariat"
+    ],
+    "correct": 2,
+    "explanation": "The 2017 rules decentralized wetland management by giving States/UTs the power to identify and notify wetlands within their jurisdictions."
+  },
+  {
+    "question": "What is the 'Montreux Record' associated with?",
+    "options": [
+      "A register of Ramsar Sites that need urgent attention due to ecological changes.",
+      "A list of extinct species in India.",
+      "A list of UNESCO World Heritage sites in danger.",
+      "A database of all Tiger Reserves in India."
+    ],
+    "correct": 0,
+    "explanation": "The Montreux Record is a mechanism associated with the Ramsar Advisory Mission and is a register of Ramsar Sites that need urgent attention."
+  },
+  {
+    "question": "Which of the following activities is strictly prohibited in the 'Core Area' of a Tiger Reserve?",
+    "options": [
+      "Research and monitoring",
+      "Ecotourism in buffer zones",
+      "Patrolling by forest staff",
+      "Grazing and collection of minor forest produce"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states that in the core area of a Tiger Reserve, collection of minor forest produce, grazing, and other human disturbances are not allowed."
+  },
+  {
+    "question": "MSTrIPES, a software-enabled system used in Tiger Reserves, stands for:",
+    "options": [
+      "Monitoring System for Tigers: Intensive Protection and Ecological Status",
+      "Monitoring System for Tigers: Integrated Protection and Ecological Status",
+      "Management System for Tigers: Intensive Protection and Ecological Status",
+      "Maintenance System for Tigers: Intensive Protection and Environmental Status"
+    ],
+    "correct": 0,
+    "explanation": "MSTrIPES stands for 'Monitoring System for Tigers Intensive Protection and Ecological Status'."
+  },
+  {
+    "question": "Which animal was designated as the 'National Heritage Animal' of India in 2010?",
+    "options": [
+      "Bengal Tiger",
+      "Asiatic Lion",
+      "Indian Elephant",
+      "One-horned Rhinoceros"
+    ],
+    "correct": 2,
+    "explanation": "The PDF mentions that in 2010, the Elephant was designated as the National Heritage Animal."
+  },
+  {
+    "question": "The 'Wise Use' principle is a core pillar of which international convention?",
+    "options": [
+      "Ramsar Convention",
+      "CITES",
+      "Bonn Challenge",
+      "New York Declaration on Forests"
+    ],
+    "correct": 0,
+    "explanation": "The 'Wise Use' principle is defined under the Ramsar Convention as maintenance of ecological character for sustainable development."
+  },
+  {
+    "question": "Which Indian city was among the first to be included in the global list of accredited 'Wetland Cities' under the Ramsar Convention?",
+    "options": [
+      "Kolkata",
+      "Chennai",
+      "Indore",
+      "Mumbai"
+    ],
+    "correct": 2,
+    "explanation": "Indore and Udaipur are mentioned as the first Indian cities to be included in the global list of 31 accredited wetland cities."
+  },
+  {
+    "question": "Under the Wildlife (Protection) Amendment Act 2022, which schedule contains animal species with the highest level of protection?",
+    "options": [
+      "Schedule IV",
+      "Schedule I",
+      "Schedule II",
+      "Schedule III"
+    ],
+    "correct": 1,
+    "explanation": "The 2022 amendment rationalized schedules, with Schedule I containing animal species with the highest level of protection."
+  },
+  {
+    "question": "What is 'Taxidermy' as regulated under the Wildlife (Protection) Act, 1972?",
+    "options": [
+      "The study of ancient forest fossils.",
+      "The process of counting tiger pugmarks.",
+      "The mounting or stuffing of animal skins/parts for trophies.",
+      "A method of genetic cloning for extinct species."
+    ],
+    "correct": 2,
+    "explanation": "The Act regulates taxidermy, which involves the handling of trophies, skins, antlers, horns, etc."
+  },
+  {
+    "question": "Which constitutional amendment moved the subject of 'Protection of wild animals and birds' from the State List to the Concurrent List?",
+    "options": [
+      "44th Amendment Act",
+      "42nd Amendment Act",
+      "73rd Amendment Act",
+      "86th Amendment Act"
+    ],
+    "correct": 1,
+    "explanation": "The PDF states that the subject was moved to the Concurrent List via the 42nd Amendment in 1976."
+  },
+  {
+    "question": "Which body is responsible for managing and recognizing Zoos in India under the Wildlife (Protection) Act?",
+    "options": [
+      "National Board for Wildlife",
+      "Wildlife Crime Control Bureau",
+      "Central Zoo Authority",
+      "National Tiger Conservation Authority"
+    ],
+    "correct": 2,
+    "explanation": "The Central Zoo Authority is listed as an authority under the Wildlife (Protection) Act, 1972, for the management/recognition of zoos."
+  },
+  {
+    "question": "According to the Indian Forest Act, 1927, in which type of forest are all activities prohibited unless specifically permitted?",
+    "options": [
+      "Reserved Forest",
+      "Protected Forest",
+      "Village Forest",
+      "Community Forest"
+    ],
+    "correct": 0,
+    "explanation": "In Reserved Forests, all activities are prohibited unless permitted (all activities like grazing/hunting etc. are banned by default)."
+  },
+  {
+    "question": "The 2017 amendment to the Indian Forest Act removed which of the following from the definition of 'tree'?",
+    "options": [
+      "Palm",
+      "Bamboo",
+      "Cane",
+      "Brushwood"
+    ],
+    "correct": 1,
+    "explanation": "The 2017 amendment amended the definition of tree to remove the word bamboos grown in non-forest areas."
+  },
+  {
+    "question": "The Forest Conservation Act, 1980 was primarily enacted to fulfill the Constitutional obligation under which Article?",
+    "options": [
+      "Article 21",
+      "Article 51-A(g)",
+      "Article 371-A",
+      "Article 48-A"
+    ],
+    "correct": 3,
+    "explanation": "The Act was enacted to fulfill the Constitutional obligation under Article 48-A (protection and improvement of environment and safeguarding of forests)."
+  },
+  {
+    "question": "The landmark 'T.N. Godavarman Thirumulkpad' judgment by the Supreme Court clarified that the term 'forest' includes:",
+    "options": [
+      "Only areas notified as Reserved Forests.",
+      "Only government-owned forest lands.",
+      "Areas recorded as forest in government records and those matching the 'dictionary meaning'.",
+      "Only those areas with a tree canopy density of more than 70%."
+    ],
+    "correct": 2,
+    "explanation": "The judgment stated that 'forest' covers its dictionary meaning and any area recorded as forest in government records, irrespective of ownership."
+  },
+  {
+    "question": "Under the Forest Conservation (Amendment) Act, 2023, the Act now applies to land notified as forest under the Indian Forest Act, 1927 or:",
+    "options": [
+      "Any land with more than 10 trees per hectare.",
+      "Land notified as forest on or after 25th October 1980 in a government record.",
+      "Any private land used for agroforestry.",
+      "Land within 500 km of international borders."
+    ],
+    "correct": 1,
+    "explanation": "The 2023 amendment specifies the Act applies to land notified as forest or land recorded as forest in government records on or after 25th October 1980."
+  },
+  {
+    "question": "What is the primary purpose of the 'Net Present Value' (NPV) in the context of the Compensatory Afforestation Fund Act, 2016?",
+    "options": [
+      "To calculate the total timber value of a forest.",
+      "To fund the salaries of forest guards.",
+      "To compensate for the loss of ecosystem goods and services provided by the diverted forest land.",
+      "To pay for international carbon credits."
+    ],
+    "correct": 2,
+    "explanation": "NPV is paid to compensate for the fact that newly afforested areas cannot instantly provide the same ecosystem goods and services as the diverted forest land."
+  },
+  {
+    "question": "The 'Gram Sabha' under the Forest Rights Act (FRA), 2006 has the authority to:",
+    "options": [
+      "Declare an area as a National Park.",
+      "Initiate the process for determining the nature and extent of individual or community forest rights.",
+      "Grant environmental clearance for mining projects.",
+      "Collect income tax from forest dwellers."
+    ],
+    "correct": 1,
+    "explanation": "The Gram Sabha is the competent authority to initiate the determination of the nature and extent of forest rights."
+  },
+  {
+    "question": "What is the maximum limit of land ownership (Title rights) that can be granted to a forest dweller under the FRA, 2006?",
+    "options": [
+      "2 hectares",
+      "10 hectares",
+      "Unlimited based on traditional use",
+      "4 hectares"
+    ],
+    "correct": 3,
+    "explanation": "Under the Title rights of FRA, ownership of land cultivated by forest dwellers is allowed up to a maximum of 4 hectares."
+  },
+  {
+    "question": "To claim rights as 'Other Traditional Forest Dwellers' (OTFD) under FRA, a community must have resided in the forest for at least how many generations prior to 2005?",
+    "options": [
+      "1 generation (25 years)",
+      "3 generations (75 years)",
+      "2 generations (50 years)",
+      "5 generations (125 years)"
+    ],
+    "correct": 1,
+    "explanation": "OTFDs must have primarily resided in the forest for 3 generations (75 years) prior to December 2005."
+  },
+  {
+    "question": "In the India State of Forest Report (ISFR), 'Very Dense Forest' is defined as land with a tree canopy density of:",
+    "options": [
+      "More than 70%",
+      "More than 40%",
+      "More than 90%",
+      "Between 10% and 40%"
+    ],
+    "correct": 0,
+    "explanation": "According to the ISFR density-based classification, Very Dense Forest (VDF) has a canopy density of >70%."
+  },
+  {
+    "question": "Which Indian state has the largest total forest cover by area according to ISFR 2023?",
+    "options": [
+      "Arunachal Pradesh",
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Mizoram"
+    ],
+    "correct": 1,
+    "explanation": "Madhya Pradesh has the largest area of forest cover (77,073 sq km)."
+  },
+  {
+    "question": "What does 'Trees Outside Forests' (TOF) refer to in the ISFR assessment?",
+    "options": [
+      "Only trees in urban parks.",
+      "Plantations within Reserved Forests.",
+      "Dead trees found in sanctuaries.",
+      "All trees outside the Recorded Forest Area (RFA), irrespective of patch size."
+    ],
+    "correct": 3,
+    "explanation": "TOF refers to all trees outside RFA irrespective of patch size."
+  },
+  {
+    "question": "The 'Miyawaki Method' is a technique primarily used for:",
+    "options": [
+      "Estimating tiger populations using DNA.",
+      "Urban afforestation to create micro forests.",
+      "Treating water pollution in oxbow lakes.",
+      "Relocating tribes from core tiger habitats."
+    ],
+    "correct": 1,
+    "explanation": "The Miyawaki Method is described as a technique of urban afforestation by creating micro forests over small plots of land."
+  },
+  {
+    "question": "Which body was constituted under the Environment (Protection) Act, 1986 to regulate and control groundwater development?",
+    "options": [
+      "Central Groundwater Authority (CGWA)",
+      "Central Water Commission",
+      "National Ganga River Basin Authority",
+      "Water Quality Assessment Board"
+    ],
+    "correct": 0,
+    "explanation": "The CGWA has been constituted by GOI under the Environment (Protection) Act, 1986 to regulate and control groundwater resources."
+  },
+  {
+    "question": "The 'Taj Trapezium Zone' (TTZ) was established to protect the Taj Mahal and which other World Heritage Sites?",
+    "options": [
+      "Qutub Minar and Red Fort",
+      "Agra Fort and Fatehpur Sikri",
+      "Humayun's Tomb and Bharatpur Sanctuary",
+      "Ajanta and Ellora Caves"
+    ],
+    "correct": 1,
+    "explanation": "The TTZ covers three World Heritage Sites: Taj Mahal, Agra Fort, and Fatehpur Sikri."
+  },
+  {
+    "question": "The 'Eco-Sensitive Zones' (ESZ) are notified by the Central Government using powers under which Act?",
+    "options": [
+      "Wildlife (Protection) Act, 1972",
+      "Indian Forest Act, 1927",
+      "Biological Diversity Act, 2002",
+      "Environment (Protection) Act, 1986"
+    ],
+    "correct": 3,
+    "explanation": "ESZs are notified by the Central Government using powers under Section 3 of the Environment (Protection) Act, 1986."
+  },
+  {
+    "question": "According to Supreme Court directions, what is the mandatory minimum width of an ESZ around a Protected Area if not already notified?",
+    "options": [
+      "500 meters",
+      "10 kilometers",
+      "1 kilometer",
+      "5 kilometers"
+    ],
+    "correct": 2,
+    "explanation": "The Supreme Court directed that every national park and wildlife sanctuary should mandatorily have a minimum 1 km ESZ."
+  },
+  {
+    "question": "Which of the following activities is 'Prohibited' within an Eco-Sensitive Zone?",
+    "options": [
+      "Rainwater harvesting",
+      "Commercial mining",
+      "Ongoing agricultural practices",
+      "Felling of trees"
+    ],
+    "correct": 1,
+    "explanation": "Commercial mining is listed as a prohibited activity, while felling of trees is 'Regulated' and agricultural practices are 'Permissible'."
+  },
+  {
+    "question": "The 'Kasturirangan Committee' (2013) was related to the conservation of which region?",
+    "options": [
+      "Himalayan Ecosystem",
+      "Sundarbans",
+      "Thar Desert",
+      "Western Ghats"
+    ],
+    "correct": 3,
+    "explanation": "The Kasturirangan committee (2013) proposed that 37% of the total area of the Western Ghats be declared as an ESA."
+  },
+  {
+    "question": "In the Environmental Impact Assessment (EIA) process, 'Screening' is done to:",
+    "options": [
+      "Collect baseline data of the area.",
+      "Decide whether a project requires a statutory environmental clearance.",
+      "Identify the likely impacts and mitigation options.",
+      "Hold a public hearing with local groups."
+    ],
+    "correct": 1,
+    "explanation": "Screening is the stage where the scale, location, and type of project are checked to decide if statutory clearance is required."
+  },
+  {
+    "question": "Coastal Regulation Zone (CRZ) rules divide the coastal areas into how many categories?",
+    "options": [
+      "Four (CRZ-I to CRZ-IV)",
+      "Two (Land and Sea)",
+      "Three (Urban, Rural, Sensitive)",
+      "Five (including Island zones)"
+    ],
+    "correct": 0,
+    "explanation": "The rules divide the zones into CRZ-I, CRZ-II, CRZ-III, and CRZ-IV."
+  },
+  {
+    "question": "Which CRZ category specifically covers 'Ecologically Sensitive Areas' like mangroves and coral reefs?",
+    "options": [
+      "CRZ-II",
+      "CRZ-I A",
+      "CRZ-III B",
+      "CRZ-IV"
+    ],
+    "correct": 1,
+    "explanation": "CRZ-I A includes Ecologically Sensitive Areas (ESAs) such as mangroves and coral reefs."
+  },
+  {
+    "question": "What is the primary difference between 'Inland' and 'Coastal' wetlands as per the classification in the PDF?",
+    "options": [
+      "Inland includes ox-bow lakes and swamps; Coastal includes estuaries and mangroves.",
+      "Inland wetlands are only man-made, while Coastal are natural.",
+      "Coastal wetlands have a minimum depth of 10 meters.",
+      "Inland wetlands do not support migratory birds."
+    ],
+    "correct": 0,
+    "explanation": "The classification table shows Inland wetlands include ox-bow lakes and swamps, while Coastal includes estuaries, lagoons, and mangroves."
+  },
+  {
+    "question": "Under the Water Act 1974, which body has the power to establish and enforce effluent standards for factories?",
+    "options": [
+      "Gram Panchayat",
+      "State Pollution Control Boards (SPCBs)",
+      "National Tiger Conservation Authority",
+      "Ministry of Jal Shakti"
+    ],
+    "correct": 1,
+    "explanation": "The Act vests regulatory authority in SPCBs to establish and enforce effluent standards for factories."
+  },
+  {
+    "question": "The 2024 amendment to the Water Act decriminalized several violations and replaced imprisonment with penalties ranging from:",
+    "options": [
+      "₹1,000 to ₹1 lakh",
+      "₹1 lakh to ₹50 lakh",
+      "₹10,000 to ₹15 lakh",
+      "₹50,000 to ₹5 lakh"
+    ],
+    "correct": 2,
+    "explanation": "The amendment decriminalizes several violations and instead imposes penalties between ₹10,000 and ₹15 lakh."
+  },
+  {
+    "question": "Which Act serves as 'Umbrella legislation' for the coordination of environmental authorities in India?",
+    "options": [
+      "Environment (Protection) Act, 1986",
+      "Wildlife (Protection) Act, 1972",
+      "Water Act, 1974",
+      "Air Act, 1981"
+    ],
+    "correct": 0,
+    "explanation": "The Environment Protection Act, 1986 is described as 'Umbrella legislation framework for Central coordination of authorities'."
+  },
+  {
+    "question": "What is the 'No Development Zone' (NDZ) limit for CRZ-III A areas (population density > 2161/km²)?",
+    "options": [
+      "200 meters from HTL",
+      "50 meters from HTL",
+      "100 meters from HTL",
+      "10 meters from HTL"
+    ],
+    "correct": 1,
+    "explanation": "For CRZ-III A, the NDZ is up to 50 meters from the High Tide Line (HTL)."
+  },
+  {
+    "question": "Which of the following is an example of an 'In-situ' conservation method?",
+    "options": [
+      "Sacred Grove",
+      "Gene Bank",
+      "Botanical Garden",
+      "Cryopreservation"
+    ],
+    "correct": 0,
+    "explanation": "Sacred Groves are listed under In-situ conservation, while the others are Ex-situ."
+  },
+  {
+    "question": "Who is the Chairman of the National Board for Wildlife (NBWL)?",
+    "options": [
+      "Minister of Environment and Forests",
+      "President of India",
+      "Prime Minister",
+      "Chief Wildlife Warden"
+    ],
+    "correct": 2,
+    "explanation": "The organizational structure table shows the National Board of Wildlife is headed by the Prime Minister."
+  },
+  {
+    "question": "What is the primary characteristic of a 'Lentic' ecosystem like a Lake, distinguishing it from a Wetland?",
+    "options": [
+      "It generally has a minimum depth of 3 meters and little aquatic vegetation.",
+      "It has no thermal stratification.",
+      "It is dominated by macrophytes.",
+      "It has a very high littoral to pelagial ratio."
+    ],
+    "correct": 0,
+    "explanation": "Lakes are considered standing water bodies with a minimum depth of 3m and very little aquatic vegetation (macrophytes)."
+  },
+  {
+    "question": "In the context of wildlife crimes, what is the 'WCCB' established under the 2006 amendment?",
+    "options": [
+      "Wildlife Conservation and Control Board",
+      "World Canine Control Bureau",
+      "Wildlife Crime Control Bureau",
+      "Wildlife Census Coordination Board"
+    ],
+    "correct": 2,
+    "explanation": "WCCB stands for Wildlife Crime Control Bureau, a statutory body under MoEF."
+  },
+  {
+    "question": "Which state has the highest population of elephants in India according to SAIEE findings?",
+    "options": [
+      "Assam",
+      "Karnataka",
+      "Kerala",
+      "Tamil Nadu"
+    ],
+    "correct": 1,
+    "explanation": "The PDF states that 'Karnataka supports the highest population' of elephants."
+  },
+  {
+    "question": "What is the 'Green India Mission' (GIM) a part of?",
+    "options": [
+      "Wildlife Protection Act",
+      "Project Tiger",
+      "Ramsar Convention",
+      "National Action Plan on Climate Change (NAPCC)"
+    ],
+    "correct": 3,
+    "explanation": "GIM was started in 2014 as one of the 8 missions under the NAPCC."
+  },
+  {
+    "question": "Which organization releases the 'Global Forest Resources Assessment' (GFRA) every five years?",
+    "options": [
+      "UNEP",
+      "Food and Agriculture Organization (FAO)",
+      "WWF",
+      "Conservation International"
+    ],
+    "correct": 1,
+    "explanation": "The GFRA is released by the Food and Agriculture Organization (FAO)."
+  },
+  {
+    "question": "The 'New York Declaration on Forests' (2014) aims to end deforestation by which year?",
+    "options": [
+      "2025",
+      "2040",
+      "2050",
+      "2030"
+    ],
+    "correct": 3,
+    "explanation": "The declaration pledges to halve the rate of deforestation by 2020 and to end it by 2030."
+  },
+  {
+    "question": "Under the 2022 Amendment to the Wildlife Act, 'Vermin' status is handled by:",
+    "options": [
+      "Removing the separate schedule for vermin and allowing the Central Govt to notify species.",
+      "Placing all such animals in Schedule V.",
+      "Banning the hunting of vermin entirely.",
+      "Transferring vermin species to Schedule I."
+    ],
+    "correct": 0,
+    "explanation": "The 2022 amendment rationalized schedules to four and 'Removes separate schedule for vermin'."
+  },
+  {
+    "question": "Which specific mineral mining category is explicitly mentioned in the 'Van (Sanrakshan Evam Samvardhan) Amendment Rules, 2025'?",
+    "options": [
+      "Coal and Iron",
+      "Critical & Strategic Minerals",
+      "Sand and Gravel",
+      "Gold and Silver"
+    ],
+    "correct": 1,
+    "explanation": "Mining of Critical & Strategic Minerals (as per MMDR Act) is explicitly included in the 2025 rules."
+  },
+  {
+    "question": "What is the funding share between the National and State Compensatory Afforestation Funds?",
+    "options": [
+      "50:50",
+      "90:10 (National:State)",
+      "60:40",
+      "10:90 (National:State)"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states: 'Fund sharing: National Fund: 10%; State Funds: 90%'."
+  },
+  {
+    "question": "Which term describes a land that conforms to the 'dictionary' meaning of forest but is not officially notified?",
+    "options": [
+      "Reserved Forest",
+      "Deemed Forest",
+      "Unclassed Forest",
+      "Protected Forest"
+    ],
+    "correct": 1,
+    "explanation": "Deemed forest is land that conforms to the 'dictionary' meaning of forest but is not notified as forest land."
+  },
+  {
+    "question": "Which schedule of the Wildlife (Protection) Act, 1972 is dedicated to 'Specimens listed under CITES Appendices' after the 2022 amendment?",
+    "options": [
+      "Schedule I",
+      "Schedule II",
+      "Schedule III",
+      "Schedule IV"
+    ],
+    "correct": 3,
+    "explanation": "After the 2022 amendment, Schedule IV is for CITES Appendix specimens."
+  },
+  {
+    "question": "The 'Bonn Challenge' (which India joined) relates to:",
+    "options": [
+      "Reducing plastic waste in oceans.",
+      "Restoration of degraded and deforested land.",
+      "Protecting migratory waterbirds.",
+      "Eliminating the use of lead in petrol."
+    ],
+    "correct": 1,
+    "explanation": "India joined the Bonn Challenge pledges to bring into restoration 13 million hectares of degraded and deforested land."
+  },
+  {
+    "question": "Who is the Chairman of a 'Community Reserve Management Committee'?",
+    "options": [
+      "A member elected by the committee (who also serves as Honorary Wildlife Warden)",
+      "The District Collector",
+      "The Chief Wildlife Warden",
+      "The Village Panchayat President"
+    ],
+    "correct": 0,
+    "explanation": "The Chairman is elected by the committee members and will serve as Honorary Wildlife Warden of the reserve."
+  },
+  {
+    "question": "What is the primary objective of the 'Nagar Van Scheme' launched in 2020?",
+    "options": [
+      "To protect the habitat of street dogs.",
+      "To provide free timber to city residents.",
+      "To ban all industries in metropolitan areas.",
+      "To develop 400 Urban Forests and 200 Nagar Vatikas."
+    ],
+    "correct": 3,
+    "explanation": "The scheme aims to develop 400 Urban Forests (Nagar Van) and 200 Nagar Vatika across the country."
+  },
+  {
+    "question": "In the context of environmental laws, 'Article 253' was used to enact which Act to implement international obligations?",
+    "options": [
+      "Wildlife (Protection) Act, 1972",
+      "Environment (Protection) Act, 1986",
+      "Water Act, 1974",
+      "Forest Conservation Act, 1980"
+    ],
+    "correct": 1,
+    "explanation": "The Environment Protection Act, 1986 was enacted using Article 253 to implement decisions made at international conferences like Stockholm."
+  },
+  {
+    "question": "Which of the following is NOT a 'Minor Forest Produce' (MFP) as per the statutory definition?",
+    "options": [
+      "Bamboo",
+      "Tendu leaves",
+      "Honey",
+      "Timber"
+    ],
+    "correct": 3,
+    "explanation": "MFP is defined as all 'non-timber' forest produce of plant origin."
+  },
+  {
+    "question": "Which Indian state houses the highest number of Particularly Vulnerable Tribal Groups (PVTGs)?",
+    "options": [
+      "Odisha",
+      "Madhya Pradesh",
+      "Andaman & Nicobar Islands",
+      "Jharkhand"
+    ],
+    "correct": 0,
+    "explanation": "Odisha houses 13 PVTGs, which is the highest among all the states."
+  },
+  {
+    "question": "The 'Section 19' (Citizen Suit) provision under the EPA 1986 allows any person to file a complaint after a notice of:",
+    "options": [
+      "15 days",
+      "60 days",
+      "30 days",
+      "90 days"
+    ],
+    "correct": 1,
+    "explanation": "Under Section 19, any person can file a complaint after 60 days' notice to the Central Government."
+  },
+  {
+    "question": "What is the 0-based index of the correct answer for: 'Which Indian city is surrounded by five major wetlands including Pichola and Fateh Sagar?'",
+    "options": [
+      "Udaipur",
+      "Indore",
+      "Bhopal",
+      "Jaipur"
+    ],
+    "correct": 0,
+    "explanation": "Udaipur is surrounded by five major wetlands: Pichola, Fateh Sagar, Rang Sagar, Swaroop Sagar, and Doodh Talai."
+  },
+  {
+    "question": "The 'Bridge Programme Grants' mentioned in Ramsar COP15 outcomes promote:",
+    "options": [
+      "Construction of bridges over wetlands.",
+      "Migration pathways for elephants.",
+      "Gender mainstreaming and women's leadership in wetland governance.",
+      "Funding for urban sewage treatment plants."
+    ],
+    "correct": 2,
+    "explanation": "The BRIDGE Programme Grants promote gender mainstreaming and women's leadership in wetland governance."
+  },
+  {
+    "question": "According to the PDF, where is 'India's seedbank' located?",
+    "options": [
+      "Howrah, West Bengal",
+      "Svalbard, Norway",
+      "Dehradun, Uttarakhand",
+      "Changla, Ladakh"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states: 'Changla, Ladakh: India's seedbank'."
+  },
+  {
+    "question": "Which body performs the functions of the Central Pollution Control Board (CPCB) for Union Territories?",
+    "options": [
+      "The respective State SPCB",
+      "The Central Pollution Control Board itself",
+      "National Green Tribunal",
+      "Ministry of Home Affairs"
+    ],
+    "correct": 1,
+    "explanation": "The PDF states: 'A Central Pollution Control Board performs the same functions for Union Territories'."
+  },
+  {
+    "question": "Under the 2024 Water Amendment Act, who appoints 'Adjudicating officers' to determine penalties?",
+    "options": [
+      "Supreme Court",
+      "State Government",
+      "Central Government",
+      "National Green Tribunal"
+    ],
+    "correct": 2,
+    "explanation": "The Act allows the Central Government to appoint adjudication officers to determine penalties."
+  },
+  {
+    "question": "The 'World Network of Biosphere Reserves' is a global network under:",
+    "options": [
+      "IUCN",
+      "Wetlands International",
+      "World Wildlife Fund",
+      "UNESCO MAB Programme"
+    ],
+    "correct": 3,
+    "explanation": "Biosphere Reserves are internationally recognized under UNESCO's Man and the Biosphere (MAB) Programme."
+  },
+  {
+    "question": "What is 'Arborium' as mentioned in the PDF?",
+    "options": [
+      "A collection of preserved animals.",
+      "A type of soil found in wetlands.",
+      "A place for the ex-situ conservation of trees.",
+      "A method of carbon sequestration."
+    ],
+    "correct": 2,
+    "explanation": "The PDF lists 'Arborium (trees)' under Ex-situ conservation methods."
+  },
+  {
+    "question": "Which species is the focus of the 'Jatayu breeding center'?",
+    "options": [
+      "Vulture",
+      "Asian Elephant",
+      "Gharial",
+      "Red Panda"
+    ],
+    "correct": 0,
+    "explanation": "The PDF lists 'Vulture breeding sites: jatayu breeding center'."
+  },
+  {
+    "question": "Which organization's 'Red List' is referenced for designating Ramsar sites under Criterion 2?",
+    "options": [
+      "CITES",
+      "WII",
+      "IUCN (Vulnerable, Endangered, etc.)",
+      "TRAFFIC"
+    ],
+    "correct": 2,
+    "explanation": "Criterion 2 of Ramsar refers to 'vulnerable, endangered, or critically endangered species' which are standard IUCN categories."
+  },
+  {
+    "question": "According to the ISFR 2023, what is the 'Forest Cover' percentage of India's geographical area?",
+    "options": [
+      "24.62%",
+      "3.41%",
+      "33.00%",
+      "21.76%"
+    ],
+    "correct": 3,
+    "explanation": "Forest Cover is 7,15,342.61 sq km, which is 21.76% of India's geographical area."
+  },
+  {
+    "question": "What is 'Scrub' land according to the ISFR density-based classification?",
+    "options": [
+      "Land with canopy density between 10-40%.",
+      "Areas with no vegetation at all.",
+      "Land with canopy density less than 10%.",
+      "Waterlogged forest land."
+    ],
+    "correct": 2,
+    "explanation": "Scrub is defined as having a canopy density of <10%."
+  },
+  {
+    "question": "Under the Forest Rights Act, 'Community Forest Resource' (CFR) rights are heritable but NOT:",
+    "options": [
+      "Legal",
+      "Applicable in Sanctuaries",
+      "Based on traditional knowledge",
+      "Alienable or transferable"
+    ],
+    "correct": 3,
+    "explanation": "The nature of rights under FRA are heritable but not alienable/transferable."
+  },
+  {
+    "question": "The 'Joint Forest Management Committee' (JFMC) is a key implementer in which mission?",
+    "options": [
+      "Project Elephant",
+      "Green India Mission (GIM)",
+      "National Lake Conservation Programme",
+      "Project Cheetah"
+    ],
+    "correct": 1,
+    "explanation": "GIM implementation model is bottom-up with JFMCs as key implementers."
+  },
+  {
+    "question": "Which type of forest has the lowest degree of protection according to the Indian Forest Act, 1927?",
+    "options": [
+      "Village Forest",
+      "Reserved Forest",
+      "Protected Forest",
+      "National Park"
+    ],
+    "correct": 0,
+    "explanation": "Degree of protection: Reserved forests > Protected forests > Village forests."
+  },
+  {
+    "question": "The 'Genetic Engineering Appraisal Committee' (GEAC) is constituted under which Act?",
+    "options": [
+      "Wildlife (Protection) Act, 1972",
+      "Environment (Protection) Act, 1986",
+      "Biological Diversity Act, 2002",
+      "Forest Conservation Act, 1980"
+    ],
+    "correct": 1,
+    "explanation": "GEAC is listed as an authority constituted under the Environment (Protection) Act, 1986."
+  },
+  {
+    "question": "What is the 'Hydric soil' characteristic of a wetland?",
+    "options": [
+      "Soil with not enough O2 available for some plants due to waterlogging.",
+      "Soil with high oxygen levels.",
+      "Soil that is always dry.",
+      "Soil that is purely made of sand."
+    ],
+    "correct": 0,
+    "explanation": "Hydric soils are defined as having 'not enough O2 available for some plants'."
+  },
+  {
+    "question": "Which of the following is a 'Man-made' coastal wetland?",
+    "options": [
+      "Mangrove",
+      "Coral reef",
+      "Salt pan",
+      "Estuary"
+    ],
+    "correct": 2,
+    "explanation": "The wetland classification table lists 'Salt pans' and 'Aquaculture' under Man-made Coastal wetlands."
+  },
+  {
+    "question": "Which state does NOT have its first-ever Ramsar sites added as per the latest report (2025/26 update)?",
+    "options": [
+      "Tamil Nadu",
+      "Sikkim",
+      "Jharkhand",
+      "Chhattisgarh"
+    ],
+    "correct": 0,
+    "explanation": "Tamil Nadu leads with 20 wetlands, while Sikkim and Jharkhand have added their first-ever sites. Tamil Nadu's sites are not its first."
+  },
+  {
+    "question": "The 'Wuhan Declaration' was adopted at which international meeting?",
+    "options": [
+      "COP13 of Ramsar Convention",
+      "COP15 of Ramsar Convention",
+      "COP14 of Ramsar Convention",
+      "Stockholm Conference"
+    ],
+    "correct": 2,
+    "explanation": "The Wuhan Declaration was adopted at Ramsar COP14 in 2022."
+  },
+  {
+    "question": "Which of the following is a criterion for 'Wetland City Accreditation' (WCA)?",
+    "options": [
+      "Integrating wetland planning into urban land-use decisions.",
+      "Minimum population of 10 million.",
+      "Banning all migratory birds.",
+      "Converting all wetlands into parks."
+    ],
+    "correct": 0,
+    "explanation": "Criterion 4 for WCA is: 'Integrates wetland planning into urban land-use decisions'."
+  },
+  {
+    "question": "The 'Menar Wetland Complex', a new Ramsar site in Rajasthan, is known for hosting which critically endangered bird?",
+    "options": [
+      "Great Indian Bustard",
+      "Pink-headed Duck",
+      "White-rumped Vulture",
+      "Siberian Crane"
+    ],
+    "correct": 2,
+    "explanation": "Menar Wetland Complex hosts the critically endangered White-rumped Vulture."
+  },
+  {
+    "question": "Which section of the Wildlife (Protection) Act allows the Chief Wildlife Warden to permit hunting of an animal if it becomes a threat to human life?",
+    "options": [
+      "Section 35",
+      "Section 18",
+      "Section 36",
+      "Section 11"
+    ],
+    "correct": 3,
+    "explanation": "Under the 'Prohibition of Hunting' exceptions, Chief Wildlife Warden (CWLW) can give permission for Schedule I/II animals if they are a threat to human life (Section 11 is implied in WPA context)."
+  },
+  {
+    "question": "In the CRZ rules, the 'Intertidal zone' is classified as:",
+    "options": [
+      "CRZ-I B",
+      "CRZ-I A",
+      "CRZ-IV",
+      "CRZ-II"
+    ],
+    "correct": 0,
+    "explanation": "CRZ-I B is defined as the intertidal zone between HTL and LTL."
+  },
+  {
+    "question": "What is the primary role of the 'Scientific Authority' under India's CITES implementation?",
+    "options": [
+      "To arrest wildlife smugglers.",
+      "To issue export permits.",
+      "To manage all Tiger Reserves.",
+      "To provide advice on the impact of trade on species."
+    ],
+    "correct": 3,
+    "explanation": "The Scientific Authority's role is to provide 'advice on trade impact' under the CITES framework."
+  },
+  {
+    "question": "The '100 km exemption' for strategic projects from forest clearance applies to areas along:",
+    "options": [
+      "International borders",
+      "State borders",
+      "Coastal HTL",
+      "National Highways"
+    ],
+    "correct": 0,
+    "explanation": "The 2023 amendment allows diversion of forest land situated within 100 km along international borders for strategic projects."
+  },
+  {
+    "question": "Which body is responsible for preparing the 'Tiger Census Report' every four years?",
+    "options": [
+      "IUCN",
+      "Zoological Survey of India",
+      "Forest Survey of India",
+      "Wildlife Institute of India (WII) and NTCA"
+    ],
+    "correct": 3,
+    "explanation": "The Tiger Census is carried out by the WII and the NTCA."
+  },
+  {
+    "question": "What is the 'Dictionary Meaning' of forest as per the Supreme Court?",
+    "options": [
+      "Any land with more than 10% canopy.",
+      "Any large tract of land covered with trees and undergrowth.",
+      "Only lands notified under the 1927 Act.",
+      "Areas containing endangered flora."
+    ],
+    "correct": 1,
+    "explanation": "The SC Godavarman order included forests as per the 'dictionary meaning' (implicitly referring to land covered with trees and undergrowth)."
+  },
+  {
+    "question": "Which of the following is a 'Regulated' activity in an Eco-Sensitive Zone?",
+    "options": [
+      "Organic farming",
+      "Commercial mining",
+      "Rainwater harvesting",
+      "Establishment of hotels and resorts"
+    ],
+    "correct": 3,
+    "explanation": "Establishment of hotels and resorts is listed under 'Regulated' activities."
+  },
+  {
+    "question": "The 'SAIEE' (2021-25) is India's first population estimation for which animal based on DNA?",
+    "options": [
+      "Tiger",
+      "Elephant",
+      "Leopard",
+      "Lion"
+    ],
+    "correct": 1,
+    "explanation": "SAIEE (2021-25) is 'India's first DNA-based elephant population estimation'."
+  },
+  {
+    "question": "What percentage of the world's wild Asian Elephant population does India harbor?",
+    "options": [
+      "60%",
+      "30%",
+      "50%",
+      "80%"
+    ],
+    "correct": 0,
+    "explanation": "India harbors approximately 60% of the world's wild Asian Elephant population."
+  },
+  {
+    "question": "Under the 2024 Water Amendment Act, 'tampering with monitoring devices' like water meters incurs a penalty up to:",
+    "options": [
+      "₹1 lakh",
+      "₹15 lakh",
+      "₹5 lakh",
+      "₹50 lakh"
+    ],
+    "correct": 1,
+    "explanation": "Tampering with monitoring devices incurs a penalty ranging from ₹10,000 to ₹15 lakh."
+  },
+  {
+    "question": "Which organization's 'System of Environmental-Economic Accounting' (SEEA) framework is used for forest accounting in India?",
+    "options": [
+      "United Nations",
+      "World Bank",
+      "IMF",
+      "Greenpeace"
+    ],
+    "correct": 0,
+    "explanation": "The SEEA was developed by the United Nations, European Commission, and FAO; MoSPI adopted it in 2018."
+  },
+  {
+    "question": "The 'New York Declaration on Forests' is legally binding. (True/False according to PDF)",
+    "options": [
+      "True",
+      "True for developing nations only",
+      "False - it is only for NGOs",
+      "False - it is voluntary and non-legally binding"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states it is a 'voluntary and non-legally binding political declaration'."
+  }
+]
