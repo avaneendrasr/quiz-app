@@ -194,11 +194,18 @@ function fallbackCopy(text){
   t.select();
   document.execCommand("copy");
   document.body.removeChild(t);
-  alert("Copied!");
+}
+
+function tryCopy(text){
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(text).catch(()=>fallbackCopy(text));
+  } else {
+    fallbackCopy(text);
+  }
 }
 
 /* ================= AI FIX ================= */
-document.getElementById("aiSelect").addEventListener("change", async function () {
+document.getElementById("aiSelect").addEventListener("change", function () {
 
   let mode = this.value;
   if (!mode) return;
@@ -213,29 +220,24 @@ document.getElementById("aiSelect").addEventListener("change", async function ()
 
   let encoded = encodeURIComponent(text);
 
+  // 🔥 Safari-safe (NO async/await)
   if (mode === "google") {
     window.open("https://www.google.com/search?q=" + encoded, "_blank");
   }
 
   else if (mode === "chatgpt") {
-    try {
-      await navigator.clipboard.writeText(text);
-
-      // TRY BOTH (fallback system)
-      window.open("https://chat.openai.com/?q=" + encoded, "_blank");
-
-    } catch {
-      window.open("https://chat.openai.com/", "_blank");
-    }
+    tryCopy(text);
+    window.open("https://chat.openai.com/?q=" + encoded, "_blank");
   }
 
   else if (mode === "gemini") {
-    await navigator.clipboard.writeText(text);
+    tryCopy(text);
     window.open("https://gemini.google.com/app", "_blank");
   }
 
   this.value = "";
 });
+
 /* ================= SHUFFLE FIX ================= */
 function shuffle(){
 
@@ -266,10 +268,28 @@ function newTest(){
 
 /* ================= FULLSCREEN ================= */
 function toggleFullscreen(){
-  if (!document.fullscreenElement){
-    document.documentElement.requestFullscreen();
-  } else {
-    document.exitFullscreen();
+
+  let doc = document;
+  let docEl = document.documentElement;
+
+  if (
+    !doc.fullscreenElement &&
+    !doc.webkitFullscreenElement
+  ) {
+    if (docEl.requestFullscreen) {
+      docEl.requestFullscreen();
+    } 
+    else if (docEl.webkitRequestFullscreen) { // Safari
+      docEl.webkitRequestFullscreen();
+    }
+  } 
+  else {
+    if (doc.exitFullscreen) {
+      doc.exitFullscreen();
+    } 
+    else if (doc.webkitExitFullscreen) { // Safari
+      doc.webkitExitFullscreen();
+    }
   }
 }
 
