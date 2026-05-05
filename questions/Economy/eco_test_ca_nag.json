@@ -1,0 +1,3049 @@
+[
+  {
+    "question": "Which of the following best describes the RBI's current approach to managing the Rupee's exchange rate?",
+    "options": [
+      "Managed-float regime",
+      "Fixed exchange rate system",
+      "Fully free-floating regime",
+      "Currency board arrangement"
+    ],
+    "correct": 0,
+    "explanation": "The RBI follows a 'floating-but-managed' or managed-float regime, where it can 'smoothen volatility' rather than fix the exchange rate. This year, RBI decided to intervene less while still maintaining oversight."
+  },
+  {
+    "question": "NEER and REER indices of the Rupee use a basket comprising how many currencies, with which base year?",
+    "options": [
+      "30 currencies; 2010-11",
+      "40 currencies; 2015-16",
+      "40 currencies; 2011-12",
+      "50 currencies; 2011-12"
+    ],
+    "correct": 1,
+    "explanation": "The NEERs/REERs are indices of the weighted average of the rupee's exchange rates vis-à-vis India's key trading partners. The basket comprises 40 currencies and the base year is 2015-16."
+  },
+  {
+    "question": "If India's nominal exchange rate stays the same but domestic prices rise faster than trading partners, what happens to REER?",
+    "options": [
+      "REER rises, making Indian goods more expensive",
+      "REER becomes negative",
+      "REER falls, making Indian goods cheaper",
+      "REER stays unchanged"
+    ],
+    "correct": 0,
+    "explanation": "If the rupee's nominal exchange rates stay the same but prices in India rise faster than in other countries, the REER goes up, making Indian products relatively more expensive and less competitive in the global market."
+  },
+  {
+    "question": "Sovereign Gold Bonds (SGBs) are issued by which entity on behalf of the Government of India?",
+    "options": [
+      "SEBI",
+      "RBI",
+      "Ministry of Finance",
+      "NABARD"
+    ],
+    "correct": 1,
+    "explanation": "SGBs are debt securities issued by RBI on behalf of the government, with each unit denoting a gram of gold. They offer trading in the secondary market, allowing investors to accrue capital gains."
+  },
+  {
+    "question": "Which committee recommended the Contingent Risk Buffer (CRB) of RBI to be 5.5–6.5% of balance sheet?",
+    "options": [
+      "NK Singh Committee",
+      "Narasimham Committee",
+      "Gadgil Study Group",
+      "Bimal Jalan Committee"
+    ],
+    "correct": 3,
+    "explanation": "The Bimal Jalan Committee (2018) recommended the CRB be 5.5–6.5% of the balance sheet. In 2024-25, this range was revised to 4.5–7.5%."
+  },
+  {
+    "question": "What is the key difference between REER and NEER?",
+    "options": [
+      "NEER uses 40 currencies; REER uses 20",
+      "REER accounts for inflation differentials; NEER does not",
+      "REER measures only capital account flows",
+      "NEER is bilateral; REER is multilateral"
+    ],
+    "correct": 1,
+    "explanation": "NEER is a summary index capturing movements in the external value of the rupee against a basket of global currencies but doesn't factor in inflation. REER is the NEER index adjusted for the inflation differentials between the home country and its trading partners."
+  },
+  {
+    "question": "Under which scheme does depreciation of the rupee push domestic wealth towards dollar assets or gold?",
+    "options": [
+      "Foreign Currency Non-Resident Account",
+      "Special Drawing Rights",
+      "Liberalised Remittance Scheme (LRS)",
+      "External Commercial Borrowings"
+    ],
+    "correct": 2,
+    "explanation": "A weak rupee makes it harder to achieve income growth targets and pushes domestic wealth towards dollar assets under the Liberalised Remittance Scheme (LRS) or gold."
+  },
+  {
+    "question": "Stablecoins differ from CBDCs primarily because stablecoins are:",
+    "options": [
+      "Issued by central banks and backed by government",
+      "Regulated by RBI and used only domestically",
+      "Backed exclusively by gold reserves",
+      "Privately issued and can be pegged to foreign currencies"
+    ],
+    "correct": 3,
+    "explanation": "Stablecoins are different from CBDCs as they are privately issued and can be pegged to foreign currencies. CBDCs are digital currencies issued by central banks."
+  },
+  {
+    "question": "Which type of stablecoin uses automated algorithms controlling supply and demand without actual reserves?",
+    "options": [
+      "Commodity-backed stablecoins",
+      "Crypto-backed stablecoins",
+      "Algorithmic stablecoins",
+      "Fiat-backed stablecoins"
+    ],
+    "correct": 2,
+    "explanation": "Algorithmic stablecoins maintain stability using automated algorithms that control supply and demand without actual reserves. They are highly experimental and risky, as shown by TerraUSD."
+  },
+  {
+    "question": "Under which Act was the 1% TDS on transfer of Virtual Digital Assets (VDAs) introduced in India?",
+    "options": [
+      "Income Tax Act 2025",
+      "Finance Act 2020",
+      "PMLA Amendment 2021",
+      "Finance Act 2022"
+    ],
+    "correct": 3,
+    "explanation": "Under the Finance Act 2022, the government introduced a provision in the Income Tax Act 1961, retained in the I-T Act 2025, mandating a 1% TDS on any transfer of Virtual Digital Assets (VDAs) or cryptocurrencies."
+  },
+  {
+    "question": "Which body serves as the single-point regulator for cryptocurrency exchanges operating in India under PMLA provisions?",
+    "options": [
+      "RBI",
+      "IRDAI",
+      "FIU (Financial Intelligence Unit)",
+      "SEBI"
+    ],
+    "correct": 2,
+    "explanation": "FIU (Financial Intelligence Unit), which functions under the Union Finance Ministry, is the single-point regulator for cryptocurrency exchanges operating in India under the provisions of PMLA."
+  },
+  {
+    "question": "The RBI's surplus transferred to the Central Government is not called a 'dividend' because:",
+    "options": [
+      "RBI is not a company with shareholders",
+      "It is classified as seigniorage income only",
+      "The transfer is done quarterly, not annually",
+      "RBI is not regulated by SEBI"
+    ],
+    "correct": 0,
+    "explanation": "RBI's transfers are not called dividends as it is not a company with shareholders. Under the Economic Capital Framework, RBI transfers surplus (not dividend) to the Central Government annually."
+  },
+  {
+    "question": "Which instrument was introduced in 2022 and replaced the fixed reverse repo rate as the LAF floor?",
+    "options": [
+      "Marginal Standing Facility",
+      "Open Market Operations",
+      "Bank Rate",
+      "Standing Deposit Facility (SDF) Rate"
+    ],
+    "correct": 3,
+    "explanation": "The Standing Deposit Facility (SDF) Rate, at which RBI accepts uncollateralised overnight deposits, is 25 basis points below the policy repo rate. It was introduced in 2022 and replaced the fixed reverse repo rate as the LAF floor."
+  },
+  {
+    "question": "What is the Marginal Standing Facility (MSF) Rate in relation to the Repo Rate?",
+    "options": [
+      "25 basis points above the repo rate",
+      "50 basis points above the repo rate",
+      "Equal to the repo rate",
+      "25 basis points below the repo rate"
+    ],
+    "correct": 0,
+    "explanation": "The Marginal Standing Facility (MSF) Rate is a penal rate for overnight borrowing by banks dipping into the SLR portfolio up to 2% limit; it is 25 basis points above the repo rate."
+  },
+  {
+    "question": "Which of the following is NOT a source of the RBI's revenue as mentioned in the document?",
+    "options": [
+      "Seigniorage",
+      "Returns from foreign bond investments",
+      "Interest income from loans to government and banks",
+      "Excise duty on currency printing"
+    ],
+    "correct": 3,
+    "explanation": "The document mentions sources of RBI's revenue as: Seigniorage, Interest income from loans to government & banks, and Returns from foreign bond investments & currency exchange gains. Excise duty is not mentioned."
+  },
+  {
+    "question": "Under Section 45ZB of the amended RBI Act, 1934, how many members constitute the Monetary Policy Committee (MPC)?",
+    "options": [
+      "5 members",
+      "8 members",
+      "6 members",
+      "4 members"
+    ],
+    "correct": 2,
+    "explanation": "Under Section 45ZB of the amended RBI Act, 1934, the central government is empowered to constitute a 6-member MPC. The first such MPC was constituted in 2016."
+  },
+  {
+    "question": "The Gross NPA ratio of Scheduled Commercial Banks (SCBs) reached which historic low as of 2025?",
+    "options": [
+      "1.8%",
+      "3.5%",
+      "4.0%",
+      "2.15%"
+    ],
+    "correct": 3,
+    "explanation": "The gross NPA ratio of SCBs for domestic operations was at a historic low of 2.15% as of 2025-end, lower than the 2010-11 level. Gross NPA has been continuously declining for the last eight financial years."
+  },
+  {
+    "question": "The government's 4R's strategy for addressing NPAs includes which of the following components?",
+    "options": [
+      "Recognising, Resolving, Recapitalising, Reforms",
+      "Revaluation, Resolution, Recapitalisation, Regulation",
+      "Recognition, Regulation, Restructuring, Reform",
+      "Recognition, Reduction, Restructuring, Recapitalisation"
+    ],
+    "correct": 0,
+    "explanation": "Post Asset Quality Review (2015), the government initiated 4R's strategy: Recognising NPAs, Resolving and recovering value from stressed accounts, Recapitalising PSBs, and Reforms in banks and the financial ecosystem."
+  },
+  {
+    "question": "Which of the following is a key criterion for a Small Finance Bank (SFB) to transition into a Universal Bank?",
+    "options": [
+      "Minimum net worth of Rs. 500 crore",
+      "At least 50% branches in unbanked rural areas",
+      "Gross NPA ≤ 3% and Net NPA ≤ 1% (last two years)",
+      "Net profit in last three financial years"
+    ],
+    "correct": 2,
+    "explanation": "Among the eligibility criteria, SFBs transitioning to Universal Banks must have Net profit in the last two financial years plus Gross NPA ≤ 3% and Net NPA ≤ 1% for the last two years, along with minimum net worth of Rs. 1,000 crore."
+  },
+  {
+    "question": "NPCI International Payments Ltd. (NIPL) signed an agreement with Malaysia's PayNet to enable what type of payments?",
+    "options": [
+      "QR-based merchant payments between India and Malaysia",
+      "SWIFT-based international wire transfers",
+      "Cheque clearing between the two countries",
+      "Credit card settlement between banks"
+    ],
+    "correct": 0,
+    "explanation": "NPCI International Payments Ltd., the international arm of NPCI, signed an agreement with Payments Network Malaysia Sdn Bhd (PayNet) to enable QR-based merchant payments between India and Malaysia."
+  },
+  {
+    "question": "The GENIUS Act, passed by the U.S. Senate, primarily deals with which of the following?",
+    "options": [
+      "Regulation of Central Bank Digital Currencies",
+      "Taxation of cryptocurrency mining activities",
+      "Compliances for stablecoins including anti-money laundering norms",
+      "Prohibition of algorithmic trading in crypto markets"
+    ],
+    "correct": 2,
+    "explanation": "The GENIUS Act (Guiding and Establishing National Innovation for U.S. Stablecoins) proposes compliances for stablecoins including anti-money laundering norms, full reserve backing, and monthly audits."
+  },
+  {
+    "question": "In the Index of Industrial Production (IIP), which sector has the highest weightage among the eight core industries?",
+    "options": [
+      "Refinery Products",
+      "Steel",
+      "Coal",
+      "Electricity"
+    ],
+    "correct": 0,
+    "explanation": "The Eight Core Industries constitute 40.27% of the total IIP weight. In decreasing order of weightage: Refinery Products (Highest), Electricity, Steel, Coal, Crude Oil, Natural Gas, Cement and Fertilizers (Lowest)."
+  },
+  {
+    "question": "According to the document, what share of India's total FDI flow was accounted for by the IT sector (Computer Software & Hardware) in H1FY26?",
+    "options": [
+      "20%",
+      "34%",
+      "25%",
+      "15%"
+    ],
+    "correct": 2,
+    "explanation": "FDI growth was driven by a twofold jump in inflow into the IT sector to $9 billion in H1FY26. With this, the sector's share rose up to 25% of the total FDI flow."
+  },
+  {
+    "question": "Under Press Note 3 (PN3) relaxation, investors from land-bordering countries (LBCs) with what maximum beneficial ownership can invest without prior government approval?",
+    "options": [
+      "10%",
+      "15%",
+      "5%",
+      "26%"
+    ],
+    "correct": 0,
+    "explanation": "Government relaxed Press Note 3 (2020) FDI rules, allowing investments from land-bordering countries (including China) without prior approval if the beneficial ownership is below 10% in select non-strategic manufacturing sectors."
+  },
+  {
+    "question": "The Lead Bank Scheme was first introduced in which year and based on recommendations of which committee?",
+    "options": [
+      "1975; Gadgil Study Group",
+      "1980; Narasimham Committee",
+      "1969; Nariman Committee",
+      "1989; NK Singh Committee"
+    ],
+    "correct": 2,
+    "explanation": "The Lead Bank Scheme was first introduced in 1969 based on Nariman Committee (and Gadgil Study Group recommendations), designating individual banks to lead efforts for regional development in specific districts."
+  },
+  {
+    "question": "Which state has the highest UPI usage intensity in per capita volume terms among all Indian states?",
+    "options": [
+      "Telangana",
+      "Karnataka",
+      "Maharashtra",
+      "Tamil Nadu"
+    ],
+    "correct": 0,
+    "explanation": "Usage intensity of UPI transactions — measured in per capita volume terms — is highest in Telangana among all Indian States."
+  },
+  {
+    "question": "A Goldilocks economy is characterized by which combination of features?",
+    "options": [
+      "High growth with high inflation and full employment",
+      "Full employment, economic stability, and steady growth without triggering inflation",
+      "Rapid expansion with low unemployment and high deficit",
+      "Moderate contraction with stable prices"
+    ],
+    "correct": 1,
+    "explanation": "A Goldilocks economy refers to an ideal economic state that is neither too hot nor too cold. It features full employment, economic stability, and steady growth without major expansion or contraction. Growth is sufficient to avoid recession but not excessive to trigger inflation."
+  },
+  {
+    "question": "The Purchasing Managers' Index (PMI) Manufacturing survey gives what weightage to the 'New Orders' component?",
+    "options": [
+      "30%",
+      "25%",
+      "20%",
+      "15%"
+    ],
+    "correct": 0,
+    "explanation": "Manufacturing PMI is a weighted average of five main survey areas: New Orders (30%), Output/Production (25%), Employment (20%), Supplier Delivery Times (15%), and Stock of Items Purchased/Inventories (10%)."
+  },
+  {
+    "question": "Under the revised Gold Loan Rules proposed by RBI, what is the Loan-to-Value (LTV) ratio and what change applies to consumption-based bullet loans?",
+    "options": [
+      "LTV at 75%; accrued interest excluded from LTV calculation",
+      "LTV at 80%; accrued interest excluded from LTV calculation",
+      "LTV at 75%; accrued interest included in LTV, lowering disbursable amounts",
+      "LTV at 70%; accrued interest excluded from calculation"
+    ],
+    "correct": 2,
+    "explanation": "The Loan-to-Value (LTV) ratio remains at 75%, but for consumption-based bullet loans, accrued interest will be included in LTV, thereby lowering disbursable amounts."
+  },
+  {
+    "question": "Which of the following correctly describes the S&P Global sovereign rating upgrade for India mentioned in the document?",
+    "options": [
+      "Upgraded to BBB (Stable) after 18 years",
+      "Upgraded to A- after 15 years",
+      "Upgraded to BB+ (Positive) after 20 years",
+      "Upgraded to BBB+ after 10 years"
+    ],
+    "correct": 0,
+    "explanation": "S&P Global upgraded India's sovereign rating to BBB (Stable) after 18 years, citing growth, monetary credibility, and fiscal consolidation. The upgrade lowers borrowing costs and widens the investor base."
+  },
+  {
+    "question": "India overtook Japan to become the 4th largest economy in the world. What is the correct order of the top 4 largest economies by nominal GDP?",
+    "options": [
+      "China > US > Germany > India",
+      "US > China > Germany > India",
+      "US > China > India > Germany",
+      "US > Germany > China > India"
+    ],
+    "correct": 1,
+    "explanation": "According to the document, India overtook Japan as the 4th largest economy with a nominal GDP of USD 4 trillion. The order is US > China > Germany > India."
+  },
+  {
+    "question": "Which method of GDP comparison ignores differences in purchasing power across countries?",
+    "options": [
+      "Market exchange rate method",
+      "Purchasing Power Parity (PPP) method",
+      "GNI per capita method",
+      "Value-added method"
+    ],
+    "correct": 0,
+    "explanation": "The document states that converting nominal GDP to USD using current exchange rates (market rate method) ignores differences in purchasing power across countries, whereas PPP exchange rates equalise the cost of a typical basket of goods."
+  },
+  {
+    "question": "Under the World Bank's income classification (2024), which GNI per capita range defines the 'lower-middle income' category?",
+    "options": [
+      "$4,496 – $13,935",
+      "$1,135 or less",
+      "$1,136 – $4,495",
+      "More than $13,935"
+    ],
+    "correct": 2,
+    "explanation": "As per the World Bank's income classification (2024): Low income is $1,135 or less, Lower-middle income is $1,136 – $4,495, Upper-middle income is $4,496 – $13,935, and High income is more than $13,935."
+  },
+  {
+    "question": "Which category under the Viksit Bharat @ 2047 plan is referred to as 'Vishwa Bandhu'?",
+    "options": [
+      "Technology Leadership",
+      "Global Leadership",
+      "Sustainable Economy",
+      "Enabling Governance"
+    ],
+    "correct": 1,
+    "explanation": "The six strategic building blocks under the Viksit Bharat plan include Global Leadership (referred to as Vishwa Bandhu), along with Macro-Economic Goals, Empowered Citizens, Sustainable Economy, Technology Leadership, and Enabling Governance, Security, Justice."
+  },
+  {
+    "question": "What does the Flexible Inflation Targeting (FIT) framework in India currently target, and when is it scheduled to end?",
+    "options": [
+      "5% (+/-2%); ending in June 2026",
+      "4% (+/-1%); ending in March 2027",
+      "4% (+/-2%); ending in March 2026",
+      "3% (+/-1%); ending in December 2025"
+    ],
+    "correct": 2,
+    "explanation": "The present Flexible Inflation Targeting framework in India targets 4% (+/- 2%) and is ending in March 2026. It is under review, and the RBI has released a discussion paper seeking views on key issues."
+  },
+  {
+    "question": "Which component carries the highest weight in the total CPI index in India?",
+    "options": [
+      "Housing",
+      "Food & beverages",
+      "Fuel & light",
+      "Miscellaneous services"
+    ],
+    "correct": 1,
+    "explanation": "Food articles carry the highest weight of 45% in the total CPI index. Miscellaneous services component is the second-largest category. Within food, cereals have the highest sub-weight at 9.67% of the total index."
+  },
+  {
+    "question": "In the new CPI series released by MoSPI with 2024 as the base year, how many total items are covered compared to the previous series?",
+    "options": [
+      "From 259 to 308 items",
+      "From 40 to 50 services only",
+      "From 200 to 299 items",
+      "From 299 to 358 items"
+    ],
+    "correct": 3,
+    "explanation": "The total number of items covered under the new CPI series increased to 358 from 299. Goods covered increased to 308 from 259, and the number of services went up to 50 from 40."
+  },
+  {
+    "question": "According to the document, what does the Phillips Curve concept argue regarding the relationship between growth and inflation?",
+    "options": [
+      "Low inflation always hurts growth",
+      "High inflation always promotes growth",
+      "There is a growth-inflation trade-off",
+      "Inflation and growth are independent variables"
+    ],
+    "correct": 2,
+    "explanation": "The document states that Phillips Curve studies argued a growth-inflation trade-off. Low inflation may facilitate growth in the short run, but high inflation hurts growth — leading to the threshold inflation concept. Data show that beyond 6% inflation, growth rate declines sharply."
+  },
+  {
+    "question": "What grade did the IMF give to India's National Accounts Statistics (NAS) including GDP and GVA in its annual review?",
+    "options": [
+      "Grade B",
+      "Grade A",
+      "Grade D",
+      "Grade C"
+    ],
+    "correct": 3,
+    "explanation": "IMF's annual review gave India's NAS including GDP and GVA a grade of 'C', the second-lowest rating. This grade means the data available 'have some shortcomings that somewhat hamper surveillance'."
+  },
+  {
+    "question": "Which major data source shortcoming did the IMF highlight in India's National Accounts Statistics?",
+    "options": [
+      "Outdated base year of 2011-12 and use of wholesale price indices as deflators due to lack of producer price indices",
+      "Absence of MCA-21 database and informal sector data",
+      "Lack of GST data integration and overreliance on PPP methods",
+      "Excessive reliance on expenditure approach and ignoring agriculture"
+    ],
+    "correct": 0,
+    "explanation": "IMF highlighted an outdated base year of 2011-12 and use of wholesale price indices as deflators due to lack of producer price indices. It also pointed to discrepancies between production and expenditure approaches of measuring GDP."
+  },
+  {
+    "question": "What is the GDP Deflator formula as given in the document?",
+    "options": [
+      "(CPI x+1 – CPI x) / CPI x × 100",
+      "(Real GDP / Nominal GDP) × 100",
+      "(Nominal GDP – Real GDP) / Real GDP × 100",
+      "(Nominal GDP / Real GDP) × 100"
+    ],
+    "correct": 3,
+    "explanation": "As per the document, GDP Deflator = (Nominal GDP / Real GDP) × 100. It is described as the 'ultimate' inflation gauge that shows how much the prices of everything produced in a country have risen."
+  },
+  {
+    "question": "What does ICOR (Incremental Capital Output Ratio) measure, and what does a lower ICOR indicate?",
+    "options": [
+      "Ratio of public to private investment; lower government spending",
+      "Cost of capital; lower interest rates",
+      "Extra investment needed to produce one extra unit of output; more efficient investment",
+      "Total capital stock; higher economic inequality"
+    ],
+    "correct": 2,
+    "explanation": "ICOR tells how much extra investment is needed to produce one extra unit of output. A lower ICOR means investment turns into growth more efficiently. Technology and management ultimately determine ICOR."
+  },
+  {
+    "question": "The new GDP series with 2022-23 as base year adopts which methodological approach to ascertain the real value added of India's production?",
+    "options": [
+      "Single-deflator approach",
+      "Expenditure-only approach",
+      "Chain-linking method",
+      "Double-deflator approach"
+    ],
+    "correct": 3,
+    "explanation": "Among key methodological improvements in the new GDP series, the document mentions adoption of the double-deflator approach to ascertain the real value added of India's production."
+  },
+  {
+    "question": "In the new GDP series (base year 2022-23), which sector's share in GDP has declined compared to the previous series?",
+    "options": [
+      "Services",
+      "Agriculture",
+      "Industry",
+      "Manufacturing"
+    ],
+    "correct": 0,
+    "explanation": "Key findings of the new GDP series show that GDP shares of agriculture and industry have increased, while the share of services has declined. Share of manufacturing increased to 14.7% from 14.3%."
+  },
+  {
+    "question": "Which of the following new data sources will be included in GDP calculation under the new base year series?",
+    "options": [
+      "Import-export data and customs duty records only",
+      "GST data, UPI transactions, and E-Vahan portal data",
+      "Foreign trade statistics, RBI data, and SEBI reports",
+      "SWIFT transaction data and census records"
+    ],
+    "correct": 1,
+    "explanation": "GDP calculation will now include GST data, UPI transactions, and E-Vahan portal data in addition to traditional sources like RBI, CGA, and MCA-21."
+  },
+  {
+    "question": "The Household Consumption Expenditure Survey (HCES) confirms Engel's Law through which observation?",
+    "options": [
+      "As real income rises, the proportion of income spent on food declines even if absolute expenditure increases",
+      "Rising income leads to higher absolute spending on food",
+      "Food spending increases proportionately with income",
+      "Urban households spend more on food than rural households"
+    ],
+    "correct": 0,
+    "explanation": "Decline in MPCE share on food and beverages for both urban and rural areas confirms Engel's Law, which states that as real income rises, the proportion of income spent on food declines, even if absolute expenditure increases."
+  },
+  {
+    "question": "What does the Household Income Survey 2026 aim to do that existing surveys like PLFS and HCES could not?",
+    "options": [
+      "Provide data on household savings rates",
+      "Measure only agricultural household income",
+      "Measure income directly rather than using proxies like consumption or labour earnings",
+      "Measure labour market participation rates"
+    ],
+    "correct": 2,
+    "explanation": "Existing tools like PLFS, HCES, and RBI's Consumer Confidence Survey have provided only partial or indirect income insights. PLFS focuses on labour market earnings while HCES uses consumption patterns as a proxy for income. The new survey is designed to measure income directly."
+  },
+  {
+    "question": "Which survey is specifically aimed at measuring household indebtedness and asset ownership across rural and urban areas, to be conducted between 2026 and 2027?",
+    "options": [
+      "Periodic Labour Force Survey (PLFS)",
+      "Household Consumption Expenditure Survey (HCES)",
+      "Situation Assessment Survey (SAS)",
+      "All-India Debt and Investment Survey (AIDIS)"
+    ],
+    "correct": 3,
+    "explanation": "The All-India Debt and Investment Survey (AIDIS) is aimed at measuring household indebtedness and asset ownership across rural and urban areas. MoSPI will conduct this along with SAS of Agricultural Households between 2026 and 2027."
+  },
+  {
+    "question": "What proportion of India's export basket is commanded by the top 5 exporting states as revealed by the RBI Handbook of Statistics 2024-25?",
+    "options": [
+      "Nearly 70%",
+      "About 60%",
+      "About 80%",
+      "About 55%"
+    ],
+    "correct": 0,
+    "explanation": "The RBI Handbook of Statistics on Indian States 2024-25 revealed that the top 5 exporters — Maharashtra, Gujarat, Tamil Nadu, Karnataka, Uttar Pradesh — command nearly 70% of the national export basket. Five years ago, this was about 65%."
+  },
+  {
+    "question": "The Herfindahl-Hirschman Index (HHI) of India's export geography is rising. What does this indicate?",
+    "options": [
+      "Improvement in export quality standards",
+      "Diversification of India's export base across regions",
+      "Increasing concentration of India's exports in fewer regions",
+      "Decline in total export volume"
+    ],
+    "correct": 2,
+    "explanation": "The document states that the Herfindahl-Hirschman Index (HHI) of India's export geography is rising, indicating increasing concentration. Firms are increasingly benefitting from spatial clustering, not expanding to newer regions."
+  },
+  {
+    "question": "The National Monetisation Pipeline (NMP) aimed to lease which type of assets to the private sector?",
+    "options": [
+      "Brownfield assets without transfer of ownership",
+      "Only loss-making PSEs",
+      "Strategic defence assets",
+      "Greenfield assets with new construction"
+    ],
+    "correct": 0,
+    "explanation": "The NMP (2021) aimed to lease brownfield assets to the private sector without transfer of ownership. It targeted ₹6 lakh crore from 2021-22 to 2024-25, with about 90% achieved."
+  },
+  {
+    "question": "What is the 'Hindu Growth Rate' as described in the document?",
+    "options": [
+      "India's projected GDP growth rate of 7.4% for 2025-26",
+      "A term coined by economist Raj Krishna referring to India's meagre long-run growth rate of 3.5%",
+      "A PPP-adjusted GDP growth measure for developing economies",
+      "A benchmark growth rate set by the Planning Commission"
+    ],
+    "correct": 1,
+    "explanation": "According to The New Oxford Companion to Economics in India, economist Raj Krishna coined the expression 'Hindu Growth Rate' as 'a polemical device' intended to draw attention to the meagre 3.5 per cent growth rate experienced by India over the long run."
+  },
+  {
+    "question": "MSMEs account for what share of India's exports?",
+    "options": [
+      "35.4%",
+      "31.1%",
+      "30%",
+      "48.58%"
+    ],
+    "correct": 3,
+    "explanation": "The document states MSMEs account for 35.4% of manufacturing, 48.58% of exports, and 31.1% of GDP in the country."
+  },
+  {
+    "question": "What are Quality Control Orders (QCOs) and under which Act are they issued?",
+    "options": [
+      "Voluntary standards issued by BIS under the Companies Act",
+      "Environmental standards under the Environment Protection Act",
+      "Legal orders under the BIS Act making it mandatory for products to conform to certain quality standards",
+      "Import duties under the Customs Act"
+    ],
+    "correct": 2,
+    "explanation": "QCOs are legal orders issued by departments or ministries under the BIS Act, which make it mandatory for domestic and imported products to conform with certain quality standards. Products cannot be sold unless they get a certification from the BIS."
+  },
+  {
+    "question": "What is the enhanced collateral-free loan limit for MSEs as decided by RBI under the Lending to MSME Sector (Amendment) Directions, 2026?",
+    "options": [
+      "From ₹20 lakh to ₹30 lakh",
+      "From ₹15 lakh to ₹25 lakh",
+      "From ₹5 lakh to ₹10 lakh",
+      "From ₹10 lakh to ₹20 lakh"
+    ],
+    "correct": 3,
+    "explanation": "The document states it has been decided to enhance the collateral-free loans limit to MSEs from ₹10 lakh to ₹20 lakh under the RBI's Lending to MSME Sector (Amendment) Directions, 2026."
+  },
+  {
+    "question": "Under the Export Promotion Mission, what is the guarantee coverage offered to micro & small exporters under the Collateral Support for Export Credit scheme?",
+    "options": [
+      "90% guarantee",
+      "65% guarantee",
+      "85% guarantee",
+      "75% guarantee"
+    ],
+    "correct": 2,
+    "explanation": "Under the Collateral Support for Export Credit scheme implemented through CGTMSE, micro & small exporters would be eligible for up to 85% guarantee, while medium exporters would receive 65% guarantee."
+  },
+  {
+    "question": "The RoDTEP scheme, launched in 2021, provides refunds for which of the following?",
+    "options": [
+      "Corporate tax rebates for exporters",
+      "GST refunds on domestic sales",
+      "Import duties on raw materials",
+      "Embedded duties, taxes, and levies not refunded under other schemes"
+    ],
+    "correct": 3,
+    "explanation": "The RoDTEP scheme, launched in 2021, provides refunds for embedded duties, taxes, and levies not refunded under other schemes. In May 2025, RoDTEP benefits were restored for Advance Authorisation (AA) holders, Export-Oriented Units (EOUs), and SEZ units."
+  },
+  {
+    "question": "Indian households collectively hold approximately how much gold, making it the largest private reserve in the world?",
+    "options": [
+      "Around 20,000 tonnes",
+      "Around 25,000 tonnes",
+      "Around 30,000 tonnes",
+      "Around 15,000 tonnes"
+    ],
+    "correct": 1,
+    "explanation": "Indian households collectively hold around 25,000 tonnes of gold — the largest private reserve in the world. At current prices, this equates to $2.4 trillion, or over 55% of India's GDP (FY26 terms)."
+  },
+  {
+    "question": "What is the term 'dark patterns' as described in the document, and who coined it?",
+    "options": [
+      "Design tricks used by websites/apps to manipulate user behavior against their intent; coined by UX designer Harry Brignull in 2010",
+      "Illegal data collection practices; coined by CCPA in 2020",
+      "Fraudulent financial schemes; coined by economist Paul Krugman",
+      "Hidden tax structures in e-commerce; coined by the Department of Consumer Affairs"
+    ],
+    "correct": 0,
+    "explanation": "Dark patterns (or deceptive patterns) are design tricks used by websites/apps to manipulate user behavior against their intent. The term was coined by UX designer Harry Brignull in 2010."
+  },
+  {
+    "question": "The Credit Guarantee Scheme for Exporters (CGSE) provides 100% credit guarantee coverage of ₹20,000 crore. What is the maximum loan per borrower under this scheme?",
+    "options": [
+      "₹20 crore",
+      "₹50 crore",
+      "₹100 crore",
+      "₹30 crore"
+    ],
+    "correct": 1,
+    "explanation": "Under the Credit Guarantee Scheme for Exporters (CGSE), the loan amount is up to 20% of existing fund-based/non-fund-based working capital limits, with a maximum loan of ₹50 crore per borrower."
+  },
+  {
+    "question": "According to the document, what is the primary reason that the biggest issue in national accounts statistics is the inability to capture the informal sector?",
+    "options": [
+      "It consists of unregistered and cash-based entities",
+      "Informal sector data is classified as confidential",
+      "Informal sector workers do not pay taxes",
+      "Informal sector output is counted in agricultural GDP only"
+    ],
+    "correct": 0,
+    "explanation": "The document states that the biggest issue with national accounts statistics is the inability to accurately capture the informal sector because it consists of unregistered and cash-based entities."
+  },
+  {
+    "question": "Which of the following best describes 'Dutch Disease' in the context of economics?",
+    "options": [
+      "A trade deficit caused by excessive imports of Dutch goods",
+      "Negative effects on manufacturing caused by an economic windfall",
+      "A monetary policy failure leading to hyperinflation",
+      "A disease affecting agricultural productivity due to overuse of fertilizers"
+    ],
+    "correct": 1,
+    "explanation": "Dutch Disease refers to an economic windfall causing negative effects on sectors like manufacturing. The term was coined after the discovery of the Groningen gas fields in 1959 and its impact on Dutch manufacturing."
+  },
+  {
+    "question": "The theory of 'induced innovation' as mentioned in the context of Dutch Disease holds that:",
+    "options": [
+      "Free trade always reduces domestic manufacturing output",
+      "Labour abundance drives capital-intensive production",
+      "High wages suppress technological growth",
+      "Labour scarcity and high wages can drive technological and capital-biased growth"
+    ],
+    "correct": 3,
+    "explanation": "The theory of induced innovation holds that labour scarcity and high wages can drive technological and capital-biased growth, as mentioned in the Dutch Disease section of the document."
+  },
+  {
+    "question": "Under the amended SEZ Rules for semiconductors and electronic components, which of the following changes was made to Rule 18?",
+    "options": [
+      "Foreign companies were allowed to set up SEZ units without Board approval",
+      "SEZ units can now supply to the rest of India after paying applicable duties",
+      "Board of Approval was empowered to relax encumbrance-free land norms",
+      "Minimum plot size was reduced to 10 hectares"
+    ],
+    "correct": 1,
+    "explanation": "Rule 18 was amended so that SEZ units in semiconductors and electronic components can now supply to the rest of India after paying applicable duties, not just export."
+  },
+  {
+    "question": "Which of the following statements about Quality Control Orders (QCOs) is correct?",
+    "options": [
+      "QCOs mandate that products must meet minimum quality standards set by BIS",
+      "QCOs provide subsidies to manufacturers meeting international standards",
+      "All SEZ exports are mandatorily covered under QCOs",
+      "QCOs apply only to imported goods, not domestically manufactured ones"
+    ],
+    "correct": 0,
+    "explanation": "QCOs mandate that products manufactured, imported, sold in India, or exported must meet minimum quality standards set by the Bureau of Indian Standards (BIS)."
+  },
+  {
+    "question": "With respect to the CCPA (Central Consumer Protection Authority), which of the following is incorrect?",
+    "options": [
+      "District Collectors are empowered to investigate local consumer complaints",
+      "Its Chief Commissioner is appointed by the Supreme Court",
+      "It was constituted under Section 10(1) of the Consumer Protection Act, 2019",
+      "It can act suo motu without any complaint"
+    ],
+    "correct": 1,
+    "explanation": "The Chief Commissioner and other Commissioners of CCPA are appointed by the Central Government, not the Supreme Court. The Central Government also defines their qualifications, tenure, salary, and service conditions."
+  },
+  {
+    "question": "Which of the following dark patterns was specified by CCPA in 2023 guidelines, where a product is advertised but an inferior one is delivered?",
+    "options": [
+      "Bait and switch",
+      "Subscription trap",
+      "Basket sneaking",
+      "Confirm shaming"
+    ],
+    "correct": 0,
+    "explanation": "Bait and switch is a dark pattern where one product is advertised but another, often inferior, product is delivered. This was among the 13 dark patterns specified by CCPA in 2023."
+  },
+  {
+    "question": "Under the Employment-Linked Incentive (ELI) scheme, which of the following statements is correct?",
+    "options": [
+      "First-time employees receive incentives for up to 4 years",
+      "Employees with salaries up to ₹50,000 are eligible",
+      "In the manufacturing sector, employer incentives continue for the third and fourth years",
+      "The scheme is implemented by the Ministry of Labour and Employment"
+    ],
+    "correct": 2,
+    "explanation": "In the manufacturing sector, incentives under ELI will continue for the third and fourth years. The scheme is implemented by EPFO, not directly by the Ministry of Labour and Employment."
+  },
+  {
+    "question": "Regarding Women in STEM in India, which of the following is correct as per the document?",
+    "options": [
+      "India has the highest share of women in STEM workforce globally",
+      "43% of STEM graduates are women, but only 27% of the STEM workforce is female",
+      "27% of STEM graduates are women, but 43% of the STEM workforce is female",
+      "FLFPR is higher in urban areas than rural areas"
+    ],
+    "correct": 1,
+    "explanation": "43% of STEM graduates in India are women, the highest among major economies. However, only 27% of the STEM workforce is female. Also, FLFPR is higher in rural areas (47.6%) than urban (25.4%)."
+  },
+  {
+    "question": "The BHAVYA scheme approved by the Union Cabinet primarily aims to:",
+    "options": [
+      "Create 100 skill development centres across India",
+      "Develop 50 plug-and-play industrial parks integrated with National Highways",
+      "Establish 100 Special Economic Zones focused on semiconductor manufacturing",
+      "Develop 100 future-ready industrial parks integrated with PM GatiShakti"
+    ],
+    "correct": 3,
+    "explanation": "BHAVYA (Bharat Audyogik Vikas Yojna) aims to create 100 future-ready industrial parks integrated with PM GatiShakti, making use of multimodal connectivity and last-mile access."
+  },
+  {
+    "question": "Under BHAVYA, what is the minimum land requirement for industrial parks in hilly or North Eastern States?",
+    "options": [
+      "100 acres",
+      "25 acres",
+      "10 acres",
+      "50 acres"
+    ],
+    "correct": 1,
+    "explanation": "Under BHAVYA, the minimum land need is 100 acres for regular industrial parks, and 25 acres for industrial parks in hilly or North Eastern States."
+  },
+  {
+    "question": "In the context of GST Reforms 2025, which of the following is the correct new slab structure approved by the GST Council in its 56th meeting?",
+    "options": [
+      "Two slabs: 12% and 28%, with a luxury cess",
+      "Three slabs: 5%, 18%, and 28%",
+      "Four slabs retained with addition of a 40% slab for luxury goods",
+      "Two slabs: 5% and 18%, with a new 40% slab"
+    ],
+    "correct": 3,
+    "explanation": "The GST Council in its 56th meeting approved reducing GST slabs from four (5%, 12%, 18%, 28%) to two (5% and 18%), with a new 40% slab introduced, effective September 22, 2025."
+  },
+  {
+    "question": "Which constitutional amendment introduced GST in India?",
+    "options": [
+      "112th Amendment",
+      "92nd Amendment",
+      "101st Amendment",
+      "80th Amendment"
+    ],
+    "correct": 2,
+    "explanation": "The 101st Amendment brought GST in 2017. The 92nd Amendment had introduced Service Tax, and the 80th Amendment introduced global sharing of taxes."
+  },
+  {
+    "question": "Regarding tobacco taxation and GST, which of the following is correct?",
+    "options": [
+      "Central excise's share in cigarette taxation dropped from 54% to 8% after GST rollout",
+      "GST relies on specific excise taxes, which are more effective than ad valorem taxes",
+      "Bidis are subject to the GST compensation cess",
+      "The overall tax burden on cigarettes exceeds WHO's 75% recommendation"
+    ],
+    "correct": 0,
+    "explanation": "Since the GST rollout, central excise's share in tobacco taxation dropped from 54% to 8% for cigarettes. Bidis are not subject to the GST compensation cess, and the overall tax burden remains below WHO's 75% recommendation."
+  },
+  {
+    "question": "With respect to the GST Compensation Cess, which of the following is correct?",
+    "options": [
+      "It was initially meant to compensate States for 10 years",
+      "It was abolished in the 55th GST Council meeting",
+      "It was levied below the 18% GST slab",
+      "It was extended till March 2026 to repay post-COVID loans"
+    ],
+    "correct": 3,
+    "explanation": "The GST Compensation Cess was levied above the 28% slab. Initially meant to compensate States for 5 years, it was extended till March 2026 to repay post-COVID loans. It stands abolished as per GST Reforms 2025."
+  },
+  {
+    "question": "In the context of India's gem and jewellery industry, which of the following statements is correct?",
+    "options": [
+      "Dubai serves as a key diamond trading hub",
+      "GCC's share of India's gem and jewellery exports decreased from FY22 to FY25",
+      "India supplies rough diamonds and bullion to UAE",
+      "GCC accounts for over 30% of India's gold jewellery exports"
+    ],
+    "correct": 0,
+    "explanation": "Dubai serves as a key diamond trading hub. It is UAE that supplies rough diamonds and bullion to India, not the other way around. GCC accounts for over 50% of India's gold jewellery exports."
+  },
+  {
+    "question": "The PLFS (Periodic Labour Force Survey) was started by which body?",
+    "options": [
+      "Ministry of Labour and Employment in 2015",
+      "NITI Aayog under the Planning Commission",
+      "NSSO under MoSPI in 2017",
+      "RBI-KLEMS in 2019"
+    ],
+    "correct": 2,
+    "explanation": "PLFS was started by NSSO (National Sample Survey Office) under MoSPI (Ministry of Statistics and Programme Implementation) in 2017."
+  },
+  {
+    "question": "Which of the following correctly defines 'Worker Population Ratio (WPR)'?",
+    "options": [
+      "Percentage of employed persons in the population",
+      "Ratio of formal to informal workers in the economy",
+      "Percentage of persons in the labour force in the population",
+      "Percentage of persons unemployed among those in the labour force"
+    ],
+    "correct": 0,
+    "explanation": "WPR is defined as the percentage of employed persons in the population. LFPR is the percentage of persons in the labour force in the population, and Unemployment Rate is the percentage of persons unemployed among those in the labour force."
+  },
+  {
+    "question": "According to ILO's Employment and Social Trends 2026 report, which of the following is correct about global unemployment?",
+    "options": [
+      "The share of workers in extreme poverty increased between 2015 and 2025",
+      "Global unemployment rate is projected to remain at 4.9%, equivalent to 186 million people",
+      "Global rate of informality declined between 2015 and 2025",
+      "Global unemployment rate is projected at 5.9%, equivalent to 284 million people"
+    ],
+    "correct": 1,
+    "explanation": "ILO's Employment and Social Trends 2026 report says the global unemployment rate is projected to remain at the historically low level of 4.9%, equivalent to 186 million people."
+  },
+  {
+    "question": "Which of the following correctly describes the SPREE 2025 initiative?",
+    "options": [
+      "An ESIC initiative to expand social security coverage under the ESI Act, 1948",
+      "A skill development programme under PMKVY for unorganised workers",
+      "A Ministry of Finance scheme for formalising MSMEs",
+      "An EPFO initiative to expand provident fund coverage to gig workers"
+    ],
+    "correct": 0,
+    "explanation": "SPREE 2025 is an ESIC initiative (1 July 2025 to 31 January 2026) by the Ministry of Labour and Employment to expand social security coverage under the ESI Act, 1948."
+  },
+  {
+    "question": "With respect to the four Labour Codes enacted by the Centre, which of the following is correctly matched?",
+    "options": [
+      "Code on Wages (2019) – repeals the Industrial Disputes Act, 1947",
+      "Industrial Relations Code (2020) – amalgamates the Trade Unions Act, 1926",
+      "Code on Social Security (2020) – repeals the Factories Act, 1948",
+      "OSHWC Code (2020) – nullifies the Maternity Benefit Act, 1961"
+    ],
+    "correct": 1,
+    "explanation": "The Industrial Relations Code (2020) amalgamates the Trade Unions Act (1926), Industrial Employment (Standing Orders) Act (1946), and Industrial Disputes Act (1947). The Code on Wages repeals the Payment of Wages Act, Minimum Wages Act, etc."
+  },
+  {
+    "question": "Regarding the Shram Shakti Niti, 2025, which of the following is an expected policy outcome?",
+    "options": [
+      "Universal worker registration and social security portability",
+      "Mandatory minimum wage of ₹400 per day for all workers",
+      "Female labour-force participation to increase to 50% by 2030",
+      "Complete elimination of informal employment by 2027"
+    ],
+    "correct": 0,
+    "explanation": "Expected Policy Outcomes of Shram Shakti Niti, 2025 include universal worker registration and social security portability, near-zero workplace fatalities, and female labour-force participation increasing to 35% by 2030 (not 50%)."
+  },
+  {
+    "question": "Which of the following states that the 'Bonded Labour System (Abolition) Act' is constitutionally grounded in?",
+    "options": [
+      "Article 19 – Freedom of profession",
+      "Article 23 – Prohibition of forced labour",
+      "Article 14 – Right to Equality",
+      "Article 21 – Right to Life"
+    ],
+    "correct": 1,
+    "explanation": "Debt bondage and forced labour are prohibited under Article 23. The Bonded Labour System (Abolition) Act abolished all existing bonded debts and created district-level Vigilance Committees."
+  },
+  {
+    "question": "What is the key advantage of Masala Bonds over External Commercial Borrowings (ECBs) for Indian issuers?",
+    "options": [
+      "The currency risk passes to the investor, protecting the issuer from rupee depreciation risk",
+      "The currency risk is borne by the issuer, not the investor",
+      "Masala Bonds can only be issued on Indian stock exchanges",
+      "Masala Bonds carry a sovereign guarantee from the Government of India"
+    ],
+    "correct": 0,
+    "explanation": "By pricing bonds in rupees, the issuer gets rid of the currency risk, which instead passes on to the investor. This is the key advantage over ECBs, where a weakening rupee can significantly increase costs for the Indian issuer at repayment."
+  },
+  {
+    "question": "Which of the following is correct about Catastrophe (Cat) Bonds?",
+    "options": [
+      "Cat bonds are issued directly by the affected nations without intermediaries",
+      "They are pure equity instruments used to fund disaster relief",
+      "Coupon rates for cyclones are lower than for earthquakes",
+      "Investors risk losing principal in case of disaster, leading to higher coupon rates"
+    ],
+    "correct": 3,
+    "explanation": "Investors in Cat bonds risk losing their principal in case of a disaster, which leads to higher coupon rates. Coupon rates vary: 1–2% for earthquakes, higher for cyclones and hurricanes. Intermediaries like the World Bank issue the bonds."
+  },
+  {
+    "question": "The Securities Market Code Bill 2025 seeks to consolidate which of the following laws?",
+    "options": [
+      "Securities Contracts (Regulation) Act 1956, SEBI Act 1992, and Depositories Act 1996",
+      "SEBI Act 1992, RBI Act 1934, and Securities Contracts (Regulation) Act 1956",
+      "SEBI Act 1992, Companies Act 2013, and Depositories Act 1996",
+      "Depositories Act 1996, Companies Act 2013, and FEMA 1999"
+    ],
+    "correct": 0,
+    "explanation": "The Securities Market Code Bill 2025 seeks to consolidate the Securities Contracts (Regulation) Act, 1956, SEBI Act, 1992, and the Depositories Act, 1996 into a unified law."
+  },
+  {
+    "question": "What does the 'Usual Status (ps+ss)' refer to in the context of PLFS?",
+    "options": [
+      "Seasonal employment patterns over a 6-month reference period",
+      "Employment status based on activity during the last 7 days prior to the survey",
+      "Employment status based on activity over the past 365 days",
+      "Weekly employment status in urban areas only"
+    ],
+    "correct": 2,
+    "explanation": "Usual Status (ps+ss) refers to activity over the past 365 days, while Current Weekly Status (CWS) refers to the last 7 days prior to the survey."
+  },
+  {
+    "question": "According to NITI Aayog projections on the gig economy, what is the expected size of the gig workforce by 2029-30?",
+    "options": [
+      "7.7 million",
+      "9 crore",
+      "1.8 crore",
+      "23.5 million"
+    ],
+    "correct": 3,
+    "explanation": "NITI Aayog (2022) projected the gig workforce to grow from 7.7 million in 2020-21 to 23.5 million by 2029-30. The figure of 9 crore by 2030 refers to a broader estimate for the gig economy."
+  },
+  {
+    "question": "Under the PMKVY scheme, which category of training provides certification for existing skills of workers?",
+    "options": [
+      "Short-Term Training (STT)",
+      "Special Projects",
+      "Recognition of Prior Learning (RPL)",
+      "Industry Apprenticeship Training (IAT)"
+    ],
+    "correct": 2,
+    "explanation": "Recognition of Prior Learning (RPL) under PMKVY provides certification of existing skills, while Short-Term Training (STT) is for fresh candidates and Special Projects are for marginalized or remote groups."
+  },
+  {
+    "question": "Which of the following correctly describes the Digital Labour Chowk initiative?",
+    "options": [
+      "A physical market established by state governments for daily wage workers",
+      "A Ministry of Labour initiative under the e-Shram 2.0 framework digitising traditional Labour Chowks",
+      "A SEBI-regulated platform connecting investors with MSME employers",
+      "An EPFO-run digital platform for formal sector job matching"
+    ],
+    "correct": 1,
+    "explanation": "Digital Labour Chowk is a Ministry of Labour initiative under the e-Shram 2.0 framework, digitizing the traditional 'Labour Chowks'. It creates a B2C/B2B platform connecting workers like plumbers and masons directly to households and contractors."
+  },
+  {
+    "question": "The SASCI (Special Assistance to States for Capital Investment) scheme was launched in which financial year, and what is the nature of the loan provided?",
+    "options": [
+      "FY 2020-21; soft loan for a period of 50 years",
+      "FY 2018-19; interest-free loan for 30 years",
+      "FY 2021-22; grant-in-aid with no repayment obligation",
+      "FY 2019-20; commercial loan at concessional interest rates"
+    ],
+    "correct": 0,
+    "explanation": "SASCI was launched in FY 2020-21 to support state capital expenditure and drive economic growth. It is a soft loan for a period of 50 years that helps in infrastructure development."
+  },
+  {
+    "question": "Which of the following best describes a 'Masala Bond'?",
+    "options": [
+      "A yen-denominated bond issued in Japan by non-Japanese entities",
+      "A bond denominated in Chinese Renminbi issued in China's domestic market",
+      "A rupee-denominated bond issued by Indian entities in foreign markets",
+      "A bond issued by government-backed entities for infrastructure development that is tax-free"
+    ],
+    "correct": 2,
+    "explanation": "Masala Bonds are rupee-denominated bonds issued by Indian entities in foreign markets to raise funds. They reduce currency risk for issuers while transferring it to investors, and are used for infrastructure projects and corporate expansion."
+  },
+  {
+    "question": "AT1 Bonds issued by banks are primarily governed under which framework?",
+    "options": [
+      "Basel III norms",
+      "FEMA guidelines",
+      "Insolvency and Bankruptcy Code",
+      "SEBI Mutual Fund Regulations"
+    ],
+    "correct": 0,
+    "explanation": "AT1 (Additional Tier-1) bonds are perpetual debt instruments issued primarily by banks to enhance their core capital base under Basel III norms, allowing them to absorb losses during financial stress."
+  },
+  {
+    "question": "Under the Foreign Exchange Management Act (FEMA), which of the following statements is correct?",
+    "options": [
+      "FEMA restricts all current account transactions to protect foreign exchange reserves",
+      "FEMA replaced FERA in 1973 to conserve foreign exchange",
+      "Transactions on the current account like tourism abroad are a matter of right under FEMA",
+      "Violations under FEMA are treated as criminal offences"
+    ],
+    "correct": 2,
+    "explanation": "Under FEMA, offences or violations were made a civil (not criminal) offence. It made transactions that are part of the current account, such as travelling abroad for tourism and education, a matter of right. Restrictions were put in place on the capital account."
+  },
+  {
+    "question": "Which of the following correctly describes 'External Commercial Borrowings' (ECB)?",
+    "options": [
+      "Loans issued by Indian banks to domestic corporations with a minimum maturity of 5 years",
+      "Commercial loans from non-resident lenders with a minimum average maturity of 3 years",
+      "Bonds issued by the Indian government to foreign institutional investors",
+      "Equity shares issued by Indian companies to foreign investors under SEBI regulations"
+    ],
+    "correct": 1,
+    "explanation": "ECBs are commercial loans in the form of bank loans, buyers' credit, suppliers' credit, and securitized instruments availed from non-resident lenders with a minimum average maturity of 3 years."
+  },
+  {
+    "question": "Which bond type allows the investor to sell the bond back to the issuer before maturity?",
+    "options": [
+      "Puttable Bond",
+      "Convertible Bond",
+      "Callable Bond",
+      "Zero-Coupon Bond"
+    ],
+    "correct": 0,
+    "explanation": "Puttable Bonds allow investors to sell the bond back to the issuer before maturity, offering flexibility for investors concerned about falling bond values or rising interest rates. They generally trade at a premium due to the added investor advantage."
+  },
+  {
+    "question": "In the context of Qualified Institutional Placement (QIP), which of the following is NOT a Qualified Institutional Buyer (QIB)?",
+    "options": [
+      "Mutual funds",
+      "Venture capital funds",
+      "Pension funds",
+      "Retail individual investors"
+    ],
+    "correct": 3,
+    "explanation": "QIP is a capital raising instrument used by listed companies to issue equity shares to Qualified Institutional Buyers (QIBs). QIBs include venture capital funds, pension funds, and mutual funds — not retail individual investors."
+  },
+  {
+    "question": "With respect to the shift from FPI to domestic investment in India's capital markets, which of the following is a concern highlighted?",
+    "options": [
+      "High IPO valuations and performance problem in active fund management raising risks for retail investors",
+      "Increased pressure on the rupee due to higher domestic investment",
+      "Reduced monetary policy flexibility for the RBI",
+      "FPI ownership rising to a 15-month high"
+    ],
+    "correct": 0,
+    "explanation": "The document notes that high IPO valuations and the 'performance problem' in active fund management raise risks for retail investors, potentially worsening wealth inequality and undermining inclusive growth."
+  },
+  {
+    "question": "Regarding Gold ETFs, which of the following statements is correct as per the document?",
+    "options": [
+      "Gold ETFs are taxed at a flat 10% regardless of holding period",
+      "Gold ETFs are regulated by the Reserve Bank of India",
+      "Long-term capital gains on gold ETFs held for over 12 months are taxed at 12.5%",
+      "Gold ETFs involve physical delivery of gold to the investor"
+    ],
+    "correct": 2,
+    "explanation": "According to the document, LTCG on gold ETFs held for over 12 months are now taxed at 12.5%. Gold ETFs allow investors to hold gold electronically, not physically, and are regulated by SEBI."
+  },
+  {
+    "question": "SEBI's new intraday position framework for equity index derivatives caps the net intraday position per entity at:",
+    "options": [
+      "₹10,000 crore",
+      "₹1,500 crore",
+      "₹25,000 crore",
+      "₹5,000 crore"
+    ],
+    "correct": 3,
+    "explanation": "Under SEBI's new framework, the net intraday position is capped at ₹5,000 crore per entity in index options, while the gross intraday position is restricted at ₹10,000 crore."
+  },
+  {
+    "question": "India's reduction in exposure to US Treasury Bills signals a strategic shift. Which of the following best captures the reason?",
+    "options": [
+      "US Treasury Bills offer lower returns than gold",
+      "India's foreign exchange reserves have declined significantly",
+      "Analysts note the US can freeze or restrict access to Treasury securities in geopolitical cases",
+      "India aims to invest entirely in domestic government securities"
+    ],
+    "correct": 2,
+    "explanation": "Analysts note that the US can freeze or restrict access to Treasury securities in exceptional geopolitical or national security cases — as demonstrated when Russia's access was blocked after its invasion of Ukraine — making India cautious."
+  },
+  {
+    "question": "The Securities Transaction Tax (STT) was introduced to address which primary concern?",
+    "options": [
+      "To replace capital gains tax on stock transactions",
+      "To combat tax evasion in the stock market",
+      "To fund public infrastructure projects",
+      "To regulate intraday trading positions"
+    ],
+    "correct": 1,
+    "explanation": "STT was introduced in 2004 to combat tax evasion in the stock market, similar to TDS for salaried individuals. A key concern is that unlike TDS, STT has no provision for refund or adjustment at year-end."
+  },
+  {
+    "question": "The interest rates for Small Savings Schemes are fixed based on which benchmark?",
+    "options": [
+      "LIBOR with a fixed premium",
+      "Weighted average lending rate of commercial banks",
+      "Repo rate of the Reserve Bank of India",
+      "G-Sec rates of similar maturity with a spread/mark-up"
+    ],
+    "correct": 3,
+    "explanation": "The basis for fixing rates of Small Savings Schemes is that the interest rate will be aligned with G-Sec (Government Securities) rates of similar maturity with a spread, i.e., a mark-up."
+  },
+  {
+    "question": "Which of the following is a new mutual fund category introduced by SEBI as part of its broadened MF categories?",
+    "options": [
+      "Capital protection fund",
+      "Lifecycle fund",
+      "Children's fund",
+      "Retirement fund"
+    ],
+    "correct": 1,
+    "explanation": "SEBI introduced a new category called the lifecycle fund and done away with retirement and children's funds. Lifecycle funds have a minimum duration of five years and maximum duration of 30 years."
+  },
+  {
+    "question": "The Financial Conditions Index (FCI) proposed by RBI would capture conditions across which markets?",
+    "options": [
+      "Only equity and forex markets",
+      "G-sec, state development loans, and commercial paper only",
+      "Money market, G-sec, corporate bonds, equities, and forex market",
+      "Real estate, commodity, and money markets"
+    ],
+    "correct": 2,
+    "explanation": "The proposed FCI would serve as a composite indicator capturing conditions across the money market, G-sec, corporate bonds, equities, and the foreign exchange market, providing a high-frequency gauge relative to their historical average since 2012."
+  },
+  {
+    "question": "In India's bond market instrument composition, which instrument has the largest share?",
+    "options": [
+      "Corporate Bonds at 45%",
+      "G-sec at 45%",
+      "State Development Loans at 45%",
+      "Treasury Bills at 45%"
+    ],
+    "correct": 1,
+    "explanation": "According to the document, in India's bond market, G-sec accounts for 45%, State Development Loans 25%, Corporate Bonds 22%, Treasury Bills 4%, Commercial Paper 2%, and Certificate of Deposit 2%."
+  },
+  {
+    "question": "The National Company Law Tribunal (NCLT) was established under which legislation?",
+    "options": [
+      "Section 410 of the Companies Act, 2013",
+      "FEMA, 1999",
+      "Insolvency and Bankruptcy Code, 2016",
+      "Section 408 of the Companies Act, 2013"
+    ],
+    "correct": 3,
+    "explanation": "NCLT is a quasi-judicial body established in 2016 under Section 408 of the Companies Act, 2013. Its creation was based on the recommendations of the Justice Eradi Committee. NCLAT, on the other hand, is established under Section 410."
+  },
+  {
+    "question": "Which body serves as the appellate authority for orders passed by NCLT, IBC, CCI, and NFRA?",
+    "options": [
+      "High Court of Delhi",
+      "Securities Appellate Tribunal (SAT)",
+      "National Company Law Appellate Tribunal (NCLAT)",
+      "Supreme Court of India"
+    ],
+    "correct": 2,
+    "explanation": "NCLAT serves as the appellate authority for orders passed by NCLT, IBC, CCI, and National Financial Reporting Authority. It was constituted on 1 June 2016 and has its headquarters in New Delhi with an additional bench in Chennai."
+  },
+  {
+    "question": "What was India's share of non-fossil fuel sources in total installed electricity capacity as of January 31, 2026?",
+    "options": [
+      "44%",
+      "60%",
+      "47.8%",
+      "52.2%"
+    ],
+    "correct": 3,
+    "explanation": "As of January 31, 2026, non-fossil fuel sources account for approximately 52.2% of India's total installed electricity capacity. The country officially reached the 50% mark in June 2025, achieving its Paris Agreement target five years ahead of schedule."
+  },
+  {
+    "question": "Why does clean energy contribute less than 30% to actual electricity generated in India despite having over 52% installed capacity?",
+    "options": [
+      "Higher transmission losses in renewable energy systems",
+      "Lack of grid connectivity for renewable plants",
+      "Lower Capacity Utilisation Factor of renewables compared to coal and nuclear",
+      "Legal restrictions on renewable energy use"
+    ],
+    "correct": 2,
+    "explanation": "Experts attribute the gap to the lower Capacity Utilisation Factor (CUF) of renewables. Solar CUF is ~20%, wind is 25-30%, while coal is 60% and nuclear is 80%, meaning renewables generate far less electricity relative to their installed capacity."
+  },
+  {
+    "question": "India's Grid Emission Factor (GEF) has increased from 2020-21 to 2023-24. What does this indicate?",
+    "options": [
+      "India's electricity grid is becoming less reliant on fossil fuels",
+      "Renewable energy is displacing coal generation effectively",
+      "India's total electricity production has declined",
+      "India's electricity grid is becoming more carbon-intensive"
+    ],
+    "correct": 3,
+    "explanation": "India's GEF increased from 0.703 tCO₂/MWh in 2020-21 to 0.727 tCO₂/MWh in 2023-24. This rise indicates that India's electricity grid is becoming more carbon-intensive, even with more renewables in the installed capacity mix."
+  },
+  {
+    "question": "Russia's share in India's crude oil imports changed dramatically. Which of the following correctly captures this change?",
+    "options": [
+      "Russia's share rose from less than 2% in 2021-22 to 35.8% in 2024-25",
+      "Russia consistently supplied over 30% of India's crude oil imports",
+      "Russia replaced Saudi Arabia as India's largest crude supplier before 2020",
+      "Russia's share fell from 35% in 2021-22 to near zero in 2024-25"
+    ],
+    "correct": 0,
+    "explanation": "Russia accounted for less than 2% of India's crude oil imports in 2021-22, but this share rose dramatically to 35.8% in 2024-25, making it a dominant supplier."
+  },
+  {
+    "question": "Which of the following statements about India's LPG situation is correct?",
+    "options": [
+      "India produces about 60% of its LPG requirement domestically",
+      "About 90% of India's LPG imports are routed through the Strait of Hormuz",
+      "India is the largest consumer of LPG in the world",
+      "India has large underground LPG storage equal to two months of consumption"
+    ],
+    "correct": 1,
+    "explanation": "According to government data, India imports 60% of its LPG requirements. About 90% of LPG imports are routed through the Strait of Hormuz. India is the second-largest consumer of LPG, and total underground storage equals less than two days of consumption."
+  },
+  {
+    "question": "The UJALA scheme was primarily launched to address which energy challenge?",
+    "options": [
+      "Expanding solar power capacity in rural areas",
+      "Establishing compressed biogas plants across India",
+      "Reducing cost of LED bulbs and lowering peak power demand",
+      "Promoting ethanol blending in petrol"
+    ],
+    "correct": 2,
+    "explanation": "UJALA scheme reduced the cost of LED bulbs and included the Street Lighting National Programme, leading to 1.34 crore LED installations and peak demand reduction. LED bulbs consume half the power of CFLs and one-ninth that of incandescent bulbs."
+  },
+  {
+    "question": "The Hydrocarbon Exploration and Licensing Policy (HELP) and Open Acreage Licensing Policy (OALP) were launched in which year?",
+    "options": [
+      "2020",
+      "2016",
+      "2005",
+      "2010"
+    ],
+    "correct": 1,
+    "explanation": "The Government launched the Hydrocarbon Exploration and Licensing Policy (HELP) in 2016. Under this policy, the Open Acreage Licensing Policy (OALP) was started."
+  },
+  {
+    "question": "Which of the following correctly describes a 'Zero-Coupon Bond'?",
+    "options": [
+      "A bond that pays interest semi-annually based on a benchmark rate",
+      "A bond that can be converted to equity at a predetermined price",
+      "A bond that allows the issuer to redeem it before maturity",
+      "A bond sold at a discount to face value that does not pay periodic interest"
+    ],
+    "correct": 3,
+    "explanation": "Zero-Coupon Bonds are sold at a discount to face value and do not pay periodic interest. Investors receive the full face value at maturity, making them attractive for predictable returns and suitable for long-term investments."
+  },
+  {
+    "question": "What is the primary purpose of Panda Bonds?",
+    "options": [
+      "To raise rupee-denominated funds in foreign markets",
+      "To allow Indian entities to raise funds in Japanese yen",
+      "To allow foreign entities to access China's domestic bond market in Renminbi",
+      "To fund environmentally sustainable projects in China"
+    ],
+    "correct": 2,
+    "explanation": "Panda Bonds are RMB-denominated bonds issued in China's domestic market by foreign entities like governments or international organizations. They provide access to China's bond market and require compliance with Chinese regulations."
+  },
+  {
+    "question": "The IBC (Insolvency and Bankruptcy Code) introduced in 2016 has a maximum resolution period of:",
+    "options": [
+      "330 days",
+      "270 days",
+      "180 days",
+      "365 days"
+    ],
+    "correct": 0,
+    "explanation": "The IBC introduced a time-bound, creditor-in-control framework to streamline corporate insolvency and reduce delays, with a maximum resolution period of 330 days."
+  },
+  {
+    "question": "India's Pradhan Mantri Ujjwala Yojana (PMUY) primarily aimed to:",
+    "options": [
+      "Reduce dependence on imported crude oil through biofuels",
+      "Provide subsidised electricity connections to rural households",
+      "Provide deposit-free LPG connections to adult women from poor households",
+      "Expand piped natural gas connections to urban areas"
+    ],
+    "correct": 2,
+    "explanation": "PMUY aimed to provide clean cooking gas to poor households and free women from firewood-based chulhas, cow-dung, and kerosene stoves. The scheme provided deposit-free LPG connections to adult women from poor households. About 10 crore connections were added since 2017."
+  },
+  {
+    "question": "Ethanol blending in India rose from 1.5% in 2013 to what percentage in 2025?",
+    "options": [
+      "25%",
+      "19.7%",
+      "10%",
+      "15%"
+    ],
+    "correct": 1,
+    "explanation": "Ethanol blending rose from 1.5% in 2013 to 19.7% in 2025, as part of India's efforts to reduce dependence on imported hydrocarbons and expand the use of biofuels."
+  },
+  {
+    "question": "Concentrated Solar Thermal (CST) technology uses which medium to store energy for later use?",
+    "options": [
+      "Lithium-ion batteries",
+      "Underground caverns with superheated steam",
+      "Compressed hydrogen",
+      "Insulated tanks with heated fluids like molten salt"
+    ],
+    "correct": 3,
+    "explanation": "CST uses mirrors to concentrate sunlight onto a receiver, heating fluids like water or molten salt up to 400°C. It generates on-site thermal energy and allows storage in insulated tanks, enabling operation without drawing from the national grid. Thermal storage is cheaper than lithium-ion battery storage."
+  },
+  {
+    "question": "Regarding the characteristics of ethanol as a fuel mentioned in the text, consider the following statements:\n1. Ethanol has a higher calorific value compared to petrol.\n2. It possesses a higher octane number than petrol, providing better knock resistance.\n3. Ethanol is hygroscopic in nature, which can lead to corrosion in fuel lines.\nHow many of the statements or descriptions given above are correct?",
+    "options": [
+      "Only one",
+      "Only two",
+      "None",
+      "All three"
+    ],
+    "correct": 1,
+    "explanation": "Statement 1 is incorrect because ethanol has a lower calorific value than petrol, meaning it has less energy per litre. Statement 2 is correct as it has a higher octane number. Statement 3 is correct as its hygroscopic nature causes it to absorb water, leading to corrosion and rust."
+  },
+  {
+    "question": "In the context of India's ethanol blending program, which of the following is true regarding vehicle compatibility with E20 fuel?",
+    "options": [
+      "Vehicles require a one-time spark timing delay of 2-3 degrees to manage E20.",
+      "E20 compatibility is limited to the combustion chamber, which faces the most damage.",
+      "All carbureted vehicles manufactured before 2020 can adjust to E20 using their ECUs.",
+      "New vehicles manufactured since 2023 carry specific E20 compatibility stickers."
+    ],
+    "correct": 3,
+    "explanation": "According to the text, new vehicles since 2023 carry E20 compatibility stickers. Pre-2020 carbureted vehicles lack ECUs and cannot adjust. Damage occurs to rubber/elastomer parts, not the combustion chamber. For E20, spark timing may need to be advanced, not delayed."
+  },
+  {
+    "question": "With reference to the different generations of biofuels, consider the following pairs:\n1. 2G Biofuels: Produced from agricultural waste like rice straw.\n2. 3G Biofuels: Produced from industrial waste gases or algae.\n3. 4G Biofuels: Produced by genetically engineered microbes to convert captured CO2.\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "correct": 2,
+    "explanation": "All three pairs are correctly matched based on the text's definitions: 2G uses agricultural waste, 3G uses algae/industrial waste gases, and 4G involves genetically engineered microbes and carbon capture."
+  },
+  {
+    "question": "Why is isobutanol being explored as a potential blend for diesel in India instead of ethanol?",
+    "options": [
+      "Isobutanol is a non-flammable compound used primarily in the painting industry.",
+      "Isobutanol has a higher flash point than ethanol, making it safer and less volatile.",
+      "Isobutanol has a higher cetane number than diesel, ensuring faster ignition.",
+      "Ethanol blends perfectly with diesel without the need for any additives."
+    ],
+    "correct": 1,
+    "explanation": "The text states isobutanol has a higher flash point than ethanol, making it less volatile and safer. It also notes that ethanol's low flash point was a reason it was unsuitable for diesel, and that efforts to blend ethanol with diesel failed."
+  },
+  {
+    "question": "Regarding 'Blue-green Ammonia' mentioned in the document, which statement best describes its production process?",
+    "options": [
+      "It combines natural gas reforming with carbon capture and renewable-powered electrolysis.",
+      "It uses nitrogen derived from electrolysis and oxygen from the air as a hybrid source.",
+      "It is a process that increases the levelised cost of ammonia by 7% compared to standalone plants.",
+      "It is produced solely through renewable-powered electrolysis to ensure 100% carbon-free output."
+    ],
+    "correct": 0,
+    "explanation": "The document defines the hybrid blue-green pathway as using natural gas with carbon capture (blue) and renewable-powered electrolysis (green). It actually reduces the levelised cost by 7%."
+  },
+  {
+    "question": "A new method for producing Nickel using 'Hydrogen Plasma' has been discussed. What is the primary environmental advantage of this process over conventional methods?",
+    "options": [
+      "It uses carbon as a reducing agent to produce high-purity CO2.",
+      "The process is a multi-step method that eliminates the need for electric arc furnaces.",
+      "The byproduct of the reduction process is water (H2O) instead of carbon dioxide.",
+      "It is specifically designed for high-grade ores, reducing the need for mining lower-grade laterites."
+    ],
+    "correct": 2,
+    "explanation": "The text explicitly states that in the hydrogen plasma method, the byproduct is water (H2O) instead of CO2, making it a carbon-free process."
+  },
+  {
+    "question": "With reference to the 'India Energy Stack' (IES), consider the following statements:\n1. It is a digital public infrastructure aimed at integrating the power ecosystem.\n2. It enables peer-to-peer energy trading and compliance with carbon offsetting.\n3. In India, electricity is a subject under the Union List, allowing IES to be managed centrally.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "correct": 1,
+    "explanation": "Statements 1 and 2 are correct. Statement 3 is incorrect because the text explicitly mentions that in India, electricity is a 'concurrent subject,' not a Union List subject."
+  },
+  {
+    "question": "What is the primary difference between Building-Integrated Photovoltaics (BIPV) and traditional Rooftop Solar (RTS) systems?",
+    "options": [
+      "RTS is more efficient in shadow-prone areas compared to BIPV.",
+      "BIPV is only used in rural areas while RTS is meant for urban transitions.",
+      "BIPV serves as a structural element of the building, such as windows or railings.",
+      "BIPV systems are placed on top of existing roofs, whereas RTS is embedded in the foundation."
+    ],
+    "correct": 2,
+    "explanation": "The text states that BIPV integrates solar elements directly into architectural components like facades, windows, and railings, serving a dual purpose as a structural element."
+  },
+  {
+    "question": "Regarding 'Perovskite Solar Cells', what role do 'metal-halide perovskites' play?",
+    "options": [
+      "They act as the cooling agent for the silicon panels.",
+      "They serve as the main light-absorbing material or 'active layer'.",
+      "They are used as the structural frame for ground-mounted systems.",
+      "They are a type of battery storage technology used to stabilize the grid."
+    ],
+    "correct": 1,
+    "explanation": "The document specifies that metal-halide perovskites serve as the main absorbing material or 'active layer' in Perovskite Solar Cells, which absorbs light to generate power."
+  },
+  {
+    "question": "The 'Approved List of Module Manufacturers' (ALMM) List-III has been expanded by the MNRE. Which of the following components are now included under this mandatory sourcing regime?",
+    "options": [
+      "Copper wires and silver paste",
+      "Inverters and lithium-ion batteries",
+      "Solar glass and aluminum frames only",
+      "Solar ingots and wafers"
+    ],
+    "correct": 3,
+    "explanation": "The text mentions that the Ministry announced ALMM List-III for Ingots and Wafers, extending mandatory sourcing needs to include these components."
+  },
+  {
+    "question": "With reference to 'Sodium-ion batteries', which of the following is an advantage over 'Lithium-ion batteries' according to the text?",
+    "options": [
+      "They are less sensitive to moisture and do not require vacuum drying.",
+      "They exhibit lower peak temperature rise during thermal runaway events.",
+      "They have a higher specific energy (Wh/kg) than lithium-ion batteries.",
+      "They utilize copper as the current collector for both electrodes, which is cheaper."
+    ],
+    "correct": 1,
+    "explanation": "The text highlights safety as a compelling advantage, noting that sodium-ion cells exhibit significantly lower peak temperature rise during thermal runaway. It also mentions they use aluminium (not copper) and require *more* stringent vacuum drying."
+  },
+  {
+    "question": "The 'Advanced Chemistry Cells' (ACC-PLI) scheme in India mandates specific local manufacturing targets. What are these targets?",
+    "options": [
+      "50% local manufacturing within 2 years; 90% within 10 years.",
+      "60% local manufacturing within 2 years; 100% within 5 years.",
+      "10% local manufacturing in 1 year; 50% in 3 years.",
+      "25% local manufacturing within 2 years; 60% within 5 years."
+    ],
+    "correct": 3,
+    "explanation": "The text states that companies under the ACC-PLI scheme must ensure 25% local manufacturing within two years and 60% within five years."
+  },
+  {
+    "question": "What is the purpose of the proposed 21-character 'BPAN' mentioned in the document?",
+    "options": [
+      "To identify certified solar panel manufacturers under the ALMM list.",
+      "To ensure end-to-end traceability and efficient recycling of EV batteries.",
+      "To provide a unique digital ID for DISCOMs to reduce AT&C losses.",
+      "To track the efficiency of hydropower plants in Arunachal Pradesh."
+    ],
+    "correct": 1,
+    "explanation": "The text mentions that the Transport Ministry proposed the Battery Pack Aadhaar Number (BPAN) to ensure end-to-end traceability and efficient recycling of EV batteries."
+  },
+  {
+    "question": "In the context of nuclear energy, what is the significance of the 'ANEEL' fuel developed by Clean Core Thorium Energy?",
+    "options": [
+      "It is a 100% thorium fuel that requires no uranium for fission.",
+      "It is a fuel specifically designed for Stage 2 Fast Breeder Reactors.",
+      "It is a liquid fuel used exclusively in Molten Salt Reactors.",
+      "It combines thorium with small amounts of enriched uranium for use in PHWRs."
+    ],
+    "correct": 3,
+    "explanation": "According to the text, ANEEL fuel combines thorium with small amounts of enriched uranium and can be deployed in Pressurised Heavy Water Reactors (PHWRs)."
+  },
+  {
+    "question": "Regarding India’s Three-Stage Nuclear Power Programme, which of the following is correctly matched?",
+    "options": [
+      "Stage 2: Involves Fast Breeder Reactors to breed U-233 from thorium.",
+      "Stage 3: Utilizes natural uranium fuel and heavy water as a moderator.",
+      "Stage 1: Focuses exclusively on importing Light Water Reactors from Russia.",
+      "Stage 1: Uses Thorium-U-233 cycle in Advanced Heavy Water Reactors."
+    ],
+    "correct": 0,
+    "explanation": "Stage 2 involves Fast Breeder Reactors that can breed U-233 from thorium. Stage 1 uses natural uranium in PHWRs, and Stage 3 is the Thorium-U-233 cycle."
+  },
+  {
+    "question": "What does the 'Greenwald density limit' refer to in the context of nuclear fusion research mentioned in the text?",
+    "options": [
+      "The minimum temperature required to sustain a fusion reaction in the sun.",
+      "A threshold beyond which plasma in a tokamak collapses and may damage the reactor.",
+      "The ratio of hydrogen to helium fuel needed for self-sustaining burning plasma.",
+      "The maximum amount of radioactive waste a fusion reactor can produce."
+    ],
+    "correct": 1,
+    "explanation": "The text explains the Greenwald density limit as a threshold where, if exceeded, plasma collapses in a disruption that could damage the reactor."
+  },
+  {
+    "question": "According to the document, why was the 'Siang Upper Multipurpose Project' declared a national project?",
+    "options": [
+      "To test the first-ever bamboo-based ethanol production in India.",
+      "To experiment with geothermal energy extraction in the Himalayan province.",
+      "To provide free electricity to the entire Northeast region.",
+      "To serve as a counter to China's proposed 60,000 MW project on the Yarlung Tsangpo."
+    ],
+    "correct": 3,
+    "explanation": "The text states the SUMP is seen as a counter to China's proposed 60,000 MW project on the Yarlung Tsangpo River in Tibet."
+  },
+  {
+    "question": "Which of the following describes the 'triple product' used to measure success in nuclear fusion?",
+    "options": [
+      "Density, Pressure, and Volume",
+      "Temperature, Confinement Time, and Plasma Current",
+      "Density, Temperature, and Confinement Time",
+      "Fuel Particles, Magnetic Field, and Reactor Size"
+    ],
+    "correct": 2,
+    "explanation": "The document explicitly states: 'Scientists measure success using the triple product: density, temperature and confinement time.'"
+  },
+  {
+    "question": "What is the primary reason for the 'turnaround' of Indian DISCOMs in FY 2024-25, as per the text?",
+    "options": [
+      "Universal implementation of solar pumps in the agricultural sector.",
+      "Complete privatization of all state-owned power departments.",
+      "Elimination of all AT&C losses through the RDSS scheme.",
+      "Tariff subsidies received from and the takeover of losses by respective governments."
+    ],
+    "correct": 3,
+    "explanation": "The text notes that DISCOMs achieved the turnaround 'essentially due to tariff subsidies received from and the takeover of losses by their respective governments.'"
+  },
+  {
+    "question": "In the context of the 'National Critical Minerals Mission', which mineral is NOT included in the GSI's target of 300 exploration projects for the upcoming season?",
+    "options": [
+      "Nickel",
+      "Lithium",
+      "Copper",
+      "Rare Earth Elements"
+    ],
+    "correct": 2,
+    "explanation": "The text states that the figure of 300 projects 'does not include copper,' for which GSI will undertake separate projects."
+  },
+  {
+    "question": "Regarding the 'Pax Silica' initiative mentioned in the text, which statement is correct?",
+    "options": [
+      "It is a binding treaty that mandates the sharing of rare earth processing technology.",
+      "It is a Brazil-led initiative to secure the bauxite supply chain.",
+      "It focuses exclusively on the extraction of lithium and nickel from beach sands.",
+      "India is a member, but Brazil is not a member of this U.S.-led initiative."
+    ],
+    "correct": 3,
+    "explanation": "The text describes Pax Silica as a U.S.-led initiative that India joined, but notes the MoU 'does not make Brazil a Pax Silica member.'"
+  },
+  {
+    "question": "With reference to the environmental impact of wind energy in India, consider the following statements:\n1. The Thar Desert wind farms have shown some of the highest bird mortality rates globally.\n2. Raptors are the most affected bird species in the Thar Desert wind farms.\n3. National Offshore Wind Energy Policy mandates Environmental Impact Assessments (EIAs).\nHow many of the statements given above are correct?",
+    "options": [
+      "None",
+      "All three",
+      "Only one",
+      "Only two"
+    ],
+    "correct": 1,
+    "explanation": "All three statements are correct. The Thar Desert has high mortality (1.24 birds/turbine/month), raptors are most affected, and the Offshore Wind Policy mandates EIAs (unlike other renewables)."
+  },
+  {
+    "question": "What is 'Heavy Water' (D2O) used for in Pressurised Heavy Water Reactors (PHWRs)?",
+    "options": [
+      "To purify copper cathodes imported from the UAE.",
+      "As a primary fuel source combined with natural uranium.",
+      "To increase the temperature of the combustion chamber to 100 million degrees.",
+      "As a coolant and a moderator to slow down fast-moving neutrons."
+    ],
+    "correct": 3,
+    "explanation": "The text states heavy water 'is used as a coolant and moderator for slowing fast-moving neutrons, essential for sustaining nuclear fission.'"
+  },
+  {
+    "question": "According to the document, how does the temperature setting of an Air Conditioner (AC) affect electricity consumption?",
+    "options": [
+      "There is no direct correlation between temperature setting and consumption.",
+      "Every 1°C increase in temperature saves 6% of electricity.",
+      "Every 1°C decrease in temperature saves 10% of electricity.",
+      "Setting the AC at 18°C is the most energy-efficient for households."
+    ],
+    "correct": 1,
+    "explanation": "The document explicitly states: 'Every 1°C increase in AC temperature setting saves 6% of electricity consumption.'"
+  },
+  {
+    "question": "Which of the following best describes 'Biodiesel' production according to the text?",
+    "options": [
+      "Pyrolysis of lignocellulosic biomass to produce syngas.",
+      "Fermentation of sugars using invertase and zymase enzymes.",
+      "Transesterification of plant and animal fats with methanol and a catalyst.",
+      "Mimicking natural photosynthesis using water, sunlight, and CO2."
+    ],
+    "correct": 2,
+    "explanation": "The text states biodiesel is 'Produced by transesterification of plant & animal fat (triglycerides) with methanol + KOH catalyst.'"
+  },
+  {
+    "question": "Regarding 'Biohydrogen' production via heterotrophic fermentation, what is the maximum theoretical yield mentioned per mol of glucose?",
+    "options": [
+      "92 mol H2",
+      "2 mol H2",
+      "10 mol H2",
+      "4 mol H2"
+    ],
+    "correct": 3,
+    "explanation": "The text mentions a 'max yield: 4 mol H2 per mol glucose' for biohydrogen produced via heterotrophic acid fermentation."
+  },
+  {
+    "question": "What is the purpose of the 'Viability Gap Funding' (VGF) scheme launched by the government in the wind energy sector?",
+    "options": [
+      "To support the export of Indian-made wind turbines to China.",
+      "To support offshore wind projects, targeting 1 GW in the first phase.",
+      "To fund the installation of solar panels on wind turbine towers.",
+      "To compensate farmers for the use of common lands for wind farms."
+    ],
+    "correct": 1,
+    "explanation": "The text states: 'Government launched a Viability Gap Funding scheme for offshore wind projects, targeting 1 GW in the first phase.'"
+  },
+  {
+    "question": "In the context of global solar manufacturing, how do 'Indian-made solar modules' compare to 'Chinese modules' according to the text?",
+    "options": [
+      "Indian modules have 128.6% higher efficiency than Chinese modules.",
+      "There is no difference in cost; the difference is only in raw material control.",
+      "Indian modules are 1.5-2 times cheaper due to local subsidies.",
+      "Indian modules are 1.5-2 times more expensive than Chinese modules."
+    ],
+    "correct": 3,
+    "explanation": "The document states: 'Indian-made solar modules are 1.5-2 times more expensive than those from China due to China's larger capacity...'"
+  },
+  {
+    "question": "What is the 'Quality Control Order' (QCO) mentioned in the context of copper imports?",
+    "options": [
+      "A requirement for BIS certification for both domestic and foreign suppliers.",
+      "A mandate for all copper to be imported only from the UAE.",
+      "A rule that limits copper imports to only 10% of domestic demand.",
+      "An order to shut down all domestic copper cathode production plants."
+    ],
+    "correct": 0,
+    "explanation": "The text explains the QCO 'mandates BIS certification for both domestic and foreign copper cathode suppliers to sell in India.'"
+  },
+  {
+    "question": "Regarding the 'Panchamrit goals' announced at COP26, which of the following targets is mentioned?",
+    "options": [
+      "Meet 20% of total energy requirements from renewable sources by 2030.",
+      "Lower the carbon intensity of the economy by 100% by 2030.",
+      "Reach 500 GW of non-fossil energy capacity by 2030.",
+      "Achieve net-zero carbon emissions by the year 2050."
+    ],
+    "correct": 2,
+    "explanation": "The text lists 'Reach 500 GW of non-fossil energy capacity by 2030' as one of the goals. The net-zero target is 2070, and the renewable energy requirement goal is 50%."
+  },
+  {
+    "question": "With reference to 'Ethyl chloroformate', which was recently in the news, consider the following statements:\n1. It is an organic chemical intermediate used in the pharmaceutical industry.\n2. The Directorate General of Trade Remedies (DGTR) initiated an anti-dumping investigation into its imports from China.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "Neither 1 nor 2",
+      "2 only",
+      "Both 1 and 2"
+    ],
+    "correct": 3,
+    "explanation": "According to the PDF, Ethyl chloroformate is an organic chemical intermediate widely used in pharma and agrochemical manufacturing. The DGTR initiated an anti-dumping probe following allegations by a domestic producer regarding imports from China."
+  },
+  {
+    "question": "In the context of land reforms in India, what does the acronym 'ULPIN' stand for as mentioned in recent government initiatives?",
+    "options": [
+      "Unified Land Planning and Information Network",
+      "Urban Land Plot Indexing Number",
+      "Unique Land Parcel Identification Number",
+      "Universal Land Possession Integration Node"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that 30% of land parcels have been assigned Unique Land Parcel Identification Numbers (ULPINs) as part of the digitisation of land records."
+  },
+  {
+    "question": "Which of the following best describes 'Regenerative Farming' as mentioned in the trends affecting the Indian textile sector?",
+    "options": [
+      "A farming technique that relies heavily on chemical fertilizers to boost biodiversity.",
+      "A method focused solely on maintaining the status quo of soil health.",
+      "A strategy used to increase the production of synthetic man-made fibers.",
+      "A conservation-based approach that actively improves degraded resources and restores soil health."
+    ],
+    "correct": 3,
+    "explanation": "The document defines regenerative farming as a conservation-based approach that restores soil health and actively improves degraded resources through methods like no-till cultivation, unlike sustainable farming which maintains the status quo."
+  },
+  {
+    "question": "Consider the following statements regarding the Indian textile industry:\n1. India is the largest producer of cotton in the world.\n2. The textile industry contributes approximately 2% to India's GDP.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "Both 1 and 2",
+      "2 only",
+      "Neither 1 nor 2",
+      "1 only"
+    ],
+    "correct": 1,
+    "explanation": "The PDF states India is the second largest producer of cotton after China (24% of global production) and that the industry contributes about 2% to GDP."
+  },
+  {
+    "question": "The 'Tex-RAMPS' scheme, approved by the Centre, is primarily aimed at which of the following?",
+    "options": [
+      "Setting up 100 new handloom clusters in North East India.",
+      "Subsidizing the import of raw materials like PTA and MEG.",
+      "Providing 50-year interest-free loans for road construction near textile parks.",
+      "Strengthening research, innovation, and data systems in the textiles sector."
+    ],
+    "correct": 3,
+    "explanation": "The Tex-RAMPS scheme is designed to strengthen research, innovation, and competitiveness by creating robust data systems and addressing critical gaps in innovation support."
+  },
+  {
+    "question": "With reference to the 'National Technical Textiles Mission (NTTM)', consider the following statements:\n1. It was introduced by the Ministry of MSME.\n2. It focuses on functional fabrics used for performance rather than aesthetics.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Neither 1 nor 2",
+      "Both 1 and 2"
+    ],
+    "correct": 1,
+    "explanation": "The NTTM was introduced by the Ministry of Textiles in 2020. Its goal is to lead in technical textiles, which are functional fabrics like medical masks and bulletproof vests used for performance."
+  },
+  {
+    "question": "National Handloom Day, celebrated on August 7th, commemorates which historical event?",
+    "options": [
+      "The Non-Cooperation Movement.",
+      "The launch of the Quit India Movement.",
+      "The 1905 Swadeshi Movement.",
+      "The Champaran Satyagraha."
+    ],
+    "correct": 2,
+    "explanation": "August 7th commemorates the 1905 Swadeshi Movement, which championed indigenous industries and hand-woven textiles."
+  },
+  {
+    "question": "Which organization functions under the Department of Space and authorized Starlink to operate its broadband satellite constellation over India?",
+    "options": [
+      "ISRO",
+      "IN-SPACE",
+      "NewSpace India Limited",
+      "Antrix Corporation"
+    ],
+    "correct": 1,
+    "explanation": "The PDF mentions that Starlink received authorization from IN-SPACE, which functions under the Department of Space."
+  },
+  {
+    "question": "Regarding the Satellite Internet Service Rules in India, consider the following:\n1. Satellite terminals used in India must be manufactured domestically within 5 years.\n2. Terminals purchased in India will remain functional when taken abroad.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "Neither 1 nor 2",
+      "2 only",
+      "Both 1 and 2"
+    ],
+    "correct": 0,
+    "explanation": "The rules state that terminals used in India must be domestically manufactured within 5 years, but India-purchased terminals must be disabled abroad."
+  },
+  {
+    "question": "The 'Geofencing' technology, mentioned in the context of telecom and satellite services, is primarily used for:",
+    "options": [
+      "Allocating spectrum for 6GHz WiFi routers.",
+      "Reducing the carbon footprint of telecom towers by 30%.",
+      "Increasing the speed of 5G networks in urban areas.",
+      "Creating virtual geographic boundaries that trigger alerts or actions."
+    ],
+    "correct": 3,
+    "explanation": "Geofencing is defined as a location-based technology that creates a virtual geographic boundary triggering alerts when a device enters or exits the zone."
+  },
+  {
+    "question": "According to the Supreme Court of India, who holds the legal title and ownership of the telecom spectrum?",
+    "options": [
+      "The Union of India, in trust for the public",
+      "The Telecom Regulatory Authority of India (TRAI)",
+      "The state governments where the towers are located",
+      "The Telecom Service Providers (TSPs)"
+    ],
+    "correct": 0,
+    "explanation": "The SC laid down that legal title of spectrum vests exclusively in the Union of India, which holds it in trust for the public; licensees acquire no proprietary interest."
+  },
+  {
+    "question": "What are 'Regulatory Assets' in the context of the power sector and DISCOMs?",
+    "options": [
+      "Funds earmarked for the retirement of old coal plants.",
+      "Subsidies provided by the Centre for smart meter installation.",
+      "Profits earned by DISCOMs from renewable energy integration.",
+      "The unrecoverable revenue gap between the Average Cost of Supply (ACS) and Annual Revenue Requirement (ARR)."
+    ],
+    "correct": 3,
+    "explanation": "Regulatory assets represent the revenue gap between ACS and ARR, occurring when the cost of supply is higher than the revenue requirement."
+  },
+  {
+    "question": "With reference to 'PM-WANI', which of the following is correct?",
+    "options": [
+      "It is a satellite-based communication system for Indian Navy vessels.",
+      "It is a framework to democratize internet access through a decentralized network of public Wi-Fi hotspots.",
+      "It is a scheme to provide free smartphones to rural households.",
+      "It is a portal for the direct sale of handloom products to international markets."
+    ],
+    "correct": 1,
+    "explanation": "PM-WANI is a national framework launched by the Department of Telecommunications to democratize internet access through public Wi-Fi hotspots."
+  },
+  {
+    "question": "The 'Telecommunications (Right of Way) Rules, 2024' include which of the following features?",
+    "options": [
+      "Deemed approval within 60 days for public property applications.",
+      "High fees for installing 5G infrastructure on private property.",
+      "Exclusive rights for the Adani Group at all Indian airports.",
+      "A mandatory 5-year wait time for fiber deployment approvals."
+    ],
+    "correct": 0,
+    "explanation": "The rules introduce deemed approval within 60 days for public property applications to streamline 5G and fiber deployment."
+  },
+  {
+    "question": "In the context of smartphone security, what is 'Source Code' as described in the document?",
+    "options": [
+      "A unique 15-digit number used to identify mobile devices.",
+      "The core repository of software programmes and associated digital assets that drive a digital system.",
+      "The encryption key used for satellite phone messaging.",
+      "The hardware design of the smartphone's processor."
+    ],
+    "correct": 1,
+    "explanation": "Source code is defined as the core repository of software programmes and digital assets that drive a digital system."
+  },
+  {
+    "question": "The '6GHz Band' was recently in the news because the Department of Telecommunications:",
+    "options": [
+      "Auctioned it exclusively for 5G mobile telephony.",
+      "Reserved it solely for Indian Railways' safety systems.",
+      "Banned its use due to interference with satellite communication.",
+      "De-licensed half of the spectrum (5,925-6,425 MHz) for WiFi and indoor use."
+    ],
+    "correct": 3,
+    "explanation": "The DoT de-licensed half the spectrum in the 6GHz band for indoor WiFi use, which was a point of contention between tech and telecom firms."
+  },
+  {
+    "question": "Which of the following cities has been recently linked to the national railway network via the Bairabi-Sairang line?",
+    "options": [
+      "Gangtok",
+      "Aizawl",
+      "Imphal",
+      "Kohima"
+    ],
+    "correct": 1,
+    "explanation": "Aizawl, Mizoram, has been linked to the national railway network via the Bairabi-Sairang line, making Mizoram the 4th NE state with its capital connected by rail."
+  },
+  {
+    "question": "Regarding the 'Chenab Bridge', which of the following statements is true?",
+    "options": [
+      "It is the world's highest railway arch bridge, standing 359m above the riverbed.",
+      "It was built to withstand wind speeds of only up to 100 km/hr.",
+      "It is India's first cable-stayed railway bridge.",
+      "It is located on the Bairabi-Sairang rail link."
+    ],
+    "correct": 0,
+    "explanation": "The Chenab Bridge is the highest railway arch bridge in the world (359m) and is part of the USBRL project, not the Bairabi-Sairang link."
+  },
+  {
+    "question": "The 'Amrit Bharat Station Scheme' aims to:",
+    "options": [
+      "Convert all railway stations into 100% solar-powered zones by 2026.",
+      "Provide free food to all passengers traveling in general compartments.",
+      "Eliminate manual ticketing by the year 2030.",
+      "Transform over 1,300 stations into modern 'city centres' with improved amenities."
+    ],
+    "correct": 3,
+    "explanation": "Launched in 2022, the scheme aims to transform 1,337 stations into modern city centres with better facilities and heritage-inspired designs."
+  },
+  {
+    "question": "The 'Aabhar' online store, patronised by Indian Railways, aims to promote:",
+    "options": [
+      "High-speed internet data packs for passengers.",
+      "International luxury brands in railway station lounges.",
+      "Local talent and indigenous products under 'One District One Product'.",
+      "Second-hand railway equipment and scrap metal."
+    ],
+    "correct": 2,
+    "explanation": "Aabhar is an online store hosted by GeM to promote local talent, tribes, and handloom weavers under 'One District One Product' and GI."
+  },
+  {
+    "question": "What is 'DRISHTI', recently planned for installation by the Railways?",
+    "options": [
+      "A night-vision camera for loco pilots.",
+      "A new lighting system for heritage stations.",
+      "A passenger feedback mobile application.",
+      "An AI-based Locking Monitoring System for freight train safety."
+    ],
+    "correct": 3,
+    "explanation": "DRISHTI is an AI-based technology developed to enhance the safety of freight trains by monitoring locking systems, reducing manual checks."
+  },
+  {
+    "question": "In a hydrogen-powered train, what is the primary by-product of the fuel cell reaction?",
+    "options": [
+      "Carbon Dioxide",
+      "Methane",
+      "Water",
+      "Nitrogen Oxide"
+    ],
+    "correct": 2,
+    "explanation": "In a fuel cell, hydrogen combines with oxygen to form water, which is the only by-product, making it emission-free."
+  },
+  {
+    "question": "With reference to the different 'colors' of hydrogen, 'Green Hydrogen' is produced using:",
+    "options": [
+      "Coal gasification without any filters.",
+      "Natural gas through steam methane reforming.",
+      "Fossil fuels with carbon capture.",
+      "Electrolysers powered by renewable energy sources."
+    ],
+    "correct": 3,
+    "explanation": "Green hydrogen is produced using electrolysers powered by renewable energy sources, as opposed to Grey or Blue hydrogen."
+  },
+  {
+    "question": "The 'Hydrogen for Heritage' initiative by Indian Railways targets which of the following?",
+    "options": [
+      "Introducing hydrogen-powered trains on scenic and narrow-gauge hill routes.",
+      "Replacing all Vande Bharat trains with hydrogen trains by 2025.",
+      "Exporting hydrogen technology to neighboring countries.",
+      "Using hydrogen to power railway station kitchens."
+    ],
+    "correct": 0,
+    "explanation": "This initiative aims to deploy 35 hydrogen-powered units on heritage and narrow-gauge routes like Darjeeling and Kalka-Shimla."
+  },
+  {
+    "question": "Which Indian city launched the country's first underwater metro tunnel in 2024?",
+    "options": [
+      "Mumbai",
+      "Kochi",
+      "Chennai",
+      "Kolkata"
+    ],
+    "correct": 3,
+    "explanation": "According to the PDF, Kolkata launched India's first underwater metro tunnel in 2024."
+  },
+  {
+    "question": "The 'Kavach' system is an indigenous:",
+    "options": [
+      "Bulletproof material for soldiers.",
+      "Radar system for coastal security.",
+      "Automatic train protection system to avert collisions.",
+      "Cybersecurity firewall for the Ministry of Finance."
+    ],
+    "correct": 2,
+    "explanation": "Kavach is an indigenously developed automatic train protection system that applies brakes to avert collisions if the loco pilot fails to act."
+  },
+  {
+    "question": "The 'Vizhinjam International Sea Port' is significant because it is India's first:",
+    "options": [
+      "Port located on the East Coast to handle Chinese imports.",
+      "Deep-water container transshipment port.",
+      "Port to handle only agricultural exports.",
+      "Privately owned minor port in Kerala."
+    ],
+    "correct": 1,
+    "explanation": "Vizhinjam is inaugurated as India's first deep-water container transshipment port, aimed at reducing dependency on ports like Colombo and Singapore."
+  },
+  {
+    "question": "With reference to shipping, what are 'Flags of Convenience (FOC)'?",
+    "options": [
+      "Special flags used by naval vessels during war.",
+      "A permit for ships to carry hazardous substances.",
+      "Registration of a ship in a country other than the owner's for operational ease and less scrutiny.",
+      "A system of signaling between ships at sea."
+    ],
+    "correct": 2,
+    "explanation": "FOC refers to ships owned in one country but registered in another (like Liberia) for operational ease and less intrusive scrutiny."
+  },
+  {
+    "question": "Consider the following statements regarding 'Green Methanol':\n1. It is easier to store at ambient temperatures compared to Green Ammonia.\n2. It is produced by combining green hydrogen with captured CO2.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 only",
+      "Both 1 and 2",
+      "1 only",
+      "Neither 1 nor 2"
+    ],
+    "correct": 1,
+    "explanation": "The PDF states green methanol is easier to adopt and store at ambient temperatures and is produced by combining green hydrogen and CO2."
+  },
+  {
+    "question": "The 'Bureau of Port Security (BoPS)' will be established as a statutory body under which Act?",
+    "options": [
+      "The National Security Act, 1980",
+      "The Indian Ports Act, 1908",
+      "The Merchant Shipping Act, 2025",
+      "The CISF Act, 1968"
+    ],
+    "correct": 2,
+    "explanation": "The BoPS is modelled on BCAS and will be constituted as a statutory body under the Merchant Shipping Act, 2025, to oversee vessel and port security."
+  },
+  {
+    "question": "With reference to India's maritime sector, consider the following statements:\n1. The maritime sector contributes nearly 4% of India's GDP.\n2. In terms of trade, the maritime sector handles 95% of India's trade by volume.\n3. The government aims to reduce logistics costs to around 12% of GDP by 2047.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "correct": 0,
+    "explanation": "According to the PDF, the maritime sector contributes nearly 4% of India's GDP and handles 95% of trade by volume (70% by value). The government aims to reduce logistics costs to single digits (around 9%), not 12%."
+  },
+  {
+    "question": "The 'Digi Bandar' framework, recently seen in the news, is associated with which of the following?",
+    "options": [
+      "An online portal for the registration of traditional fishing vessels.",
+      "A blockchain-based system for tracking agricultural residue for biofuel.",
+      "A national framework to make all Indian ports data-driven and AI-enabled.",
+      "A digital platform for tracking tiger populations in mangrove forests."
+    ],
+    "correct": 2,
+    "explanation": "As per the PDF, Digi Bandar is a national framework launched to make all Indian ports data-driven and AI-enabled."
+  },
+  {
+    "question": "Under the 'Maritime Amrit Kaal Vision 2047', which of the following locations is NOT identified for the development of a major transshipment hub?",
+    "options": [
+      "Ennore (Tamil Nadu)",
+      "Vizhinjam (Kerala)",
+      "Kanyakumari (Tamil Nadu)",
+      "Galathea Bay (Great Nicobar)"
+    ],
+    "correct": 0,
+    "explanation": "The PDF explicitly lists three major transshipment hubs for development: Vizhinjam, Galathea Bay, and Kanyakumari. Ennore is not mentioned in this context."
+  },
+  {
+    "question": "With reference to the Vizhinjam International Seaport, consider the following statements:\n1. It is India's first deepwater transshipment port.\n2. It is managed under a Design, Build, Finance, Operate and Transfer (DBFOT) model.\n3. Its natural depth allows large cargo vessels to dock without the need for dredging.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "correct": 2,
+    "explanation": "The PDF confirms Vizhinjam is India's first deepwater transshipment port, managed under the DBFOT model, and its natural depth of 18-20 metres allows docking without dredging."
+  },
+  {
+    "question": "Regarding the 'Safe System Approach' in road design mentioned in the document, which statement is correct?",
+    "options": [
+      "It focuses on ensuring that human mistakes do not lead to fatalities or serious injuries.",
+      "It is a strategy exclusively designed for National Highways.",
+      "It assumes that human error can be completely eliminated through strict penalties.",
+      "It prioritizes vehicle speed over road safety to improve logistics efficiency."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states the Safe System Approach focuses on human vulnerability and error, accepting that mistakes will occur but aiming to ensure they don't lead to fatalities or serious injuries."
+  },
+  {
+    "question": "Consider the following comparisons of CO2 emissions per passenger-km for different modes of transport:\n1. Trains emit less CO2 than buses.\n2. Aeroplanes emit more CO2 than cars.\n3. Road transport is the largest contributor to global energy-related CO2 emissions in the transport sector.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 1,
+    "explanation": "According to the data: Trains (19g) < Buses (63g) < Aeroplanes (123g) < Cars (148g). Thus 1 is correct. 2 is incorrect (Cars emit more than aeroplanes per passenger-km). 3 is correct as road transport is the largest contributor to transport emissions."
+  },
+  {
+    "question": "With reference to the Motor Vehicles Act, 1988, Section 138(1A) empowers States to:",
+    "options": [
+      "Levy fines for speeding on State Highways.",
+      "Mandate safety standards for the manufacturing of SUVs.",
+      "Regulate pedestrian and non-mechanical vehicle movement on public roads and national highways.",
+      "Provide cashless treatment to road accident victims."
+    ],
+    "correct": 2,
+    "explanation": "The PDF specifies that Section 138(1A) empowers States to regulate pedestrian and non-mechanical vehicle movement on public roads and national highways."
+  },
+  {
+    "question": "The 'PM RAHAT' scheme, launched in February 2026, primarily aims to:",
+    "options": [
+      "Subsidize the purchase of electric vehicles for commercial use.",
+      "Bridge the 'Golden Hour' gap by providing immediate cashless treatment to road accident victims.",
+      "Provide long-term pensions to families of accident victims.",
+      "Repair all black spots on National Highways within two years."
+    ],
+    "correct": 1,
+    "explanation": "The PDF describes the PM RAHAT (Road Accident Victims' Hospitalisation & Assured Treatment) scheme as providing immediate cashless treatment up to 1.5 lakh per victim to bridge the golden hour gap."
+  },
+  {
+    "question": "Under the PM RAHAT scheme, a 'rahavir' refers to:",
+    "options": [
+      "A person who brings an accident victim to the hospital.",
+      "A volunteer trained in providing first aid on highways.",
+      "A driver with a record of zero traffic violations.",
+      "A government official inspecting road safety."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states that a person who brings a victim to the hospital is called 'rahavir' and would be given a 25,000 cash award."
+  },
+  {
+    "question": "With reference to the 'Brasilia Declaration on Road Safety', which of the following Sustainable Development Goals (SDG) targets does it aim to achieve?",
+    "options": [
+      "SDG 7.2",
+      "SDG 11.2",
+      "SDG 3.6",
+      "SDG 13.1"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that under the Brasilia Declaration, countries plan to achieve SDG 3.6, which is to halve the number of global deaths and injuries from road traffic accidents."
+  },
+  {
+    "question": "What is the primary technology used in FASTag for automatic toll deduction?",
+    "options": [
+      "Radio Frequency Identification (RFID)",
+      "Near Field Communication (NFC)",
+      "Bluetooth Low Energy (BLE)",
+      "Global Positioning System (GPS)"
+    ],
+    "correct": 0,
+    "explanation": "The PDF clarifies that FASTag uses RFID (Radio Frequency Identification) to automatically deduct toll from a linked account."
+  },
+  {
+    "question": "Regarding RFID tags, which of the following statements is correct?",
+    "options": [
+      "Active tags are powered by the reader's electromagnetic energy.",
+      "RFID technology can only operate at Low Frequencies.",
+      "Passive tags have their own battery and transmit signals regularly.",
+      "Semi-passive tags use an internal power source for the circuit but respond using the reader's radio waves."
+    ],
+    "correct": 3,
+    "explanation": "According to the PDF, semi-passive tags have an internal circuit with a power source but use the reader's radio waves to respond. Passive tags are powered by the reader, and active tags have their own battery."
+  },
+  {
+    "question": "What is 'Data Lake' in the context of Indian infrastructure mentioned in the PDF?",
+    "options": [
+      "An AI-based portal by NHAI for analyzing road defects and accident data.",
+      "A project to conserve freshwater lakes near National Highways.",
+      "A database for tracking the migration of fisherfolk.",
+      "A repository for records of all merchant navy vessels."
+    ],
+    "correct": 0,
+    "explanation": "The PDF identifies 'Data Lake' as NHAI’s AI-based portal (also referred to as RAMS) where data on road defects is analyzed."
+  },
+  {
+    "question": "According to the National Highways Fee Rules, 2008 (as amended), what is the penalty for a vehicle entering a toll plaza without a functional FASTag and paying in cash?",
+    "options": [
+      "A flat fine of 500 in addition to the fee",
+      "1.5 times the user fee",
+      "Double the applicable user fee",
+      "1.25 times the user fee"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that vehicles without a functional FASTag are charged twice (double) the applicable user fee if they pay in cash."
+  },
+  {
+    "question": "The 'Bharat Taxi' platform is distinct because it is based on which model?",
+    "options": [
+      "A cooperative-based model",
+      "A government-owned and operated model",
+      "A franchise-based model",
+      "A private equity-funded aggregator model"
+    ],
+    "correct": 0,
+    "explanation": "The PDF describes Bharat Taxi as India's first cooperative-based ride-hailing platform, following the 'Amul model'."
+  },
+  {
+    "question": "Where is India's first 'musical path' (rumble strips producing a tune) located?",
+    "options": [
+      "Delhi-Meerut Expressway",
+      "Bengaluru-Mysuru Expressway",
+      "Mumbai's Coastal Road",
+      "Yamuna Expressway"
+    ],
+    "correct": 2,
+    "explanation": "The PDF mentions Mumbai's Coastal Road has become the first 'musical path' in India, playing 'Jai Ho'."
+  },
+  {
+    "question": "With reference to Sustainable Aviation Fuel (SAF), consider the following statements:\n1. It is a biofuel made from sustainable feedstocks like agricultural residue and MSW.\n2. India has set a target of 10% SAF blending for international flights by 2027.\n3. It is compatible with existing aircraft engines.\nWhich of the statements given above are correct?",
+    "options": [
+      "1 and 3 only",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "Statements 1 and 3 are correct. Statement 2 is incorrect because the PDF states the target is 1% blending in 2027 and 2% in 2028."
+  },
+  {
+    "question": "The 'CORSIA' scheme, mentioned in the context of aviation, is a project of which organization?",
+    "options": [
+      "IATA",
+      "WTO",
+      "ICAO",
+      "UNEP"
+    ],
+    "correct": 2,
+    "explanation": "The PDF links CORSIA (Carbon Offsetting and Reduction Scheme for International Aviation) to ICAO (International Civil Aviation Organization)."
+  },
+  {
+    "question": "The Montreal Convention 1999 (MC99) is primarily concerned with:",
+    "options": [
+      "Unification of rules governing international air carriage (passengers, baggage, cargo).",
+      "Phasing out ozone-depleting substances in aircraft.",
+      "Regulating the use of drones in civilian airspace.",
+      "Standardizing airport security protocols globally."
+    ],
+    "correct": 0,
+    "explanation": "The PDF describes MC99 as a treaty for the unification of rules governing international air carriage of passengers, baggage, and cargo."
+  },
+  {
+    "question": "Which body is responsible for conducting independent investigations into civil aircraft accidents in India?",
+    "options": [
+      "National Transportation Safety Board (NTSB)",
+      "Directorate General of Civil Aviation (DGCA)",
+      "Aircraft Accident Investigation Bureau (AAIB)",
+      "Bureau of Civil Aviation Security (BCAS)"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states the AAIB is the statutory body responsible for independent investigations, separated from the regulator (DGCA) in 2012."
+  },
+  {
+    "question": "Under the revised Flight Duty Time Limitation (FDTL) rules 2024, the mandatory weekly rest period for pilots has been increased to:",
+    "options": [
+      "48 hours",
+      "72 hours",
+      "36 hours",
+      "24 hours"
+    ],
+    "correct": 0,
+    "explanation": "The PDF mentions that the mandatory weekly rest period for pilots increased from 36 hours to 48 hours."
+  },
+  {
+    "question": "In the 'single-till' mechanism for airport tariff calculation:",
+    "options": [
+      "Only non-aeronautical revenue is considered for calculating charges.",
+      "Tariffs are fixed based on the distance of the flight.",
+      "Aeronautical and non-aeronautical revenue must be considered together.",
+      "Only aeronautical revenue is considered for calculating charges."
+    ],
+    "correct": 2,
+    "explanation": "The PDF defines the 'single-till' mechanism as holding that aeronautical and non-aeronautical revenue must be considered together for calculating charges."
+  },
+  {
+    "question": "With reference to the 'National Monetisation Pipeline' (NMP), which sector has been identified as a 'laggard' despite high targets?",
+    "options": [
+      "Aviation",
+      "Power",
+      "Roads",
+      "Railways"
+    ],
+    "correct": 0,
+    "explanation": "The PDF states that while roads and railways remain top contributors to NMP, the aviation sector remains a laggard."
+  },
+  {
+    "question": "The 'SPMEPCI' scheme launched by the Central Government is related to:",
+    "options": [
+      "Subsidizing solar panel installations for rural households.",
+      "Modernizing small-scale plastic manufacturing units.",
+      "Promoting domestic manufacturing of electric passenger cars.",
+      "Encouraging pharmaceutical exports to European markets."
+    ],
+    "correct": 2,
+    "explanation": "SPMEPCI stands for Scheme to Promote Manufacturing of Electric Passenger Cars in India, as per the PDF."
+  },
+  {
+    "question": "Which element's magnets are described as 'essential' for EV electric motors in the provided text?",
+    "options": [
+      "Lithium",
+      "Neodymium",
+      "Cobalt",
+      "Nickel"
+    ],
+    "correct": 1,
+    "explanation": "The PDF mentions Neodymium-Iron-Boron (NdFeB) magnets are essential for EV electric motors."
+  },
+  {
+    "question": "A 'Fuel Cell Electric Vehicle' (FCEV) generates energy from:",
+    "options": [
+      "Burning hydrogen in an internal combustion engine.",
+      "Recharging a Li-ion battery from an external socket.",
+      "Capturing solar energy through rooftop panels on the vehicle.",
+      "Chemical energy using hydrogen and air, producing heat and water as byproducts."
+    ],
+    "correct": 3,
+    "explanation": "The PDF states that Hydrogen FCEV uses hydrogen and air to generate electricity from chemical energy, producing heat and water as byproducts."
+  },
+  {
+    "question": "What is the primary advantage of Sodium-Ion (Na-Ion) batteries over Lithium-Ion batteries mentioned in the text?",
+    "options": [
+      "Sodium-Ion batteries have a much higher energy density.",
+      "Sodium is more abundant and can be extracted at lower costs.",
+      "Sodium is a rare earth element providing better magnetic properties.",
+      "Sodium-Ion batteries do not require any charging cycles."
+    ],
+    "correct": 1,
+    "explanation": "The PDF states Sodium is more abundant than lithium and can be extracted from seawater at lower costs."
+  },
+  {
+    "question": "Regarding 'Total Allowable Catch' (TAC) in fishing, what is its primary purpose?",
+    "options": [
+      "To prevent overfishing and ensure sustainable fish populations.",
+      "To maximize the revenue for deep-sea fishing operators.",
+      "To categorize fish based on their export value.",
+      "To restrict the number of fishermen allowed in the EEZ."
+    ],
+    "correct": 0,
+    "explanation": "The PDF defines TAC as a limit to prevent overfishing and ensure sustainable fish populations."
+  },
+  {
+    "question": "In the context of the WTO Agreement on Fisheries Subsidies, which of the following is NOT a target for subsidy prohibition?",
+    "options": [
+      "Fishing on the unregulated high seas",
+      "Fishing of overfished stocks",
+      "Illegal, Unreported, and Unregulated (IUU) fishing",
+      "Traditional artisanal fishing within territorial waters"
+    ],
+    "correct": 3,
+    "explanation": "The PDF lists IUU fishing, overfished stocks, and unregulated high seas as targets. Artisanal fishing within territorial waters is not mentioned as a prohibited category."
+  },
+  {
+    "question": "The 'Extended Fund Facility' (EFF) of the IMF is specifically designed for countries with:",
+    "options": [
+      "Serious medium-term balance of payments problems due to structural weaknesses.",
+      "High levels of specialty steel overcapacity.",
+      "Short-term liquidity crises only.",
+      "Surplus foreign exchange reserves."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states that the EFF provides assistance to countries with serious medium-term balance of payments problems due to structural weaknesses."
+  },
+  {
+    "question": "Regarding 'Effective Capital Expenditure' as mentioned in the Union Budget, which of the following statements is correct?",
+    "options": [
+      "It has reached its highest level in the last twenty years in FY27(BE).",
+      "It refers solely to the capital expenditure incurred by the Central Government.",
+      "It excludes grants provided to states for infrastructure development.",
+      "It is the sum of capital expenditure and Grants-in-Aid for the creation of capital assets."
+    ],
+    "correct": 3,
+    "explanation": "According to the document, Effective Capital Expenditure refers to the sum of capital expenditure and Grants-in-Aid for the creation of capital assets. It reached 4.4% of GDP in FY27(BE), the highest in at least eight years."
+  },
+  {
+    "question": "Under the Most Favored Nation (MFN) principle of GATT 1994, what is the primary obligation of a WTO member?",
+    "options": [
+      "To ensure that any trade favor given to one member is extended to all other members.",
+      "To eliminate all customs duties on imports from developing nations.",
+      "To provide subsidies to all domestic industries equally.",
+      "To prioritize trade with neighboring countries over distant members."
+    ],
+    "correct": 0,
+    "explanation": "Article 1 of GATT (1994) mandates that all WTO members must grant MFN status to others, ensuring non-discrimination. Any special favor, such as lower tariffs given to one country, must be extended to all WTO members."
+  },
+  {
+    "question": "The Union Budget proposed a tax holiday until 2047 for which specific sector to promote India as a strategic sanctuary?",
+    "options": [
+      "Domestic semiconductor fabrication units",
+      "Foreign companies establishing data centres in India",
+      "Renewable energy manufacturing plants",
+      "Deep-tech start-ups in rural areas"
+    ],
+    "correct": 1,
+    "explanation": "The budget proposal includes a tax holiday until 2047 for any foreign company establishing data centres in India, along with specific safe harbour provisions."
+  },
+  {
+    "question": "In the context of 'Biopharma SHAKTI' mentioned in the budget, how are biopharmaceuticals primarily distinguished from conventional medicines?",
+    "options": [
+      "They are produced through biotechnology in living systems like microorganisms or plant cells.",
+      "They are simpler molecules that are easier to manufacture.",
+      "They have shorter shelf lives and do not require clinical trials.",
+      "They are produced through chemical synthesis in laboratories."
+    ],
+    "correct": 0,
+    "explanation": "The document states that biopharmaceuticals are complex molecules produced through biotechnology in a living system (microorganism, plant, or animal cell), unlike other medicines manufactured through chemical synthesis."
+  },
+  {
+    "question": "With reference to the 'Rare Earth Corridors' proposed in the Budget, consider the following statements:\n1. They aim to integrate mining, processing, and manufacturing.\n2. Promethium is a key mineral included in these corridors.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "Neither 1 nor 2",
+      "2 only",
+      "Both 1 and 2",
+      "1 only"
+    ],
+    "correct": 3,
+    "explanation": "Statement 1 is correct as the corridors integrate the value chain. Statement 2 is incorrect because the document explicitly states Promethium is not included as it is radioactive and does not occur in mineable quantities."
+  },
+  {
+    "question": "The 'Trade Receivables Discounting System' (TReDS) has been made a mandatory platform for which of the following?",
+    "options": [
+      "All purchases from MSMEs by Central Public Sector Enterprises (CPSEs).",
+      "Export transactions involving software services.",
+      "All private sector retail transactions.",
+      "Agricultural credit disbursements by NABARD."
+    ],
+    "correct": 0,
+    "explanation": "TREDS is to be a mandatory transaction settlement platform for all purchases from MSMEs by CPSEs to improve liquidity for small businesses."
+  },
+  {
+    "question": "Which specific scheme was introduced to modernize traditional textile clusters with capital support for machinery and technology upgradation?",
+    "options": [
+      "Mahatma Gandhi Gram Swaraj",
+      "Textile Expansion and Employment Scheme",
+      "Tex-Eco Initiative",
+      "Samarth 2.0"
+    ],
+    "correct": 1,
+    "explanation": "The Textile Expansion and Employment Scheme was specifically mentioned for modernizing traditional clusters with capital support for machinery and technology."
+  },
+  {
+    "question": "According to the Budget 2026-27, what is the primary objective of the 'Mission Anveshan'?",
+    "options": [
+      "Hydrocarbon discovery using seismic AI tools.",
+      "Satellite-based monitoring of agricultural crop health.",
+      "Mapping of rare earth elements in the Himalayan region.",
+      "Exploration of deep-sea minerals in the Indian Ocean."
+    ],
+    "correct": 0,
+    "explanation": "Mission Anveshan focuses specifically on hydrocarbon discovery using seismic AI tools as per the Clean Energy and mineral section of the document."
+  },
+  {
+    "question": "Regarding the changes in 'Securities Transaction Tax' (STT), who is expected to be most hit by the increased cost of trading?",
+    "options": [
+      "Foreign Portfolio Investors in the debt market.",
+      "High-frequency traders and scalpers.",
+      "Promoters participating in share buybacks.",
+      "Long-term retail investors."
+    ],
+    "correct": 1,
+    "explanation": "The STT hike increases trading costs particularly for high-frequency traders and scalpers who rely on small price movements to profit."
+  },
+  {
+    "question": "The 'Carbon Capture Utilisation and Storage' (CCUS) strategy in the budget prioritizes point-source capture from which industries?",
+    "options": [
+      "Automobile and Electronics manufacturing.",
+      "Textiles and Food Processing.",
+      "Civil Aviation and Shipping.",
+      "Cement, Steel, Fertilizers, and Power Generation."
+    ],
+    "correct": 3,
+    "explanation": "The budget earmarks ₹20,000 crore for CCUS and prioritizes point-source capture especially from cement, steel, fertilizers, and power generation."
+  },
+  {
+    "question": "In the context of the 'Startup India' framework, what is the revised turnover limit for a company to be recognized as a 'General' startup?",
+    "options": [
+      "₹500 crore",
+      "₹200 crore",
+      "₹300 crore",
+      "₹100 crore"
+    ],
+    "correct": 1,
+    "explanation": "The document states that the Government has significantly revised the framework, increasing the General Turnover Limit from ₹100 crore to ₹200 crore."
+  },
+  {
+    "question": "Which of the following is a characteristic of a 'Deep Tech' startup as per the DPIIT definition?",
+    "options": [
+      "It is restricted to companies less than 5 years old.",
+      "It primarily focuses on service delivery models rather than R&D.",
+      "It must have a turnover exceeding ₹500 crore within 5 years.",
+      "It faces extended development timelines and carries large technical uncertainty."
+    ],
+    "correct": 3,
+    "explanation": "Deep tech startups are defined by their solution based on new scientific/engineering knowledge, owning novel IP, and facing long gestation periods and large technical uncertainty."
+  },
+  {
+    "question": "Which body is the final authority to determine whether a company qualifies as a 'Deep Tech Startup' in India?",
+    "options": [
+      "Department for Promotion of Industry and Internal Trade (DPIIT)",
+      "NITI Aayog",
+      "Department of Science and Technology (DST)",
+      "Reserve Bank of India (RBI)"
+    ],
+    "correct": 0,
+    "explanation": "The DPIIT is the final authority that determines whether a company qualifies as a startup or a deep tech startup, based on guidance from an Inter-Ministerial Board."
+  },
+  {
+    "question": "Under the new Portfolio Investment Scheme rules, what is the increased individual investment limit for a Person Resident Outside India (PROI) in listed Indian companies?",
+    "options": [
+      "From 10% to 15%",
+      "From 2% to 5%",
+      "From 5% to 10%",
+      "From 5% to 24%"
+    ],
+    "correct": 2,
+    "explanation": "The FM proposed to increase the investment limit for an individual PROI under this scheme from 5% to 10%."
+  },
+  {
+    "question": "Regarding the 'Gini Index', which of the following statements is supported by the document's section on World Bank reports?",
+    "options": [
+      "The Gini Index in India is measured based on income inequality.",
+      "India is now the fourth most equal country globally on the Gini Index.",
+      "India's Gini score is higher than that of the United States.",
+      "India's Gini Index increased between 2011-12 and 2022-23."
+    ],
+    "correct": 1,
+    "explanation": "The WB report shows India is now the fourth most equal country globally on the Gini Index. Note: India's measurement is based on consumption inequality, not income."
+  },
+  {
+    "question": "The 'Orange Economy', as mentioned in the context of 'Creator's Corner', refers to economic activities that leverage:",
+    "options": [
+      "Manufacturing of heavy machinery.",
+      "Renewable energy and solar power.",
+      "Agricultural productivity and food security.",
+      "Creativity, culture, and intellectual property."
+    ],
+    "correct": 3,
+    "explanation": "The 'orange economy' refers to economic activities that leverage creativity, culture, and intellectual property to generate wealth and jobs."
+  },
+  {
+    "question": "With reference to 'National Waterways (NW)', which waterway is proposed to be operationalized first to connect mining centres in Talcher to industrial hubs?",
+    "options": [
+      "NW-1 (Ganga-Bhagirathi-Hooghly)",
+      "NW-5 (Brahmani-Mahanadi)",
+      "NW-2 (Brahmaputra)",
+      "NW-4 (Krishna-Godavari)"
+    ],
+    "correct": 1,
+    "explanation": "The Budget proposed to operationalize 20 new NWs, starting with Brahmani-Mahanadi NW-5, which connects Talcher mining centres to industrial centres."
+  },
+  {
+    "question": "What is the primary objective of the 'Biopharma SHAKTI' initiative?",
+    "options": [
+      "To regulate the prices of life-saving drugs in rural areas.",
+      "To provide health insurance to workers in the pharmaceutical sector.",
+      "To digitize all clinical trial data in India.",
+      "To build an ecosystem for domestic production of biologics and biosimilars."
+    ],
+    "correct": 3,
+    "explanation": "Biopharma SHAKTI will build the ecosystem for domestic production of biologics and biosimilars to develop India as a global biopharma manufacturing hub."
+  },
+  {
+    "question": "Regarding the Nobel Prize in Economics 2025, for what contribution was the award given?",
+    "options": [
+      "Empirical analysis of asset prices.",
+      "Explaining innovation-driven economic growth.",
+      "Integrating climate change into long-run macroeconomic analysis.",
+      "Poverty alleviation strategies in developing nations."
+    ],
+    "correct": 1,
+    "explanation": "The 2025 Nobel Prize in Economics was awarded to Joel Mokyr, Philippe Aghion, and Peter Howitt for having explained innovation-driven economic growth."
+  },
+  {
+    "question": "The 'Vibrant Villages Programme' is mentioned in the document in coordination with which of the following initiatives?",
+    "options": [
+      "Tent-based homestays in border villages like Garbyang.",
+      "Textile clusters in Maharashtra.",
+      "Deep-tech startups in Karnataka.",
+      "Rare earth corridors in Kerala."
+    ],
+    "correct": 0,
+    "explanation": "The inauguration of a tent-based homestay facility in the border village of Garbyang, Uttarakhand, aligns with the Centre's Vibrant Villages Programme."
+  },
+  {
+    "question": "In the context of the Union Budget's deficit indicators, how is 'Primary Deficit' calculated?",
+    "options": [
+      "Total Expenditure - Revenue Receipts.",
+      "Fiscal Deficit - Capital Expenditure.",
+      "Fiscal Deficit - Interest Payments.",
+      "Revenue Receipts - Revenue Expenditure."
+    ],
+    "correct": 2,
+    "explanation": "As per the Budget Formulation section, Primary Deficit is defined as Fiscal Deficit minus Interest Payments."
+  },
+  {
+    "question": "According to the RBI's Remittances Survey, which group of countries has overtaken the GCC countries as the largest source of remittances to India?",
+    "options": [
+      "Advanced Economies like U.S., U.K., and Singapore.",
+      "South Asian Neighbors (SAARC).",
+      "African Nations.",
+      "Latin American countries."
+    ],
+    "correct": 0,
+    "explanation": "The report states that Advanced Economies (AEs) like the U.S., U.K., Canada, Australia, and Singapore now contribute 51.2% of India's remittances, overtaking the GCC countries (37.9%)."
+  },
+  {
+    "question": "Which archaeological site did the Budget propose to develop as a 'vibrant, experiential cultural destination'?",
+    "options": [
+      "Adichanallur",
+      "Hastinapur",
+      "Rakhigarhi",
+      "Sivasagar"
+    ],
+    "correct": 2,
+    "explanation": "The Budget proposed to develop Rakhigarhi, the largest site of the Harappan culture, into a vibrant, experiential cultural destination."
+  },
+  {
+    "question": "The 'Indian Institute of Packaging' (IIP) is an autonomous body under which Ministry?",
+    "options": [
+      "Ministry of Food Processing Industries",
+      "Ministry of MSME",
+      "Ministry of Science and Technology",
+      "Ministry of Commerce and Industry"
+    ],
+    "correct": 3,
+    "explanation": "The IIP is an autonomous body under the Ministry of Commerce and Industry, established in 1966."
+  },
+  {
+    "question": "According to the Human Development Report 2025, what is India's classification in terms of human development?",
+    "options": [
+      "Very high human development",
+      "High human development",
+      "Medium human development",
+      "Low human development"
+    ],
+    "correct": 2,
+    "explanation": "India's HDI value of 0.685 places it in the 'medium human development' category."
+  },
+  {
+    "question": "What are the three main dimensions of the RBI's 'Financial Inclusion Index' (FI-Index)?",
+    "options": [
+      "Growth, Stability, and Sustainability",
+      "Rural, Urban, and Semi-urban",
+      "Banking, Insurance, and Pension",
+      "Access, Usage, and Quality"
+    ],
+    "correct": 3,
+    "explanation": "The FI-Index comprises three main dimensions: Access (35%), Usage (45%), and Quality (20%)."
+  },
+  {
+    "question": "Which state declared the total eradication of extreme poverty on its 69th Formation Day in 2025?",
+    "options": [
+      "Kerala",
+      "Maharashtra",
+      "Odisha",
+      "Tamil Nadu"
+    ],
+    "correct": 0,
+    "explanation": "Kerala declared the eradication of extreme poverty on November 1, 2025, following a state-led programme launched in 2021."
+  },
+  {
+    "question": "The 'International Financial Services Centres Authority' (IFSCA) acts as a unified regulator for businesses in which location?",
+    "options": [
+      "Mumbai BKC",
+      "Bengaluru Tech Park",
+      "GIFT City, Gujarat",
+      "Hyderabad IT Hub"
+    ],
+    "correct": 2,
+    "explanation": "IFSCA is the unified regulator for financial services companies looking to do business in Gujarat International Finance Tec-City (GIFT City)."
+  },
+  {
+    "question": "As per the document, what happens to the status of a company opened in GIFT City?",
+    "options": [
+      "It is exempt from all corporate laws of India.",
+      "It must conduct all business in Indian Rupee.",
+      "It is designated as a domestic subsidiary.",
+      "It is designated as a non-resident for currency purposes."
+    ],
+    "correct": 3,
+    "explanation": "When a company is opened in GIFT City, it is designated a non-resident, so all business is conducted in international currencies, not the rupee."
+  },
+  {
+    "question": "In the context of the Indian economy, what does the term 'Product Nation' signify?",
+    "options": [
+      "A nation that imports all high-value intellectual property.",
+      "A nation that focuses exclusively on the service sector.",
+      "A nation that transforms from a consumer/service provider into a creator of IP-driven goods.",
+      "A nation that has the highest agricultural productivity in the world."
+    ],
+    "correct": 2,
+    "explanation": "A 'Product Nation' is defined as a country that transforms from being a consumer or service provider into a creator of IP-driven, high-value goods, focusing on R&D, design, and branding."
+  },
+  {
+    "question": "With reference to genome-edited rice varieties developed in India, consider the following statements: 1. They involve insertion of foreign genes into the plant genome. 2. They were developed using SDN-1 and SDN-2 techniques. Which of the statements is/are correct?",
+    "options": [
+      "Neither 1 nor 2",
+      "Both 1 and 2",
+      "1 only",
+      "2 only"
+    ],
+    "correct": 3,
+    "explanation": "Genome-edited rice varieties used SDN-1 and SDN-2 techniques and do not involve insertion of foreign genes, unlike GM crops."
+  },
+  {
+    "question": "Which of the following best explains the difference between Genetic Engineering (GE) and Genetically Modified (GM) crops?",
+    "options": [
+      "Both involve insertion of foreign genes",
+      "Both involve only native gene editing",
+      "GE edits native genes, GM may insert foreign genes",
+      "GE inserts foreign genes, GM edits native genes"
+    ],
+    "correct": 2,
+    "explanation": "GE edits native genes without foreign DNA insertion, while GM crops may include genes from unrelated species."
+  },
+  {
+    "question": "CRISPR-Cas technology is primarily used for which of the following purposes?",
+    "options": [
+      "Enhancing irrigation efficiency",
+      "Improving crop storage",
+      "Increasing soil fertility",
+      "Precision editing of DNA sequences"
+    ],
+    "correct": 3,
+    "explanation": "CRISPR-Cas acts as molecular scissors to precisely modify DNA sequences."
+  },
+  {
+    "question": "Which gene controls the number of grains per panicle in rice?",
+    "options": [
+      "Linalool gene",
+      "Chalk9",
+      "Gn1a",
+      "Bt gene"
+    ],
+    "correct": 2,
+    "explanation": "Gn1a gene regulates enzyme expression controlling grain number per panicle."
+  },
+  {
+    "question": "What is the primary role of linalool in maize plant communication?",
+    "options": [
+      "Promotes flowering",
+      "Acts as a warning signal against pests",
+      "Increases water absorption",
+      "Enhances photosynthesis"
+    ],
+    "correct": 1,
+    "explanation": "Linalool is released when plants are attacked, alerting neighbouring plants to activate defense mechanisms."
+  },
+  {
+    "question": "Which of the following statements about erucic acid is correct?",
+    "options": [
+      "It improves cardiovascular health",
+      "It is found only in animal fats",
+      "It may have cardiotoxic effects",
+      "It is absent in mustard oil"
+    ],
+    "correct": 2,
+    "explanation": "Erucic acid, present in high amounts in mustard oil, has potential cardiotoxic effects."
+  },
+  {
+    "question": "Which of the following is a key advantage of canola oil over traditional mustard oil?",
+    "options": [
+      "Higher carbohydrate content",
+      "Lower erucic acid content",
+      "Higher protein content",
+      "Better shelf life"
+    ],
+    "correct": 1,
+    "explanation": "Canola oil contains less than 2% erucic acid, making it safer compared to mustard oil."
+  },
+  {
+    "question": "What is the function of transposons in a genome?",
+    "options": [
+      "Fix nitrogen in soil",
+      "Increase photosynthesis",
+      "Move DNA sequences within the genome",
+      "Regulate water uptake"
+    ],
+    "correct": 2,
+    "explanation": "Transposons are 'jumping genes' that move within the genome, causing mutations and genetic diversity."
+  },
+  {
+    "question": "Which microbial imbalance in rice paddies increases arsenic toxicity?",
+    "options": [
+      "More photosynthetic bacteria",
+      "More arsenic-methylating bacteria",
+      "More demethylating archaea",
+      "More nitrogen-fixing bacteria"
+    ],
+    "correct": 1,
+    "explanation": "Dominance of arsenic-methylating bacteria leads to formation of more toxic arsenic compounds."
+  },
+  {
+    "question": "Which of the following best describes biostimulants?",
+    "options": [
+      "Chemical pesticides",
+      "Genetically modified seeds",
+      "Substances enhancing plant processes",
+      "Synthetic fertilizers"
+    ],
+    "correct": 2,
+    "explanation": "Biostimulants improve nutrient uptake, growth, yield, and stress tolerance in plants."
+  },
+  {
+    "question": "Under the Fertiliser Control Order (FCO), biostimulants were regulated in India from which year?",
+    "options": [
+      "2011",
+      "2021",
+      "1985",
+      "2025"
+    ],
+    "correct": 1,
+    "explanation": "Biostimulants were brought under FCO regulation in 2021."
+  },
+  {
+    "question": "Which of the following crops together provide over 50% of plant-based calories globally?",
+    "options": [
+      "Rice, wheat, maize",
+      "Barley, oats, maize",
+      "Millets, pulses, oilseeds",
+      "Rice, pulses, fruits"
+    ],
+    "correct": 0,
+    "explanation": "Rice, wheat, and maize dominate global food systems, providing over 50% of plant-based calories."
+  },
+  {
+    "question": "Which initiative aims to collect real-time crop information using photographs and AI?",
+    "options": [
+      "SATHI",
+      "BHARATI",
+      "PMDDKY",
+      "CROPIC"
+    ],
+    "correct": 3,
+    "explanation": "CROPIC uses field photographs and AI models for crop monitoring and loss assessment."
+  },
+  {
+    "question": "What is the primary objective of the National Mission for Sustainable Agriculture?",
+    "options": [
+      "Reduce crop diversity",
+      "Enhance productivity in rainfed areas",
+      "Increase fertilizer subsidies",
+      "Promote monoculture farming"
+    ],
+    "correct": 1,
+    "explanation": "It focuses on improving productivity, especially in rainfed areas through sustainable practices."
+  },
+  {
+    "question": "Which of the following correctly describes terrace cultivation?",
+    "options": [
+      "Growing crops on stepped slopes",
+      "Cultivation in plains using irrigation",
+      "Vertical farming",
+      "Hydroponic farming"
+    ],
+    "correct": 0,
+    "explanation": "Terrace cultivation involves cutting slopes into flat platforms to grow crops and reduce erosion."
+  },
+  {
+    "question": "Which organization is associated with the development of high-yielding wheat varieties during the Green Revolution?",
+    "options": [
+      "ICAR",
+      "CIMMYT",
+      "UNDP",
+      "FAO"
+    ],
+    "correct": 1,
+    "explanation": "CIMMYT developed high-yielding wheat varieties used in the Green Revolution."
+  },
+  {
+    "question": "Which factor is negatively correlated with organic soil carbon?",
+    "options": [
+      "Rainfall",
+      "Soil moisture",
+      "Temperature",
+      "Elevation"
+    ],
+    "correct": 2,
+    "explanation": "Higher temperatures are associated with lower organic carbon in soil."
+  },
+  {
+    "question": "What is the key difference between MSP and FRP?",
+    "options": [
+      "MSP has legal backing, FRP does not",
+      "FRP has legal backing, MSP does not",
+      "Neither has legal backing",
+      "Both have legal backing"
+    ],
+    "correct": 1,
+    "explanation": "FRP is legally enforceable, while MSP is not."
+  },
+  {
+    "question": "Which of the following statements about ethanol production is correct?",
+    "options": [
+      "Starch must be converted into sugars before fermentation",
+      "Grains directly ferment without processing",
+      "Ethanol contains 50% alcohol",
+      "Molasses does not contain sugar"
+    ],
+    "correct": 0,
+    "explanation": "Grains contain starch, which must be broken down into simple sugars before fermentation."
+  },
+  {
+    "question": "Which of the following is a feature of second-generation (2G) ethanol?",
+    "options": [
+      "Derived from food crops",
+      "Lower carbon footprint",
+      "Higher food security risk",
+      "Simpler fermentation process"
+    ],
+    "correct": 1,
+    "explanation": "2G ethanol is derived from non-food biomass and has a lower carbon footprint."
+  },
+  {
+    "question": "Which crop is considered India’s principal kharif crop?",
+    "options": [
+      "Rice",
+      "Barley",
+      "Wheat",
+      "Maize"
+    ],
+    "correct": 0,
+    "explanation": "Paddy (rice) is the principal kharif crop in India."
+  },
+  {
+    "question": "Which scheme aims to empower women SHGs with drone technology?",
+    "options": [
+      "PMDDKY",
+      "Namo Drone Didi",
+      "PMFBY",
+      "SATHI"
+    ],
+    "correct": 1,
+    "explanation": "Namo Drone Didi scheme provides drones to women SHGs for agricultural services."
+  },
+  {
+    "question": "Which of the following is a major concern associated with rising urea consumption?",
+    "options": [
+      "Reduction in imports",
+      "Decrease in crop yield",
+      "Low nitrogen use efficiency",
+      "Increase in rainfall"
+    ],
+    "correct": 2,
+    "explanation": "Only about 35% of nitrogen is used by crops; the rest is lost, reducing efficiency."
+  },
+  {
+    "question": "Which global certification ensures sustainable fishing practices?",
+    "options": [
+      "ISO Certification",
+      "MSC Certification",
+      "FAO Label",
+      "Green Seal"
+    ],
+    "correct": 1,
+    "explanation": "MSC certification ensures seafood is sourced sustainably."
+  },
+  {
+    "question": "Which of the following best describes Neglected and Underutilized Species (NUS)?",
+    "options": [
+      "Export-oriented crops",
+      "High-yield crops",
+      "Genetically modified crops",
+      "Underused traditional crops"
+    ],
+    "correct": 3,
+    "explanation": "NUS are traditional crops like millets and tubers that are underutilized but nutritionally important."
+  },
+  {
+    "question": "What is the primary function of herbicides?",
+    "options": [
+      "Kill fungi",
+      "Kill weeds",
+      "Kill insects",
+      "Enhance soil nutrients"
+    ],
+    "correct": 1,
+    "explanation": "Herbicides are used to control or kill weeds."
+  },
+  {
+    "question": "Which factor contributes to degradation of soil organic carbon?",
+    "options": [
+      "Crop rotation",
+      "Organic farming",
+      "Balanced fertilization",
+      "Unscientific fertilizer use"
+    ],
+    "correct": 3,
+    "explanation": "Improper fertilizer use reduces soil organic carbon levels."
+  },
+  {
+    "question": "Which country is the largest producer of sugarcane globally?",
+    "options": [
+      "India",
+      "Brazil",
+      "Thailand",
+      "China"
+    ],
+    "correct": 1,
+    "explanation": "Brazil is the largest sugarcane producer, followed by India."
+  },
+  {
+    "question": "Which act regulates the sale of fertilizers in India?",
+    "options": [
+      "Fertilizer Control Order, 1985",
+      "Environment Act, 1986",
+      "Essential Commodities Act, 1955",
+      "Insecticides Act, 1968"
+    ],
+    "correct": 0,
+    "explanation": "The Fertilizer Control Order, 1985 governs fertilizer regulation in India."
+  },
+  {
+    "question": "Which initiative aims to expand pulse cultivation and reduce import dependency?",
+    "options": [
+      "PMMSY",
+      "PM-KISAN",
+      "PMFBY",
+      "Pulses Self-Reliance Mission"
+    ],
+    "correct": 3,
+    "explanation": "The Pulses Self-Reliance Mission aims to increase production and reduce imports."
+  },
+  {
+    "question": "With reference to the Draft Seeds Bill, consider the following statements: \n1. It seeks to replace the Seeds Act, 1966 and the Seeds (Control) Order, 1983.\n2. It proposes criminal penalties for minor offences to ensure strict compliance.\n3. Seed dealers must obtain registration before selling or importing seeds.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 3 only",
+      "1 only",
+      "2 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "The Draft Seeds Bill aims to replace the Seeds Act, 1966 and Seeds (Control) Order, 1983, and mandates registration for seed dealers. It proposes decriminalisation of minor offences, not criminal penalties. Hence, statements 1 and 3 are correct."
+  },
+  {
+    "question": "Under the Draft Seeds Bill, which of the following functions is assigned to the Central Seed Committee?",
+    "options": [
+      "Registration of seed dealers at the state level",
+      "Identification of vulnerable districts for crop insurance",
+      "Certification of all hybrid seeds",
+      "Recommendation of minimum standards for germination and purity"
+    ],
+    "correct": 3,
+    "explanation": "The Central Seed Committee is empowered to recommend minimum limits of germination, genetic and physical purity, traits, and seed health standards."
+  },
+  {
+    "question": "With reference to crop loss norms under the Pradhan Mantri Fasal Bima Yojana (PMFBY), consider the following statements: \n1. Crop loss due to wild animal attacks is recognised as an add-on cover.\n2. Farmers must report losses within 72 hours using a mobile application.\n3. States identify vulnerable districts based on historical data.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1, 2 and 3",
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 only"
+    ],
+    "correct": 0,
+    "explanation": "All three statements are correct. Wild animal attacks are included as an add-on cover, farmers must report losses within 72 hours via an app, and states identify vulnerable districts based on historical data."
+  },
+  {
+    "question": "Which of the following features are associated with the Pradhan Mantri Fasal Bima Yojana (PMFBY)?\n1. Use of satellite imagery and AI for damage assessment\n2. Guaranteed interest penalty for delayed payouts\n3. Coverage limited only to pre-harvest losses\nSelect the correct answer using the code below:",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "correct": 3,
+    "explanation": "PMFBY uses satellite imagery and AI (YES-TECH) for assessments and includes a 12% interest penalty for delayed payouts. It covers losses from sowing to post-harvest, not just pre-harvest. Hence, statements 1 and 2 are correct."
+  },
+  {
+    "question": "With reference to the Public Distribution System (PDS) reforms, consider the following statements about ASHA (Anna Sahayata Holistic AI Solution):\n1. It enables beneficiaries to provide feedback through AI-enabled calls.\n2. It uses multilingual translation and sentiment analysis.\n3. It replaces the Depot Online System entirely.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct": 1,
+    "explanation": "ASHA enables feedback via AI-enabled calls and uses multilingual translation and sentiment analysis. It does not replace the Depot Online System; ANNA DARPAN replaces that system."
+  },
+  {
+    "question": "With reference to food adulteration, consider the following statements about Auramine O:\n1. It is a permitted food colour in India.\n2. It is used in textile and leather processing.\n3. Its ingestion may cause liver and kidney damage.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "2 and 3 only"
+    ],
+    "correct": 3,
+    "explanation": "Auramine O is a banned synthetic dye in food, used in textile and leather industries, and its ingestion is linked to liver and kidney damage. Hence, statements 2 and 3 are correct."
+  }
+]

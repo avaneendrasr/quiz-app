@@ -1,450 +1,95 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Quiz Pro</title>
+    <meta charset="UTF-8"> <!-- REQUIRED for emojis -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🧠 Quiz Pro</title>
 
-<style>
-* { box-sizing: border-box; }
-
-:root {
-  --bg: #eef2f7;
-  --card: #ffffff;
-  --text: #222;
-  --subtle: #f4f7fb;
-  --border: #ccc;
-}
-
-body.dark {
-  --bg: #1e1e2f;
-  --card: #2a2a3c;
-  --text: #eee;
-  --subtle: #2f2f44;
-  --border: #444;
-}
-
-body {
-  margin:0;
-  font-family:'Segoe UI', sans-serif;
-  display:flex;
-  height:100vh;
-  background:var(--bg);
-  color:var(--text);
-}
-
-/* LEFT */
-#left {
-  width:260px;
-  background: linear-gradient(180deg, #2d2f45, #1f2133);
-  color:white;
-  display:flex;
-  flex-direction:column;
-}
-
-#controls {
-  padding:15px;
-  border-bottom:1px solid rgba(255,255,255,0.08);
-}
-
-#controls select {
-  width:100%;
-  padding:10px;
-  border-radius:6px;
-  border:none;
-  margin-bottom:8px;
-  font-size:14px;
-}
-
-#controls button {
-  width:100%;
-  padding:10px;
-  margin-top:6px;
-  border:none;
-  border-radius:6px;
-  cursor:pointer;
-  font-size:14px;
-  background:#3b3e5a;
-  color:white;
-}
-
-#controls button:hover {
-  background:#50537a;
-}
-
-/* PALETTE */
-#palette {
-  flex:1;
-  overflow-y:auto;
-  padding:12px;
-  display:grid;
-  grid-template-columns: repeat(3,1fr);
-  gap:8px;
-}
-
-.pbtn {
-  padding:12px;
-  border:none;
-  border-radius:8px;
-  font-size:13px;
-  cursor:pointer;
-  color:white;
-}
-
-.gray { background:#5c5f7a; }
-.blue { background:#4a90e2; }
-.green { background:#27ae60; }
-.red { background:#e74c3c; }
-
-/* RIGHT */
-#right {
-  flex:1;
-  padding:20px;
-}
-
-.card {
-  width:100%;
-  height:100%;
-  background:var(--card);
-  border-radius:12px;
-  padding:25px;
-  display:flex;
-  flex-direction:column;
-}
-
-.content {
-  flex:1;
-  overflow-y:auto;
-}
-
-.question {
-  font-size:28px;
-  font-weight:600;
-  margin-bottom:18px;
-  line-height:1.5;
-}
-
-.option {
-  padding:16px;
-  margin:12px 0;
-  border-radius:10px;
-  border:1px solid var(--border);
-  cursor:pointer;
-  font-size:18px;
-}
-
-.option:hover {
-  background:#eaf2ff;
-}
-
-body.dark .option:hover {
-  background:#3a3a55;
-}
-
-.correct { background:#58d68d !important; color:white; }
-.wrong { background:#ec7063 !important; color:white; }
-
-#explanation {
-  margin-top:14px;
-  padding:14px;
-  border-radius:10px;
-  background:var(--subtle);
-  font-size:17px;
-}
-
-#score {
-  margin-top:10px;
-  font-size:17px;
-  font-weight:bold;
-}
-
-#buttonBar {
-  display:flex;
-  gap:10px;
-  margin-top:12px;
-}
-
-#buttonBar button,
-#buttonBar select {
-  flex:1;
-  height:48px;
-  border:none;
-  border-radius:6px;
-  cursor:pointer;
-  font-size:15px;
-  background:#e4e7ec;
-}
-
-body.dark #buttonBar button,
-body.dark #buttonBar select {
-  background:#3a3a55;
-  color:white;
-}
-
-.submit-btn {
-  margin-top:10px;
-  height:52px;
-  font-size:17px;
-  background:#111;
-  color:white;
-  border:none;
-  border-radius:6px;
-  cursor:pointer;
-}
-
-/* RESPONSIVE */
-@media(max-width:768px){
-  body { flex-direction:column; }
-  #left { width:100%; flex-direction:row; overflow-x:auto; }
-  #controls { display:flex; gap:10px; }
-  #controls button, #controls select { min-width:120px; }
-  #palette { grid-template-columns: repeat(6,1fr); }
-}
-</style>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
 </head>
 
 <body>
 
-<div id="left">
-  <div id="controls">
-
-    <select id="fileSelect">
-      {% for f in files %}
-      <option value="{{f}}">{{f}}</option>
-      {% endfor %}
-    </select>
-
-    <button onclick="start()">Start</button>
-    <button onclick="shuffle()">Shuffle</button>
-    <button onclick="newTest()">New Test</button>
-    <button onclick="toggleFullscreen()">Fullscreen</button>
-
-    <!-- DARK MODE -->
-    <button id="darkBtn" onclick="toggleDarkMode()">🌙 Dark Mode</button>
-
-  </div>
-
-  <div id="palette"></div>
-</div>
-
-<div id="right">
-  <div class="card">
-
-    <div class="content">
-      <div id="questionBox"></div>
-      <div id="optionsBox"></div>
-      <div id="explanation"></div>
-      <div id="score"></div>
-    </div>
-
-    <div id="buttonBar">
-      <button onclick="prev()">⬅ Prev</button>
-      <button onclick="next()">➡ Next</button>
-      <button onclick="copyQ()">📋 Copy</button>
-
-      <select id="aiSelect">
-        <option value="">Ask AI</option>
-        <option value="google">Google</option>
-        <option value="chatgpt">ChatGPT</option>
-        <option value="gemini">Gemini</option>
-      </select>
-    </div>
-
-    <button class="submit-btn" onclick="submitQuiz()">Submit Test</button>
-
-  </div>
-</div>
-
-<script>
-
-// LOAD THEME
-window.onload = function(){
-  if(localStorage.getItem("theme") === "dark"){
-    document.body.classList.add("dark");
-    document.getElementById("darkBtn").innerText = "☀ Light Mode";
-  }
-};
-
-// DARK MODE
-function toggleDarkMode(){
-  document.body.classList.toggle("dark");
-  let btn = document.getElementById("darkBtn");
-
-  if(document.body.classList.contains("dark")){
-    btn.innerText = "☀ Light Mode";
-    localStorage.setItem("theme","dark");
-  } else {
-    btn.innerText = "🌙 Dark Mode";
-    localStorage.setItem("theme","light");
-  }
-}
-
-// QUIZ LOGIC
-let questions=[], original=[];
-let selected=[], visited=[];
-let current=0, score=0, attempted=0;
-
-// START
-function start(){
-  let file=document.getElementById("fileSelect").value;
-  fetch("/get_questions?file="+file)
-  .then(r=>r.json())
-  .then(data=>{
-    questions=data;
-    original=JSON.parse(JSON.stringify(data));
-    selected=Array(data.length).fill(null);
-    visited=Array(data.length).fill(false);
-    current=0; score=0; attempted=0;
-    render();
-  });
-}
-
-// RENDER
-function render(){
-  if(!questions.length) return;
-
-  visited[current]=true;
-
-  let q=questions[current];
-  document.getElementById("questionBox").innerHTML =
-    `<div class="question">Q${current+1}. ${q.question}</div>`;
-
-  let html="";
-  q.options.forEach((opt,i)=>{
-    html+=`<div class="option" onclick="answer(${i})">${opt}</div>`;
-  });
-
-  document.getElementById("optionsBox").innerHTML=html;
-  document.getElementById("explanation").innerText="";
-  updatePalette();
-  updateScore();
-}
-
-// ANSWER
-function answer(i){
-  if(selected[current]!=null) return;
-
-  selected[current]=i;
-  attempted++;
-
-  let correct=questions[current].correct;
-  let opts=document.getElementsByClassName("option");
-
-  for(let j=0;j<opts.length;j++){
-    if(j===correct) opts[j].classList.add("correct");
-    else if(j===i) opts[j].classList.add("wrong");
-  }
-
-  if(i===correct) score++;
-
-  document.getElementById("explanation").innerText =
-    "Explanation: "+questions[current].explanation;
-
-  updateScore();
-  updatePalette();
-}
-
-// NAV
-function next(){ if(current<questions.length-1){ current++; render(); } }
-function prev(){ if(current>0){ current--; render(); } }
-
-// COPY (ENHANCED FEEDBACK)
-function copyQ(){
-  let q=questions[current];
-  let text=q.question+"\n\n";
-  q.options.forEach((o,i)=>{
-    text+=String.fromCharCode(65+i)+". "+o+"\n";
-  });
-
-  navigator.clipboard.writeText(text).then(()=>{
-    alert("Copied!");
-  });
-}
-
-// ASK AI (RESTORED)
-document.getElementById("aiSelect").addEventListener("change",function(){
-  let mode=this.value;
-  if(!mode) return;
-
-  let q=questions[current];
-  let text=q.question+"\n\nOptions:\n";
-  q.options.forEach((o,i)=>{
-    text+=String.fromCharCode(65+i)+". "+o+"\n";
-  });
-
-  let encoded=encodeURIComponent(text);
-
-  if(mode==="google")
-    window.open("https://www.google.com/search?q="+encoded);
-  else if(mode==="chatgpt")
-    window.open("https://chat.openai.com/?q="+encoded);
-  else
-    window.open("https://gemini.google.com/app");
-
-  this.value="";
-});
-
-// SUBMIT
-function submitQuiz(){
-  alert(`Final Score: ${score}/${questions.length}`);
-}
-
-// SCORE
-function updateScore(){
-  let acc = attempted ? (score/attempted*100).toFixed(1) : 0;
-  document.getElementById("score").innerText =
-    `Score: ${score}/${attempted} | Accuracy: ${acc}%`;
-}
-
-// PALETTE
-function updatePalette(){
-  let p=document.getElementById("palette");
-  p.innerHTML="";
-  for(let i=0;i<questions.length;i++){
-    let b=document.createElement("button");
-    b.innerText=i+1;
-    b.className="pbtn";
-
-    if(selected[i]!=null){
-      if(selected[i]==questions[i].correct) b.classList.add("green");
-      else b.classList.add("red");
-    }
-    else if(visited[i]) b.classList.add("blue");
-    else b.classList.add("gray");
-
-    b.onclick=()=>{ current=i; render(); };
-    p.appendChild(b);
-  }
-}
-
-// SHUFFLE
-function shuffle(){
-  let combined=questions.map((q,i)=>[q,selected[i],visited[i]]);
-  combined.sort(()=>Math.random()-0.5);
-  questions=combined.map(x=>x[0]);
-  selected=combined.map(x=>x[1]);
-  visited=combined.map(x=>x[2]);
-  render();
-}
-
-// RESET
-function newTest(){
-  questions=JSON.parse(JSON.stringify(original));
-  selected.fill(null);
-  visited.fill(false);
-  score=0; attempted=0; current=0;
-  render();
-}
-
-// FULLSCREEN
-function toggleFullscreen(){
-  if (!document.fullscreenElement) {
-    document.documentElement.requestFullscreen();
-  } else {
-    document.exitFullscreen();
-  }
-}
-
+    <script id="subjects-data" type="application/json">
+{{ subjects | tojson }}
 </script>
 
+    <!-- MENU -->
+    <button id="menuBtn" onclick="toggleMenu()">☰</button>
+
+    <!-- LEFT PANEL -->
+    <div id="left">
+        <div id="controls">
+
+            <!-- SUBJECT -->
+            <select id="subjectSelect" onchange="loadFiles()">
+                <option value="">📚 Select Subject</option>
+                {% for subject in subjects %}
+                <option value="{{subject}}">📘 {{subject.capitalize()}}</option>
+                {% endfor %}
+            </select>
+
+            <!-- TEST -->
+            <select id="fileSelect">
+                <option value="">📝 Select Test</option>
+            </select>
+
+            <!-- ACTION BUTTONS -->
+            <button onclick="start()">▶️ Start</button>
+            <button onclick="shuffle()">🔀 Shuffle</button>
+            <button onclick="toggleFullscreen()">⛶ Fullscreen</button>
+            <button onclick="toggleDarkMode()">🌙 Dark Mode</button>
+
+        </div>
+
+        <!-- QUESTION PALETTE -->
+        <div id="palette"></div>
+    </div>
+
+    <!-- RIGHT PANEL -->
+    <div id="right">
+        <div class="card">
+
+            <!-- FILTER (USED BY JS) -->
+            <select id="filterBox" class="filterBox" style="display:none;" onchange="applyFilter(this.value)">
+                <option value="all">📋 All Questions</option>
+                <option value="correct">✅ Correct</option>
+                <option value="wrong">❌ Incorrect</option>
+                <option value="skipped">⏭ Skipped</option>
+            </select>
+
+            <!-- CONTENT -->
+            <div class="content">
+                <div id="questionBox"></div>
+                <div id="optionsBox"></div>
+                <div id="explanation"></div>
+                <div id="score"></div>
+            </div>
+
+            <!-- NAVIGATION -->
+            <div id="buttonBar">
+                <button onclick="prev()">⬅️ Prev</button>
+                <button onclick="next()">➡️ Next</button>
+                <button onclick="copyQ()">📋 Copy</button>
+
+                <!-- AI SELECT -->
+                <select id="aiSelect">
+                    <option value="">🤖 Ask AI</option>
+                    <option value="google">🔎 Google</option>
+                    <option value="chatgpt">💬 ChatGPT</option>
+                    <option value="gemini">✨ Gemini</option>
+                </select>
+            </div>
+
+            <!-- SUBMIT -->
+            <button id="submitBtn" class="submit-btn" onclick="submitQuiz()">✅ Submit Test</button>
+
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+
 </body>
+
 </html>

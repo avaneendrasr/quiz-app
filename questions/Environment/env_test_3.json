@@ -1,0 +1,2180 @@
+[
+  {
+    "question": "Regarding the 17th Conference of the Parties (COP17) to the UNCCD, consider the following statements:\n1. It is scheduled to take place in Ulaanbaatar, Mongolia, in 2026.\n2. It coincides with the International Year of Rangelands and Pastoralists.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct": 2,
+    "explanation": "According to the PDF, COP17 to the UNCCD is scheduled for 2026 in Ulaanbaatar, Mongolia, marking the first time Mongolia hosts it. This coincides with the International Year of Rangelands and Pastoralists as designated by the UN General Assembly."
+  },
+  {
+    "question": "What is India's updated target for restoring degraded land by 2030 under the Land Degradation Neutrality (LDN) initiative?",
+    "options": [
+      "26 million hectares",
+      "21 million hectares",
+      "30 million hectares",
+      "35 million hectares"
+    ],
+    "correct": 0,
+    "explanation": "The document states that India's LDN targets have been updated to restore 26 million hectares of degraded land by 2030, up from the earlier target of 21 mha."
+  },
+  {
+    "question": "The 'Business for Land' initiative, mentioned in the context of UNCCD, primarily aims to:",
+    "options": [
+      "Provide subsidies to small-scale farmers.",
+      "Regulate the international trade of forest products.",
+      "Fund the Great Green Wall initiative in Africa.",
+      "Bring visibility to company commitments towards land degradation neutrality."
+    ],
+    "correct": 3,
+    "explanation": "The Business for Land initiative is for bringing visibility to the commitments made by participating companies towards land degradation neutrality in both supply chains and CSR activities."
+  },
+  {
+    "question": "Which international organization launched the 'Great Green Wall' initiative in 2007?",
+    "options": [
+      "African Union",
+      "United Nations",
+      "European Union",
+      "G20"
+    ],
+    "correct": 0,
+    "explanation": "The Great Green Wall Initiative was launched in 2007 by the African Union to revitalize communities across 22 African countries."
+  },
+  {
+    "question": "The 'Sahel Sourcing Challenge' is designed to:",
+    "options": [
+      "Combat sand and dust storms in Mongolia.",
+      "Reduce the use of chemical fertilizers in the Sahel region.",
+      "Enable communities of the Great Green Wall to use technology to monitor progress.",
+      "Provide insurance for heat-related illnesses in urban areas."
+    ],
+    "correct": 2,
+    "explanation": "The Sahel Sourcing Challenge aims to enable communities growing the Great Green Wall (GGW) to use technology to monitor progress, create jobs, and commercialize their produce."
+  },
+  {
+    "question": "Which of the following is NOT one of the three Rio Conventions mentioned in the document?",
+    "options": [
+      "Minamata Convention on Mercury",
+      "Convention on Biological Diversity (CBD)",
+      "UN Convention to Combat Desertification (UNCCD)",
+      "UN Framework Convention on Climate Change (UNFCCC)"
+    ],
+    "correct": 0,
+    "explanation": "The three Rio Conventions are CBD, UNCCD, and UNFCCC. The Minamata Convention is separate and not part of the Rio trio."
+  },
+  {
+    "question": "The 'Bonn Challenge' is a global goal focused on:",
+    "options": [
+      "Reducing greenhouse gas emissions by 50% by 2030.",
+      "Bringing degraded and deforested landscapes into restoration.",
+      "Eliminating the use of single-use plastics.",
+      "Achieving net-zero emissions by 2070."
+    ],
+    "correct": 1,
+    "explanation": "The Bonn Challenge, launched by Germany and IUCN, is a global goal to bring 150 million hectares of degraded and deforested landscapes into restoration by 2020 and 350 million hectares by 2030."
+  },
+  {
+    "question": "Under the REDD+ mechanism, which of the following activities is added beyond the scope of simple REDD?",
+    "options": [
+      "Sustainable management of forests",
+      "Reducing deforestation",
+      "Reducing forest degradation",
+      "Monitoring forest carbon stocks"
+    ],
+    "correct": 0,
+    "explanation": "REDD focuses on reducing deforestation and degradation. REDD+ includes three additional activities: conservation of forest carbon stocks, sustainable management of forests, and enhancement of forest carbon stocks."
+  },
+  {
+    "question": "In the context of the Cartagena Protocol, what does 'AIA' stand for?",
+    "options": [
+      "Advanced International Agreement",
+      "Authorized Import Arrangement",
+      "Advance Informed Agreement",
+      "Agreement on Internal Assessment"
+    ],
+    "correct": 2,
+    "explanation": "Under the Cartagena Protocol, AIA stands for Advance Informed Agreement, ensuring importing countries receive sufficient information before the first shipment of LMOs."
+  },
+  {
+    "question": "Which supplementary agreement to the CBD focuses on 'Access to Genetic Resources and the Fair and Equitable Sharing of Benefits'?",
+    "options": [
+      "Cartagena Protocol",
+      "Nagoya Protocol",
+      "Kyoto Protocol",
+      "Montreal Protocol"
+    ],
+    "correct": 1,
+    "explanation": "The Nagoya Protocol is the supplementary agreement to the CBD about 'Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization'."
+  },
+  {
+    "question": "What is the primary objective of the 'Cali Fund' operationalized at CBD COP16?",
+    "options": [
+      "Implementing the Digital Sequence Information (DSI) benefit-sharing mechanism.",
+      "Funding the restoration of coral reefs in India.",
+      "Providing emergency relief for drought-stricken countries.",
+      "Subsidizing the production of electric vehicles in developing nations."
+    ],
+    "correct": 0,
+    "explanation": "The Cali Fund was operationalized at COP16 for the DSI (Digital Sequence Information) Benefit-Sharing Mechanism."
+  },
+  {
+    "question": "Which of the following describes the '30x30' target adopted in the Kunming-Montreal Global Biodiversity Framework?",
+    "options": [
+      "Reduce 30% of global emissions by 2030.",
+      "Restore 30% of all degraded terrestrial and marine ecosystems by 2030.",
+      "Increase forest cover in India to 30% by 2030.",
+      "Conserve and manage 30% of terrestrial and marine areas by 2030."
+    ],
+    "correct": 3,
+    "explanation": "Target 3 of the KMGBF, known as the 30x30 target, calls for 30% of the world's terrestrial, inland water, and coastal and marine areas to be in effective protection and management by 2030."
+  },
+  {
+    "question": "The 'One Health' approach, mentioned in the Global Action Plan on Biodiversity and Health, links which three components?",
+    "options": [
+      "Ecosystem, Human, and Animal health",
+      "Agriculture, Economy, and Environment",
+      "Water, Energy, and Food security",
+      "Urbanization, Pollution, and Climate change"
+    ],
+    "correct": 0,
+    "explanation": "The 'One Health' approach links ecosystem, human, and animal health."
+  },
+  {
+    "question": "Which Indian initiative aims to promote wildlife conservation of big cat species across range countries?",
+    "options": [
+      "Project Tiger",
+      "National Wildlife Action Plan",
+      "Green India Mission",
+      "International Big Cat Alliance (IBCA)"
+    ],
+    "correct": 3,
+    "explanation": "The International Big Cat Alliance (IBCA) promotes wildlife conservation and protection of big cat species across range countries."
+  },
+  {
+    "question": "What was the theme of the 16th Conference of Parties (COP16) to the UN Convention on Biological Diversity?",
+    "options": [
+      "Peace with Nature",
+      "Living in Harmony with Nature",
+      "Our Forests, Our Future",
+      "Biodiversity for Sustainable Development"
+    ],
+    "correct": 0,
+    "explanation": "The theme for COP16 held in Cali, Colombia, was 'Peace with Nature'."
+  },
+  {
+    "question": "The 'BIOFIN' initiative, supported by India, is primarily concerned with:",
+    "options": [
+      "Biological warfare prevention.",
+      "Subsidizing organic farming.",
+      "Monitoring the transboundary movement of LMOs.",
+      "Improving financial planning and investment for biodiversity."
+    ],
+    "correct": 3,
+    "explanation": "BIOFIN is a global initiative by UNDP and the European Commission that aims to support countries in improving financial planning and investment for biodiversity and ecosystems."
+  },
+  {
+    "question": "Under India's updated NBSAP (2024-30), how many National Biodiversity Targets (NBTs) have been formulated?",
+    "options": [
+      "23",
+      "12",
+      "20",
+      "30"
+    ],
+    "correct": 0,
+    "explanation": "India's new NBSAP (2024-30) unveiled total 23 National Biodiversity Targets, aligned with the KMGBF."
+  },
+  {
+    "question": "Which international financial organization serves as the Trustee for the Global Environment Facility (GEF)?",
+    "options": [
+      "IMF",
+      "ADB",
+      "New Development Bank",
+      "World Bank"
+    ],
+    "correct": 3,
+    "explanation": "The World Bank serves as the GEF Trustee, administering the GEF Trust Fund."
+  },
+  {
+    "question": "The 'Green Climate Fund' (GCF) was established at which COP to the UNFCCC?",
+    "options": [
+      "COP15 (Copenhagen)",
+      "COP21 (Paris)",
+      "COP16 (Cancun)",
+      "COP26 (Glasgow)"
+    ],
+    "correct": 2,
+    "explanation": "The Green Climate Fund (GCF) was established at COP16 in 2010 at Cancun."
+  },
+  {
+    "question": "Which fund under the UNFCCC specifically supports the implementation of National Adaptation Programmes of Action (NAPAs)?",
+    "options": [
+      "Least Developed Countries Fund (LDCF)",
+      "Adaptation Fund",
+      "Special Climate Change Fund (SCCF)",
+      "Loss and Damage Fund"
+    ],
+    "correct": 0,
+    "explanation": "The Least Developed Countries Fund (LDCF), managed by GEF, supports NAPAs and the implementation of NAPs for least developed countries."
+  },
+  {
+    "question": "The 'Climate Action Tracker' (CAT) is an independent scientific project produced by which two institutes?",
+    "options": [
+      "WRI and WBCSD",
+      "NewClimate Institute and Climate Analytics",
+      "IUCN and WWF",
+      "UNEP and UNDP"
+    ],
+    "correct": 1,
+    "explanation": "The Climate Action Tracker (CAT) is produced by the NewClimate Institute and Climate Analytics."
+  },
+  {
+    "question": "What are the three components of the 'Triple Planetary Crisis' identified in Stockholm+50?",
+    "options": [
+      "Climate Change, Pollution, and Biodiversity Loss",
+      "Overpopulation, Poverty, and Inequality",
+      "Deforestation, Water Scarcity, and Soil Erosion",
+      "Urbanization, Industrialization, and Waste"
+    ],
+    "correct": 0,
+    "explanation": "The triple planetary crisis refers to the three main interlinked issues: climate change, pollution, and biodiversity loss."
+  },
+  {
+    "question": "How many National Missions form the core of India's National Action Plan on Climate Change (NAPCC)?",
+    "options": [
+      "5",
+      "8",
+      "10",
+      "12"
+    ],
+    "correct": 1,
+    "explanation": "There are Eight National Missions which form the core of the National Action Plan (NAPCC)."
+  },
+  {
+    "question": "The 'Perform, Achieve and Trade' (PAT) mechanism is a key initiative under which National Mission?",
+    "options": [
+      "National Mission for Enhanced Energy Efficiency (NMEEE)",
+      "National Solar Mission",
+      "National Mission for Green India",
+      "National Mission on Strategic Knowledge for Climate Change"
+    ],
+    "correct": 0,
+    "explanation": "PAT is one of the four initiatives under the National Mission for Enhanced Energy Efficiency (NMEEE)."
+  },
+  {
+    "question": "What is the primary objective of the 'Bachat Lamp Yojana' mentioned in the PDF?",
+    "options": [
+      "To provide solar lamps to students in rural areas.",
+      "To push high-efficiency appliances like CFLs/LEDs into the market.",
+      "To fund the electrification of tribal villages.",
+      "To reduce the cost of battery storage for solar plants."
+    ],
+    "correct": 1,
+    "explanation": "Under the Market Transformation for Energy Efficiency (MTEE), the Bureau of Energy Efficiency developed programs like Bachat Lamp Yojana to push high-efficiency appliances into the market."
+  },
+  {
+    "question": "The 'Shunya Labelling Programme' is associated with which sector?",
+    "options": [
+      "Electric Vehicles",
+      "Organic Agriculture",
+      "Building Energy Efficiency",
+      "Forest Conservation"
+    ],
+    "correct": 2,
+    "explanation": "The Shunya Labelling Programme is listed as a policy aimed to decarbonize existing buildings under the National Mission on Sustainable Habitat."
+  },
+  {
+    "question": "The goal of increasing water use efficiency by 20% is a target of which mission?",
+    "options": [
+      "National Mission for Sustainable Agriculture",
+      "National Water Mission",
+      "Clean Ganga Mission",
+      "Green India Mission"
+    ],
+    "correct": 1,
+    "explanation": "The National Water Mission (NWM) has a goal of increasing water use efficiency by 20% through regulatory mechanisms."
+  },
+  {
+    "question": "In the context of the Green India Mission, 'Seabuckthorn' is popularly known as:",
+    "options": [
+      "Ladakh Gold",
+      "Desert Rose",
+      "Himalayan Pearl",
+      "Green Diamond"
+    ],
+    "correct": 0,
+    "explanation": "Seabuckthorn is popularly known as Leh berries, 'Wonder plant', and 'Ladakh gold'."
+  },
+  {
+    "question": "The 'Soil Health Card' scheme provides recommendations based on how many parameters?",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "correct": 2,
+    "explanation": "The Soil Health Card contains 12 parameters on which recommendations are given, including macro-nutrients, secondary-nutrients, micro-nutrients, and physical parameters."
+  },
+  {
+    "question": "Which national network was initiated to generate India-specific climate science and assessments for reporting to the UNFCCC?",
+    "options": [
+      "NCDC (National Centre for Disease Control)",
+      "INCCA (Indian Network for Climate Change Assessment)",
+      "NBA (National Biodiversity Authority)",
+      "BIOFIN"
+    ],
+    "correct": 1,
+    "explanation": "INCCA is a national assessment network initiated by MoEFCC to generate India-specific climate science, and its reports form part of India's NATCOM to the UNFCCC."
+  },
+  {
+    "question": "Which state introduced South Asia's first 'Heat Action Plan'?",
+    "options": [
+      "Rajasthan (Jodhpur)",
+      "Odisha",
+      "Tamil Nadu",
+      "Gujarat (Ahmedabad)"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states that Ahmedabad (Gujarat) introduced South Asia's first Heat Action Plan."
+  },
+  {
+    "question": "The 'MegARISE' project in Meghalaya focuses on water security through:",
+    "options": [
+      "Desalination of sea water.",
+      "Protecting critical catchment areas through sustainable forest management.",
+      "Building large dams for irrigation.",
+      "Subsidizing drip irrigation for farmers."
+    ],
+    "correct": 1,
+    "explanation": "MegARISE focuses on protecting critical catchment areas through sustainable forest management and has mapped over 55,000 springs."
+  },
+  {
+    "question": "The 'MISHTI' scheme, announced in the 2023-24 Budget, targets the restoration of which ecosystem?",
+    "options": [
+      "Grasslands",
+      "Wetlands",
+      "Alpine forests",
+      "Mangroves"
+    ],
+    "correct": 3,
+    "explanation": "MISHTI (Mangrove Initiative for Shoreline Habitats & Tangible Incomes) is aimed at increasing mangrove cover along the coastline."
+  },
+  {
+    "question": "As per ISFR 2023, what is the total mangrove cover in India?",
+    "options": [
+      "2,500 sq km",
+      "4,992 sq km",
+      "10,000 sq km",
+      "15,000 sq km"
+    ],
+    "correct": 1,
+    "explanation": "India's total mangrove cover is 4,992 sq km, according to the PDF citing ISFR 2023."
+  },
+  {
+    "question": "What is the primary focus of the 'SATAT' initiative mentioned in the context of bio-energy?",
+    "options": [
+      "Scaling up Compressed Bio-Gas (CBG) production for vehicles.",
+      "Promoting solar power for transport.",
+      "Distributing electric cycles in rural areas.",
+      "Subsidizing the import of natural gas."
+    ],
+    "correct": 0,
+    "explanation": "The SATAT (Sustainable Alternative Towards Affordable Transportation) initiative aims to scale up CBG production for vehicles."
+  },
+  {
+    "question": "Under the 'Panchamrit' vision, India aims to achieve net-zero emissions by which year?",
+    "options": [
+      "2030",
+      "2070",
+      "2045",
+      "2050"
+    ],
+    "correct": 1,
+    "explanation": "At COP26, India announced the goal to achieve net-zero by 2070."
+  },
+  {
+    "question": "Which country ranks first globally in total installed renewable energy capacity as of 2025?",
+    "options": [
+      "USA",
+      "India",
+      "Brazil",
+      "China"
+    ],
+    "correct": 3,
+    "explanation": "According to the PDF, India ranks fourth after China, the USA, and Brazil. Therefore, China is first."
+  },
+  {
+    "question": "The 'PM Surya Ghar: Muft Bijli Yojana' aims to provide how many units of free electricity per month to eligible households?",
+    "options": [
+      "300 units",
+      "100 units",
+      "200 units",
+      "500 units"
+    ],
+    "correct": 0,
+    "explanation": "Eligible homes under PM Surya Ghar receive up to 300 units of free electricity per month."
+  },
+  {
+    "question": "Under PM-KUSUM, Component-B focuses on:",
+    "options": [
+      "Grid-connected solar power plants on barren land.",
+      "Feeder-level solarization of agricultural load.",
+      "Providing solar-powered tractors to farmers.",
+      "Installation of stand-alone solar agriculture pumps in off-grid areas."
+    ],
+    "correct": 3,
+    "explanation": "Component-B of PM-KUSUM allows farmers to install stand-alone solar agriculture pumps in off-grid areas where grid supply is not available."
+  },
+  {
+    "question": "The 'SIGHT' programme is a key financial component of which national mission?",
+    "options": [
+      "National Solar Mission",
+      "National Green Hydrogen Mission",
+      "National Bio-energy Programme",
+      "National Mission for Enhanced Energy Efficiency"
+    ],
+    "correct": 1,
+    "explanation": "SIGHT (Strategic Interventions for Green Hydrogen Transition) is the largest financial component of the National Green Hydrogen Mission."
+  },
+  {
+    "question": "To be certified as 'Green Hydrogen' in India, what is the maximum permissible carbon intensity?",
+    "options": [
+      "1 kg CO2 equivalent per kg H2",
+      "5 kg CO2 equivalent per kg H2",
+      "10 kg CO2 equivalent per kg H2",
+      "2 kg CO2 equivalent per kg H2"
+    ],
+    "correct": 3,
+    "explanation": "To be certified as 'Green' in India, the carbon intensity must not exceed 2 kg of CO2 equivalent per kg of hydrogen produced."
+  },
+  {
+    "question": "Which ministry is the nodal ministry for the 'National Offshore Wind Energy Policy'?",
+    "options": [
+      "Ministry of New and Renewable Energy (MNRE)",
+      "Ministry of Power",
+      "Ministry of Earth Sciences",
+      "Ministry of Ports, Shipping and Waterways"
+    ],
+    "correct": 0,
+    "explanation": "The National Offshore Wind Energy Policy (2015) designates MNRE as the nodal ministry."
+  },
+  {
+    "question": "The 'SHANTI Act 2025' relates to which sector in India?",
+    "options": [
+      "Forest conservation",
+      "Water sharing between states",
+      "Nuclear energy",
+      "Disaster management"
+    ],
+    "correct": 2,
+    "explanation": "The SHANTI Act 2025 stands for 'Sustainable Harnessing and Advancement of Nuclear Energy for Transforming India'."
+  },
+  {
+    "question": "According to the PDF, India's target for nuclear power capacity by 2047 is:",
+    "options": [
+      "20 GW",
+      "50 GW",
+      "150 GW",
+      "100 GW"
+    ],
+    "correct": 3,
+    "explanation": "The Nuclear Energy Mission sets an ambition to scale nuclear capacity to 100 GW(e) by 2047."
+  },
+  {
+    "question": "The 'Bharat Small Modular Reactor' (BSMR-200) has been proposed to have its lead unit at which location?",
+    "options": [
+      "Narora",
+      "Kudankulam",
+      "Tarapur",
+      "Rawatbhata"
+    ],
+    "correct": 2,
+    "explanation": "The BSMR-200 is an SMR under Indian development, and a lead unit has been proposed at Tarapur."
+  },
+  {
+    "question": "Which of the following is NOT one of the 12 parameters of the Soil Health Card?",
+    "options": [
+      "Nitrogen (N)",
+      "Chlorine (Cl)",
+      "Zinc (Zn)",
+      "pH"
+    ],
+    "correct": 1,
+    "explanation": "The 12 parameters are N, P, K, Sulphur, Zn, Fe, Cu, Mn, Bo, pH, EC, and OC. Chlorine is not included."
+  },
+  {
+    "question": "The 'Common Carbon Metric' (CCM) was developed under which international body?",
+    "options": [
+      "UNFCCC",
+      "G20",
+      "UNEP-SBCI",
+      "World Bank"
+    ],
+    "correct": 2,
+    "explanation": "The Common Carbon Metric (CCM) is a framework developed under the United Nations Environment Programme Sustainable Buildings and Climate Initiative (UNEP-SBCI)."
+  },
+  {
+    "question": "Which global initiative focuses on reducing short-lived climate pollutants like methane and black carbon?",
+    "options": [
+      "Greenhouse Gas Protocol",
+      "Climate and Clean Air Coalition (CCAC)",
+      "RE100",
+      "Bonn Challenge"
+    ],
+    "correct": 1,
+    "explanation": "The Climate and Clean Air Coalition (CCAC), supported by UNEP, focuses on reducing short-lived climate pollutants (SLCPs) like methane and black carbon."
+  },
+  {
+    "question": "The 'RE100' initiative, launched by The Climate Group, requires member companies to commit to:",
+    "options": [
+      "Reducing carbon emissions by 100% by 2030.",
+      "Shifting 100% of their fleet to electric vehicles.",
+      "Sourcing 100% of their electricity from renewable sources.",
+      "Achieving 100% energy efficiency in manufacturing."
+    ],
+    "correct": 2,
+    "explanation": "RE100 is a global corporate initiative where companies commit to source 100% of their electricity from renewable sources by a target year."
+  },
+  {
+    "question": "India's 'National Green Hydrogen Mission' targets how much annual production capacity by 2030?",
+    "options": [
+      "5 MMT",
+      "1 MMT",
+      "10 MMT",
+      "20 MMT"
+    ],
+    "correct": 0,
+    "explanation": "The mission targets developing at least 5 MMT (Million Metric Tonnes) of green hydrogen production capacity per annum by 2030."
+  },
+  {
+    "question": "Which city introduced South Asia's first 'Heat Action Plan'?",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "Ahmedabad",
+      "Delhi"
+    ],
+    "correct": 2,
+    "explanation": "According to the table of state initiatives, Ahmedabad introduced South Asia's first Heat Action Plan."
+  },
+  {
+    "question": "The 'NMEDT' (National Mineral Exploration and Development Trust) replaces which earlier trust?",
+    "options": [
+      "CAMPA",
+      "BIOFIN",
+      "GEF",
+      "NMET"
+    ],
+    "correct": 3,
+    "explanation": "The MMDR Amendment Act 2025 replaces the earlier National Mineral Exploration Trust (NMET) with the National Mineral Exploration and Development Trust (NMEDT)."
+  },
+  {
+    "question": "What is the core function of 'Khanij Bidesh India Ltd.' (KABIL)?",
+    "options": [
+      "Securing overseas critical and strategic mineral assets.",
+      "Regulating domestic coal mining.",
+      "Promoting offshore oil exploration in India.",
+      "Subsidizing mineral processing parks."
+    ],
+    "correct": 0,
+    "explanation": "KABIL was created to identify, explore, acquire, develop, and invest in critical mineral assets overseas to ensure sustainable sourcing for the Indian domestic market."
+  },
+  {
+    "question": "In which country did KABIL launch India's first lithium exploration and mining project by a government company?",
+    "options": [
+      "Australia",
+      "Chile",
+      "Argentina",
+      "Bolivia"
+    ],
+    "correct": 2,
+    "explanation": "KABIL launched India's first lithium exploration and mining project in Catamarca, Argentina."
+  },
+  {
+    "question": "India became the 14th member of the 'Minerals Security Partnership' (MSP) in which year?",
+    "options": [
+      "2021",
+      "2022",
+      "2025",
+      "2023"
+    ],
+    "correct": 3,
+    "explanation": "India became the 14th member of the MSP in June 2023."
+  },
+  {
+    "question": "Which of the following is NOT one of the themes of 'Mission LiFE'?",
+    "options": [
+      "Save Energy",
+      "Reduce E-waste",
+      "Increase Industrial Output",
+      "Adopt Sustainable Food Systems"
+    ],
+    "correct": 2,
+    "explanation": "The LiFE themes include Save Energy, Save Water, Say No to Single Use Plastic, Adopt Sustainable Food Systems, Reduce Waste, Reduce E-waste, and Adopt Healthy Lifestyles. Increasing industrial output is not a theme."
+  },
+  {
+    "question": "Under Mission LiFE, what percentage of villages and urban local bodies are targeted to become environmentally friendly by 2028?",
+    "options": [
+      "80%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "correct": 0,
+    "explanation": "At least 80% of villages and urban local bodies are targeted to become environmentally friendly by 2028 under Mission LiFE."
+  },
+  {
+    "question": "What is the primary objective of the 'Adaptation Fund' established under the Kyoto Protocol?",
+    "options": [
+      "Trading carbon credits between companies.",
+      "Funding the transition to green hydrogen.",
+      "Subsidizing electric vehicle batteries.",
+      "Financing adaptation projects in developing countries."
+    ],
+    "correct": 3,
+    "explanation": "The Adaptation Fund finances adaptation projects and programs in developing countries that are particularly vulnerable to the adverse effects of climate change."
+  },
+  {
+    "question": "Which international agreement developed the REDD+ mechanism?",
+    "options": [
+      "CBD",
+      "UNCCD",
+      "UNFCCC",
+      "Stockholm Convention"
+    ],
+    "correct": 2,
+    "explanation": "REDD+ is a mechanism developed by Parties to the United Nations Framework Convention on Climate Change (UNFCCC)."
+  },
+  {
+    "question": "The 'Nagoya-Kuala Lumpur Supplementary Protocol' deals with which of the following?",
+    "options": [
+      "Liability and Redress resulting from LMOs",
+      "Carbon credit pricing",
+      "Illegal trade in endangered species",
+      "Marine plastic pollution"
+    ],
+    "correct": 0,
+    "explanation": "The Nagoya-Kuala Lumpur Supplementary Protocol on Liability and Redress is a supplementary protocol to the Cartagena Protocol on Biosafety, requiring response measures for damage resulting from LMOs."
+  },
+  {
+    "question": "Under India's updated NDC (2022), the target for reducing emissions intensity of GDP by 2030 is:",
+    "options": [
+      "33-35% from 2005 level",
+      "50% from 2005 level",
+      "45% from 2005 level",
+      "Net-zero"
+    ],
+    "correct": 2,
+    "explanation": "India's updated NDC aims to reduce the Emissions Intensity of its GDP by 45 percent by 2030, from the 2005 level."
+  },
+  {
+    "question": "The 'Aichi Biodiversity Targets' were associated with which period?",
+    "options": [
+      "2011-2020",
+      "2000-2010",
+      "2021-2030",
+      "2030-2050"
+    ],
+    "correct": 0,
+    "explanation": "The Aichi Biodiversity Targets were part of the Strategic Plan for Biodiversity 2011-2020."
+  },
+  {
+    "question": "What is the '30x30' target Championed by the High Ambition Coalition?",
+    "options": [
+      "30% renewable energy by 2030",
+      "30% reduction in plastic use by 2030",
+      "30% increase in mangrove cover by 2030",
+      "30% of terrestrial and marine areas under protection by 2030"
+    ],
+    "correct": 3,
+    "explanation": "The 30x30 target calls for 30% of the world's terrestrial and marine areas to be in effective protection and management by 2030."
+  },
+  {
+    "question": "Which of the following describes 'Digital Sequence Information' (DSI) in the context of CBD?",
+    "options": [
+      "Satellite imagery of forest cover.",
+      "Online database of endangered species.",
+      "Genomic and other digital data from organisms.",
+      "Electronic permits for exporting minerals."
+    ],
+    "correct": 2,
+    "explanation": "DSI refers to genomic and other digital data from organisms used in agriculture, pharma, conservation, etc."
+  },
+  {
+    "question": "The 'Cali Fund' requires companies commercially using DSI to contribute what percentage of their profits?",
+    "options": [
+      "1%",
+      "0.1%",
+      "5%",
+      "10%"
+    ],
+    "correct": 0,
+    "explanation": "Companies commercially using DSI are to contribute 1% of profits or 0.1% of revenues to the Cali Fund."
+  },
+  {
+    "question": "The 'Kunming Biodiversity Fund' (KBF) is managed under which facility?",
+    "options": [
+      "World Bank",
+      "UNDP",
+      "Global Environment Facility (GEF)",
+      "ADB"
+    ],
+    "correct": 2,
+    "explanation": "The Kunming Biodiversity Fund (KBF) is managed under the Global Environment Facility (GEF)."
+  },
+  {
+    "question": "Which National Mission aims to establish India as a global leader in solar energy?",
+    "options": [
+      "NMEEE",
+      "National Mission on Sustainable Habitat",
+      "NMSHE",
+      "National Solar Mission"
+    ],
+    "correct": 3,
+    "explanation": "The objective of the National Solar Mission (NSM) is to establish India as a global leader in solar energy."
+  },
+  {
+    "question": "What are the four pillars of the National Mission for Enhanced Energy Efficiency (NMEEE)?",
+    "options": [
+      "Solar, Wind, Biomass, Hydro",
+      "Reduce, Reuse, Recycle, Restore",
+      "PAT, MTEE, EEFP, FEEED",
+      "Mitigation, Adaptation, Finance, Technology"
+    ],
+    "correct": 2,
+    "explanation": "The four initiatives/pillars of NMEEE are Perform, Achieve and Trade (PAT); Market Transformation for Energy Efficiency (MTEE); Energy Efficiency Financing Platform (EEFP); and Framework for Energy Efficient Economic Development (FEEED)."
+  },
+  {
+    "question": "The 'Partial Risk Sharing Facility' (PRSF) for energy efficiency has which institution as its project executing agency?",
+    "options": [
+      "NABARD",
+      "BEE",
+      "MNRE",
+      "SIDBI"
+    ],
+    "correct": 3,
+    "explanation": "The PRSF provides partial credit guarantees and has SIDBI as the project executing agency."
+  },
+  {
+    "question": "Which of the following is NOT one of the 4 flagship missions through which the National Mission on Sustainable Habitat is implemented?",
+    "options": [
+      "AMRUT",
+      "National Solar Mission",
+      "Swachh Bharat Mission",
+      "Smart Cities Mission"
+    ],
+    "correct": 1,
+    "explanation": "NMSH is implemented through AMRUT, Swachh Bharat Mission, Smart Cities Mission, and Urban Transport Programme."
+  },
+  {
+    "question": "What is the primary target of the 'Green India Mission' regarding forest cover?",
+    "options": [
+      "Increase forest cover to 33% by 2030.",
+      "Protect 100 million hectares of existing forest.",
+      "Plant 1 billion trees by 2025.",
+      "Increase forest/tree cover on 5 m ha and improve quality on another 5 m ha."
+    ],
+    "correct": 3,
+    "explanation": "The GIM objectives include increased forest/tree cover on 5 m ha of forest/non-forest lands and improved quality of forest cover on another 5 m ha (total 10 m ha)."
+  },
+  {
+    "question": "The 'Per Drop More Crop' (PDMC) component was subsumed under which scheme in 2015-16?",
+    "options": [
+      "PM-KUSUM",
+      "Soil Health Card Scheme",
+      "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+      "National Green India Mission"
+    ],
+    "correct": 2,
+    "explanation": "Farm Water Management activities were subsumed under the Per Drop More Crop (PDMC) component of PMKSY in 2015-16."
+  },
+  {
+    "question": "Which state's 'KERA' initiative aims to build a climate-resilient agricultural value chain?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correct": 0,
+    "explanation": "KERA (Climate-Resilient Agri-Value Chain Modernisation) is an initiative of Kerala to build a climate-resilient agricultural sector."
+  },
+  {
+    "question": "The 'NPCCHH' (National Programme on Climate Change and Human Health) is under which ministry?",
+    "options": [
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Science and Technology",
+      "Ministry of Health and Family Welfare (MoHFW)",
+      "Ministry of Earth Sciences"
+    ],
+    "correct": 2,
+    "explanation": "NPCCHH is a national programme under MoHFW to address health risks arising from climate change."
+  },
+  {
+    "question": "The 'Nagar Van Yojana' aims to develop how many Nagar Vans and Nagar Vatikas?",
+    "options": [
+      "100 Vans and 50 Vatikas",
+      "400 Nagar Vans and 200 Nagar Vatikas",
+      "1000 Vans and 500 Vatikas",
+      "200 Vans and 100 Vatikas"
+    ],
+    "correct": 1,
+    "explanation": "The Nagar Van Yojana aims to develop 400 Nagar Vans and 200 Nagar Vatikas in urban and semi-urban areas."
+  },
+  {
+    "question": "According to the PDF, which country has the largest mangrove area globally?",
+    "options": [
+      "Indonesia",
+      "Brazil",
+      "Asia (as a region)",
+      "Nigeria"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that 'Asia has the largest mangrove area, about 5.55 million ha'."
+  },
+  {
+    "question": "What percentage of global mangroves are concentrated in Indonesia, Brazil, Nigeria, and Mexico?",
+    "options": [
+      "Over 25%",
+      "Over 40%",
+      "Over 60%",
+      "Over 80%"
+    ],
+    "correct": 1,
+    "explanation": "Over 40% of global mangroves are concentrated in these four countries."
+  },
+  {
+    "question": "The 'NPCA' (National Plan for Conservation of Aquatic Eco-systems) was formed by merging which two programs?",
+    "options": [
+      "GIM and NWM",
+      "AMRUT and SBM",
+      "NWCP and NLCP",
+      "PAT and MTEE"
+    ],
+    "correct": 2,
+    "explanation": "NPCA was formed in February 2013 by merging the National Wetland Conservation Programme (NWCP) and the National Lake Conservation Plan (NLCP)."
+  },
+  {
+    "question": "What is the funding ratio between Centre and State for NPCA projects in general states?",
+    "options": [
+      "60:40",
+      "50:50",
+      "75:25",
+      "90:10"
+    ],
+    "correct": 0,
+    "explanation": "Projects under NPCA are funded on a 60:40 basis (Centre: State)."
+  },
+  {
+    "question": "The 'Panchamrit' vision targets how much non-fossil energy capacity by 2030?",
+    "options": [
+      "100 GW",
+      "250 GW",
+      "500 GW",
+      "450 GW"
+    ],
+    "correct": 2,
+    "explanation": "Panchamrit targets 500 GW non-fossil energy capacity by 2030."
+  },
+  {
+    "question": "Under India's updated NDC, what is the goal for electric power installed capacity from non-fossil sources by 2030?",
+    "options": [
+      "40%",
+      "45%",
+      "60%",
+      "50%"
+    ],
+    "correct": 3,
+    "explanation": "The updated NDC aims to achieve about 50 percent cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2030."
+  },
+  {
+    "question": "Which state/UT in India is implementing the 'Garbage-Free Urban' initiative (2023) using bio-mining and plasma processors?",
+    "options": [
+      "Delhi",
+      "Maharashtra",
+      "Odisha",
+      "Chandigarh"
+    ],
+    "correct": 2,
+    "explanation": "Garbage-Free Urban Odisha (2023) transforms legacy municipal waste into wealth using bio-mining and plasma processors."
+  },
+  {
+    "question": "The 'VGF' scheme for BESS (Battery Energy Storage Systems) aims to support the development of how much capacity by 2030-31?",
+    "options": [
+      "5,000 MWh",
+      "13,200 MWh",
+      "10,000 MWh",
+      "20,000 MWh"
+    ],
+    "correct": 1,
+    "explanation": "The VGF scheme has a budgetary outlay to support 13,200 MWh of BESS capacity by 2030-31."
+  },
+  {
+    "question": "The 'PLI' scheme for High Efficiency solar PV Modules is intended to:",
+    "options": [
+      "Build a domestic, integrated manufacturing ecosystem for PV modules.",
+      "Subsidize the installation of solar pumps for farmers.",
+      "Provide free solar panels to BPL families.",
+      "Fund the research for offshore wind turbines."
+    ],
+    "correct": 0,
+    "explanation": "The PLI scheme is meant to build a domestic, integrated manufacturing ecosystem, reduce import dependence, and improve supply-chain resilience."
+  },
+  {
+    "question": "Which port has been officially recognized as a 'Green Hydrogen Hub' as of late 2025?",
+    "options": [
+      "Mumbai Port",
+      "Visakhapatnam Port",
+      "Deendayal Port Authority",
+      "Kochi Port"
+    ],
+    "correct": 2,
+    "explanation": "Three hubs designated: Deendayal Port Authority (Gujarat), V.O. Chidambaranar (Tamil Nadu), and Paradip (Odisha)."
+  },
+  {
+    "question": "The 'Bio-energy Programme' aims to utilize which of the following as feedstock?",
+    "options": [
+      "Rice straw and Wheat stalk",
+      "All of the above",
+      "Municipal solid waste",
+      "Cattle dung"
+    ],
+    "correct": 1,
+    "explanation": "Feedstock includes agricultural waste (rice straw, wheat stalk), urban waste (MSW), and animal waste (cattle dung)."
+  },
+  {
+    "question": "What is the primary purpose of 'Energy Saving Certificates' (ESCerts) in the PAT scheme?",
+    "options": [
+      "To provide tax rebates to green industries.",
+      "To prove that a company uses 100% renewable energy.",
+      "To be traded by entities that exceed their energy reduction targets.",
+      "To certify that a building is 'Net-Zero'."
+    ],
+    "correct": 2,
+    "explanation": "Energy Saving Certificates are distributed on achievement of targets and can be traded so that entities that fall short can buy certificates to meet compliance."
+  },
+  {
+    "question": "Which organization serves as the Secretariat to the 'Under2 Coalition'?",
+    "options": [
+      "UNEP",
+      "WRI",
+      "Green Climate Fund",
+      "The Climate Group"
+    ],
+    "correct": 3,
+    "explanation": "Climate Group is the Secretariat to the Under2 Coalition."
+  },
+  {
+    "question": "The 'EP100' initiative focuses on which corporate commitment?",
+    "options": [
+      "100% Electric Vehicles",
+      "100% Renewable Electricity",
+      "Doubling Energy Productivity",
+      "100% Water Neutrality"
+    ],
+    "correct": 2,
+    "explanation": "EP100 (Energy Productivity 100) member companies commit to actions such as doubling energy productivity."
+  },
+  {
+    "question": "In the context of critical minerals, what does 'Part D' of the First Schedule of the MMDR Act signify?",
+    "options": [
+      "Minerals that cannot be exported.",
+      "Minerals reserved for the MSME sector.",
+      "Minerals that are exempt from royalty.",
+      "Minerals for which the Central Government has exclusive auction powers."
+    ],
+    "correct": 3,
+    "explanation": "The inclusion of 24 critical minerals in Part D means that the Central Government now has the exclusive authority to auction mining leases and composite licenses for these minerals."
+  },
+  {
+    "question": "The 'MSP Finance Network' (MSFN) is linked to which partnership?",
+    "options": [
+      "BRICS Partnership",
+      "High Ambition Coalition",
+      "Minerals Security Partnership (MSP)",
+      "International Big Cat Alliance"
+    ],
+    "correct": 2,
+    "explanation": "The MSP Finance Network (MSFN) is a financing cooperation arm linked to the Minerals Security Partnership (MSP)."
+  },
+  {
+    "question": "According to the 'Panchamrit' goals, what percentage of India's energy requirements will come from renewables by 2030?",
+    "options": [
+      "33%",
+      "50%",
+      "40%",
+      "45%"
+    ],
+    "correct": 1,
+    "explanation": "One of the Panchamrit goals is to meet 50% of energy requirements from renewables by 2030."
+  },
+  {
+    "question": "What is the primary focus of 'Sub-Mission 2' under the Green India Mission?",
+    "options": [
+      "Urban forestry",
+      "Agro-forestry",
+      "Ecosystem restoration and increase in forest cover",
+      "Wetland restoration"
+    ],
+    "correct": 2,
+    "explanation": "Sub Mission 2 focuses on ecosystem restoration and increase in forest cover."
+  },
+  {
+    "question": "Which of the following describes the 'LMOs for Contained Use' under the Cartagena Protocol?",
+    "options": [
+      "GM bacteria used in laboratories",
+      "GM crops (seeds) for farming",
+      "GM grain for processing into oil",
+      "GM fish for release in rivers"
+    ],
+    "correct": 0,
+    "explanation": "LMOs for Contained Use, such as GM bacteria used in laboratories, are exempt from AIA procedures."
+  },
+  {
+    "question": "The 'NBSAP' (National Biodiversity Strategy and Action Plan) is mandated by which article of the UNCBD?",
+    "options": [
+      "Article 8(j)",
+      "Article 10",
+      "Article 15",
+      "Article 6"
+    ],
+    "correct": 3,
+    "explanation": "As per Article 6 of the UNCBD, every Party is required to prepare and implement an NBSAP."
+  },
+  {
+    "question": "The 'Sharm El Sheikh Declaration' (2018) focused on:",
+    "options": [
+      "Phasing out coal by 2040.",
+      "Implementing the Green Hydrogen Mission.",
+      "Mainstreaming biodiversity into legislative and policy frameworks.",
+      "Protecting the Himalayan ecosystem."
+    ],
+    "correct": 2,
+    "explanation": "The Sharm El Sheikh Declaration (CBD COP14) focused on mainstreaming biodiversity and preparing for a Post-2020 Global Biodiversity Framework."
+  },
+  {
+    "question": "Which of the following is NOT one of the three supplementary agreements to the CBD?",
+    "options": [
+      "Cartagena Protocol",
+      "Kyoto Protocol",
+      "Nagoya Protocol",
+      "Nagoya-Kuala Lumpur Supplementary Protocol"
+    ],
+    "correct": 1,
+    "explanation": "The three supplementary agreements are the Cartagena Protocol, the Nagoya Protocol, and the Nagoya-Kuala Lumpur Supplementary Protocol."
+  },
+  {
+    "question": "The 'Land for Life Programme' was launched in 2011 as part of which initiative?",
+    "options": [
+      "Bonn Challenge",
+      "Great Green Wall",
+      "G20 Global Initiative",
+      "Changwon Initiative"
+    ],
+    "correct": 3,
+    "explanation": "The Land for Life Programme was launched at UNCCD COP10 in 2011 as part of the Changwon Initiative."
+  },
+  {
+    "question": "Under the Cartagena Protocol, products like 'cooking oil from GM corn' are:",
+    "options": [
+      "Not covered by the Protocol",
+      "Subject to AIA procedures",
+      "Regulated as LMOs",
+      "Strictly banned from transboundary movement"
+    ],
+    "correct": 0,
+    "explanation": "The Protocol does NOT cover pharmaceuticals for humans, products derived from LMOs (e.g., cooking oil), or purely domestic use."
+  },
+  {
+    "question": "The 'CECM' (Centre of Excellence on Critical Minerals) was recommended to:",
+    "options": [
+      "Auction mining leases.",
+      "Fund the National Green Hydrogen Mission.",
+      "Monitor the air quality in mining areas.",
+      "Regularly update the critical mineral list and guide strategy."
+    ],
+    "correct": 3,
+    "explanation": "The CECM was recommended to regularly update the mineral list and guide strategy."
+  },
+  {
+    "question": "The 'Digital Mineral Passports' are a concept promoted by which group to verify sustainability?",
+    "options": [
+      "G7",
+      "BRICS",
+      "ASEAN",
+      "G20"
+    ],
+    "correct": 0,
+    "explanation": "The G7 Roadmap to Promote Standards-Based Markets for Critical Minerals promotes the use of Digital Mineral Passports."
+  },
+  {
+    "question": "What is the primary objective of the 'International Climate Initiative' (IKI)?",
+    "options": [
+      "A World Bank program for urban transport.",
+      "A German instrument for financing climate mitigation and biodiversity in developing countries.",
+      "A UN initiative for space-based climate monitoring.",
+      "An Indian scheme for tribal solar electrification."
+    ],
+    "correct": 1,
+    "explanation": "IKI is one of the most important instruments of the German Federal Ministry (BMUV) for the international financing of climate change mitigation and biodiversity."
+  },
+  {
+    "question": "Which of the following initiatives is associated with voluntary environmental actions through credits for activities like tree plantation?",
+    "options": [
+      "Swachh Bharat Mission 2.0",
+      "Ek Ped Maa Ke Naam Campaign",
+      "Circular Economy Action Plans",
+      "Green Credit Programme (GCP)"
+    ],
+    "correct": 3,
+    "explanation": "Green Credit Programme (GCP) incentivizes voluntary environmental actions with credits for activities like tree plantation, accessible via the GCP Portal."
+  },
+  {
+    "question": "The Ek Ped Maa Ke Naam Campaign primarily aims to:",
+    "options": [
+      "Promote sanitation and waste management",
+      "Encourage tree plantation with emotional and cultural appeal",
+      "Incentivize voluntary environmental actions",
+      "Implement Extended Producer Responsibility"
+    ],
+    "correct": 1,
+    "explanation": "Ek Ped Maa Ke Naam Campaign encourages tree plantation with emotional and cultural appeal by promoting honouring nature as a tribute to motherhood."
+  },
+  {
+    "question": "Swachh Bharat Mission 2.0 focuses on which of the following?",
+    "options": [
+      "Nuclear safety standards",
+      "Sovereign Green Bonds issuance",
+      "Sustainable waste management in line with circular economy",
+      "Biofuel blending targets"
+    ],
+    "correct": 2,
+    "explanation": "Swachh Bharat Mission 2.0 focuses on sanitation and waste management in line with circular economy, with emphasis on sustainable waste management, cleanliness, and community-driven action."
+  },
+  {
+    "question": "Circular economy shifts the model from linear “take-make-dispose” to:",
+    "options": [
+      "Increased virgin resource extraction",
+      "Single-use plastics promotion",
+      "Fossil fuel dependency",
+      "Closed-loop production through reuse, repair, recycling and recovery"
+    ],
+    "correct": 3,
+    "explanation": "Circular economy shifts the economy from a linear “take-make-dispose” model to closed-loop production, where materials are kept in use through reuse, repair, recycling and recovery."
+  },
+  {
+    "question": "According to the document, Circular Economy forms the core of which mission in ES 2024-25?",
+    "options": [
+      "Swachh Bharat Mission",
+      "National Bioenergy Programme",
+      "Mission Life",
+      "SAMARTH Mission"
+    ],
+    "correct": 2,
+    "explanation": "ES: 2024–25: Circular Economy Forms the core of mission Life."
+  },
+  {
+    "question": "Action plans under Circular Economy have been rolled out for how many waste categories?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "10"
+    ],
+    "correct": 3,
+    "explanation": "Circular Economy Action Plans: Action plans rolled out for 10 waste categories."
+  },
+  {
+    "question": "Which of the following is covered under Circular Economy Action Plans?",
+    "options": [
+      "Only municipal solid waste",
+      "Only end-of-life vehicles",
+      "Lithium-ion batteries, e-waste, toxic/hazardous industrial waste",
+      "Plastic packaging exclusively"
+    ],
+    "correct": 2,
+    "explanation": "Covers lithium-ion batteries, e-waste, toxic/hazardous industrial waste, scrap metal, end-of-life vehicles, and municipal solid waste."
+  },
+  {
+    "question": "Extended Producer Responsibility (EPR) is implemented for which of the following?",
+    "options": [
+      "Only plastic packaging",
+      "Only e-waste",
+      "Sovereign Green Bonds",
+      "Plastic packaging, batteries, e-waste, and waste tyres"
+    ],
+    "correct": 3,
+    "explanation": "EPR implemented for plastic packaging, batteries, e-waste, and waste tyres. Enabled through centralised digital portals."
+  },
+  {
+    "question": "Outcomes of EPR include registration of how many producers and recycling of approximately how much waste?",
+    "options": [
+      "69,000+ producers and about 308 lakh tonnes",
+      "50,000 producers and 200 lakh tonnes",
+      "1,00,000 producers and 500 lakh tonnes",
+      "10,000 producers and 100 lakh tonnes"
+    ],
+    "correct": 0,
+    "explanation": "Outcomes: 69,000+ producers registered and about 308 lakh tonnes of waste recycled."
+  },
+  {
+    "question": "The ban on identified Single-Use Plastics (SUPs) became effective from:",
+    "options": [
+      "1 July 2021",
+      "1 January 2023",
+      "1 July 2022",
+      "1 April 2022"
+    ],
+    "correct": 2,
+    "explanation": "Ban on 12 identified SUP items effective 1 July 2022."
+  },
+  {
+    "question": "Carry bag thickness was raised to improve recyclability under SUP measures. What is the new thickness?",
+    "options": [
+      "50 microns",
+      "120 microns",
+      "75 microns",
+      "150 microns"
+    ],
+    "correct": 1,
+    "explanation": "Carry bag thickness raised to 120 microns to improve recyclability."
+  },
+  {
+    "question": "Mitigation finance primarily supports:",
+    "options": [
+      "Flood control and coastal protection",
+      "Heat action plans only",
+      "Clean energy, energy efficiency, low-carbon transport",
+      "Disaster response funds"
+    ],
+    "correct": 2,
+    "explanation": "Mitigation finance: Money for clean energy, energy efficiency, low-carbon transport, industry decarbonisation."
+  },
+  {
+    "question": "Which of the following refers to the yield advantage of green bonds over conventional bonds?",
+    "options": [
+      "Greenium",
+      "Green Bond Premium",
+      "Sovereign Yield Spread",
+      "Climate Bond Discount"
+    ],
+    "correct": 0,
+    "explanation": "Greenium refers to the yield advantage that green bonds have over comparable conventional bonds."
+  },
+  {
+    "question": "The cumulative issuance of Sovereign Green Bonds since FY23 reached how much after the FY26 issuance?",
+    "options": [
+      "₹50,000 crore",
+      "₹1,00,000 crore",
+      "₹72,697 crore",
+      "₹15,000 crore"
+    ],
+    "correct": 2,
+    "explanation": "The government recently issued sovereign green bonds worth ₹15,000 crore in FY26, bringing the cumulative issuance to ₹72,697 crore since FY23."
+  },
+  {
+    "question": "Which urban local body raised ₹244 crore through Municipal Green Bonds for a solar plant?",
+    "options": [
+      "Vadodara",
+      "Indore",
+      "Ahmedabad",
+      "Mumbai"
+    ],
+    "correct": 1,
+    "explanation": "Indore raised ₹244 crore for a solar plant."
+  },
+  {
+    "question": "SEBI's BRSR framework was later revised to:",
+    "options": [
+      "BRSR Extended",
+      "ESG Core",
+      "BRSR Core",
+      "Sustainability Reporting Standard"
+    ],
+    "correct": 2,
+    "explanation": "later revised to 'BRSR Core,' which requires assurance-based reporting for key ESG indicators."
+  },
+  {
+    "question": "The State Disaster Mitigation Fund (SDMF) and National Disaster Mitigation Fund (NDMF) provide:",
+    "options": [
+      "Response and relief funding only",
+      "Project-based funding for risk reduction",
+      "Sovereign Green Bond proceeds",
+      "FDI for renewables"
+    ],
+    "correct": 1,
+    "explanation": "provide project-based funding to encourage local-level and community-based interventions to reduce disaster risks."
+  },
+  {
+    "question": "100% FDI under automatic route is allowed for:",
+    "options": [
+      "Renewable energy projects",
+      "All infrastructure projects",
+      "Nuclear power plants",
+      "Coal-based power"
+    ],
+    "correct": 0,
+    "explanation": "the government has allowed 100% Foreign Direct Investment (FDI) under the automatic route for renewable energy projects."
+  },
+  {
+    "question": "Nuclear fission involves:",
+    "options": [
+      "Fusion of light nuclei",
+      "Splitting of heavy nuclei",
+      "Chemical combustion",
+      "Radioactive decay only"
+    ],
+    "correct": 1,
+    "explanation": "Nuclear fission is a reaction where the nucleus of an atom splits into two or more smaller nuclei."
+  },
+  {
+    "question": "Which fuel is primarily used in nuclear fission reactors?",
+    "options": [
+      "Hydrogen isotopes",
+      "Thorium only",
+      "Helium",
+      "Uranium and plutonium"
+    ],
+    "correct": 3,
+    "explanation": "Fuel: Uranium and plutonium."
+  },
+  {
+    "question": "Nuclear fusion primarily occurs in:",
+    "options": [
+      "Nuclear power plants on Earth",
+      "Fission reactors",
+      "Stars such as the sun",
+      "Breeder reactors"
+    ],
+    "correct": 2,
+    "explanation": "Nuclear fusion is common in stars such as the sun."
+  },
+  {
+    "question": "In a nuclear power plant, the component that slows down fast neutrons is called:",
+    "options": [
+      "Control rods",
+      "Neutron moderator",
+      "Coolant",
+      "Fuel rods"
+    ],
+    "correct": 1,
+    "explanation": "Neutron moderator: slows down fast neutrons into thermal neutrons."
+  },
+  {
+    "question": "Control rods in a nuclear reactor are made of materials that:",
+    "options": [
+      "Absorb neutrons",
+      "Slow down neutrons",
+      "Generate steam",
+      "Produce electricity directly"
+    ],
+    "correct": 0,
+    "explanation": "Control rods absorb neutrons."
+  },
+  {
+    "question": "The front end of the nuclear fuel cycle includes:",
+    "options": [
+      "Reprocessing and waste management",
+      "Survey, exploration, mining, milling, enrichment",
+      "Spent fuel disposal",
+      "Vitrification"
+    ],
+    "correct": 1,
+    "explanation": "Front end (before generation): Survey and exploration, Mining and milling, etc."
+  },
+  {
+    "question": "Survey and exploration for uranium in India is done by:",
+    "options": [
+      "UCIL",
+      "BARC",
+      "BHAVINI",
+      "Atomic Minerals Directorate (AMD)"
+    ],
+    "correct": 3,
+    "explanation": "Done by the Atomic Minerals Directorate (AMD), Hyderabad."
+  },
+  {
+    "question": "Mining and milling of uranium ore is done by:",
+    "options": [
+      "AMD",
+      "Uranium Corporation of India Ltd. (UCIL)",
+      "BARC",
+      "NPCIL"
+    ],
+    "correct": 1,
+    "explanation": "Mining and milling of uranium ore is done by UCIL."
+  },
+  {
+    "question": "India and IAEA have a safeguards agreement primarily for:",
+    "options": [
+      "All nuclear facilities",
+      "Military facilities",
+      "Civilian nuclear facilities",
+      "Fusion research"
+    ],
+    "correct": 2,
+    "explanation": "India has a dedicated safeguards agreement with the IAEA for civilian nuclear facilities."
+  },
+  {
+    "question": "Boiling Water Reactor (BWR) uses which as both coolant and moderator?",
+    "options": [
+      "Light water",
+      "Heavy water",
+      "Liquid sodium",
+      "Graphite"
+    ],
+    "correct": 0,
+    "explanation": "Uses light (normal) water as both coolant and moderator."
+  },
+  {
+    "question": "Pressurised Heavy Water Reactor (PHWR) is widely used in India because it can use:",
+    "options": [
+      "Enriched uranium only",
+      "Natural uranium",
+      "Thorium exclusively",
+      "Plutonium only"
+    ],
+    "correct": 1,
+    "explanation": "No enrichment needed: can use natural uranium."
+  },
+  {
+    "question": "Fast Breeder Reactor (FBR) uses which coolant?",
+    "options": [
+      "Light water",
+      "Heavy water",
+      "Graphite",
+      "Liquid sodium"
+    ],
+    "correct": 3,
+    "explanation": "Uses liquid sodium as coolant."
+  },
+  {
+    "question": "India's Prototype Fast Breeder Reactor (PFBR) is located at:",
+    "options": [
+      "Tarapur",
+      "Kalpakkam",
+      "Kudankulam",
+      "Kaiga"
+    ],
+    "correct": 1,
+    "explanation": "India's first 500 MWe indigenous Prototype Fast Breeder Reactor (PFBR) in Kalpakkam."
+  },
+  {
+    "question": "The three-stage nuclear programme was articulated by:",
+    "options": [
+      "Vikram Sarabhai",
+      "APJ Abdul Kalam",
+      "C.V. Raman",
+      "Homi J. Bhabha"
+    ],
+    "correct": 3,
+    "explanation": "The three-stage programme was articulated by Homi J. Bhabha in 1954."
+  },
+  {
+    "question": "In Stage 1 of India's nuclear programme, the output includes:",
+    "options": [
+      "Electricity + Pu-239",
+      "U-233",
+      "Thorium utilization",
+      "Fusion energy"
+    ],
+    "correct": 0,
+    "explanation": "Output: electricity + Pu-239 (used for Stage 2)."
+  },
+  {
+    "question": "Advanced Heavy Water Reactor (AHWR) is designed for utilisation of:",
+    "options": [
+      "Uranium-235",
+      "Plutonium only",
+      "Natural gas",
+      "Thorium"
+    ],
+    "correct": 3,
+    "explanation": "Indian design aimed at using the thorium fuel cycle."
+  },
+  {
+    "question": "ITER is located in:",
+    "options": [
+      "India",
+      "China",
+      "France",
+      "UK"
+    ],
+    "correct": 2,
+    "explanation": "ITER (International Thermonuclear Experimental Reactor), France."
+  },
+  {
+    "question": "India's key fusion R&D hub is the:",
+    "options": [
+      "BARC",
+      "Institute for Plasma Research (IPR), Gandhinagar",
+      "IGCAR",
+      "BHAVINI"
+    ],
+    "correct": 1,
+    "explanation": "India's key fusion R&D hub is the Institute for Plasma Research (IPR), Gandhinagar."
+  },
+  {
+    "question": "Small Modular Reactors (SMRs) have power capacity up to:",
+    "options": [
+      "100 MW(e)",
+      "700 MW(e)",
+      "1000 MW(e)",
+      "300 MW(e)"
+    ],
+    "correct": 3,
+    "explanation": "SMRs ... have a power capacity of up to 300 MW(e) per unit."
+  },
+  {
+    "question": "Bharat Small Modular Reactor (BSMR-200) is a:",
+    "options": [
+      "Boiling Water Reactor",
+      "Pressurised Heavy Water Reactor",
+      "Fast Breeder Reactor",
+      "Fusion reactor"
+    ],
+    "correct": 1,
+    "explanation": "The flagship model, BSMR-200, is a 200 MWe Pressurised Heavy Water Reactor (PWR)."
+  },
+  {
+    "question": "Biofuels are produced from:",
+    "options": [
+      "Organic matter in a short period of time",
+      "Fossil fuels",
+      "Nuclear fission",
+      "Solar panels"
+    ],
+    "correct": 0,
+    "explanation": "Any hydrocarbon fuel ... that is produced from an organic matter ... in a short period of time."
+  },
+  {
+    "question": "First Generation Biofuels are produced directly from:",
+    "options": [
+      "Non-food crops",
+      "Food crops",
+      "Algae",
+      "Municipal waste"
+    ],
+    "correct": 1,
+    "explanation": "The first-generation biofuels are produced directly from food crops."
+  },
+  {
+    "question": "Third Generation Biofuels primarily use:",
+    "options": [
+      "Algal biomass",
+      "Food crops",
+      "Non-food biomass",
+      "Chemical processing"
+    ],
+    "correct": 0,
+    "explanation": "The Third Generation of biofuels takes advantage of specially engineered energy crops such as algae."
+  },
+  {
+    "question": "Fourth Generation Biofuels aim to be:",
+    "options": [
+      "Carbon neutral",
+      "Carbon negative",
+      "High emission",
+      "Fossil fuel equivalent"
+    ],
+    "correct": 1,
+    "explanation": "This carbon capture makes 4th generation biofuel production carbon negative."
+  },
+  {
+    "question": "National Policy on Biofuels was originally made in:",
+    "options": [
+      "2018",
+      "2022",
+      "2009",
+      "2014"
+    ],
+    "correct": 2,
+    "explanation": "revised version of the National Policy on Biofuels made ... during the year 2009."
+  },
+  {
+    "question": "The target for ethanol blending in petrol was advanced to:",
+    "options": [
+      "2025-26",
+      "2030",
+      "2035",
+      "2027"
+    ],
+    "correct": 0,
+    "explanation": "Advance the target of 20% ethanol blending in petrol to Ethanol Supply Year (ESY) 2025-26."
+  },
+  {
+    "question": "Bioethanol is mainly produced from:",
+    "options": [
+      "Petroleum",
+      "Starch and sugar crops",
+      "Heavy water",
+      "Uranium"
+    ],
+    "correct": 1,
+    "explanation": "Bioethanol ... is an alcohol produced from starch and sugar crops."
+  },
+  {
+    "question": "Bamboo-based bioethanol plant falls under which generation?",
+    "options": [
+      "2G",
+      "1G",
+      "3G",
+      "4G"
+    ],
+    "correct": 0,
+    "explanation": "Bamboo ... falls under 2G (second-generation) ethanol."
+  },
+  {
+    "question": "Biodiesel is produced by reacting vegetable oils with:",
+    "options": [
+      "Water",
+      "Sodium",
+      "Alcohol (usually methanol)",
+      "Hydrogen"
+    ],
+    "correct": 2,
+    "explanation": "fats in the vegetable oil ... are reacted with alcohol, usually methanol."
+  },
+  {
+    "question": "Used Cooking Oil (UCO) based biodiesel helps prevent which health issues by removing reused oil from the food chain?",
+    "options": [
+      "Hypertension, obesity, cancer, etc.",
+      "Only obesity",
+      "Only diabetes",
+      "Respiratory diseases"
+    ],
+    "correct": 0,
+    "explanation": "Prevent people from serious ailments such as hypertension, obesity, atherosclerosis, Cancer..."
+  },
+  {
+    "question": "RUCO project is associated with:",
+    "options": [
+      "Renewable Uranium Conversion",
+      "Rural Urban Co-generation",
+      "Repurpose Used Cooking Oil",
+      "Reactor Upgrade Core Optimisation"
+    ],
+    "correct": 2,
+    "explanation": "‘Repurpose Used Cooking Oil (RUCO) project’."
+  },
+  {
+    "question": "Bio-Jet fuel technology from CSIR-IIP has been approved for use in:",
+    "options": [
+      "Civilian aircraft only",
+      "Military aircraft of the Indian Air Force",
+      "Road transport",
+      "Nuclear plants"
+    ],
+    "correct": 1,
+    "explanation": "formally approved for use on military aircraft of the Indian Air Force."
+  },
+  {
+    "question": "National Bioenergy Programme includes which sub-scheme for family-sized biogas plants?",
+    "options": [
+      "Waste to Energy Programme",
+      "Biomass Programme",
+      "SATAT",
+      "Biogas Programme"
+    ],
+    "correct": 3,
+    "explanation": "Biogas Programme to support the setting up of family and medium size Biogas in rural areas."
+  },
+  {
+    "question": "SAMARTH Mission is related to:",
+    "options": [
+      "Solar energy",
+      "Use of Biomass in coal-based thermal Power Plants",
+      "Nuclear fusion",
+      "EPR for plastics"
+    ],
+    "correct": 1,
+    "explanation": "National Mission on Use of Biomass in coal-based thermal Power Plants."
+  },
+  {
+    "question": "Compressed Bio-Gas (CBG) is produced from:",
+    "options": [
+      "Waste/biomass sources like agricultural residue, cattle dung",
+      "Fossil natural gas",
+      "Nuclear waste",
+      "Solar thermal"
+    ],
+    "correct": 0,
+    "explanation": "CBG is the compressed and purified biogas produced from waste/biomass sources..."
+  },
+  {
+    "question": "SATAT initiative aims to set up plants for:",
+    "options": [
+      "Solar panels",
+      "Compressed Bio-Gas (CBG)",
+      "Nuclear SMRs",
+      "Green Bonds"
+    ],
+    "correct": 1,
+    "explanation": "The initiative aims to set up Compressed Bio-Gas (CBG) production plants..."
+  },
+  {
+    "question": "Photovoltaic (PV) Solar Energy converts sunlight directly into:",
+    "options": [
+      "Heat",
+      "Chemical energy",
+      "Mechanical energy",
+      "Electricity"
+    ],
+    "correct": 3,
+    "explanation": "Converts sunlight directly into electricity using solar panels."
+  },
+  {
+    "question": "In a solar PV system, the inverter's function is to convert:",
+    "options": [
+      "AC to DC",
+      "DC to AC",
+      "Heat to electricity",
+      "Light to heat"
+    ],
+    "correct": 1,
+    "explanation": "Inverter: Converts DC → AC."
+  },
+  {
+    "question": "Monocrystalline PV modules are known for:",
+    "options": [
+      "Lower efficiency",
+      "Cheapest cost only",
+      "Use in fusion reactors",
+      "Higher efficiency and better performance"
+    ],
+    "correct": 3,
+    "explanation": "Monocrystalline PV Modules: Made from single-crystal silicon; generally higher efficiency and better..."
+  },
+  {
+    "question": "Which of the following is a key feature of circular economy as per the document?",
+    "options": [
+      "Linear take-make-dispose",
+      "Minimize waste and reduce virgin resource reliance",
+      "Increase single-use plastics",
+      "Focus only on disposal"
+    ],
+    "correct": 1,
+    "explanation": "The Circular Economy Triad: MINIMIZE WASTE, REDUCE VIRGIN RESOURCE RELIANCE, RECOVER VALUABLE MATERIALS."
+  },
+  {
+    "question": "Greenium in Sovereign Green Bond markets in India has been:",
+    "options": [
+      "Modest and intermittent",
+      "Very high and stable",
+      "Negative",
+      "Absent"
+    ],
+    "correct": 0,
+    "explanation": "in India, it has been modest and intermittent (ranging from 0-6 basis points)."
+  },
+  {
+    "question": "Vadodara raised Municipal Green Bonds for:",
+    "options": [
+      "Solar plant",
+      "Waste management only",
+      "Coastal protection",
+      "Water treatment"
+    ],
+    "correct": 3,
+    "explanation": "Vadodara raised ₹100 crore for water treatment."
+  },
+  {
+    "question": "RBI's Green Deposit Framework aims to:",
+    "options": [
+      "Issue green bonds",
+      "Channelize savings into sustainable investments",
+      "Ban SUPs",
+      "Promote fission only"
+    ],
+    "correct": 1,
+    "explanation": "optimizes the flow of credit to green activities and projects. It channelizes both institutional and household savings into sustainable investments."
+  },
+  {
+    "question": "GLOF Mitigation Programme is under:",
+    "options": [
+      "National Bioenergy Programme",
+      "EPR",
+      "SATAT",
+      "NDMF"
+    ],
+    "correct": 3,
+    "explanation": "Glacial Lake Outburst Flood (GLOF) Mitigation Programme has been recently approved under the NDMF."
+  },
+  {
+    "question": "Nuclear waste management in India is done by:",
+    "options": [
+      "BARC",
+      "AMD",
+      "UCIL",
+      "BHAVINI"
+    ],
+    "correct": 0,
+    "explanation": "Nuclear waste management: Done by BARC."
+  },
+  {
+    "question": "Enrichment and reprocessing (ENR) are considered sensitive because they are:",
+    "options": [
+      "Only for peaceful use",
+      "Dual-use technologies",
+      "Cheap processes",
+      "Renewable only"
+    ],
+    "correct": 1,
+    "explanation": "ENR technologies can produce or separate weapons-usable nuclear material... dual-use."
+  },
+  {
+    "question": "IAEA was established in:",
+    "options": [
+      "1957",
+      "1945",
+      "1962",
+      "1970"
+    ],
+    "correct": 0,
+    "explanation": "Established: 1957, from the “Atoms for Peace” initiative."
+  },
+  {
+    "question": "Fukushima Daiichi used which type of reactors?",
+    "options": [
+      "PHWR",
+      "FBR",
+      "AHWR",
+      "BWR"
+    ],
+    "correct": 3,
+    "explanation": "Example: Fukushima Daiichi used BWRs."
+  },
+  {
+    "question": "In PHWR, primary coolant is:",
+    "options": [
+      "Light water",
+      "Liquid sodium",
+      "Heavy water",
+      "Molten salt"
+    ],
+    "correct": 2,
+    "explanation": "Uses heavy water (D₂O) as moderator and primary coolant."
+  },
+  {
+    "question": "India has about what percentage of global Thorium reserves?",
+    "options": [
+      "10%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correct": 1,
+    "explanation": "India has about ~25% of global Thorium reserves."
+  },
+  {
+    "question": "SST-2 is proposed by India for:",
+    "options": [
+      "Fission",
+      "Biofuel",
+      "Fusion research",
+      "Solar PV"
+    ],
+    "correct": 2,
+    "explanation": "Steady State Superconducting Tokamak-2 (SST-2) ... fusion reactor."
+  },
+  {
+    "question": "Microreactors have power capacity of:",
+    "options": [
+      "Up to 300 MW(e)",
+      "700+ MW(e)",
+      "1000 MW(e)",
+      "Fewer than 10 MW(e)"
+    ],
+    "correct": 3,
+    "explanation": "Microreactors: Fewer than 10 MW (e)."
+  },
+  {
+    "question": "BSMR is developed primarily by:",
+    "options": [
+      "IREDA and MNRE",
+      "BARC and NPCIL",
+      "BHAVINI and IGCAR",
+      "CSIR and TERI"
+    ],
+    "correct": 1,
+    "explanation": "designed and developed indigenously by India, primarily through the Bhabha Atomic Research Centre (BARC) and Nuclear Power Corporation of India Limited (NPCIL)."
+  },
+  {
+    "question": "Second Generation Biofuels are produced from:",
+    "options": [
+      "Food crops",
+      "Algae only",
+      "Fossil sources",
+      "Non-food crops and waste"
+    ],
+    "correct": 3,
+    "explanation": "produced from non-food crops such as wood, organic waste..."
+  },
+  {
+    "question": "PM-JIVAN Yojana is related to:",
+    "options": [
+      "Nuclear SMRs",
+      "Green Bonds",
+      "2G Bio-Refineries",
+      "SUP ban"
+    ],
+    "correct": 2,
+    "explanation": "Under PM-JIVAN ... 12 commercial plants ... of Second Generation (2G) Bio-Refineries."
+  },
+  {
+    "question": "Ethanol 100 is a blend containing primarily:",
+    "options": [
+      "Pure biodiesel",
+      "BioCNG",
+      "UCO diesel",
+      "92-94% ethanol"
+    ],
+    "correct": 3,
+    "explanation": "Ethanol 100 is a blend of 92-94% ethanol..."
+  },
+  {
+    "question": "Cassava (Tapioca) is identified as raw material for bioethanol by:",
+    "options": [
+      "CSIR-IIP",
+      "BARC",
+      "ICAR-CTCRI",
+      "IPR"
+    ],
+    "correct": 2,
+    "explanation": "ICAR-Central Tuber Crops Research Institute (CTCRI) has identified Cassava..."
+  },
+  {
+    "question": "Biobutanol has higher energy density than:",
+    "options": [
+      "Gasoline",
+      "Biodiesel",
+      "Coal",
+      "Ethanol"
+    ],
+    "correct": 3,
+    "explanation": "offers roughly 25% higher energy density than ethanol."
+  },
+  {
+    "question": "Jatropha plant is associated with:",
+    "options": [
+      "Bioethanol",
+      "Biodiesel",
+      "BioCNG",
+      "Solar PV"
+    ],
+    "correct": 1,
+    "explanation": "Biofuel development in India centres around the cultivation of Jatropha plant seeds..."
+  },
+  {
+    "question": "The Waste to Energy Programme excludes:",
+    "options": [
+      "MSW to Power projects",
+      "Biogas plants",
+      "BioCNG",
+      "Pellets manufacturing"
+    ],
+    "correct": 0,
+    "explanation": "excluding MSW to Power projects."
+  },
+  {
+    "question": "Biomass briquettes are used as alternative to:",
+    "options": [
+      "Nuclear fuel",
+      "Coal and firewood",
+      "Solar panels",
+      "Biodiesel"
+    ],
+    "correct": 1,
+    "explanation": "eco-friendly alternative to coal and firewood."
+  },
+  {
+    "question": "Biogas Programme provides which byproduct as organic fertilizer?",
+    "options": [
+      "Bioslurry",
+      "Ash",
+      "Glycerine",
+      "U-233"
+    ],
+    "correct": 0,
+    "explanation": "Produces bioslurry, a high-quality organic fertilizer."
+  },
+  {
+    "question": "India's first cooperative multi-feed CBG plant is in:",
+    "options": [
+      "Gujarat",
+      "Tamil Nadu",
+      "Maharashtra",
+      "Assam"
+    ],
+    "correct": 2,
+    "explanation": "inaugurated in Maharashtra."
+  },
+  {
+    "question": "Which component in solar PV system is optional for backup?",
+    "options": [
+      "Battery storage",
+      "Inverter",
+      "Mounting structure",
+      "PV modules"
+    ],
+    "correct": 0,
+    "explanation": "Battery storage (optional): Stores DC power for backup..."
+  },
+  {
+    "question": "The document mentions that nuclear fusion waste is mainly:",
+    "options": [
+      "Highly radioactive fission products",
+      "Plutonium",
+      "U-238",
+      "Helium and some activation products"
+    ],
+    "correct": 3,
+    "explanation": "mainly helium + some radioactive activation of reactor materials."
+  },
+  {
+    "question": "Major uranium mining site in India mentioned is:",
+    "options": [
+      "Jaduguda",
+      "Tummalapalle",
+      "Kalpakkam",
+      "Tarapur"
+    ],
+    "correct": 0,
+    "explanation": "Major site: Jaduguda, East Singhbhum (Jharkhand)."
+  },
+  {
+    "question": "Policy-making bodies of IAEA include:",
+    "options": [
+      "Only Secretariat",
+      "NPT only",
+      "Board of Governors and Annual General Conference",
+      "UN Security Council"
+    ],
+    "correct": 2,
+    "explanation": "The Board of Governors and Annual General Conference of Member States are the key policy-making organs."
+  },
+  {
+    "question": "In FBR, U-238 is converted to:",
+    "options": [
+      "U-235",
+      "Th-232",
+      "U-233 directly",
+      "Pu-239"
+    ],
+    "correct": 3,
+    "explanation": "converting U-238 into Pu-239."
+  },
+  {
+    "question": "AHWR uses which as coolant?",
+    "options": [
+      "Light water",
+      "Heavy water",
+      "Liquid sodium",
+      "Graphite"
+    ],
+    "correct": 0,
+    "explanation": "Light water (H₂O) as coolant."
+  },
+  {
+    "question": "E20 refers to:",
+    "options": [
+      "20% biodiesel in diesel",
+      "20% bioCNG",
+      "EPR target",
+      "20% ethanol in petrol"
+    ],
+    "correct": 3,
+    "explanation": "20% ethanol blending in petrol (also called as E20)."
+  },
+  {
+    "question": "Superhydrophobic catalyst is used in production of:",
+    "options": [
+      "Biodiesel",
+      "Bioethanol",
+      "Nuclear fuel",
+      "Solar panels"
+    ],
+    "correct": 0,
+    "explanation": "a new Superhydrophobic ... catalyst ... to reduce the cost of producing biodiesel."
+  },
+  {
+    "question": "The National Biofuel Coordination Committee is chaired by:",
+    "options": [
+      "Minister of Environment",
+      "Minister of Petroleum and Natural Gas",
+      "Minister of New and Renewable Energy",
+      "Prime Minister"
+    ],
+    "correct": 1,
+    "explanation": "chaired by the Minister of Petroleum and Natural Gas."
+  },
+  {
+    "question": "Which reactor type allows online refueling?",
+    "options": [
+      "BWR",
+      "FBR only",
+      "AHWR only",
+      "Many PHWRs"
+    ],
+    "correct": 3,
+    "explanation": "Online refueling is possible in many PHWRs."
+  },
+  {
+    "question": "Lawrence Livermore National Laboratory achieved net energy gain in:",
+    "options": [
+      "Fission",
+      "Fusion experiment using lasers",
+      "Solar PV",
+      "Biofuel"
+    ],
+    "correct": 1,
+    "explanation": "In a fusion experiment using lasers... achieved a net energy gain."
+  },
+  {
+    "question": "Briquetting process involves:",
+    "options": [
+      "Densification of biomass",
+      "Enrichment of uranium",
+      "Vitrification of waste",
+      "Moderation of neutrons"
+    ],
+    "correct": 0,
+    "explanation": "Densification of biomass to improve its characteristics..."
+  },
+  {
+    "question": "Which state is a major producer of Cassava?",
+    "options": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "correct": 1,
+    "explanation": "Major production is from Tamil Nadu, followed by Kerala."
+  },
+  {
+    "question": "Passive safety is a feature of:",
+    "options": [
+      "BSMR",
+      "Traditional large reactors only",
+      "BWR only",
+      "Fusion reactors"
+    ],
+    "correct": 0,
+    "explanation": "BSMR includes systems that can maintain safety functions without operator intervention..."
+  },
+  {
+    "question": "The document notes that biofuels can be blended to reduce emissions in:",
+    "options": [
+      "Nuclear sector",
+      "Agriculture only",
+      "Disaster management",
+      "Transport sector"
+    ],
+    "correct": 3,
+    "explanation": "effective way of reducing CO2 emissions in the transport sector."
+  }
+]

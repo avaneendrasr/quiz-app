@@ -1,0 +1,338 @@
+/* ================= GLOBAL RESET ================= */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* ================= THEME VARIABLES ================= */
+:root {
+  --bg: #eef2f7;
+  --card: #ffffff;
+  --text: #222;
+  --subtle: #f4f7fb;
+  --border: #ccc;
+}
+
+body.dark {
+  --bg: #1e1e2f;
+  --card: #2a2a3c;
+  --text: #eee;
+  --subtle: #2f2f44;
+  --border: #444;
+}
+
+/* ================= BASE LAYOUT ================= */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  height: 100vh;
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* ================= MOBILE MENU BUTTON ================= */
+#menuBtn {
+  display: none;
+  position: fixed;
+  top: 12px;
+  left: 12px;
+  z-index: 1000;
+  padding: 10px 14px;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  background: #333;
+  color: white;
+  cursor: pointer;
+}
+
+/* ================= LEFT SIDEBAR ================= */
+#left {
+  width: 260px;
+  background: linear-gradient(180deg, #2d2f45, #1f2133);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  transition: 0.3s;
+}
+
+/* ================= CONTROLS ================= */
+#controls {
+  padding: 15px;
+  border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+
+/* ===== SELECT + FILTER (UNIFIED STYLE) ===== */
+#controls select,
+#filterBox {
+  width: 100%;
+  padding: clamp(12px, 2vw, 18px);
+  font-size: clamp(16px, 2.2vw, 20px);
+  font-weight: 600;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 10px;
+  background: #f5f7fb;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+/* ===== FILTER BOX (MEDIUM SIZE FIX) ===== */
+#filterBox {
+  font-size: clamp(15px, 2vw, 18px);
+  padding: clamp(10px, 2vw, 14px);
+  font-weight: 600;
+  border: 2px solid #4a90e2;
+}
+
+/* ===== DARK MODE ===== */
+body.dark #controls select,
+body.dark #filterBox {
+  background: #3a3a55;
+  color: white;
+}
+
+/* ===== HOVER ===== */
+#controls select:hover,
+#filterBox:hover {
+  transform: scale(1.02);
+}
+
+/* ================= BUTTONS ================= */
+#controls button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 6px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+  background: #3b3e5a;
+  color: white;
+}
+
+#controls button:hover {
+  background: #50537a;
+}
+
+/* ================= PALETTE ================= */
+#palette {
+  flex: 1;
+  overflow-y: auto;
+  padding: 12px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 8px;
+  align-content: start;
+}
+
+.pbtn {
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 13px;
+  cursor: pointer;
+  color: white;
+}
+
+/* COLORS */
+.gray { background:#5c5f7a; }
+.blue { background:#4a90e2; }
+.green { background:#27ae60; }
+.red { background:#e74c3c; }
+
+/* ================= RIGHT PANEL ================= */
+#right {
+  flex: 1;
+  padding: 20px;
+}
+
+/* ================= CARD ================= */
+.card {
+  width: 100%;
+  height: 100%;
+  background: var(--card);
+  border-radius: 12px;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ================= CONTENT ================= */
+.content {
+  flex: 1;
+  overflow-y: auto;
+}
+
+/* ================= QUESTION ================= */
+.question {
+  font-size: clamp(22px, 3vw, 28px);
+  font-weight: 600;
+  margin-bottom: 18px;
+  line-height: 1.5;
+}
+
+/* ================= OPTIONS ================= */
+.option {
+  padding: 16px;
+  margin: 12px 0;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  cursor: pointer;
+  font-size: clamp(16px, 2.2vw, 20px);
+  transition: 0.2s;
+}
+
+.option:hover {
+  background: #eaf2ff;
+}
+
+body.dark .option:hover {
+  background: #3a3a55;
+}
+
+.correct {
+  background: #58d68d !important;
+  color: white;
+}
+
+.wrong {
+  background: #ec7063 !important;
+  color: white;
+}
+
+/* ================= EXPLANATION ================= */
+#explanation {
+  margin-top: 14px;
+  padding: 16px;
+  border-radius: 10px;
+  background: var(--subtle);
+  font-size: clamp(15px, 2vw, 18px);
+  line-height: 1.6;
+}
+
+/* ================= SCORE ================= */
+#score {
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* ================= BUTTON BAR ================= */
+#buttonBar {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+#buttonBar button,
+#buttonBar select {
+  flex: 1;
+  height: 50px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  background: #e4e7ec;
+}
+
+body.dark #buttonBar button,
+body.dark #buttonBar select {
+  background: #3a3a55;
+  color: white;
+}
+
+/* ================= SUBMIT BUTTON ================= */
+.submit-btn {
+  margin-top: 10px;
+  height: 54px;
+  font-size: 18px;
+  background: #111;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.submit-btn:hover {
+  background: #000;
+}
+
+/* ================= REVIEW PANEL ================= */
+#reviewPanel {
+  overflow-y: auto;
+  padding: 10px;
+}
+
+#reviewPanel h3 {
+  margin-bottom: 10px;
+}
+
+#reviewPanel select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+#reviewList {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+/* ================= TABLET ================= */
+@media(max-width:900px){
+  .question { font-size: 22px; }
+  .option { font-size: 16px; }
+}
+
+/* ================= MOBILE ================= */
+@media(max-width:768px){
+
+  body {
+    flex-direction: column;
+  }
+
+  #menuBtn {
+    display: block;
+  }
+
+  #left {
+    position: fixed;
+    left: -260px;
+    top: 0;
+    height: 100%;
+    z-index: 999;
+  }
+
+  #left.active {
+    left: 0;
+  }
+
+  #controls {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #controls button, 
+  #controls select {
+    width: 100%;
+  }
+
+  #palette {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  #right {
+    padding: 15px;
+  }
+
+  #buttonBar {
+    flex-wrap: wrap;
+  }
+
+  #buttonBar button,
+  #buttonBar select {
+    flex: 100%;
+  }
+}
