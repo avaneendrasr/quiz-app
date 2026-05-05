@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <meta charset="UTF-8"> <!-- REQUIRED for emojis -->
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>🧠 Quiz Pro</title>
 
@@ -11,85 +11,73 @@
 
 <body>
 
-    <script id="subjects-data" type="application/json">
+<script id="subjects-data" type="application/json">
 {{ subjects | tojson }}
 </script>
 
-    <!-- MENU -->
-    <button id="menuBtn" onclick="toggleMenu()">☰</button>
+<button id="menuBtn" onclick="toggleMenu()">☰</button>
 
-    <!-- LEFT PANEL -->
-    <div id="left">
-        <div id="controls">
+<div id="left">
+    <div id="controls">
 
-            <!-- SUBJECT -->
-            <select id="subjectSelect" onchange="loadFiles()">
-                <option value="">📚 Select Subject</option>
-                {% for subject in subjects %}
-                <option value="{{subject}}">📘 {{subject.capitalize()}}</option>
-                {% endfor %}
-            </select>
+        <select id="subjectSelect" onchange="loadFiles()">
+            <option value="">📚 Select Subject</option>
+            {% for subject in subjects %}
+            <option value="{{subject}}">📘 {{subject.capitalize()}}</option>
+            {% endfor %}
+        </select>
 
-            <!-- TEST -->
-            <select id="fileSelect">
-                <option value="">📝 Select Test</option>
-            </select>
+        <select id="fileSelect">
+            <option value="">📝 Select Test</option>
+        </select>
 
-            <!-- ACTION BUTTONS -->
-            <button onclick="start()">▶️ Start</button>
-            <button onclick="shuffle()">🔀 Shuffle</button>
-            <button onclick="toggleFullscreen()">⛶ Fullscreen</button>
-            <button onclick="toggleDarkMode()">🌙 Dark Mode</button>
+        <button onclick="start()">▶️ Start</button>
+        <button onclick="shuffle()">🔀 Shuffle</button>
+        <button onclick="toggleFullscreen()">⛶ Fullscreen</button>
+        <button onclick="toggleDarkMode()">🌙 Dark Mode</button>
 
-        </div>
-
-        <!-- QUESTION PALETTE -->
-        <div id="palette"></div>
     </div>
 
-    <!-- RIGHT PANEL -->
-    <div id="right">
-        <div class="card">
+    <div id="palette"></div>
+</div>
 
-            <!-- FILTER (USED BY JS) -->
-            <select id="filterBox" class="filterBox" style="display:none;" onchange="applyFilter(this.value)">
-                <option value="all">📋 All Questions</option>
-                <option value="correct">✅ Correct</option>
-                <option value="wrong">❌ Incorrect</option>
-                <option value="skipped">⏭ Skipped</option>
-            </select>
+<div id="right">
+    <div class="card">
 
-            <!-- CONTENT -->
-            <div class="content">
-                <div id="questionBox"></div>
-                <div id="optionsBox"></div>
-                <div id="explanation"></div>
-                <div id="score"></div>
-            </div>
+        <select id="filterBox" style="display:none;" onchange="applyFilter(this.value)">
+            <option value="all">📋 All Questions</option>
+            <option value="correct">✅ Correct</option>
+            <option value="wrong">❌ Incorrect</option>
+            <option value="skipped">⏭ Skipped</option>
+        </select>
 
-            <!-- NAVIGATION -->
-            <div id="buttonBar">
-                <button onclick="prev()">⬅️ Prev</button>
-                <button onclick="next()">➡️ Next</button>
-                <button onclick="copyQ()">📋 Copy</button>
-
-                <!-- AI SELECT -->
-                <select id="aiSelect">
-                    <option value="">🤖 Ask AI</option>
-                    <option value="google">🔎 Google</option>
-                    <option value="chatgpt">💬 ChatGPT</option>
-                    <option value="gemini">✨ Gemini</option>
-                </select>
-            </div>
-
-            <!-- SUBMIT -->
-            <button id="submitBtn" class="submit-btn" onclick="submitQuiz()">✅ Submit Test</button>
-
+        <div class="content">
+            <div id="questionBox"></div>
+            <div id="optionsBox"></div>
+            <div id="explanation"></div>
         </div>
-    </div>
 
-    <script src="{{ url_for('static', filename='app.js') }}"></script>
+        <div id="score"></div>
+
+        <div id="buttonBar">
+            <button onclick="prev()">⬅️ Prev</button>
+            <button onclick="next()">➡️ Next</button>
+            <button onclick="copyQ()">📋 Copy</button>
+
+            <select id="aiSelect">
+                <option value="">🤖 Ask AI</option>
+                <option value="google">🔎 Google</option>
+                <option value="chatgpt">💬 ChatGPT</option>
+                <option value="gemini">✨ Gemini</option>
+            </select>
+        </div>
+
+        <button id="submitBtn" class="submit-btn" onclick="submitQuiz()">✅ Submit Test</button>
+
+    </div>
+</div>
+
+<script src="{{ url_for('static', filename='app.js') }}"></script>
 
 </body>
-
 </html>

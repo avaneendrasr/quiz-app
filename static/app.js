@@ -38,8 +38,15 @@ function loadFiles(){
 
 /* ================= DARK MODE FIX ================= */
 window.onload = function(){
+
+  // DARK MODE
   if(localStorage.getItem("theme")==="dark"){
     document.body.classList.add("dark");
+  }
+
+  // ✅ OPEN SIDEBAR BY DEFAULT ON MOBILE
+  if (window.innerWidth <= 768) {
+    document.getElementById("left").classList.add("active");
   }
 };
 
@@ -196,7 +203,8 @@ document.getElementById("aiSelect").addEventListener("change", async function ()
   let mode = this.value;
   if (!mode) return;
 
-  let q = questions[current];
+  let idx = reviewMode ? filteredIndexes[current] : current;
+  let q = questions[idx];
 
   let text = q.question + "\n\nOptions:\n";
   q.options.forEach((o, i) => {
@@ -323,12 +331,13 @@ function updatePalette(){
 }
 
 /* ================= MOBILE MENU ================= */
+/* ================= MOBILE MENU ================= */
 function toggleMenu() {
   let left = document.getElementById("left");
   left.classList.toggle("active");
 }
 
-/* ================= CLOSE MENU ON OUTSIDE CLICK ================= */
+/* CLOSE MENU ON OUTSIDE CLICK */
 document.addEventListener("click", function(e) {
   let left = document.getElementById("left");
   let btn = document.getElementById("menuBtn");

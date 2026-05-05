@@ -1,3 +1,8 @@
+html, body {
+  height: 100%;
+  overflow: hidden; /* 🔥 main fix */
+}
+
 /* ================= GLOBAL RESET ================= */
 * {
   box-sizing: border-box;
@@ -146,23 +151,34 @@ body.dark #filterBox {
 #right {
   flex: 1;
   padding: 20px;
+  height: 100vh;
+  overflow: hidden;
 }
 
 /* ================= CARD ================= */
 .card {
-  width: 100%;
   height: 100%;
-  background: var(--card);
-  border-radius: 12px;
-  padding: 25px;
   display: flex;
   flex-direction: column;
+  overflow: hidden;
 }
 
 /* ================= CONTENT ================= */
+/* ONLY SCROLLABLE AREA */
 .content {
   flex: 1;
   overflow-y: auto;
+  padding-right: 6px;
+  -webkit-overflow-scrolling: touch;
+}
+
+
+/* PREVENT OTHER ITEMS FROM SCROLLING */
+#score,
+#buttonBar,
+.submit-btn,
+#filterBox {
+  flex-shrink: 0;
 }
 
 /* ================= QUESTION ================= */
@@ -282,21 +298,32 @@ body.dark #buttonBar select {
 
 /* ================= TABLET ================= */
 @media(max-width:900px){
-  .question { font-size: 22px; }
-  .option { font-size: 16px; }
+
+  .question { 
+    font-size: 22px; 
+  }
+
+  .option { 
+    font-size: 16px; 
+  }
+
 }
+
 
 /* ================= MOBILE ================= */
 @media(max-width:768px){
 
+  /* ===== LAYOUT ===== */
   body {
     flex-direction: column;
   }
 
+  /* ===== MENU BUTTON ===== */
   #menuBtn {
     display: block;
   }
 
+  /* ===== SIDEBAR ===== */
   #left {
     position: fixed;
     left: -260px;
@@ -309,6 +336,7 @@ body.dark #buttonBar select {
     left: 0;
   }
 
+  /* ===== CONTROLS ===== */
   #controls {
     display: flex;
     flex-direction: column;
@@ -319,20 +347,47 @@ body.dark #buttonBar select {
     width: 100%;
   }
 
+  /* ===== PALETTE ===== */
   #palette {
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(4,1fr);
   }
 
+  /* ===== RIGHT PANEL ===== */
   #right {
+    height: 100vh;
+    overflow: hidden;
     padding: 15px;
   }
 
-  #buttonBar {
-    flex-wrap: wrap;
+  .card {
+    height: 100%;
   }
 
+  /* ===== SCROLLABLE CONTENT ===== */
+  .content {
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* ===== BUTTON BAR (PERFECT 2x2 GRID) ===== */
+  #buttonBar {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* exact 50-50 */
+    gap: 10px;
+  }
+
+  /* All buttons + select equal size */
   #buttonBar button,
   #buttonBar select {
-    flex: 100%;
+    width: 100%;
+    min-height: 48px;
+    font-weight: 600;
   }
+
+  /* Center AI text */
+  #aiSelect {
+    text-align: center;
+    text-align-last: center;
+  }
+
 }
