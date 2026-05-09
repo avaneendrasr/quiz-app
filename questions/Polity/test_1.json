@@ -1,0 +1,2047 @@
+[
+  {
+    "question": "The Regulating Act of 1773 is significant because it marked which of the following developments?",
+    "options": ["Beginning of parliamentary control over East India Company", "Foundation of bicameral legislature in India", "End of East India Company’s trade monopoly", "Introduction of dyarchy in provinces"],
+    "correct": 0,
+    "explanation": "The Regulating Act of 1773 was the first step taken by the British Government to control the affairs of the East India Company and laid the foundation of central administration in India."
+  },
+  {
+    "question": "Who was the first Governor-General of Bengal under the Regulating Act of 1773?",
+    "options": ["Lord Cornwallis", "Lord Warren Hastings", "Lord Wellesley", "Lord Dalhousie"],
+    "correct": 1,
+    "explanation": "The Regulating Act of 1773 designated the Governor of Bengal as the Governor-General of Bengal, and Lord Warren Hastings was the first to hold the position."
+  },
+  {
+    "question": "Which Act first established the Supreme Court at Calcutta?",
+    "options": ["Regulating Act of 1773", "Pitt’s India Act of 1784", "Charter Act of 1793", "Amending Act of 1781"],
+    "correct": 0,
+    "explanation": "The Regulating Act of 1773 provided for the establishment of a Supreme Court at Calcutta consisting of one Chief Justice and three other judges."
+  },
+  {
+    "question": "The Amending Act of 1781 was passed to rectify defects in which earlier Act?",
+    "options": ["Charter Act of 1813", "Regulating Act of 1773", "Pitt’s India Act of 1784", "Act of 1786"],
+    "correct": 1,
+    "explanation": "The Amending Act of 1781, also known as the Act of Settlement, was enacted to remove the defects of the Regulating Act of 1773."
+  },
+  {
+    "question": "What was the main objective of Pitt’s India Act of 1784?",
+    "options": ["Providing representation to Indians", "Establishing a system of double government", "Abolishing the East India Company", "Introducing open competition for civil services"],
+    "correct": 1,
+    "explanation": "Pitt’s India Act of 1784 created the Board of Control to supervise political affairs, thus establishing a system of double government."
+  },
+  {
+    "question": "The Act of 1786 was enacted to fulfill what demand of Lord Cornwallis?",
+    "options": ["Abolition of dual control", "Power to override his Council's decisions", "Creation of a Legislative Council", "Extension of trade monopoly"],
+    "correct": 1,
+    "explanation": "Lord Cornwallis demanded the power to override his Council's decisions in special cases and to be the Commander-in-Chief, leading to the Act of 1786."
+  },
+  {
+    "question": "Which Act for the first time asserted the sovereignty of the British Crown over the Company’s territories in India?",
+    "options": ["Charter Act of 1793", "Pitt’s India Act of 1784", "Charter Act of 1813", "Act of 1786"],
+    "correct": 2,
+    "explanation": "The Charter Act of 1813 asserted the British Crown’s sovereignty over the Company’s territories in India."
+  },
+  {
+    "question": "Which Act abolished the East India Company's trade monopoly in India except for tea and trade with China?",
+    "options": ["Charter Act of 1793", "Charter Act of 1813", "Charter Act of 1833", "Pitt’s India Act of 1784"],
+    "correct": 1,
+    "explanation": "The Charter Act of 1813 ended the Company’s monopoly over Indian trade but retained it for tea and trade with China."
+  },
+  {
+    "question": "The Charter Act of 1833 changed the designation of the Governor-General of Bengal to which new title?",
+    "options": ["Governor-General of India", "Viceroy of India", "Secretary of State", "Commissioner-General of India"],
+    "correct": 0,
+    "explanation": "The Charter Act of 1833 made the Governor-General of Bengal the Governor-General of India, empowering him over all British territories in India."
+  },
+  {
+    "question": "Which Act for the first time separated the legislative and executive functions of the Governor-General’s Council?",
+    "options": ["Charter Act of 1853", "Government of India Act 1858", "Indian Councils Act 1861", "Charter Act of 1833"],
+    "correct": 0,
+    "explanation": "The Charter Act of 1853 separated legislative and executive functions and introduced a legislative wing known as the Indian Legislative Council."
+  },
+  {
+    "question": "Under which Act did the British Crown assume direct control over India?",
+    "options": ["Charter Act of 1853", "Government of India Act of 1858", "Indian Councils Act of 1861", "Government of India Act of 1919"],
+    "correct": 1,
+    "explanation": "The Government of India Act of 1858 transferred the administration from the East India Company to the British Crown."
+  },
+  {
+    "question": "Who became the first Viceroy of India after the Government of India Act of 1858?",
+    "options": ["Lord Canning", "Lord Curzon", "Lord Dalhousie", "Lord Mountbatten"],
+    "correct": 0,
+    "explanation": "Lord Canning, the existing Governor-General, became the first Viceroy of India after the Act of 1858."
+  },
+  {
+    "question": "The Indian Councils Act of 1861 marked the beginning of which significant development?",
+    "options": ["Centralisation of power", "Representative institutions in India", "Introduction of dyarchy", "Abolition of double government"],
+    "correct": 1,
+    "explanation": "The Indian Councils Act of 1861 began the process of involving Indians in the law-making process, marking the start of representative institutions."
+  },
+  {
+    "question": "Which Act legalized the concept of separate electorates for Muslims?",
+    "options": ["Indian Councils Act of 1892", "Indian Councils Act of 1909", "Government of India Act of 1919", "Government of India Act of 1935"],
+    "correct": 1,
+    "explanation": "The Indian Councils Act of 1909 (Morley-Minto Reforms) introduced separate electorates for Muslims, thereby legalizing communal representation."
+  },
+  {
+    "question": "Who was the first Indian to join the Viceroy’s Executive Council as Law Member under the 1909 Act?",
+    "options": ["Satyendra Prasad Sinha", "Dr. B.R. Ambedkar", "Dadabhai Naoroji", "C. Rajagopalachari"],
+    "correct": 0,
+    "explanation": "Under the 1909 Act, Satyendra Prasad Sinha became the first Indian to join the Viceroy’s Executive Council as Law Member."
+  },
+  {
+    "question": "Which constitutional feature was introduced in India by the Government of India Act of 1919?",
+    "options": ["Dyarchy in provinces", "Bicameralism at the Centre", "Federal structure", "Responsible government at the Centre"],
+    "correct": 0,
+    "explanation": "The Government of India Act of 1919 introduced dyarchy in provincial governments, dividing subjects into transferred and reserved categories."
+  },
+  {
+    "question": "Under the Government of India Act of 1919, the term 'dyarchy' was derived from which language?",
+    "options": ["Latin", "French", "Greek", "Sanskrit"],
+    "correct": 2,
+    "explanation": "'Dyarchy' comes from the Greek word 'di-arche', meaning double rule, reflecting dual administration in provinces."
+  },
+  {
+    "question": "Which Act introduced bicameralism and direct elections for the first time in India?",
+    "options": ["Government of India Act of 1919", "Government of India Act of 1935", "Indian Councils Act of 1909", "Charter Act of 1853"],
+    "correct": 0,
+    "explanation": "The Government of India Act of 1919 introduced bicameralism and direct elections for the first time in India."
+  },
+  {
+    "question": "What was the purpose of the Simon Commission appointed in 1927?",
+    "options": ["To abolish dyarchy and review the 1919 Act", "To prepare the Indian Constitution", "To partition India", "To establish a Public Service Commission"],
+    "correct": 0,
+    "explanation": "The Simon Commission was appointed to report on the working of the 1919 Act and recommended the abolition of dyarchy and further reforms."
+  },
+  {
+    "question": "The Poona Pact of 1932 was an agreement between:",
+    "options": ["Mahatma Gandhi and Ramsay MacDonald", "Mahatma Gandhi and Dr. B.R. Ambedkar", "Indian National Congress and Muslim League", "British Government and INC"],
+    "correct": 1,
+    "explanation": "The Poona Pact was an agreement between Mahatma Gandhi and Dr. B.R. Ambedkar on the representation of the depressed classes."
+  },
+  {
+    "question": "Under the Government of India Act of 1935, which body was not established?",
+    "options": ["Federal Court", "Reserve Bank of India", "Planning Commission", "Public Service Commission"],
+    "correct": 2,
+    "explanation": "The 1935 Act established many institutions including the Federal Court and RBI, but the Planning Commission was not among them."
+  },
+  {
+    "question": "Which feature of the Government of India Act of 1935 later became part of the Indian Constitution?",
+    "options": ["Provincial Autonomy", "Hereditary Monarchy", "Feudal Princely States", "Unicameral Legislature"],
+    "correct": 0,
+    "explanation": "The introduction of provincial autonomy under the 1935 Act became an important constitutional feature adopted in the Indian Constitution."
+  },
+  {
+    "question": "How many lists divided powers between the Centre and Provinces under the Government of India Act of 1935?",
+    "options": ["Two Lists", "Three Lists", "Four Lists", "Five Lists"],
+    "correct": 1,
+    "explanation": "The Act of 1935 divided powers into three lists—Federal, Provincial, and Concurrent."
+  },
+  {
+    "question": "Which two new provinces were created under the Government of India Act of 1935?",
+    "options": ["Bengal and Bihar", "Orissa and Sind", "Punjab and Assam", "Madras and Bombay"],
+    "correct": 1,
+    "explanation": "The Government of India Act of 1935 created two new provinces: Orissa and Sind."
+  },
+  {
+    "question": "Who introduced the Indian Independence Bill in the British Parliament?",
+    "options": ["Lord Mountbatten", "Clement Atlee", "Ramsay MacDonald", "Lord Wavell"],
+    "correct": 1,
+    "explanation": "The British Prime Minister Clement Atlee declared that British rule would end by 1948 and introduced the Indian Independence Bill in July 1947."
+  },
+  {
+    "question": "The Indian Independence Act of 1947 provided for:",
+    "options": ["Creation of a single dominion", "Partition of India into two dominions", "Immediate republic status", "Continuation of British paramountcy"],
+    "correct": 1,
+    "explanation": "The Act provided for the partition of India and the creation of two independent dominions—India and Pakistan."
+  },
+  {
+    "question": "Who became the first Governor-General of independent India?",
+    "options": ["C. Rajagopalachari", "Jawaharlal Nehru", "Lord Mountbatten", "Dr. Rajendra Prasad"],
+    "correct": 2,
+    "explanation": "Lord Mountbatten became the first Governor-General of the Dominion of India in August 1947."
+  },
+  {
+    "question": "According to the Indian Independence Act of 1947, which title was dropped from the King of England’s royal titles?",
+    "options": ["Emperor of India", "Defender of Faith", "King of Burma", "Prince of Wales"],
+    "correct": 0,
+    "explanation": "The Act dropped the title of 'Emperor of India' from the royal titles of the King of England."
+  },
+  {
+    "question": "The boundaries between India and Pakistan were determined by a commission headed by:",
+    "options": ["Sir John Simon", "Radcliff", "Mountbatten", "Cripps"],
+    "correct": 1,
+    "explanation": "The Radcliff Commission determined the boundary line between the two dominions of India and Pakistan."
+  },
+  {
+    "question": "Who held the Law portfolio in the first Cabinet of Independent India?",
+    "options": ["Dr. B.R. Ambedkar", "R.K. Shanmugham Chetty", "Maulana Azad", "Rajendra Prasad"],
+    "correct": 0,
+    "explanation": "Dr. B.R. Ambedkar served as the Law Minister in the first Cabinet of Independent India."
+  },
+  {
+    "question": "What was the main objective of the Regulating Act of 1773 in the Indian context?",
+    "options": ["To decentralize power", "To control East India Company’s administration", "To introduce representative government", "To abolish the governor-general’s post"],
+    "correct": 1,
+    "explanation": "The Regulating Act of 1773 was meant to regulate and control the political and administrative functions of the East India Company in India."
+  },
+    {
+      "question": "Who was the first person to propose the idea of a Constituent Assembly for India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "M.N. Roy",
+        "Mahatma Gandhi",
+        "Sardar Patel"
+      ],
+      "correct": 1,
+      "explanation": "In 1934, the idea of a Constituent Assembly for India was put forward for the first time by M.N. Roy, a pioneer of the communist movement in India[cite: 267, 268]."
+    },
+    {
+      "question": "Which of the following proposals first accepted the demand for a Constituent Assembly 'in principle'?",
+      "options": [
+        "The Cripps Mission",
+        "The Cabinet Mission",
+        "The August Offer",
+        "The Mountbatten Plan"
+      ],
+      "correct": 2,
+      "explanation": "The demand for a Constituent Assembly was finally accepted in principle by the British Government in the 'August Offer' of 1940[cite: 272]."
+    },
+    {
+      "question": "Under which scheme was the Constituent Assembly actually constituted in November 1946?",
+      "options": [
+        "The August Offer",
+        "The Cripps Proposals",
+        "The Cabinet Mission Plan",
+        "The Indian Independence Act"
+      ],
+      "correct": 2,
+      "explanation": "The Constituent Assembly was constituted in November 1946 under the scheme formulated by the Cabinet Mission Plan[cite: 277]."
+    },
+    {
+      "question": "According to the Cabinet Mission Plan, what was the basis for allotting seats to the provinces and princely states?",
+      "options": [
+        "Total area of the territory",
+        "Proportion to their respective population",
+        "Financial contribution to the British Empire",
+        "Number of existing legislative members"
+      ],
+      "correct": 1,
+      "explanation": "Each province and princely state were to be allotted seats in proportion to their respective population, roughly one seat for every million population[cite: 281, 282]."
+    },
+    {
+      "question": "How were the representatives of the princely states to be chosen for the Constituent Assembly?",
+      "options": [
+        "Elected by the people of the states",
+        "Elected by the state legislatures",
+        "Nominated by the heads of the princely states",
+        "Appointed by the British Crown"
+      ],
+      "correct": 2,
+      "explanation": "The representatives of the princely states were to be nominated by the heads of the princely states[cite: 289]."
+    },
+    {
+      "question": "The Constituent Assembly was a 'partly elected and partly nominated body' because:",
+      "options": [
+        "Some members were elected by adults and others by property owners",
+        "British India seats were indirectly elected while Princely State seats were nominated",
+        "The Chairman was nominated but members were elected",
+        "Half the members were from the British Parliament"
+      ],
+      "correct": 1,
+      "explanation": "Members from British provinces were indirectly elected by provincial assemblies, while representatives of princely states were nominated by their heads[cite: 290, 291]."
+    },
+    {
+      "question": "Why did the 93 seats allotted to the princely states remain vacant initially?",
+      "options": [
+        "The British Government barred their entry",
+        "They decided to stay away from the Constituent Assembly",
+        "Elections in those states were postponed",
+        "The Muslim League blocked their nomination"
+      ],
+      "correct": 1,
+      "explanation": "The 93 seats allotted to the princely states were not filled as they decided to stay away from the Constituent Assembly[cite: 293]."
+    },
+    {
+      "question": "Which prominent Indian personality was NOT a member of the Constituent Assembly?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Dr. Rajendra Prasad"
+      ],
+      "correct": 2,
+      "explanation": "The Assembly included all important personalities of India at that time, with the exception of Mahatma Gandhi[cite: 295]."
+    },
+    {
+      "question": "Who was elected as the temporary Chairman of the Constituent Assembly during its first meeting?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. Sachchidananda Sinha",
+        "H.C. Mukherjee",
+        "B.N. Rau"
+      ],
+      "correct": 1,
+      "explanation": "Dr. Sachchidananda Sinha, the oldest member, was elected as the temporary Chairman following the French practice[cite: 300, 302]."
+    },
+    {
+      "question": "Who moved the 'Objectives Resolution' in the Constituent Assembly?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel",
+        "Jawaharlal Nehru",
+        "M.N. Roy"
+      ],
+      "correct": 2,
+      "explanation": "On December 13, 1946, Jawaharlal Nehru moved the historic 'Objectives Resolution' in the Assembly[cite: 308]."
+    },
+    {
+      "question": "What is the relationship between the Objectives Resolution and the present Constitution of India?",
+      "options": [
+        "It was rejected and a new draft was made",
+        "Its modified version forms the Preamble",
+        "It became the First Schedule",
+        "It was incorporated as Directive Principles"
+      ],
+      "correct": 1,
+      "explanation": "A modified version of the Objectives Resolution forms the Preamble of the present Constitution[cite: 324]."
+    },
+    {
+      "question": "Which act changed the Constituent Assembly into a fully sovereign body?",
+      "options": [
+        "The Cabinet Mission Plan",
+        "The Indian Independence Act of 1947",
+        "The Government of India Act of 1935",
+        "The August Offer"
+      ],
+      "correct": 1,
+      "explanation": "The Indian Independence Act of 1947 made the Assembly a fully sovereign body, empowered to abrogate or alter any law made by the British Parliament[cite: 330, 331, 335]."
+    },
+    {
+      "question": "When the Constituent Assembly met as a legislative body, who chaired the sessions?",
+      "options": [
+        "Dr. Rajendra Prasad",
+        "G.V. Mavlankar",
+        "Dr. B.R. Ambedkar",
+        "H.C. Mukherjee"
+      ],
+      "correct": 1,
+      "explanation": "When the Assembly met as the legislative body (Dominion Legislature), it was chaired by G.V. Mavlankar[cite: 339, 340]."
+    },
+    {
+      "question": "How did the total strength of the Constituent Assembly change after the withdrawal of Muslim League members following partition?",
+      "options": [
+        "Increased from 299 to 389",
+        "Reduced from 389 to 299",
+        "Stayed constant at 296",
+        "Reduced from 389 to 207"
+      ],
+      "correct": 1,
+      "explanation": "The total strength came down to 299 as against 389 originally fixed under the Cabinet Mission Plan[cite: 342]."
+    },
+    {
+      "question": "On which date did the Constituent Assembly adopt the National Flag of India?",
+      "options": [
+        "January 24, 1950",
+        "August 15, 1947",
+        "July 22, 1947",
+        "November 26, 1949"
+      ],
+      "correct": 2,
+      "explanation": "The Constituent Assembly adopted the national flag on July 22, 1947[cite: 351]."
+    },
+    {
+      "question": "Who was elected by the Constituent Assembly as the first President of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "C. Rajagopalachari"
+      ],
+      "correct": 1,
+      "explanation": "The Assembly elected Dr. Rajendra Prasad as the first President of India on January 24, 1950[cite: 354]."
+    },
+    {
+      "question": "How many sessions did the Constituent Assembly hold in total?",
+      "options": [
+        "9 sessions",
+        "11 sessions",
+        "15 sessions",
+        "12 sessions"
+      ],
+      "correct": 1,
+      "explanation": "In all, the Constituent Assembly had 11 sessions over two years, 11 months and 18 days[cite: 354]."
+    },
+    {
+      "question": "Who was the Chairman of the Drafting Committee of the Constituent Assembly?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Sardar Patel",
+        "Alladi Krishnaswamy Ayyar"
+      ],
+      "correct": 1,
+      "explanation": "The Drafting Committee, set up on August 29, 1947, was chaired by Dr. B.R. Ambedkar[cite: 370, 399, 401]."
+    },
+    {
+      "question": "Who chaired the Provincial Constitution Committee?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Patel",
+        "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar"
+      ],
+      "correct": 1,
+      "explanation": "The Provincial Constitution Committee was chaired by Sardar Patel[cite: 369]."
+    },
+    {
+      "question": "Which member of the Drafting Committee was replaced due to his death in 1948?",
+      "options": [
+        "B.L. Mitter",
+        "D.P. Khaitan",
+        "N. Madhava Rau",
+        "T.T. Krishnamachari"
+      ],
+      "correct": 1,
+      "explanation": "T.T. Krishnamachari replaced D.P. Khaitan, who died in 1948[cite: 407]."
+    },
+    {
+      "question": "On what date did the Constituent Assembly declare the motion on the Draft Constitution as passed?",
+      "options": [
+        "January 26, 1950",
+        "November 26, 1949",
+        "August 15, 1947",
+        "January 24, 1950"
+      ],
+      "correct": 1,
+      "explanation": "The motion on the Draft Constitution was declared as passed on November 26, 1949[cite: 419]."
+    },
+    {
+      "question": "How many members actually signed the Constitution on November 26, 1949?",
+      "options": [
+        "299 members",
+        "284 members",
+        "207 members",
+        "389 members"
+      ],
+      "correct": 1,
+      "explanation": "Out of a total 299 members of the Assembly, only 284 were actually present on that day and signed the Constitution[cite: 420]."
+    },
+    {
+      "question": "Why was January 26 specifically chosen as the 'date of commencement' of the Constitution?",
+      "options": [
+        "It was the day the first General Elections ended",
+        "It was the day Purna Swaraj day was celebrated in 1930",
+        "It was the day the Cabinet Mission arrived",
+        "It was the birthday of Mahatma Gandhi"
+      ],
+      "correct": 1,
+      "explanation": "January 26 was chosen because on this day in 1930, Purna Swaraj day was celebrated following the Lahore Session of the INC[cite: 437, 438]."
+    },
+    {
+      "question": "Which of the following was NOT repealed upon the commencement of the Constitution?",
+      "options": [
+        "The Indian Independence Act of 1947",
+        "The Government of India Act of 1935",
+        "The Abolition of Privy Council Jurisdiction Act (1949)",
+        "All enactments amending the 1935 Act"
+      ],
+      "correct": 2,
+      "explanation": "With the commencement of the Constitution, the 1947 and 1935 Acts were repealed, but the Abolition of Privy Council Jurisdiction Act (1949) was continued[cite: 439, 440]."
+    },
+    {
+      "question": "Who was appointed as the Constitutional Advisor (Legal Advisor) to the Constituent Assembly?",
+      "options": [
+        "S.N. Mukherjee",
+        "H.V.R. Iyengar",
+        "Sir B.N. Rau",
+        "Prem Behari Narain Raizada"
+      ],
+      "correct": 2,
+      "explanation": "Sir B.N. Rau was appointed as the constitutional advisor (Legal Advisor) to the Constituent Assembly[cite: 475]."
+    },
+    {
+      "question": "What animal was adopted as the symbol (seal) of the Constituent Assembly?",
+      "options": [
+        "Lion",
+        "Tiger",
+        "Elephant",
+        "Eagle"
+      ],
+      "correct": 2,
+      "explanation": "The elephant was adopted as the symbol (seal) of the Constituent Assembly[cite: 474]."
+    },
+    {
+      "question": "Who was the calligrapher of the original Indian Constitution?",
+      "options": [
+        "Nand Lal Bose",
+        "Beohar Rammanohar Sinha",
+        "Prem Behari Narain Raizada",
+        "Vasant Krishan Vaidya"
+      ],
+      "correct": 2,
+      "explanation": "Prem Behari Narain Raizada was the calligrapher of the Indian Constitution; the original was handwritten by him in italic style[cite: 480, 481]."
+    },
+    {
+      "question": "Which Constitutional Amendment Act made provision for an authoritative text of the Constitution in Hindi?",
+      "options": [
+        "42nd Amendment Act",
+        "44th Amendment Act",
+        "58th Amendment Act",
+        "73rd Amendment Act"
+      ],
+      "correct": 2,
+      "explanation": "A provision regarding the authoritative text in Hindi was made by the 58th Constitutional Amendment Act of 1987[cite: 487]."
+    },
+    {
+      "question": "According to the critics, why was the Constitution 'bulky and complicated'?",
+      "options": [
+        "Due to the influence of foreign constitutions",
+        "Due to domination by lawyers and politicians",
+        "Because it was written in 11 sessions",
+        "Because of the diversity of Indian languages"
+      ],
+      "correct": 1,
+      "explanation": "Critics pointed out that the Assembly was dominated by lawyers and politicians, which they believed was the main reason for the bulkiness and complicated language[cite: 468, 470]."
+    },
+    {
+      "question": "Which article of the Constitution deals with its 'Short Title'?",
+      "options": [
+        "Article 395",
+        "Article 394",
+        "Article 393",
+        "Article 394A"
+      ],
+      "correct": 2,
+      "explanation": "Article 393 deals with the Short title of the Constitution."
+    },
+    {
+      "question": "Regarding the concept of 'Constitutionalism' as discussed in the text, which of the following statements is most accurate?",
+      "options": [
+        "Any country that possesses a formal written constitution is said to practice constitutionalism.",
+        "Constitutionalism is the antithesis of a government governed by the unrestrained will of rulers.",
+        "A constitutional government is defined solely by its adherence to the technical terms of its constitution.",
+        "Constitutionalism allows for the exercise of arbitrary power if such power is conferred by a constitutional document."
+      ],
+      "correct": 1,
+      "explanation": "According to Roucek and Wheare, constitutionalism means essentially limited government and is the antithesis of arbitrary rule or the unrestrained will of rulers. The text notes that a country may have a constitution (like a dictatorship) but not necessarily constitutionalism, and that arbitrary power is a negation of the concept even if conferred by a document."
+    },
+    {
+      "question": "Which scholar classified constitutions as 'Rigid' or 'Flexible' based on the specific method of amendment?",
+      "options": [
+        "Lord James Bryce",
+        "K.C. Wheare",
+        "Elliot Bulmer",
+        "R.G. Gettell"
+      ],
+      "correct": 0,
+      "explanation": "The text explicitly states that the classification of constitutions into rigid and flexible based on the method of amendment was given by Lord James Bryce."
+    },
+    {
+      "question": "According to the classification provided by Elliot Bulmer, what distinguishes a 'prescriptive' constitution from a 'procedural' one?",
+      "options": [
+        "A prescriptive constitution focuses solely on the legal limits of government power.",
+        "A prescriptive constitution is evolved through conventions while a procedural one is enacted.",
+        "A prescriptive constitution attempts to impose a broad consensus on common societal goals.",
+        "A prescriptive constitution is synonymous with a rigid constitution."
+      ],
+      "correct": 2,
+      "explanation": "Elliot Bulmer identifies two archetypes: procedural and prescriptive. While a procedural constitution defines structures and limits power, a prescriptive constitution additionally assumes or attempts to impose a broad consensus on common societal goals that public authorities must strive to achieve."
+    },
+    {
+      "question": "Based on the text, how is an 'Evolved Constitution' typically characterized?",
+      "options": [
+        "It is deliberately made by a constituent assembly or a constitutional council.",
+        "Its provisions are contained in the form of a single, codified book.",
+        "It is a cumulative outcome of a slow process, containing conventions and judicial decisions.",
+        "It makes a sharp distinction between constitutional law and ordinary law."
+      ],
+      "correct": 2,
+      "explanation": "An evolved constitution is described as the outcome of a slow and gradual evolutionary process (cumulative). Its provisions are found in conventions, practices, and judicial decisions, with the British Constitution cited as a primary example."
+    },
+    {
+      "question": "The text describes the Constitution of India using several classifications. Which of the following is true regarding India's constitutional nature as per the document?",
+      "options": [
+        "It is classified as a purely flexible and unwritten constitution.",
+        "It is described as 'quasi-federal' by K.C. Wheare due to its mix of federal and unitary provisions.",
+        "It is an evolved constitution similar to the British model.",
+        "It is a purely rigid constitution that makes no room for ordinary law procedures."
+      ],
+      "correct": 1,
+      "explanation": "The text states that because the Constitution of India contains both federal and unitary provisions, K.C. Wheare described it as 'quasi-federal'. It is also noted as being an enacted, written constitution that is a synthesis of both rigid and flexible elements."
+    },
+    {
+      "question": "Which specific case led to the Supreme Court ruling that Parliament's constituent power under Article 368 cannot be used to alter the 'basic structure' of the Constitution?",
+      "options": [
+        "Minerva Mills case (1980)",
+        "Kesavananda Bharati case (1973)",
+        "7th Amendment Act (1956)",
+        "42nd Amendment Act (1976)"
+      ],
+      "correct": 1,
+      "explanation": "In the Kesavananda Bharati case (1973), the Supreme Court ruled that the constituent power of Parliament under Article 368 does not enable it to alter the 'basic structure' of the Constitution[cite: 579]."
+    },
+    {
+      "question": "Why is the 42nd Amendment Act of 1976 commonly referred to as the 'Mini-Constitution'?",
+      "options": [
+        "It established the first set of Fundamental Rights in the country.",
+        "It reduced the voting age from 21 to 18 years.",
+        "It introduced an important and large number of changes in various parts of the Constitution.",
+        "It was the only amendment carried out during the internal emergency."
+      ],
+      "correct": 2,
+      "explanation": "The 42nd Amendment Act (1976) is known as the 'Mini-Constitution' due to the important and large number of changes made by it in various parts of the Constitution[cite: 578]."
+    },
+    {
+      "question": "According to the PDF, which factor did NOT contribute to the 'elephantine size' of the Indian Constitution?",
+      "options": [
+        "Geographical factors such as vastness and diversity.",
+        "The influence of the bulky Government of India Act of 1935.",
+        "The existence of separate Constitutions for the Centre and the states.",
+        "The dominance of legal luminaries in the Constituent Assembly."
+      ],
+      "correct": 2,
+      "explanation": "The Constitution is bulky because it is a single Constitution for both the Centre and the states, not separate ones[cite: 596]. Factors contributing to its size include geography, history (1935 Act), the single Constitution, and legal luminaries[cite: 591, 592, 594, 596, 597]."
+    },
+    {
+      "question": "What is the structural source from which the Federal Scheme, Judiciary, and Emergency Powers of the Indian Constitution were largely drawn?",
+      "options": [
+        "British Constitution",
+        "American Constitution",
+        "Government of India Act of 1935",
+        "Canadian Constitution"
+      ],
+      "correct": 2,
+      "explanation": "The structural part, including the Federal Scheme, Judiciary, Governors, and Emergency Powers, is drawn from the Government of India Act of 1935[cite: 611, 616]."
+    },
+    {
+      "question": "From which country's constitution did the Indian Constitution derive its 'philosophical part', specifically the Fundamental Rights?",
+      "options": [
+        "British Constitution",
+        "American Constitution",
+        "Irish Constitution",
+        "Canadian Constitution"
+      ],
+      "correct": 1,
+      "explanation": "The philosophical part of the Constitution, which includes the Fundamental Rights, derives its inspiration from the American Constitution[cite: 611]."
+    },
+    {
+      "question": "Which feature is considered a 'unitary or non-federal' feature of the Indian Constitution?",
+      "options": [
+        "Bicameralism",
+        "Independent judiciary",
+        "Single citizenship",
+        "Division of powers"
+      ],
+      "correct": 2,
+      "explanation": "Unitary or non-federal features include a strong Centre, single Constitution, single citizenship, flexibility of Constitution, integrated judiciary, and all-India services[cite: 631]. Features like division of powers and independent judiciary are federal features[cite: 630]."
+    },
+    {
+      "question": "The Indian Parliamentary system is based on which principle that distinguishes it from the Presidential system?",
+      "options": [
+        "Strict separation of powers between organs",
+        "Co-operation and co-ordination between legislative and executive organs",
+        "A hereditary head of state",
+        "Judicial supremacy over the legislature"
+      ],
+      "correct": 1,
+      "explanation": "The parliamentary system is based on the principle of co-operation and co-ordination between the legislative and executive organs, while the presidential system is based on the doctrine of separation of powers[cite: 639]."
+    },
+    {
+      "question": "What does Article 1 of the Constitution imply by describing India as a 'Union of States'?",
+      "options": [
+        "The Indian Federation is the result of an agreement by the states.",
+        "The states have the right to secede from the federation under specific conditions.",
+        "The Indian Federation is not the result of an agreement by states and no state can secede.",
+        "The Centre and states have equal sovereignty in all matters."
+      ],
+      "correct": 2,
+      "explanation": "Article 1 describes India as a 'Union of States', implying that the Indian Federation is not the result of an agreement by the states and no state has the right to secede from the federation[cite: 633, 634]."
+    },
+    {
+      "question": "Which constitutional amendment deleted the Right to Property from the list of Fundamental Rights?",
+      "options": [
+        "42nd Amendment Act of 1976",
+        "44th Amendment Act of 1978",
+        "73rd Amendment Act of 1992",
+        "97th Amendment Act of 2011"
+      ],
+      "correct": 1,
+      "explanation": "The Right to Property (Article 31) was deleted from the list of Fundamental Rights by the 44th Amendment Act of 1978 and made a legal right under Article 300-A[cite: 679]."
+    },
+    {
+      "question": "How did the Supreme Court describe the relationship between Fundamental Rights and Directive Principles in the Minerva Mills case (1980)?",
+      "options": [
+        "Fundamental Rights always prevail over Directive Principles.",
+        "Directive Principles are superior as they promote social democracy.",
+        "The Constitution is founded on the balance between Fundamental Rights and Directive Principles.",
+        "Both are non-justiciable in the eyes of the law."
+      ],
+      "correct": 2,
+      "explanation": "In the Minerva Mills case (1980), the Supreme Court held that 'the Indian Constitution is founded on the bedrock of the balance between the Fundamental Rights and the Directive Principles'[cite: 699]."
+    },
+    {
+      "question": "The Fundamental Duties were added to the Indian Constitution on the recommendation of which committee?",
+      "options": [
+        "Verma Committee",
+        "Swaran Singh Committee",
+        "Sarkaria Commission",
+        "Balwant Rai Mehta Committee"
+      ],
+      "correct": 1,
+      "explanation": "Fundamental Duties were added by the 42nd Constitutional Amendment Act of 1976 on the recommendation of the Swaran Singh Committee[cite: 702]."
+    },
+    {
+      "question": "What is meant by the 'positive concept of secularism' embodied in the Indian Constitution?",
+      "options": [
+        "Complete separation between the church and the state.",
+        "The state upholds one official religion while tolerating others.",
+        "Giving equal respect to all religions or protecting all religions equally.",
+        "The state discourages all religious practices in public life."
+      ],
+      "correct": 2,
+      "explanation": "The Indian Constitution embodies the positive concept of secularism, which means giving equal respect to all religions or protecting all religions equally[cite: 730]."
+    },
+    {
+      "question": "By which amendment was the voting age reduced from 21 years to 18 years in India?",
+      "options": [
+        "42nd Amendment Act of 1976",
+        "44th Amendment Act of 1978",
+        "61st Amendment Act of 1988",
+        "86th Amendment Act of 2002"
+      ],
+      "correct": 2,
+      "explanation": "The voting age was reduced to 18 years from 21 years in 1989 by the 61st Constitutional Amendment Act of 1988[cite: 740]."
+    },
+    {
+      "question": "Which of the following is NOT listed in the PDF as an 'Independent Body' established by the Constitution?",
+      "options": [
+        "Election Commission",
+        "Comptroller and Auditor-General of India",
+        "Finance Commission",
+        "Union Public Service Commission"
+      ],
+      "correct": 2,
+      "explanation": "The PDF lists the Election Commission, Comptroller and Auditor-General, Union Public Service Commission, and State Public Service Commission as independent bodies[cite: 757, 758, 760, 761]. The Finance Commission is not mentioned in this specific section."
+    },
+    {
+      "question": "Under what circumstances can a State Emergency (President's Rule) be imposed according to Article 365?",
+      "options": [
+        "Failure of Constitutional machinery in the states.",
+        "Threat to the financial stability of India.",
+        "Failure of a state to comply with the directions of the Centre.",
+        "External aggression or armed rebellion."
+      ],
+      "correct": 2,
+      "explanation": "State emergency (President's Rule) can be imposed under Article 356 for failure of constitutional machinery, or under Article 365 for failure to comply with directions of the Centre[cite: 771]."
+    },
+    {
+      "question": "Which amendment act gave constitutional recognition to the 'Panchayats' (rural local governments)?",
+      "options": [
+        "73rd Amendment Act of 1992",
+        "74th Amendment Act of 1992",
+        "97th Amendment Act of 2011",
+        "42nd Amendment Act of 1976"
+      ],
+      "correct": 0,
+      "explanation": "The 73rd Amendment Act of 1992 gave constitutional recognition to the panchayats by adding a new Part IX and Schedule 11[cite: 780, 781]."
+    },
+    {
+      "question": "The right to form 'co-operative societies' was made a Fundamental Right under which Article?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 43-B"
+      ],
+      "correct": 1,
+      "explanation": "The 97th Constitutional Amendment Act of 2011 made the right to form co-operative societies a fundamental right under Article 19[cite: 785, 787]."
+    },
+    {
+      "question": "How does the Indian Constitution synthesize Parliamentary Sovereignty and Judicial Supremacy?",
+      "options": [
+        "The Parliament can override any judicial decision with a simple majority.",
+        "The Supreme Court can declare laws unconstitutional, while Parliament can amend the Constitution.",
+        "The Judiciary has no power of review over laws passed by the Parliament.",
+        "The Parliament is the final authority on all constitutional interpretations."
+      ],
+      "correct": 1,
+      "explanation": "The Supreme Court can declare parliamentary laws unconstitutional through judicial review, while Parliament can amend the major portion of the Constitution through its constituent power[cite: 662, 664]."
+    },
+    {
+      "question": "Which critic described the Indian Constitution as a 'lawyer's paradise'?",
+      "options": [
+        "Dr. B.R. Ambedkar",
+        "Sir Ivor Jennings",
+        "K. Hanumanthaiya",
+        "H.V. Kamath"
+      ],
+      "correct": 1,
+      "explanation": "Sir Ivor Jennings called the Indian Constitution a 'lawyer's paradise' because of its legalistic and complicated nature[cite: 842]."
+    },
+    {
+      "question": "Which feature of the Indian judicial system differs significantly from that of the USA?",
+      "options": [
+        "USA has an integrated judiciary, whereas India does not.",
+        "India has a single system of courts for both central and state laws.",
+        "In India, state laws are enforced only by state courts.",
+        "The Indian Supreme Court is not a federal court."
+      ],
+      "correct": 1,
+      "explanation": "In India, a single system of courts enforces both central and state laws, unlike in the USA where federal laws are enforced by the federal judiciary and state laws by the state judiciary[cite: 670]."
+    },
+    {
+      "question": "According to Dr. B.R. Ambedkar, which part of the Constitution is a 'novel feature'?",
+      "options": [
+        "Fundamental Rights",
+        "Fundamental Duties",
+        "Directive Principles of State Policy",
+        "Preamble"
+      ],
+      "correct": 2,
+      "explanation": "According to Dr. B.R. Ambedkar, the Directive Principles of State Policy is a 'novel feature' of the Indian Constitution[cite: 687, 688]."
+    },
+    {
+      "question": "Which of the following is NOT one of the broad categories into which Directive Principles are classified?",
+      "options": [
+        "Socialistic",
+        "Gandhian",
+        "Capitalistic",
+        "Liberal-intellectual"
+      ],
+      "correct": 2,
+      "explanation": "Directive Principles are classified into three broad categories: socialistic, Gandhian, and liberal-intellectual[cite: 690]."
+    },
+    {
+      "question": "The 'procedure established by law' in Article 21 is a feature that makes the scope of Indian judicial review narrower than that of which country?",
+      "options": [
+        "United Kingdom",
+        "USA",
+        "Canada",
+        "Ireland"
+      ],
+      "correct": 1,
+      "explanation": "The scope of judicial review in India is narrower than in the US because the American Constitution provides for 'due process of law' as opposed to India's 'procedure established by law'[cite: 659, 660]."
+    },
+    {
+      "question": "Which official acts as the 'guardian of public purse' in the Indian administrative system?",
+      "options": [
+        "Finance Minister",
+        "Governor of RBI",
+        "Comptroller and Auditor-General of India",
+        "Prime Minister"
+      ],
+      "correct": 2,
+      "explanation": "The Comptroller and Auditor-General of India acts as the guardian of public purse and comments on the legality and propriety of Government expenditure[cite: 758, 759]."
+    },
+    {
+      "question": "Which amendment act added Part IX-B, titled 'The Co-operative Societies', to the Constitution?",
+      "options": [
+        "73rd Amendment Act",
+        "74th Amendment Act",
+        "86th Amendment Act",
+        "97th Amendment Act"
+      ],
+      "correct": 3,
+      "explanation": "The 97th Constitutional Amendment Act of 2011 added a new Part IX-B titled 'The Co-operative Societies'[cite: 785, 789]."
+    },
+    {
+      "question": "What happens to the federal structure of India during an emergency?",
+      "options": [
+        "It remains unchanged but states get more autonomy.",
+        "It is formally abolished and replaced by a new system.",
+        "It converts into a unitary structure without a formal amendment.",
+        "The Supreme Court takes over the administration of all states."
+      ],
+      "correct": 2,
+      "explanation": "During an emergency, the federal structure converts into a unitary one without a formal amendment of the Constitution[cite: 774, 775]."
+    },
+    {
+      "question": "Which critic stated that 'the Constitution is essentially the Government of India Act of 1935 with only adult franchise added'?",
+      "options": [
+        "N. Srinivasan",
+        "P.R. Deshmukh",
+        "K. Hanumanthaiya",
+        "Lokanath Misra"
+      ],
+      "correct": 1,
+      "explanation": "P.R. Deshmukh, a member of the Constituent Assembly, commented that 'the Constitution is essentially the Government of India Act of 1935 with only adult franchise added'[cite: 809]."
+    },
+    {
+      "question": "What distinguishes the Indian Republic from the British Monarchy in terms of its head of state?",
+      "options": [
+        "India has a hereditary head, while Britain has an elected head.",
+        "India has an elected head, while Britain has a hereditary head.",
+        "The Indian head of state has real executive powers, unlike Britain.",
+        "Britain's head of state is chosen by the legislature, while India's is not."
+      ],
+      "correct": 1,
+      "explanation": "The Indian State has an elected head (republic) while the British State has a hereditary head (monarchy)[cite: 655]."
+    },
+    {
+      "question": "Which Part of the Indian Constitution specifies the Fundamental Duties?",
+      "options": [
+        "Part III",
+        "Part IV",
+        "Part IV-A",
+        "Part IX"
+      ],
+      "correct": 2,
+      "explanation": "Part IV-A of the Constitution specifies the Fundamental Duties[cite: 704]."
+    },
+    {
+      "question": "Under Article 368, what is required for the amendment of certain provisions by a special majority?",
+      "options": [
+        "Simple majority of members present and voting.",
+        "Two-third majority of members present and voting and a majority of total membership.",
+        "Unanimous consent of both Houses of Parliament.",
+        "Approval by only the Lok Sabha with a two-third majority."
+      ],
+      "correct": 1,
+      "explanation": "Article 368 provides for amendment by a special majority, defined as a two-third majority of members of each House present and voting, and a majority of the total membership of each House[cite: 624]."
+    },
+    {
+      "question": "Which term was added to the Preamble of the Indian Constitution by the 42nd Amendment Act of 1976?",
+      "options": [
+        "Republic",
+        "Justice",
+        "Secular",
+        "Liberty"
+      ],
+      "correct": 2,
+      "explanation": "The term 'secular' was added to the Preamble of the Indian Constitution by the 42nd Constitutional Amendment Act of 1976[cite: 714]."
+    },
+    {
+      "question": "Which body is responsible for ensuring free and fair elections to the office of the President and Vice-President of India?",
+      "options": [
+        "Parliament",
+        "Supreme Court",
+        "Election Commission",
+        "Union Public Service Commission"
+      ],
+      "correct": 2,
+      "explanation": "The Election Commission ensures free and fair elections to the Parliament, state legislatures, and the offices of President and Vice-president of India[cite: 757]."
+    },
+    {
+      "question": "Which All-India service was created in 1963 and came into existence in 1966?",
+      "options": [
+        "Indian Administrative Service (IAS)",
+        "Indian Police Service (IPS)",
+        "Indian Forest Service (IFoS)",
+        "Indian Civil Service (ICS)"
+      ],
+      "correct": 2,
+      "explanation": "In 1963, the Indian Forest Service (IFoS) was created and it came into existence in 1966[cite: 762]."
+    },
+    {
+      "question": "Who famously said, 'We wanted the music of Veena or Sitar, but here we have the music of an English band' regarding the Constitution?",
+      "options": [
+        "Mahatma Gandhi",
+        "K. Hanumanthaiya",
+        "Lokanath Misra",
+        "Lakshminarayan Sahu"
+      ],
+      "correct": 1,
+      "explanation": "K. Hanumanthaiya, a member of the Constituent Assembly, made this comment to criticize the un-Indian nature of the Constitution[cite: 815]."
+    },
+    {
+      "question": "Which of the following statements best describes the origin of the 'Preamble' in the Indian Constitution? [cite: 9]",
+      "options": [
+        "It was inspired by the British parliamentary tradition of an unwritten preface.",
+        "It is based on the 'Objectives Resolution' drafted and moved by Pandit Nehru.",
+        "It was a direct translation of the American Preamble to suit Indian needs.",
+        "It was formulated by the Drafting Committee after the entire Constitution was enacted."
+      ],
+      "correct": 1,
+      "explanation": "The Preamble to the Indian Constitution is based on the 'Objectives Resolution', drafted and moved by Pandit Nehru, and adopted by the Constituent Assembly. [cite: 9]"
+    },
+    {
+      "question": "N.A. Palkhivala, an eminent jurist, referred to the Preamble as: [cite: 8]",
+      "options": [
+        "The soul of the Constitution",
+        "The horoscope of our sovereign democratic republic",
+        "The identity card of the Constitution",
+        "The keynote to the Constitution"
+      ],
+      "correct": 2,
+      "explanation": "N.A. Palkhivala called the Preamble the 'identity card of the Constitution'. [cite: 8]"
+    },
+    {
+      "question": "The 42nd Constitutional Amendment Act (1976) added which of the following sets of words to the Preamble? [cite: 10]",
+      "options": [
+        "Sovereign, Democratic, Republic",
+        "Socialist, Secular, Integrity",
+        "Liberty, Equality, Fraternity",
+        "Justice, Unity, Integrity"
+      ],
+      "correct": 1,
+      "explanation": "The 42nd Constitutional Amendment Act (1976) added three new words—Socialist, Secular, and Integrity—to the Preamble. [cite: 10]"
+    },
+    {
+      "question": "According to the Preamble, from where does the Indian Constitution derive its authority? [cite: 22]",
+      "options": [
+        "The Constituent Assembly",
+        "The Parliament of India",
+        "The People of India",
+        "The Supreme Court of India"
+      ],
+      "correct": 2,
+      "explanation": "The Preamble states that the Constitution derives its authority from the people of India. [cite: 22]"
+    },
+    {
+      "question": "Which of the following is NOT listed as an objective of the Constitution in the Preamble? [cite: 24]",
+      "options": [
+        "Justice",
+        "Liberty",
+        "Prosperity",
+        "Fraternity"
+      ],
+      "correct": 2,
+      "explanation": "The Preamble specifies justice, liberty, equality, and fraternity as the objectives. [cite: 24]"
+    },
+    {
+      "question": "What does the term 'Sovereign' imply in the context of the Indian State? [cite: 29]",
+      "options": [
+        "India is a dominion of the British Commonwealth.",
+        "India is an independent state with no authority above it.",
+        "India cannot cede its territory to any foreign state.",
+        "India's internal affairs are subject to United Nations oversight."
+      ],
+      "correct": 1,
+      "explanation": "The word 'sovereign' implies that India is an independent state; there is no authority above it, and it is free to conduct its own affairs. [cite: 29]"
+    },
+    {
+      "question": "In the context of Indian Socialism, the term 'Mixed Economy' refers to: [cite: 51]",
+      "options": [
+        "Complete nationalisation of all means of production.",
+        "The abolition of private property in favour of state ownership.",
+        "The co-existence of both public and private sectors side-by-side.",
+        "A system where only the public sector controls distribution."
+      ],
+      "correct": 2,
+      "explanation": "Democratic socialism holds faith in a 'mixed economy' where both public and private sectors co-exist side-by-side. [cite: 51]"
+    },
+    {
+      "question": "How does the Supreme Court of India define the 'Indian brand of socialism'? [cite: 53]",
+      "options": [
+        "It is purely based on Marxist ideology of state control.",
+        "It is a blend of Marxism and Gandhism, leaning heavily towards Gandhism.",
+        "It aims primarily at the nationalisation of all vital industries.",
+        "It is a form of 'communistic socialism' that excludes private property."
+      ],
+      "correct": 1,
+      "explanation": "Indian socialism is described as a blend of Marxism and Gandhism, leaning heavily towards the Gandhian socialism. [cite: 53]"
+    },
+    {
+      "question": "Which of the following characterizes the 'Positive Concept of Secularism' embodied in the Indian Constitution? [cite: 64]",
+      "options": [
+        "The State is anti-religion and condemns all religious practices.",
+        "The State recognizes one particular religion as the state religion.",
+        "All religions have the same status and support from the State.",
+        "The State is irreligious and maintains no contact with religious groups."
+      ],
+      "correct": 2,
+      "explanation": "The Indian Constitution embodies the positive concept of secularism, where all religions have the same status and support from the state. [cite: 64]"
+    },
+    {
+      "question": "What is the primary difference between 'Direct' and 'Indirect' democracy as mentioned in the text? [cite: 75, 76]",
+      "options": [
+        "Direct democracy uses representatives, while indirect democracy uses referendums.",
+        "In direct democracy, people exercise supreme power directly; in indirect democracy, elected representatives exercise it.",
+        "Direct democracy is only found in monarchies, while indirect is found in republics.",
+        "Indirect democracy allows for 'Recall', whereas direct democracy does not."
+      ],
+      "correct": 1,
+      "explanation": "In direct democracy, the people exercise their supreme power directly. In indirect democracy, representatives elected by the people exercise the supreme power. [cite: 75, 76]"
+    },
+    {
+      "question": "Which device of direct democracy allows voters to remove a representative before the expiry of their term? [cite: 85]",
+      "options": [
+        "Referendum",
+        "Initiative",
+        "Plebiscite",
+        "Recall"
+      ],
+      "correct": 3,
+      "explanation": "Recall is a method by means of which the voters can remove a representative or an officer before the expiry of his term. [cite: 85]"
+    },
+    {
+      "question": "The term 'Republic' in the Preamble indicates that: [cite: 96, 97]",
+      "options": [
+        "The head of the state is a hereditary monarch.",
+        "The head of the state is always elected, directly or indirectly.",
+        "The Parliament is the supreme authority in the country.",
+        "Political sovereignty is vested in a single individual."
+      ],
+      "correct": 1,
+      "explanation": "In a republic, the head of the state is always elected directly or indirectly for a fixed period. [cite: 96]"
+    },
+    {
+      "question": "Which form of justice mentioned in the Preamble was inspired by the Russian Revolution (1917)? [cite: 112]",
+      "options": [
+        "Social, Economic and Political Justice",
+        "Equality of Status and Opportunity",
+        "Liberty of Thought and Expression",
+        "Fraternity and Integrity"
+      ],
+      "correct": 0,
+      "explanation": "The ideal of justice—social, economic and political—has been taken from the Russian Revolution (1917). [cite: 112]"
+    },
+    {
+      "question": "What does 'Social Justice' specifically denote in the Indian Preamble? [cite: 106]",
+      "options": [
+        "Equal distribution of wealth and income.",
+        "Equal treatment of all citizens without social distinction based on caste, colour, or religion.",
+        "The right of every citizen to hold public office.",
+        "Enforcement of religious laws by the state."
+      ],
+      "correct": 1,
+      "explanation": "Social justice denotes the equal treatment of all citizens without any social distinction based on caste, colour, race, religion, sex and so on. [cite: 106]"
+    },
+    {
+      "question": "The Preamble's ideals of Liberty, Equality, and Fraternity were taken from which historical event? [cite: 119]",
+      "options": [
+        "The American Revolution",
+        "The Russian Revolution",
+        "The French Revolution",
+        "The Indian Independence Movement"
+      ],
+      "correct": 2,
+      "explanation": "The ideals of liberty, equality and fraternity in our Preamble have been taken from the French Revolution (1789–1799). [cite: 119]"
+    },
+    {
+      "question": "According to the text, 'Liberty' as conceived by the Preamble is: [cite: 118]",
+      "options": [
+        "Absolute, allowing citizens to do whatever they like.",
+        "Qualified, meaning it must be enjoyed within constitutional limitations.",
+        "Limited only by the laws passed by the Parliament.",
+        "Synonymous with the term 'license'."
+      ],
+      "correct": 1,
+      "explanation": "Liberty does not mean 'license' to do what one likes; it is not absolute but qualified, to be enjoyed within constitutional limitations. [cite: 117, 118]"
+    },
+    {
+      "question": "Which Article of the Constitution ensures 'Civic Equality' by abolishing untouchability? [cite: 128]",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 17",
+        "Article 18"
+      ],
+      "correct": 2,
+      "explanation": "Abolition of untouchability is covered under Article 17, ensuring civic equality. [cite: 128]"
+    },
+    {
+      "question": "How does the Constitution seek to achieve 'Political Equality'? [cite: 130, 131]",
+      "options": [
+        "Through the abolition of titles under Article 18.",
+        "By providing for equal pay for equal work under Article 39.",
+        "By making no person ineligible for electoral rolls on grounds of religion, race, caste or sex.",
+        "By nationalizing all means of production."
+      ],
+      "correct": 2,
+      "explanation": "Political equality is sought through two provisions: Article 325 (no person ineligible for electoral rolls) and Article 326 (adult suffrage). [cite: 131, 132]"
+    },
+    {
+      "question": "The term 'Fraternity' in the Preamble aims to assure which two things? [cite: 137]",
+      "options": [
+        "Liberty and Equality",
+        "Social and Economic Justice",
+        "Dignity of the individual and the unity and integrity of the nation",
+        "Sovereignty and Secularism"
+      ],
+      "correct": 2,
+      "explanation": "The Preamble declares that fraternity has to assure two things—the dignity of the individual and the unity and integrity of the nation. [cite: 137]"
+    },
+    {
+      "question": "Why is India described as a 'Union of States' in Article 1, as per the Preamble's philosophy? [cite: 144]",
+      "options": [
+        "To show that states joined the union by an agreement.",
+        "To make it clear that states have no right to secede from the Union.",
+        "To indicate that the Union is a result of a federation of independent units.",
+        "To establish that the Central government can abolish any state at will."
+      ],
+      "correct": 1,
+      "explanation": "Article 1 describes India as a 'Union of States' to make it clear that the states have no right to secede, implying the indestructible nature of the Union. [cite: 144]"
+    },
+    {
+      "question": "Who described the Preamble as the 'horoscope of our sovereign democratic republic'? [cite: 150]",
+      "options": [
+        "Sir Alladi Krishnaswami Iyer",
+        "K.M. Munshi",
+        "Pandit Thakur Das Bhargava",
+        "Sir Ernest Barker"
+      ],
+      "correct": 1,
+      "explanation": "According to K.M. Munshi, the Preamble is the 'horoscope of our sovereign democratic republic'. [cite: 150]"
+    },
+    {
+      "question": "In which landmark case did the Supreme Court first opine that the Preamble is NOT a part of the Constitution? [cite: 165, 175]",
+      "options": [
+        "Kesavananda Bharati case (1973)",
+        "Berubari Union case (1960)",
+        "LIC of India case (1995)",
+        "Minerva Mills case (1980)"
+      ],
+      "correct": 1,
+      "explanation": "In the Berubari Union case (1960), the Supreme Court specifically opined that Preamble is not a part of the Constitution. [cite: 175]"
+    },
+    {
+      "question": "What was the Supreme Court's ruling regarding the Preamble in the Kesavananda Bharati case (1973)? [cite: 176]",
+      "options": [
+        "It reaffirmed that the Preamble is not a part of the Constitution.",
+        "It held that the Preamble is a part of the Constitution and can be interpreted with it.",
+        "It ruled that the Preamble is the only part of the Constitution that cannot be amended.",
+        "It stated that the Preamble is superior to the Fundamental Rights."
+      ],
+      "correct": 1,
+      "explanation": "In the Kesavananda Bharati case (1973), the Supreme Court held that the Preamble is a part of the Constitution. [cite: 176]"
+    },
+    {
+      "question": "What is the 'non-justiciable' nature of the Preamble? [cite: 185]",
+      "options": [
+        "It cannot be amended by the Parliament.",
+        "Its provisions are not enforceable in courts of law.",
+        "It does not contain any legal terms.",
+        "It is not a source of inspiration for the judiciary."
+      ],
+      "correct": 1,
+      "explanation": "The Preamble is non-justiciable, meaning its provisions are not enforceable in courts of law. [cite: 185]"
+    },
+    {
+      "question": "The Preamble can be amended under Article 368 subject to which condition? [cite: 194, 195]",
+      "options": [
+        "The amendment must be passed by a simple majority.",
+        "The 'basic features' of the Constitution must not be altered.",
+        "The amendment must be ratified by all State legislatures.",
+        "Only the words 'Socialist' and 'Secular' can be changed."
+      ],
+      "correct": 1,
+      "explanation": "The Court held that the Preamble can be amended, subject to the condition that no amendment is done to the 'basic features'. [cite: 194]"
+    },
+    {
+      "question": "In the context of 'Equality', what does Article 16 of the Indian Constitution provide for? [cite: 128]",
+      "options": [
+        "Equality before the law.",
+        "Abolition of titles.",
+        "Equality of opportunity in matters of public employment.",
+        "Prohibition of discrimination on grounds of religion."
+      ],
+      "correct": 2,
+      "explanation": "Article 16 ensures equality of opportunity in matters of public employment. [cite: 128]"
+    },
+    {
+      "question": "What reason was given for enacting the Preamble after the rest of the Constitution was already enacted? [cite: 181]",
+      "options": [
+        "Because the 'Objectives Resolution' was drafted late.",
+        "To ensure it was in conformity with the Constitution as adopted by the Constituent Assembly.",
+        "Because the founding fathers could not agree on the text earlier.",
+        "To allow the President of the Assembly to have the final word."
+      ],
+      "correct": 1,
+      "explanation": "The reason for inserting the Preamble at the end was to ensure that it was in conformity with the Constitution as adopted by the Constituent Assembly. [cite: 181]"
+    },
+    {
+      "question": "According to Dr. B.R. Ambedkar, what is the 'union of trinity' that should not be divorced from each other? [cite: 82, 88]",
+      "options": [
+        "Sovereign, Socialist, Secular",
+        "Justice, Liberty, Equality",
+        "Liberty, Equality, Fraternity",
+        "Democratic, Republic, Justice"
+      ],
+      "correct": 2,
+      "explanation": "Dr. Ambedkar stated that the principles of liberty, equality, and fraternity form a union of trinity. [cite: 88]"
+    },
+    {
+      "question": "Which English political scientist described the Preamble as the 'key-note' to the Constitution? [cite: 155, 156]",
+      "options": [
+        "Sir Ernest Barker",
+        "N.A. Palkhivala",
+        "Sir Alladi Krishnaswami Iyer",
+        "M. Hidayatullah"
+      ],
+      "correct": 0,
+      "explanation": "Sir Ernest Barker, a distinguished English political scientist, described the Preamble as the 'key-note' to the Constitution. [cite: 156]"
+    },
+    {
+      "question": "The 'distributive justice' mentioned in the text is a combination of which two types of justice? [cite: 110]",
+      "options": [
+        "Social and Political justice",
+        "Economic and Political justice",
+        "Social and Economic justice",
+        "Legal and Social justice"
+      ],
+      "correct": 2,
+      "explanation": "A combination of social justice and economic justice denotes what is known as 'distributive justice'. [cite: 110]"
+    },
+    {
+      "question": "In which session did the Congress party adopt a resolution to establish a 'socialistic pattern of society'? [cite: 49]",
+      "options": [
+        "Nagpur Session (1920)",
+        "Avadi Session (1955)",
+        "Karachi Session (1931)",
+        "Lucknow Session (1936)"
+      ],
+      "correct": 1,
+      "explanation": "The Congress party adopted a resolution to establish a 'socialistic pattern of society' in its Avadi session as early as in 1955. [cite: 49]"
+    },
+    {
+      "question": "What does 'Economic Justice' involve according to the Preamble's ideals? [cite: 108, 109]",
+      "options": [
+        "Provision of free legal aid to the poor.",
+        "Elimination of glaring inequalities in wealth, income and property.",
+        "Right to work for all citizens.",
+        "Nationalisation of all private banks."
+      ],
+      "correct": 1,
+      "explanation": "Economic justice involves the elimination of glaring inequalities in wealth, income and property. [cite: 109]"
+    },
+    {
+      "question": "According to the text, what happened to India's political status between August 15, 1947, and January 26, 1950? [cite: 37]",
+      "options": [
+        "It was a British Colony.",
+        "It was a Sovereign Republic.",
+        "It was a Dominion in the British Commonwealth of Nations.",
+        "It was a dependency of the United Nations."
+      ],
+      "correct": 2,
+      "explanation": "From August 15, 1947 to January 26, 1950, India’s political status was that of a dominion in the British Commonwealth of Nations. [cite: 37]"
+    },
+    {
+      "question": "The term 'integrity' was added to the Preamble by which amendment? [cite: 138]",
+      "options": [
+        "24th Amendment",
+        "42nd Amendment",
+        "44th Amendment",
+        "73rd Amendment"
+      ],
+      "correct": 1,
+      "explanation": "The word 'integrity' has been added to the preamble by the 42nd Constitutional Amendment (1976). [cite: 138]"
+    },
+    {
+      "question": "Which of the following describes an 'Atheistic State' as per the text's classification? [cite: 67, 68]",
+      "options": [
+        "A state that is neutral in matters of religion.",
+        "A state that is pro-religion and has a state religion.",
+        "A state that is anti-religion and condemns all religions.",
+        "A state that supports all religions equally."
+      ],
+      "correct": 2,
+      "explanation": "An Atheistic State is anti-religion and hence, condemns all religions. [cite: 67, 68]"
+    },
+    {
+      "question": "According to Article 1 of the Indian Constitution, how is India described, and what does this description signify regarding its polity?",
+      "options": [
+        "A 'Federation of States', signifying a result of an agreement among states.",
+        "A 'Union of States', signifying that states have the right to secede.",
+        "A 'Union of States', signifying it is not the result of an agreement among states and is indestructible.",
+        "A 'Confederation of States', signifying that it is divided only for administrative convenience."
+      ],
+      "correct": 2,
+      "explanation": "Article 1 describes India as a 'Union of States' rather than a 'Federation of States'. According to Dr. B.R. Ambedkar, this indicates that the Indian Federation is not the result of an agreement among states and the states have no right to secede. [cite: 263, 269, 270]"
+    },
+    {
+      "question": "What is the primary conceptual difference between the 'Territory of India' and the 'Union of India' as per the provided text?",
+      "options": [
+        "The 'Union of India' includes states and union territories, while 'Territory of India' includes only states.",
+        "The 'Territory of India' is a wider expression including states, union territories, and acquired territories, while 'Union of India' includes only states.",
+        "The 'Union of India' refers to the federal structure, while 'Territory of India' refers to the geographical boundaries.",
+        "There is no difference; the Constitution uses them interchangeably."
+      ],
+      "correct": 1,
+      "explanation": "'Territory of India' is a wider expression because it includes states, union territories, and territories that may be acquired, whereas 'Union of India' includes only the states that are members of the federal system. [cite: 280]"
+    },
+    {
+      "question": "Under the Indian Constitution, how are Union Territories and acquired territories administered compared to States?",
+      "options": [
+        "They share a distribution of powers with the Centre like the states.",
+        "They are administered by the State governments of adjacent states.",
+        "They are directly administered by the Central government.",
+        "They have their own separate Constitutions and legislatures."
+      ],
+      "correct": 2,
+      "explanation": "States are members of the federal system and share a distribution of powers with the Centre, whereas union territories and acquired territories are directly administered by the Central government. [cite: 280]"
+    },
+    {
+      "question": "What does Article 2 of the Indian Constitution empower the Parliament to do?",
+      "options": [
+        "Alter the boundaries of existing states within the Union.",
+        "Change the name of existing states.",
+        "Admit into the Union of India or establish new states that are not part of the Union.",
+        "Cede Indian territory to a foreign state through ordinary law."
+      ],
+      "correct": 2,
+      "explanation": "Article 2 relates to the admission or establishment of new states that are not part of the Union of India. [cite: 290, 293]"
+    },
+    {
+      "question": "How does Article 3 differ from Article 2 in terms of the Parliament's power over states?",
+      "options": [
+        "Article 3 deals with the admission of existing foreign territories.",
+        "Article 3 deals with internal re-adjustment of the territories of the constituent states of the Union.",
+        "Article 3 requires a constitutional amendment under Article 368, whereas Article 2 does not.",
+        "Article 3 empowers the President to make laws, whereas Article 2 empowers Parliament."
+      ],
+      "correct": 1,
+      "explanation": "Article 3 deals with the internal re-adjustment inter se of the territories of the constituent states of the Union of India, whereas Article 2 relates to new states not part of the Union. [cite: 293, 294, 295]"
+    },
+    {
+      "question": "Which of the following is a mandatory condition for introducing a bill in Parliament under Article 3 for reorganising states?",
+      "options": [
+        "The bill must be passed by a two-thirds majority in the Rajya Sabha.",
+        "Prior recommendation of the President is required.",
+        "The consent of the concerned state legislature must be obtained.",
+        "The bill must be approved by a national referendum."
+      ],
+      "correct": 1,
+      "explanation": "A bill contemplating changes under Article 3 can be introduced in the Parliament only with the prior recommendation of the President. [cite: 301]"
+    },
+    {
+      "question": "In the context of Article 3, what is the role of the State Legislature when the President refers a bill to them?",
+      "options": [
+        "The State Legislature's views are binding on the President.",
+        "The State Legislature must pass a resolution with a special majority to stop the bill.",
+        "The State Legislature can only express its views within a specified period, but these views are not binding.",
+        "No reference is required if the state's name is being changed."
+      ],
+      "correct": 2,
+      "explanation": "The President must refer the bill to the state legislature for expressing its views, but the President (or Parliament) is not bound by those views and may accept or reject them. [cite: 302, 303, 305]"
+    },
+    {
+      "question": "Why is India described as 'an indestructible union of destructible states'?",
+      "options": [
+        "States cannot be abolished by the Central government.",
+        "The Union can be dissolved by a majority of states, but states cannot be renamed.",
+        "The Parliament can redraw the political map of India without the consent of the states.",
+        "The territorial integrity of states is guaranteed by the Constitution."
+      ],
+      "correct": 2,
+      "explanation": "India is so described because the Constitution authorizes Parliament to form new states or alter existing ones without their consent, meaning the territorial integrity of any state is not guaranteed. [cite: 308, 309, 310, 311]"
+    },
+    {
+      "question": "According to Article 4, laws made under Articles 2 and 3 are passed by which legislative process?",
+      "options": [
+        "Special majority under Article 368.",
+        "Simple majority and ordinary legislative process.",
+        "Ratification by half of the state legislatures.",
+        "A joint session of Parliament with a two-thirds majority."
+      ],
+      "correct": 1,
+      "explanation": "Article 4 declares that laws made under Articles 2 and 3 are not considered amendments of the Constitution under Article 368, meaning they can be passed by a simple majority and ordinary legislative process. [cite: 316, 319]"
+    },
+    {
+      "question": "What was the Supreme Court's ruling in the Berubari Union case (1960) regarding the cession of Indian territory?",
+      "options": [
+        "Parliament can cede territory using Article 3 through a simple majority.",
+        "Cession of territory requires an amendment of the Constitution under Article 368.",
+        "Boundary disputes can only be settled by the President through executive action.",
+        "The government cannot cede any territory under any circumstances."
+      ],
+      "correct": 1,
+      "explanation": "The Supreme Court held that the power of Parliament to diminish the area of a state under Article 3 does not cover cession of Indian territory to a foreign country; such cession requires a constitutional amendment under Article 368. [cite: 322, 323]"
+    },
+    {
+      "question": "How does the settlement of a boundary dispute with another country differ from the cession of territory, according to the Supreme Court ruling in 1969?",
+      "options": [
+        "Both require an amendment under Article 368.",
+        "Boundary disputes require a simple majority in Parliament, whereas cession requires a special majority.",
+        "Boundary disputes can be settled by executive action as they do not involve cession of territory.",
+        "Boundary disputes must be referred to the International Court of Justice."
+      ],
+      "correct": 2,
+      "explanation": "The Supreme Court in 1969 ruled that settlement of a boundary dispute does not require a constitutional amendment and can be done by executive action as it doesn't involve cession of territory. [cite: 324, 325]"
+    },
+    {
+      "question": "The 100th Constitutional Amendment Act (2015) was enacted for which purpose?",
+      "options": [
+        "To include Sikkim as a full-fledged state.",
+        "To reorganise the North-Eastern states.",
+        "To exchange enclaves and demarcate boundaries with Bangladesh.",
+        "To abolish the special status of Jammu and Kashmir."
+      ],
+      "correct": 2,
+      "explanation": "The 100th Amendment was enacted to give effect to the acquiring and transfer of territories (exchange of enclaves) between India and Bangladesh. [cite: 328, 329]"
+    },
+    {
+      "question": "Which three princely states initially refused to join India at the time of independence?",
+      "options": [
+        "Hyderabad, Junagarh, and Kashmir.",
+        "Bhopal, Mysore, and Travancore.",
+        "Junagarh, Sikkim, and Hyderabad.",
+        "Kashmir, Manipur, and Gwalior."
+      ],
+      "correct": 0,
+      "explanation": "Of the 552 princely states within the geographical boundaries of India, 549 joined India, while Hyderabad, Junagarh, and Kashmir refused to join initially. [cite: 351, 354]"
+    },
+    {
+      "question": "In the 1950 classification of states, which of the following was the solitary Part D territory?",
+      "options": [
+        "Delhi.",
+        "Andaman and Nicobar Islands.",
+        "Lakshadweep.",
+        "Chandigarh."
+      ],
+      "correct": 1,
+      "explanation": "In 1950, the Constitution contained a four-fold classification. The Andaman and Nicobar Islands were the solitary Part D territories. [cite: 356, 361]"
+    },
+    {
+      "question": "What was the recommendation of the Dhar Commission (1948) regarding the reorganisation of states?",
+      "options": [
+        "Reorganisation on the basis of language.",
+        "Reorganisation on the basis of administrative convenience.",
+        "One language, one state policy.",
+        "The abolition of princely states and creation of union territories."
+      ],
+      "correct": 1,
+      "explanation": "The Dhar Commission recommended the reorganisation of states on the basis of administrative convenience rather than the linguistic factor. [cite: 368]"
+    },
+    {
+      "question": "Which committee formally rejected language as the basis for reorganisation of states in 1949?",
+      "options": [
+        "Fazl Ali Commission.",
+        "Dhar Commission.",
+        "JVP Committee.",
+        "Shah Commission."
+      ],
+      "correct": 2,
+      "explanation": "The JVP Committee (Nehru, Patel, Sitaramayya) submitted its report in April 1949 and formally rejected language as the basis for reorganisation. [cite: 370, 371]"
+    },
+    {
+      "question": "What event led to the creation of Andhra State, the first linguistic state in India?",
+      "options": [
+        "The recommendation of the Dhar Commission.",
+        "The passing of the 7th Constitutional Amendment Act.",
+        "A 56-day hunger strike and death of Potti Sriramulu.",
+        "The Nehru-Noon Agreement."
+      ],
+      "correct": 2,
+      "explanation": "The government was forced to create Andhra state in 1953 following prolonged agitation and the death of Potti Sriramulu after a 56-day hunger strike. [cite: 372, 373]"
+    },
+    {
+      "question": "Which of the following was NOT a member of the Fazl Ali Commission?",
+      "options": [
+        "K.M. Panikkar.",
+        "H.N. Kunzru.",
+        "S.K. Dhar.",
+        "Fazl Ali."
+      ],
+      "correct": 2,
+      "explanation": "The three-member States Reorganisation Commission (Fazl Ali Commission) consisted of Fazl Ali, K.M. Panikkar, and H.N. Kunzru. S.K. Dhar headed an earlier commission. [cite: 367, 376, 377]"
+    },
+    {
+      "question": "The Fazl Ali Commission broadly accepted language as a basis for reorganisation but rejected which theory?",
+      "options": [
+        "Administrative convenience.",
+        "One language–one state.",
+        "Indestructible union.",
+        "Integration of princely states."
+      ],
+      "correct": 1,
+      "explanation": "The commission broadly accepted language as the basis of reorganisation but rejected the theory of 'one language-one state'. [cite: 378, 379]"
+    },
+    {
+      "question": "Which Constitutional Amendment Act abolished the distinction between Part A and Part B states and abolished Part C states?",
+      "options": [
+        "1st Constitutional Amendment Act (1951).",
+        "7th Constitutional Amendment Act (1956).",
+        "10th Constitutional Amendment Act (1961).",
+        "14th Constitutional Amendment Act (1962)."
+      ],
+      "correct": 1,
+      "explanation": "By the 7th Constitutional Amendment Act (1956), the distinction between Part A and Part B states was done away with and Part C states were abolished. [cite: 388]"
+    },
+    {
+      "question": "In 1960, the bilingual state of Bombay was divided into which two states?",
+      "options": [
+        "Punjab and Haryana.",
+        "Andhra Pradesh and Telangana.",
+        "Maharashtra and Gujarat.",
+        "Karnataka and Kerala."
+      ],
+      "correct": 2,
+      "explanation": "In 1960, the bilingual state of Bombay was divided into Maharashtra (Marathi-speaking) and Gujarat (Gujarati-speaking). [cite: 403]"
+    },
+    {
+      "question": "Which territory was first granted the status of an 'associate state' before becoming a full-fledged 22nd state of India?",
+      "options": [
+        "Goa.",
+        "Sikkim.",
+        "Nagaland.",
+        "Meghalaya."
+      ],
+      "correct": 1,
+      "explanation": "The 35th Amendment (1974) conferred on Sikkim the status of an 'associate state'. Later, the 36th Amendment (1975) made it a full-fledged 22nd state. [cite: 438, 442]"
+    },
+    {
+      "question": "The State of Nagaland was formed in 1963 by taking territories out of which state?",
+      "options": [
+        "Manipur.",
+        "West Bengal.",
+        "Assam.",
+        "Arunachal Pradesh."
+      ],
+      "correct": 2,
+      "explanation": "In 1963, the State of Nagaland was formed by taking the Naga Hills and Tuensang area out of the state of Assam. [cite: 415]"
+    },
+    {
+      "question": "Which act bifurcated the State of Jammu and Kashmir into two separate Union Territories?",
+      "options": [
+        "The Constitution (Application to Jammu and Kashmir) Order, 2019.",
+        "Jammu and Kashmir Reorganisation Act, 2019.",
+        "State of Jammu and Kashmir Act, 1954.",
+        "The 69th Constitutional Amendment Act."
+      ],
+      "correct": 1,
+      "explanation": "The Jammu and Kashmir Reorganisation Act, 2019, bifurcated the erstwhile State of Jammu and Kashmir into the union territory of Jammu and Kashmir and the union territory of Ladakh. [cite: 464, 468]"
+    },
+    {
+      "question": "In 1973, which name was changed to 'Karnataka'?",
+      "options": [
+        "Madras.",
+        "United Provinces.",
+        "Mysore.",
+        "Orissa."
+      ],
+      "correct": 2,
+      "explanation": "In 1973, Mysore was renamed 'Karnataka'. [cite: 476]"
+    },
+    {
+      "question": "Which of the following statements correctly distinguishes between 'citizens' and 'aliens' in the context of the Indian State?",
+      "options": [
+        "Aliens are full members of the Indian State but do not owe allegiance to it.",
+        "Citizens enjoy only civil rights, while aliens enjoy only political rights.",
+        "Citizens are full members of the Indian State and enjoy all civil and political rights.",
+        "Friendly aliens enjoy protection against arrest and detention under Article 22, while enemy aliens do not."
+      ],
+      "correct": 2,
+      "explanation": "According to the text, citizens are full members of the Indian State, owe allegiance to it, and enjoy all civil and political rights. Aliens, being citizens of other states, do not enjoy all these rights."
+    },
+    {
+      "question": "What is the primary difference in rights between 'friendly aliens' and 'enemy aliens' as mentioned in the document?",
+      "options": [
+        "Friendly aliens are at war with India, while enemy aliens have cordial relations.",
+        "Enemy aliens enjoy fewer rights, specifically lacking protection against arrest and detention under Article 22.",
+        "Enemy aliens are eligible for public employment, whereas friendly aliens are not.",
+        "Friendly aliens cannot hold property in India, while enemy aliens can."
+      ],
+      "correct": 1,
+      "explanation": "Enemy aliens are subjects of a country at war with India and enjoy lesser rights than friendly aliens; specifically, they do not enjoy protection against arrest and detention under Article 22."
+    },
+    {
+      "question": "Under the Indian Constitution, which specific right is conferred exclusively on citizens and denied to aliens?",
+      "options": [
+        "Right to equality before the law.",
+        "Right to life and personal liberty.",
+        "Right to equality of opportunity in the matter of public employment under Article 16.",
+        "Right to freedom of religion."
+      ],
+      "correct": 2,
+      "explanation": "The Constitution confers the right to equality of opportunity in public employment (Article 16) specifically on citizens and denies it to aliens."
+    },
+    {
+      "question": "Which constitutional article protects citizens against discrimination on grounds of religion, race, caste, sex, or place of birth?",
+      "options": [
+        "Article 14",
+        "Article 15",
+        "Article 19",
+        "Article 21"
+      ],
+      "correct": 1,
+      "explanation": "Article 15 provides the right against discrimination on grounds of religion, race, caste, sex, or place of birth."
+    },
+    {
+      "question": "According to the document, which of the following public offices can only be held by a citizen of India?",
+      "options": [
+        "Chief Executive Officer of a State Bank",
+        "Attorney General of India",
+        "District Magistrate",
+        "Solicitor General of India"
+      ],
+      "correct": 1,
+      "explanation": "The eligibility to hold certain public offices, including the Attorney General of India, is a privilege conferred specifically on citizens."
+    },
+    {
+      "question": "Regarding eligibility for the office of the President, how does Indian law differ from the law in the USA?",
+      "options": [
+        "In India, only citizens by birth are eligible, similar to the USA.",
+        "In India, only naturalised citizens are eligible, while in the USA only citizens by birth are.",
+        "In India, both citizens by birth and naturalised citizens are eligible, whereas in the USA, only citizens by birth are eligible.",
+        "There is no difference; both countries allow naturalised citizens to become President."
+      ],
+      "correct": 2,
+      "explanation": "The text states that in India, both citizens by birth and naturalised citizens can be President, but in the USA, only a citizen by birth is eligible."
+    },
+    {
+      "question": "How does the Indian federal system approach the concept of citizenship compared to the USA?",
+      "options": [
+        "India has dual citizenship like the USA to represent its federal character.",
+        "India provides for single citizenship (Indian citizenship) despite its federal structure.",
+        "India allows states to have their own separate citizenship status.",
+        "India follows a system where citizenship is determined solely by the state of residence."
+      ],
+      "correct": 1,
+      "explanation": "Though the Indian Constitution is federal and envisages a dual polity, it provides for only a single citizenship, unlike the USA which has double citizenship."
+    },
+    {
+      "question": "What was the primary reason mentioned for India adopting a system of single citizenship?",
+      "options": [
+        "To simplify the taxation system across different states.",
+        "To avoid the problem of discrimination and promote fraternity and unity.",
+        "To follow the model used in Australia and the USA.",
+        "To ensure that only those born in India can hold public office."
+      ],
+      "correct": 1,
+      "explanation": "Single citizenship was introduced to promote fraternity and unity, build an integrated nation, and avoid discrimination where a state might favor its own citizens."
+    },
+    {
+      "question": "Under which condition can Parliament prescribe 'residence' as a requirement for employment within a State?",
+      "options": [
+        "Under Article 14 to ensure local representation.",
+        "Under Article 16 to provide for certain employments or appointments in that state.",
+        "Under Article 19 to restrict movement of outsiders.",
+        "Under Article 21 to protect the life of residents."
+      ],
+      "correct": 1,
+      "explanation": "Article 16 allows Parliament to prescribe residence within a state or union territory as a condition for certain employments or appointments."
+    },
+    {
+      "question": "Why is the right of outsiders to enter or reside in tribal areas restricted under Article 19?",
+      "options": [
+        "To prevent overpopulation in remote geographic regions.",
+        "To protect the distinctive culture, language, and customs of scheduled tribes.",
+        "Because tribal areas are considered enemy territories during peacetime.",
+        "To ensure that only the Union government can manage tribal resources."
+      ],
+      "correct": 1,
+      "explanation": "Restrictions on movement and residence in tribal areas are meant to protect the distinctive culture, language, customs, and property of scheduled tribes against exploitation."
+    },
+    {
+      "question": "What was the significance of Article 35-A regarding Jammu and Kashmir before 2019?",
+      "options": [
+        "It allowed the Union to declare an emergency in the state.",
+        "It empowered the state legislature to define permanent residents and confer special rights on them.",
+        "It mandated that all Indian citizens have equal rights to buy land in the state.",
+        "It provided for dual citizenship for the residents of Jammu and Kashmir."
+      ],
+      "correct": 1,
+      "explanation": "Article 35-A empowered the legislature of Jammu and Kashmir to define 'permanent residents' and confer special rights regarding employment, property acquisition, and settlement."
+    },
+    {
+      "question": "Which body is empowered by the Constitution to enact laws regarding the acquisition and loss of citizenship?",
+      "options": [
+        "The Supreme Court of India",
+        "The President of India",
+        "The Parliament",
+        "The State Legislatures"
+      ],
+      "correct": 2,
+      "explanation": "The Constitution empowers the Parliament to enact laws to provide for the acquisition or loss of citizenship and any other matter relating to it."
+    },
+    {
+      "question": "According to Article 5, what is one of the conditions for a person domiciled in India to become a citizen at the commencement of the Constitution?",
+      "options": [
+        "The person must have been born in undivided India.",
+        "The person must have been an ordinarily resident in India for five years immediately before the commencement.",
+        "The person must have migrated from Pakistan after March 1, 1947.",
+        "The person must have taken an oath of allegiance before January 26, 1950."
+      ],
+      "correct": 1,
+      "explanation": "A person domiciled in India became a citizen if they were born in India, or either parent was born in India, or they were ordinarily resident for five years preceding the Constitution's commencement."
+    },
+    {
+      "question": "A person migrating from Pakistan to India after July 19, 1948, could become a citizen only if they were resident in India for how long before their application?",
+      "options": [
+        "One year",
+        "Six months",
+        "Two years",
+        "Five years"
+      ],
+      "correct": 1,
+      "explanation": "Persons migrating after July 19, 1948, had to be resident in India for six months preceding the date of their application for registration."
+    },
+    {
+      "question": "What is the constitutional provision for a person who migrated to Pakistan from India after March 1, 1947, but later returned for resettlement?",
+      "options": [
+        "They were permanently barred from Indian citizenship.",
+        "They automatically regained citizenship upon entry.",
+        "They could become a citizen after being resident in India for six months preceding their application.",
+        "They had to wait for the Citizenship Act of 1955 to be enacted."
+      ],
+      "correct": 2,
+      "explanation": "A person who migrated to Pakistan after March 1, 1947, but returned for resettlement could become a citizen if resident in India for six months before applying."
+    },
+    {
+      "question": "How can a person of Indian origin residing outside undivided India acquire citizenship according to Article 8?",
+      "options": [
+        "By simply returning to India to live.",
+        "By being born to parents who are already Indian citizens.",
+        "By registration by the diplomatic or consular representative of India in the country of their residence.",
+        "By serving in the Indian armed forces for three years."
+      ],
+      "correct": 2,
+      "explanation": "Article 8 allows persons of Indian origin residing outside India to become citizens if registered by the diplomatic or consular representative of India in that country."
+    },
+    {
+      "question": "Under the Citizenship Act 1955, how is citizenship by birth determined for a person born in India on or after December 3, 2004?",
+      "options": [
+        "Irrespective of the nationality of the parents.",
+        "Only if both parents are citizens of India.",
+        "If both parents are citizens, or one is a citizen and the other is not an illegal migrant.",
+        "If the father is an Indian citizen at the time of birth."
+      ],
+      "correct": 2,
+      "explanation": "For those born on or after December 3, 2004, they are citizens if both parents are citizens or one is a citizen and the other is not an illegal migrant."
+    },
+    {
+      "question": "Which group is specifically excluded from acquiring Indian citizenship by birth?",
+      "options": [
+        "Children of naturalised citizens.",
+        "Children of foreign diplomats posted in India.",
+        "Children of persons who migrated from Pakistan before 1948.",
+        "Children born in India to parents from SAARC countries."
+      ],
+      "correct": 1,
+      "explanation": "The children of foreign diplomats posted in India and enemy aliens cannot acquire Indian citizenship by birth."
+    },
+    {
+      "question": "For a person born outside India on or after December 10, 1992, but before December 3, 2004, how is citizenship by descent determined?",
+      "options": [
+        "Only if the father was a citizen of India.",
+        "If either of his/her parents was a citizen of India at the time of birth.",
+        "By registration at an Indian consulate within 6 months.",
+        "Only if the mother was a citizen of India."
+      ],
+      "correct": 1,
+      "explanation": "A person born outside India during this period is a citizen if either parent was a citizen of India at the time of birth."
+    },
+    {
+      "question": "A person of Indian origin seeking citizenship by registration must be ordinarily resident in India for how many years before making an application?",
+      "options": [
+        "Five years",
+        "Seven years",
+        "Ten years",
+        "Twelve years"
+      ],
+      "correct": 1,
+      "explanation": "A person of Indian origin must be ordinarily resident in India for seven years before applying for citizenship by registration."
+    },
+    {
+      "question": "What is the residential requirement for the 'aggregate period' for naturalisation as amended by the Citizenship (Amendment) Act, 2019, for specific minority communities from Afghanistan, Bangladesh, or Pakistan?",
+      "options": [
+        "Not less than eleven years",
+        "Not less than seven years",
+        "Not less than five years",
+        "Not less than three years"
+      ],
+      "correct": 2,
+      "explanation": "The 2019 Amendment reduced the aggregate period of residence from eleven years to five years for Hindus, Sikhs, Buddhists, Jains, Parsis, or Christians from those three countries."
+    },
+    {
+      "question": "The Government of India can waive conditions for naturalisation if a person has rendered distinguished service in which field?",
+      "options": [
+        "Military intelligence",
+        "Corporate management",
+        "Science, philosophy, art, or literature",
+        "Sports and athletics"
+      ],
+      "correct": 2,
+      "explanation": "Conditions for naturalisation can be waived for individuals who have rendered distinguished service to science, philosophy, art, literature, world peace, or human progress."
+    },
+    {
+      "question": "When a foreign territory becomes part of India, how do the people of that territory become citizens?",
+      "options": [
+        "They must all apply for naturalisation individually.",
+        "The Government of India specifies the persons who shall be citizens by a notified order.",
+        "They automatically become citizens without any government intervention.",
+        "They are treated as 'friendly aliens' for ten years before becoming citizens."
+      ],
+      "correct": 1,
+      "explanation": "When territory is incorporated, the Government of India specifies which people from that territory shall be citizens from a notified date."
+    },
+    {
+      "question": "Under the Assam Accord provisions, what happened to persons who came to Assam from Bangladesh between January 1, 1966, and March 25, 1971?",
+      "options": [
+        "They became citizens immediately upon entry.",
+        "They were deported to Bangladesh.",
+        "They could register and become citizens after 10 years from the date of detection as a foreigner.",
+        "They were never eligible for citizenship."
+      ],
+      "correct": 2,
+      "explanation": "Such persons detected as foreigners must register; they are deemed citizens after 10 years from the date of detection, though they have other rights except the right to vote in the interim."
+    },
+    {
+      "question": "Which of the following is a way to lose Indian citizenship according to the Citizenship Act, 1955?",
+      "options": [
+        "Acquiring property in a foreign country.",
+        "Deprivation by the Central Government.",
+        "Residing in a different Indian state for more than 10 years.",
+        "Failing to vote in two consecutive general elections."
+      ],
+      "correct": 1,
+      "explanation": "The Act prescribes three ways of losing citizenship: renunciation, termination, and deprivation."
+    },
+    {
+      "question": "What happens to the citizenship of a minor child when their parent renounces Indian citizenship?",
+      "options": [
+        "The child retains Indian citizenship.",
+        "The child also loses Indian citizenship.",
+        "The child's citizenship is suspended until they reach age 21.",
+        "The child becomes a 'friendly alien'."
+      ],
+      "correct": 1,
+      "explanation": "When a person renounces Indian citizenship, every minor child of that person also loses Indian citizenship."
+    },
+    {
+      "question": "Termination of citizenship happens automatically when an Indian citizen voluntarily acquires the citizenship of another country, except during which situation?",
+      "options": [
+        "During a national election.",
+        "During a war in which India is engaged.",
+        "When the person is a student abroad.",
+        "When the person is working for an international organization."
+      ],
+      "correct": 1,
+      "explanation": "The provision for automatic termination of citizenship does not apply during a war in which India is engaged."
+    },
+    {
+      "question": "On what grounds can the Central Government compulsorily deprive a person of their citizenship?",
+      "options": [
+        "If the citizen has moved to another state without notifying the local authorities.",
+        "If the citizen has shown disloyalty to the Constitution of India.",
+        "If the citizen fails to pay income tax for three consecutive years.",
+        "If the citizen marries a foreign national."
+      ],
+      "correct": 1,
+      "explanation": "Deprivation can occur if the citizen has shown disloyalty to the Constitution of India."
+    },
+    {
+      "question": "A registered or naturalised citizen can be deprived of citizenship if, within five years of registration/naturalisation, they are imprisoned in any country for at least:",
+      "options": [
+        "Six months",
+        "One year",
+        "Two years",
+        "Five years"
+      ],
+      "correct": 2,
+      "explanation": "A citizen can be deprived if they have been imprisoned in any country for two years within five years after registration or naturalisation."
+    },
+    {
+      "question": "Who chaired the High Level Committee on the Indian Diaspora that recommended the grant of dual citizenship (which led to the OCI scheme)?",
+      "options": [
+        "L.M. Singhvi",
+        "B.R. Ambedkar",
+        "Sardar Patel",
+        "Manmohan Singh"
+      ],
+      "correct": 0,
+      "explanation": "The committee was set up under the Chairmanship of L.M. Singhvi."
+    },
+    {
+      "question": "What was the result of the Citizenship (Amendment) Act, 2015, regarding the PIO and OCI schemes?",
+      "options": [
+        "It abolished the OCI scheme and kept the PIO scheme.",
+        "It merged the PIO card scheme into the OCI card scheme.",
+        "It created a third category called 'Global Indian Citizen'.",
+        "It restricted both schemes to only 16 countries."
+      ],
+      "correct": 1,
+      "explanation": "The 2015 Amendment introduced a new scheme by merging the PIO card scheme and the OCI card scheme into the 'Overseas Citizen of India Cardholder' scheme."
+    },
+    {
+      "question": "An Overseas Citizen of India (OCI) Cardholder is NOT eligible for which of the following rights?",
+      "options": [
+        "Multiple entry lifelong visa for visiting India.",
+        "Equality of opportunity in matters of public employment under Article 16.",
+        "Parity with NRIs in inter-country adoption.",
+        "Exemption from registration with FRRO for any length of stay."
+      ],
+      "correct": 1,
+      "explanation": "OCI cardholders are specifically not entitled to the right to equality of opportunity in public employment (Article 16)."
+    },
+    {
+      "question": "Which of the following offices is an OCI Cardholder prohibited from holding?",
+      "options": [
+        "Teaching faculty in IITs",
+        "Judge of the Supreme Court",
+        "Employee in a private software firm",
+        "Non-Resident Indian seat in a university"
+      ],
+      "correct": 1,
+      "explanation": "OCI cardholders are not eligible for appointment as a Judge of the Supreme Court or High Court."
+    },
+    {
+      "question": "Which countries' former citizens (or their descendants) are specifically excluded from applying for OCI Cardholder status?",
+      "options": [
+        "All SAARC countries",
+        "Pakistan and Bangladesh",
+        "China and Afghanistan",
+        "Only Pakistan"
+      ],
+      "correct": 1,
+      "explanation": "A person who was a citizen of Pakistan or Bangladesh (or has parents/grandparents from there) is not eligible for registration as an OCI cardholder."
+    },
+    {
+      "question": "According to the elements of comparison, what is a primary requirement for an OCI Cardholder to apply for Indian citizenship?",
+      "options": [
+        "They must renounce their foreign passport immediately upon getting an OCI card.",
+        "They must be registered as an OCI for 5 years and be ordinarily resident in India for 12 months.",
+        "They must serve in the Indian Government for 5 years.",
+        "They must be born in India to parents who are OCI cardholders."
+      ],
+      "correct": 1,
+      "explanation": "An OCI cardholder for 5 years who is resident in India for twelve months before the application is eligible for Indian citizenship."
+    },
+    {
+      "question": "Which of the following activities requires an OCI Cardholder to obtain 'special permission' or a 'special permit'?",
+      "options": [
+        "Visiting national parks and museums.",
+        "Undertaking missionary or journalistic activities.",
+        "Traveling in domestic flight sectors.",
+        "Purchasing residential property."
+      ],
+      "correct": 1,
+      "explanation": "OCI cardholders must obtain special permission to undertake research, missionary, Tabligh, mountaineering, or journalistic activities."
+    },
+    {
+      "question": "In terms of 'ordinarily resident' status for application purposes in India, how long must a person stay in India?",
+      "options": [
+        "3 months",
+        "6 months",
+        "12 months",
+        "2 years"
+      ],
+      "correct": 1,
+      "explanation": "For the purpose of applying (e.g., at FRROs), 'ordinarily resident' means staying in a country or India for a continuous period of 6 months."
+    },
+    {
+      "question": "According to the document, what is the 'Non-Resident Indian (NRI)' defined as?",
+      "options": [
+        "A person of Indian origin holding a foreign passport.",
+        "An Indian citizen who is ordinarily residing outside India and holds an Indian passport.",
+        "A person who has renounced Indian citizenship.",
+        "A person registered under the OCI scheme living in India."
+      ],
+      "correct": 1,
+      "explanation": "An NRI is an Indian citizen who is ordinarily residing outside India and holds an Indian passport."
+    },
+    {
+      "question": "Which Article of the Constitution deals with the 'Continuance of the rights of citizenship'?",
+      "options": [
+        "Article 9",
+        "Article 10",
+        "Article 11",
+        "Article 5"
+      ],
+      "correct": 1,
+      "explanation": "Article 10 deals with the continuance of the rights of citizenship."
+    },
+    {
+      "question": "Under the Citizenship (Amendment) Act, 2019, on what additional ground can the registration of an OCI cardholder be cancelled?",
+      "options": [
+        "If the cardholder marries an Indian citizen.",
+        "If the cardholder has violated the provisions of the Citizenship Act or any other specified law.",
+        "If the cardholder stays outside India for more than one year.",
+        "If the cardholder loses their foreign passport."
+      ],
+      "correct": 1,
+      "explanation": "The 2019 Amendment added that OCI registration can be cancelled if the cardholder violates the Citizenship Act or any other law specified by the Central Government."
+    }
+]

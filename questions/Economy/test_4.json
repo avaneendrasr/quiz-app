@@ -1,0 +1,2477 @@
+[
+  {
+    "question": "GST compensation cess was introduced for:",
+    "options": [
+      "Increasing exports",
+      "Reducing imports",
+      "Compensating states for revenue loss",
+      "Reducing inflation"
+    ],
+    "correct": 2,
+    "explanation": "GST compensation cess compensates states for revenue shortfall post-GST implementation."
+  },
+  {
+    "question": "Which tax is imposed on company profits?",
+    "options": [
+      "Sales tax",
+      "Income tax",
+      "Excise duty",
+      "Corporation tax"
+    ],
+    "correct": 3,
+    "explanation": "Corporation tax is levied on the net income of companies."
+  },
+  {
+    "question": "Minimum Alternate Tax (MAT) is applied when:",
+    "options": [
+      "Company has zero taxable income",
+      "Company has losses",
+      "Company exports goods",
+      "Company makes high profits"
+    ],
+    "correct": 0,
+    "explanation": "MAT ensures companies with zero taxable income still pay tax on book profits."
+  },
+  {
+    "question": "Capital Gains Tax is levied on:",
+    "options": [
+      "Imports",
+      "Corporate income",
+      "Profit from sale of assets",
+      "Income from salaries"
+    ],
+    "correct": 2,
+    "explanation": "Capital gains tax applies to profits from sale of capital assets."
+  },
+  {
+    "question": "Sales tax within a state is levied by:",
+    "options": [
+      "State government",
+      "Local bodies",
+      "Private agencies",
+      "Central government"
+    ],
+    "correct": 0,
+    "explanation": "Sales tax on intra-state sales is levied by the state government."
+  },
+  {
+    "question": "Central Sales Tax is levied on:",
+    "options": [
+      "Inter-state trade",
+      "Intra-state trade",
+      "Local sales",
+      "International trade"
+    ],
+    "correct": 0,
+    "explanation": "Central Sales Tax is levied on inter-state sales."
+  },
+  {
+    "question": "Which type of tax is based on value?",
+    "options": [
+      "Ad valorem tax",
+      "Direct tax",
+      "Indirect tax",
+      "Specific tax"
+    ],
+    "correct": 0,
+    "explanation": "Ad valorem tax is levied based on the value of goods."
+  },
+  {
+    "question": "Specific tax is based on:",
+    "options": [
+      "Value of goods",
+      "Income level",
+      "Profit margins",
+      "Physical characteristics like weight or length"
+    ],
+    "correct": 3,
+    "explanation": "Specific tax depends on characteristics such as weight, length, etc."
+  },
+  {
+    "question": "Progressive taxation implies:",
+    "options": [
+      "No tax for high income",
+      "Lower income leads to higher tax",
+      "Same tax for all",
+      "Higher income leads to higher tax"
+    ],
+    "correct": 3,
+    "explanation": "Progressive taxation increases tax rates with income."
+  },
+  {
+    "question": "Regressive taxation implies:",
+    "options": [
+      "No tax for low income",
+      "Higher income, lower tax burden",
+      "Higher income, higher tax",
+      "Equal tax for all"
+    ],
+    "correct": 1,
+    "explanation": "Regressive taxation places relatively lower burden on higher incomes."
+  },
+  {
+    "question": "Which concept addresses profit shifting by companies?",
+    "options": [
+      "VAT",
+      "Base erosion and profit shifting",
+      "Excise duty",
+      "GST"
+    ],
+    "correct": 1,
+    "explanation": "Base erosion and profit shifting deals with companies shifting profits to reduce taxes."
+  },
+  {
+    "question": "GAAR stands for:",
+    "options": [
+      "Gross Annual Audit Report",
+      "General Anti Avoidance Rules",
+      "Government Accounting and Audit Rules",
+      "General Asset Allocation Ratio"
+    ],
+    "correct": 1,
+    "explanation": "GAAR refers to General Anti Avoidance Rules to curb tax avoidance."
+  },
+  {
+    "question": "What is the purpose of Advance Pricing Agreements?",
+    "options": [
+      "Managing transfer pricing issues",
+      "Fixing tax rates",
+      "Reducing imports",
+      "Increasing exports"
+    ],
+    "correct": 0,
+    "explanation": "Advance Pricing Agreements help manage transfer pricing based on arm’s length principle."
+  },
+  {
+    "question": "External Commercial Borrowings refer to:",
+    "options": [
+      "Government internal loans",
+      "Public savings schemes",
+      "Borrowing from outside India by entities",
+      "Loans from RBI"
+    ],
+    "correct": 2,
+    "explanation": "External Commercial Borrowings involve entities borrowing from outside India."
+  },
+  {
+    "question": "FII investments in government bonds are counted as:",
+    "options": [
+      "Corporate debt",
+      "External debt",
+      "Internal debt",
+      "Public savings"
+    ],
+    "correct": 1,
+    "explanation": "FII investments are external as they involve foreign investors."
+  },
+  {
+    "question": "Regarding the 'Place of Effective Management' (POEM) in Indian taxation, consider the following statements:\n1. It was introduced to determine the residency status of companies to prevent tax evasion.\n2. Under POEM, a company is considered a resident of India if its actual management is situated in India.\n3. POEM provisions focus more on the substance of management rather than its legal form.\nWhich of the statements given above are correct?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "correct": 2,
+    "explanation": "According to the PDF, POEM was introduced (effective 2018) to address tax evasion by companies holding meetings in low-tax jurisdictions. It establishes that a company is a resident if its 'actual management' is in India, emphasizing that 'Substance will be more conducive than form.'"
+  },
+  {
+    "question": "With reference to 'Base Erosion and Profit Shifting' (BEPS), which of the following are mentioned as strategies used by companies to minimize tax liabilities?\n1. Transfer Pricing\n2. Intellectual Property Migration\n3. Debt financing\nSelect the correct answer using the code given below:",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 2 only"
+    ],
+    "correct": 2,
+    "explanation": "The document explicitly lists Transfer Pricing, Intellectual Property Migration, and Debt financing as ways companies artificially locate profits in favorable tax jurisdictions to minimize overall tax liabilities under BEPS."
+  },
+  {
+    "question": "What is the primary difference between 'Juridical Double Taxation' and 'Economic Double Taxation' as described in the document?",
+    "options": [
+      "Juridical refers to domestic taxes, while Economic refers to international taxes.",
+      "Juridical applies only to individuals, while Economic applies only to MNCs.",
+      "Juridical involves the same person being taxed in two jurisdictions, while Economic involves the same income being taxed in the hands of different persons.",
+      "There is no difference; both terms are used interchangeably for tax evasion."
+    ],
+    "correct": 2,
+    "explanation": "The document defines Juridical Double Taxation as occurring across 'double jurisdictions' for the same entity, whereas Economic Double Taxation occurs when the 'same economic activity' is taxed twice, such as profits being taxed at the subsidiary level and then as dividends for the parent company."
+  },
+  {
+    "question": "Which international organization is leading the 'Inclusive Framework on BEPS' to implement measures against tax avoidance?",
+    "options": [
+      "International Monetary Fund (IMF)",
+      "World Bank",
+      "World Trade Organization (WTO)",
+      "Organization for Economic Co-operation and Development (OECD)"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states that the 'OECD Inclusive Framework on BEPS' involves 140 countries working to implement 15 measures to tackle tax avoidance."
+  },
+  {
+    "question": "In the context of the OECD's 'Two Pillar Plan', what is the objective of Pillar I?",
+    "options": [
+      "Reallocation of a portion of profits of large digital companies to countries where they have market presence.",
+      "Imposing a uniform tax on all cross-border transactions.",
+      "Eliminating the need for Double Tax Avoidance Agreements.",
+      "Establishing a 15% Global Corporate Minimum Tax."
+    ],
+    "correct": 0,
+    "explanation": "Pillar I involves the 'reallocation of portion of profit of large digital companies' to countries where they have a 'market presence,' regardless of physical presence."
+  },
+  {
+    "question": "Regarding 'Pillar II' of the global tax agreement, which of the following is correct?",
+    "options": [
+      "It proposes a 10% global minimum tax for all companies.",
+      "India has not agreed to this pillar due to revenue concerns.",
+      "It includes an 'Income Inclusion Rule' to tax a subsidiary's income in low-tax jurisdictions.",
+      "It applies only to companies with revenue greater than €20 billion."
+    ],
+    "correct": 2,
+    "explanation": "Pillar II includes the 'Income Inclusion Rule' where a subsidiary's income in a low-tax jurisdiction is included in the taxable income of the parent company. It sets a 15% Global Corporate Minimum Tax."
+  },
+  {
+    "question": "How does 'Transfer Pricing' lead to tax evasion according to the provided text?",
+    "options": [
+      "By paying higher taxes in both jurisdictions to ensure compliance.",
+      "By increasing the overall profit of the entire enterprise.",
+      "By shifting profits from a high-tax country to a low-tax country through under-pricing or over-pricing within the same enterprise.",
+      "By selling goods at market price to unrelated parties."
+    ],
+    "correct": 2,
+    "explanation": "Transfer pricing involves a division in a high-tax country selling to a division in a low-tax country at lower than market prices, resulting in 'higher profit' in the low-tax country and 'low profit' in the high-tax country, thereby evading tax."
+  },
+  {
+    "question": "What does the 'Arm's Length Principle' ensure in taxation?",
+    "options": [
+      "That government authorities cannot audit international transactions.",
+      "That transactions between related parties are priced as if they were between unrelated/independent parties.",
+      "That subsidiaries are legally separated from their parent companies.",
+      "That companies always pay the highest possible tax."
+    ],
+    "correct": 1,
+    "explanation": "The document explains that 'Arm's Length Principle' ensures transactions between 'related parties' are comparable to those between 'unrelated parties' to prevent price manipulation."
+  },
+  {
+    "question": "The 'Vodafone Case' mentioned in the PDF is an example of which concept?",
+    "options": [
+      "Currency Swap Agreement",
+      "Direct Transfer of assets",
+      "Indirect Transfer of ownership",
+      "Double Taxation Avoidance"
+    ],
+    "correct": 2,
+    "explanation": "The Vodafone case is cited under 'Indirect Transfers,' where the ownership of a parent company (CGP Ltd in Cayman Islands) was transferred, which owned the Indian subsidiary (Hutch India), thus shifting controlling interests outside Indian jurisdiction."
+  },
+  {
+    "question": "General Anti-Avoidance Rules (GAAR) in India were recommended by which committee?",
+    "options": [
+      "Marshall Islands Committee",
+      "Piyush Goyal Committee",
+      "Parthasarthi Shome Committee",
+      "S.S. Tarapore Committee"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that GAAR was 'recommended by Parthasarthi Shome committee to solve the situation of tax evasion.'"
+  },
+  {
+    "question": "Under GAAR, what are the two main tests used to determine if an arrangement is for tax avoidance?",
+    "options": [
+      "Purpose Test and Tainted Element Test",
+      "Domestic Test and Cross-border Test",
+      "Revenue Test and Asset Test",
+      "Resident Test and Non-Resident Test"
+    ],
+    "correct": 0,
+    "explanation": "The 'conditions for applicability' of GAAR include the '(a) Purpose Test' (main purpose to avoid tax) and '(b) Tainted Element Test' (lacks commercial substance or misuses IT provisions)."
+  },
+  {
+    "question": "According to the document, what is a key difference between a 'Cess' and a 'Surcharge'?",
+    "options": [
+      "A Cess is levied on the tax base, while a Surcharge is levied on the total tax liability.",
+      "States receive a share of Cesses but not Surcharges.",
+      "A Cess is earmarked for a designated fund, while a Surcharge goes to the Consolidated Fund of India for general purposes.",
+      "A Cess is for general purposes, while a Surcharge is for a specific purpose."
+    ],
+    "correct": 2,
+    "explanation": "A Cess is 'earmarked for a designated fund' for a specific purpose (e.g., Education), whereas a Surcharge is to 'raise additional revenue for general purposes' and goes to the CFI."
+  },
+  {
+    "question": "Why do Indian states demand a cap on Cesses and Surcharges?",
+    "options": [
+      "Because Surcharges reduce the income of individuals.",
+      "Because Cesses and Surcharges are computed only on corporate tax.",
+      "Because Cesses are only collected by state governments.",
+      "Because they are not part of the divisible pool of taxes under Article 270."
+    ],
+    "correct": 3,
+    "explanation": "Article 270 'excludes' Cesses and Surcharges from the 'divisible pool of taxes,' which 'reduces the pool of taxes' shared with states and limits their fiscal flexibility."
+  },
+  {
+    "question": "In the Balance of Payments (BoP) framework, which of the following is categorized under the 'Capital Account'?",
+    "options": [
+      "Unilateral Transfers like remittances",
+      "Services (Invisibles)",
+      "Merchandise exports and imports",
+      "Foreign Direct Investment (FDI) and Loans"
+    ],
+    "correct": 3,
+    "explanation": "The Capital Account includes transactions that create a 'liability' or 'future obligation,' specifically listing 'Loans/Investment (+)', FDI, and External Commercial Borrowings."
+  },
+  {
+    "question": "What does a negative sign (-) indicate in the 'Total change in reserves' item of India's BoP statement, as per the PDF?",
+    "options": [
+      "An increase in foreign exchange reserves.",
+      "A decrease in foreign exchange reserves.",
+      "A capital account deficit.",
+      "A current account deficit."
+    ],
+    "correct": 0,
+    "explanation": "In the BoP table, the convention is that a '-' (minus) sign 'shows an increase' in reserves (Increase in Forex)."
+  },
+  {
+    "question": "Which of the following is a characteristic of Foreign Portfolio Investment (FPI) compared to FDI?",
+    "options": [
+      "It is always through the 'approval route' only.",
+      "Long-term investment with transfer of technology.",
+      "Intention to exercise control over the company.",
+      "Investment is generally less than 10% in a company and is considered 'Hot Money'."
+    ],
+    "correct": 3,
+    "explanation": "FPI (or FII) is characterized by having 'No intention to exercise control,' being '< 10%' of investment, and is termed 'Hot Money' as investors seek opportunities to earn money."
+  },
+  {
+    "question": "Before 1971, the international exchange rate system was based on:",
+    "options": [
+      "A basket of 36 currencies monitored by the RBI.",
+      "The Gold Standard, where the US Dollar was pegged to gold.",
+      "Currency Swap Agreements between all nations.",
+      "Floating exchange rates determined by the market."
+    ],
+    "correct": 1,
+    "explanation": "The text states that 'Before 1971 - $ - Gold standard' existed where the Dollar was fixed to gold and other currencies were fixed to the Dollar."
+  },
+  {
+    "question": "Which of the following would lead to an 'Increase in Demand' for US Dollars in the Indian market?",
+    "options": [
+      "Indians sending remittances to family members abroad.",
+      "Foreign tourists visiting India.",
+      "Indian exporters receiving payments from abroad.",
+      "Foreign investors investing in Indian start-ups."
+    ],
+    "correct": 0,
+    "explanation": "Demand for dollars comes from 'Importers' and 'Indians sending remittance abroad.' Exporters and foreign investors contribute to the 'supply' of dollars."
+  },
+  {
+    "question": "What is the difference between 'Devaluation' and 'Depreciation' of a currency as per the document?",
+    "options": [
+      "Devaluation happens in a fixed exchange rate system by the authority, while Depreciation is market-determined.",
+      "Devaluation is market-based, while Depreciation is government-mandated.",
+      "Devaluation always leads to lower inflation, while Depreciation leads to higher inflation.",
+      "They are exactly the same and used in the same exchange rate systems."
+    ],
+    "correct": 0,
+    "explanation": "Depreciation is 'Market Based' (e.g., 1$ = 86.67), whereas Devaluation occurs when the 'Authority -> in fixed XRS - changes' the rate."
+  },
+  {
+    "question": "The 'Real Effective Exchange Rate' (REER) differs from the 'Nominal Effective Exchange Rate' (NEER) because REER takes into account:",
+    "options": [
+      "Interest rate differentials only.",
+      "Only the supply of gold in the central bank.",
+      "The weightage of only one major trading partner.",
+      "Inflation differentials between domestic and foreign countries."
+    ],
+    "correct": 3,
+    "explanation": "REER is described as the 'Real effective exchange rates' which 'take into a/c - inflation' as compared to the domestic country vs a basket of world currencies."
+  },
+  {
+    "question": "Which of the following factors would cause the 'Supply Curve' of US Dollars to shift to the right (increase in supply)?",
+    "options": [
+      "Increase in domestic interest rates relative to US interest rates.",
+      "US inflation being lower than domestic inflation.",
+      "Speculative demand by domestic citizens to hold Dollars.",
+      "Indians traveling to the USA for tourism."
+    ],
+    "correct": 0,
+    "explanation": "The supply of dollars increases when 'EU (domestic) interest rates ↑' because Americans would want to save money in those banks, or when US inflation is higher than domestic inflation."
+  },
+  {
+    "question": "According to the PDF, what was a major trigger for the 'East Asian Crisis' in the 1990s?",
+    "options": [
+      "Allowing full convertibility on the capital account followed by a sudden flight of capital.",
+      "Strict government control over imports and exports.",
+      "High inflation in the US leading to a global gold shortage.",
+      "A total ban on foreign direct investment."
+    ],
+    "correct": 0,
+    "explanation": "The 1990s crisis occurred because 'Tigers economies' allowed 'full convertibility in economy, on capital a/c' which triggered huge inflows and later an 'expulsion' (outflow) that central banks couldn't stabilize."
+  },
+  {
+    "question": "The S.S. Tarapore Committee recommended that India should open its capital account only when:",
+    "options": [
+      "The exchange rate is fixed by the government.",
+      "The US Dollar is no longer the global reserve currency.",
+      "All other countries agree to a currency swap agreement.",
+      "The economy is stable with strong fundamentals like controlled CAD and fiscal deficit."
+    ],
+    "correct": 3,
+    "explanation": "The committee suggested to 'open capital a/c when Stable economy' with 'strong fundamentals' such as low CAD and fiscal deficit."
+  },
+  {
+    "question": "What is the core concept of a 'Currency Swap Agreement' as per the document?",
+    "options": [
+      "Countries agree to accept each other's own currency for trade instead of a global reserve currency like the Dollar.",
+      "A central bank swaps its gold for another country's currency.",
+      "It is a legal requirement for any company to set up a POEM in India.",
+      "Countries agree to trade only in US Dollars to ensure stability."
+    ],
+    "correct": 0,
+    "explanation": "Currency swap means countries will 'either accept -> own currency' because 'till now - all countries want to trade in $,' allowing them to bypass the global reserve currency."
+  },
+  {
+    "question": "How does a 'Low value of currency' (depreciated/devalued) typically impact a domestic economy?",
+    "options": [
+      "It makes exports more competitive and can lead to more employment in domestic industries.",
+      "Exports become more expensive and imports become cheaper.",
+      "It leads to higher unemployment in domestic industries.",
+      "It always results in low domestic inflation."
+    ],
+    "correct": 0,
+    "explanation": "A low value of currency results in 'More competitive exports' and 'More employment in domestic industries,' although it may also cause 'Inflation.'"
+  },
+  {
+    "question": "The 'J-curve' effect explains that after a currency devaluation, the Current Account Balance (CAB):",
+    "options": [
+      "Remains constant regardless of time.",
+      "Deteriorates in the short term before improving in the long term.",
+      "Only improves if the country imports only luxury goods.",
+      "Improves immediately due to increased export volumes."
+    ],
+    "correct": 1,
+    "explanation": "The J-curve diagram (implied by text/labels) shows that in the 'short run time,' the increase in quantity is 'inelastic,' meaning the CAB may stay negative (-) before turning positive (+)."
+  },
+  {
+    "question": "What does the 'Marshall-Lerner Condition' relate to?",
+    "options": [
+      "The criteria for implementing GAAR.",
+      "The impact of devaluation on the Current Account Balance.",
+      "The rules for determining POEM residency.",
+      "The classification of FDI vs FPI."
+    ],
+    "correct": 1,
+    "explanation": "The Marshall-Lerner condition is mentioned in the context of 'How does devaluation of currency impact current a/c Balance?'"
+  },
+  {
+    "question": "What is 'Dutch Disease' as described in the final page of the document?",
+    "options": [
+      "A situation where a country has too many Double Tax Avoidance Agreements.",
+      "A medical condition affecting traders in the Netherlands.",
+      "The failure of a country to implement the OECD Pillar I plan.",
+      "When a high exchange rate (due to natural resources like oil) makes other export industries uncompetitive."
+    ],
+    "correct": 3,
+    "explanation": "Dutch Disease refers to a 'High exchange rate - due to oil supply' causing 'other industries' to be uncompetitive or 'cannot be setup,' leading to a lack of prosperity once the oil runs out."
+  },
+  {
+    "question": "Under the 'Indirect Transfer' rules, why did the Indian government seek to tax the Vodafone transaction?",
+    "options": [
+      "Because the payment was made in Indian Rupees.",
+      "Because the transaction involved the transfer of a parent company that owned an Indian subsidiary, effectively shifting controlling interests in India.",
+      "Because the transaction was conducted within the Cayman Islands' local stock exchange.",
+      "Because the buyer and seller were both Indian companies."
+    ],
+    "correct": 1,
+    "explanation": "The government sought tax because there was a 'shift in Controlling interests' of the Indian subsidiary ('Hutch India') through the sale of a parent company ('CGP Ltd') in a different jurisdiction."
+  },
+  {
+    "question": "According to the 'BoP' table for April-December 2021, which component of 'Invisibles' had the highest surplus?",
+    "options": [
+      "Transfers",
+      "Services",
+      "Banking Capital",
+      "Income"
+    ],
+    "correct": 1,
+    "explanation": "According to the table, 'Services' had a balance of 79.2, which is the highest among the invisible components (Transfers: 59.3, Income: -29.3)."
+  },
+  {
+    "question": "Which of the following institutions are collectively referred to as the 'Bretton Woods Twins' based on their origin at the 1944 conference?",
+    "options": [
+      "World Bank and WTO",
+      "WTO and IMF",
+      "GATT and IMF",
+      "IMF and World Bank"
+    ],
+    "correct": 3,
+    "explanation": "The PDF identifies the 'Bretton woods twins' as the International Monetary Fund (IMF) and the World Bank, both established following the Bretton Woods Conference in 1944."
+  },
+  {
+    "question": "In the context of the IMF, what does the 'System of Quotas' primarily determine for a member country?",
+    "options": [
+      "The specific products a country is allowed to export to the US.",
+      "The amount of gold the country must store in its own treasury.",
+      "Voting power, resource contributions, and maximum access to financing.",
+      "The number of representatives a country has in the WTO."
+    ],
+    "correct": 2,
+    "explanation": "According to the document, quotas determine resource contributions (financial resources a member is obliged to provide), voting power, and the maximum amount of loans (access to financing) a member can obtain."
+  },
+  {
+    "question": "Which organization within the World Bank Group is specifically responsible for providing concessional loans to Least Developed Countries (LDCs) and developing countries?",
+    "options": [
+      "International Centre for the Settlement of Investment Disputes (ICSID)",
+      "International Finance Corporation (IFC)",
+      "International Development Association (IDA)",
+      "Multilateral Investment Guarantee Agency (MIGA)"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that the IDA (International Development Association) provides loans to LDC/DC (Least Developed/Developing Countries) and gives concessional rates to newly independent countries."
+  },
+  {
+    "question": "The 'Most Favoured Nation' (MFN) principle under WTO implies which of the following?",
+    "options": [
+      "Developing countries must be given higher tariffs than developed countries.",
+      "A country should not discriminate between its trading partners.",
+      "A country must give its own domestic goods better treatment than foreign goods.",
+      "Only one country in the world can be the most favored at a time."
+    ],
+    "correct": 1,
+    "explanation": "The MFN principle, as described in the PDF, means 'treating other people equally' and ensures that countries cannot normally discriminate between their trading partners."
+  },
+  {
+    "question": "According to the PDF, what was the primary reason for the failure of the proposed International Trade Organisation (ITO) in the 1940s?",
+    "options": [
+      "Developing countries demanded too many concessions.",
+      "The USA did not agree to its formation.",
+      "The Soviet Union vetoed the proposal.",
+      "It was replaced by the World Bank immediately."
+    ],
+    "correct": 1,
+    "explanation": "The document mentions that while the ITO was proposed to frame and enforce trade rules, it 'couldn't come up' because the 'USA did not agree'."
+  },
+  {
+    "question": "What is the primary function of the Multilateral Investment Guarantee Agency (MIGA)?",
+    "options": [
+      "To resolve trade disputes between member nations.",
+      "To guarantee foreign investors that they will not be specifically targeted by political risks.",
+      "To provide loans for infrastructure projects in high-income countries.",
+      "To issue Masala Bonds for private sector investment."
+    ],
+    "correct": 1,
+    "explanation": "The PDF states that MIGA provides a 'guarantee [to] foreign investor[s] that they will NOT be specifically targeted' and provides 'political insurance/risk-credit enhancement'."
+  },
+  {
+    "question": "In the IMF quota formula, which factor carries the highest weightage (50%)?",
+    "options": [
+      "GDP",
+      "Openness of the economy",
+      "Forex Reserves",
+      "Economic Variability"
+    ],
+    "correct": 0,
+    "explanation": "The IMF quota formula provided in the PDF is: (0.50 * GDP + 0.30 * Openness + 0.15 * Variability + 0.05 * Reserves). Thus, GDP has the highest weight at 50%."
+  },
+  {
+    "question": "Which WTO agreement is specifically concerned with investment measures that affect trade in goods, such as local content requirements?",
+    "options": [
+      "SPS Agreement",
+      "GATS",
+      "TRIMS",
+      "TRIPS"
+    ],
+    "correct": 2,
+    "explanation": "TRIMS (Trade-Related Investment Measures) is concerned with measures that affect trade in goods and aims to eliminate requirements like 'local content' that violate GATT principles."
+  },
+  {
+    "question": "What is a 'Special Drawing Right' (SDR) as defined by the IMF?",
+    "options": [
+      "A physical currency used for international retail trade.",
+      "A loan that must be repaid within 24 hours.",
+      "A certificate of ownership of the IMF's gold reserves.",
+      "An international reserve asset and unit of account, representing a claim to currency."
+    ],
+    "correct": 3,
+    "explanation": "The PDF defines SDR as an 'international reserve asset', a 'unit of account in IMF', and states it is 'not a currency' but 'represents a claim to currency'."
+  },
+  {
+    "question": "Under the 'National Treatment' principle of the WTO, how should foreign goods be treated once they have entered a domestic market?",
+    "options": [
+      "They should be treated equally to local goods.",
+      "They must be labeled with the MFN status of the origin country.",
+      "They must be sold only in special economic zones.",
+      "They must be taxed at a higher rate than local goods to protect domestic industry."
+    ],
+    "correct": 0,
+    "explanation": "National Treatment is defined as 'treating foreign and locals equally,' meaning foreign goods, once they have landed, are treated the same as domestic goods."
+  },
+  {
+    "question": "Which of the following is NOT a component of the World Bank Group according to the document?",
+    "options": [
+      "International Monetary Fund (IMF)",
+      "International Centre for the Settlement of Investment Disputes (ICSID)",
+      "International Finance Corporation (IFC)",
+      "Multilateral Investment Guarantee Agency (MIGA)"
+    ],
+    "correct": 0,
+    "explanation": "The World Bank Group consists of IBRD, IDA, IFC, MIGA, and ICSID. The IMF is a separate institution, although both are Bretton Woods twins."
+  },
+  {
+    "question": "What does the 'Reserve Tranche Position' (RTP) in the IMF represent for a member country?",
+    "options": [
+      "A portion of the quota that can be accessed without paying service fees or agreed-upon reforms.",
+      "The amount of gold a country has traded for US dollars.",
+      "The total amount of debt a country owes to the World Bank.",
+      "A special fund used only for environmental projects."
+    ],
+    "correct": 0,
+    "explanation": "The PDF describes the Reserve Tranche Position as a portion of the required quota 'accessible [without] fees / economic reforms' and can be accessed 'without paying service fee'."
+  },
+  {
+    "question": "The 'Marrakech Treaty' of 1994 led to the establishment of which organization on January 1, 1995?",
+    "options": [
+      "GATT",
+      "WTO",
+      "IMF",
+      "World Bank"
+    ],
+    "correct": 1,
+    "explanation": "The PDF explicitly states: '1994 Marrakech Treaty -> 1st Jan, 1995 WTO'."
+  },
+  {
+    "question": "Which of the following scenarios constitutes 'Dumping' under WTO rules according to the document?",
+    "options": [
+      "Trading goods only through government-approved channels.",
+      "Selling a good in a foreign market at a price lower than its domestic market price.",
+      "Increasing the price of a good due to high demand.",
+      "Selling a good at a price higher than the manufacturing cost."
+    ],
+    "correct": 1,
+    "explanation": "The document lists three conditions for dumping, one of which is 'China [or a country] sells a good lower than what it sells in own economy'."
+  },
+  {
+    "question": "The 'Washington Consensus' refers to a set of economic policy recommendations for developing countries promoted by which institutions?",
+    "options": [
+      "The BRICS nations",
+      "WTO and GATT",
+      "IMF, World Bank, and US Dept. of Treasury",
+      "United Nations and European Union"
+    ],
+    "correct": 2,
+    "explanation": "The PDF identifies the Washington Consensus as a level of agreement between the IMF, World Bank, and US Dept. of Treasury involving free market promoting policies."
+  },
+  {
+    "question": "Under the 'General Agreement on Trade in Services' (GATS), what does 'Mode 2: Consumption Abroad' refer to?",
+    "options": [
+      "Establishment of foreign bank branches.",
+      "Temporary movement of IT engineers across borders.",
+      "Tourism, education, or medical treatment in a different country.",
+      "BPO services and online consultancy."
+    ],
+    "correct": 2,
+    "explanation": "The table in the PDF defines Mode 2 (Consumption Abroad) as 'Services consumed in a different country' and gives examples like 'Tourism, education, medical treatment'."
+  },
+  {
+    "question": "Regarding the selection of the IMF Managing Director (MD), what is the 'informal convention' mentioned in the PDF?",
+    "options": [
+      "The MD should always be a US national.",
+      "The MD must be from a developing nation.",
+      "The MD should be a European citizen.",
+      "The MD is rotated alphabetically by country name."
+    ],
+    "correct": 2,
+    "explanation": "The text states that an 'informal convention remains in place that the MD should be a European'."
+  },
+  {
+    "question": "What is the primary difference between a 'Customs Union' and a 'Free Trade Agreement' (FTA) as per the PDF?",
+    "options": [
+      "There is no difference; they are the same concept.",
+      "A Customs Union establishes a common external tariff on imports from non-members.",
+      "An FTA requires a common currency, whereas a Customs Union does not.",
+      "A Customs Union allows movement of people, while an FTA does not."
+    ],
+    "correct": 1,
+    "explanation": "The document defines a Custom Union as 'removal of trade barriers, [plus] establish common external tariff on imports from non-member countries,' which goes beyond a basic FTA."
+  },
+  {
+    "question": "Which of the following IP rights is used to distinguish the goods or services of one enterprise from another?",
+    "options": [
+      "Trademark",
+      "Copyright",
+      "Industrial Design",
+      "Patent"
+    ],
+    "correct": 0,
+    "explanation": "The PDF defines Trademarks as 'a sign capable of distinguishing the goods or services of one enterprise from those of other enterprises'."
+  },
+  {
+    "question": "According to the PDF, what is 'Evergreening' in the context of patents?",
+    "options": [
+      "A method to make products more environmentally friendly.",
+      "The process of planting trees to offset carbon footprints of factories.",
+      "A requirement to share patent secrets with the government.",
+      "An attempt to extend the life of a patent beyond its initial term through minor changes."
+    ],
+    "correct": 3,
+    "explanation": "The document mentions 'Evergreening' in the context of Section 3(d) of the Indian Patents Act, which does not allow it, referring to the extension of patent protection (like the Novarits Glivec case)."
+  },
+  {
+    "question": "In the WTO, how are decisions typically made?",
+    "options": [
+      "By a 'Super Majority' of 85% of members.",
+      "By consensus, until all countries agree.",
+      "By a weighted voting system based on the size of the economy.",
+      "By a simple majority vote where each country has one vote."
+    ],
+    "correct": 1,
+    "explanation": "The PDF states: 'Decisions - by consensus till all countries agree, decision Will Not be made'."
+  },
+  {
+    "question": "What does the 'SPS Agreement' under WTO primarily deal with?",
+    "options": [
+      "Subsidies and Production Standards.",
+      "Sanitary and Phytosanitary measures (food safety and animal/plant health).",
+      "Services, Patents, and Software.",
+      "Strategic Planning for Sustainability."
+    ],
+    "correct": 1,
+    "explanation": "The PDF describes the SPS Agreement as 'Sanitary and Phytosanitary measures' related to hygiene requirements for agriculture products, illustrated by the Alphonso Mango case."
+  },
+  {
+    "question": "Which IMF report provides an assessment of the 'abnormal' global financial situation and stability?",
+    "options": [
+      "Global Financial Stability Report",
+      "World Development Report",
+      "World Economic Outlook",
+      "Global Trade Map"
+    ],
+    "correct": 0,
+    "explanation": "The PDF lists 'Global financial Stability Report' as one of the reports by the IMF."
+  },
+  {
+    "question": "What is 'Parallel Import' as defined in the TRIPS-related section of the document?",
+    "options": [
+      "Importing counterfeit goods through illegal channels.",
+      "Importing raw materials and exporting finished goods simultaneously.",
+      "Importing genuine products without the trademark owner's consent from another market.",
+      "A government-to-government trade agreement."
+    ],
+    "correct": 2,
+    "explanation": "Parallel Import is defined as 'genuine products legally manufactured... but imported into a market [without] trademark owner's consent'."
+  },
+  {
+    "question": "In the World Bank Group, which entity issues 'Masala Bonds' and focuses on the private sector in developing countries?",
+    "options": [
+      "IDA",
+      "IFC",
+      "IBRD",
+      "MIGA"
+    ],
+    "correct": 1,
+    "explanation": "The PDF states that the IFC (International Finance Corporation) 'issues Masala Bonds' and is the 'private sector-arm of WB Group'."
+  },
+  {
+    "question": "What is the function of 'Countervailing Duties' according to the PDF?",
+    "options": [
+      "To encourage the import of high-tech machinery.",
+      "To increase the price of luxury goods for domestic consumers.",
+      "To punish countries that do not join the WTO.",
+      "To offset the effect of subsidies provided by a foreign government on its exports."
+    ],
+    "correct": 3,
+    "explanation": "The PDF explains that countervailing duties are levied to 'offset taxes and subsidies' that make foreign goods unnaturally cheaper."
+  },
+  {
+    "question": "The 'Uruguay Round' of talks (1986-1994) was significant because it led to the creation of:",
+    "options": [
+      "The WTO",
+      "The World Bank",
+      "The GATT",
+      "The IMF"
+    ],
+    "correct": 0,
+    "explanation": "The PDF notes that the 'Uruguay Rounds of Talks' eventually led to the '1994 Marrakech Treaty' and the creation of the WTO in 1995."
+  },
+  {
+    "question": "What does a 'Common Market' allow that a 'Customs Union' does not explicitly mandate?",
+    "options": [
+      "A common external tariff.",
+      "Removal of internal tariffs.",
+      "A common central bank.",
+      "Free movement of people, businesses, and capital."
+    ],
+    "correct": 3,
+    "explanation": "The PDF distinguishes a Common Market by saying it allows 'trade in services, movement of people, Businesses, Capital' in addition to goods."
+  },
+  {
+    "question": "According to the PDF, which country currently holds the highest quota and voting share in the IMF?",
+    "options": [
+      "China",
+      "Germany",
+      "United States",
+      "Japan"
+    ],
+    "correct": 2,
+    "explanation": "The table for largest IMF members ranks the United States at number 1 with 17.42% of the total quota and 16.49% of the total votes."
+  },
+  {
+    "question": "Which IP right protects 'literary and artistic works' such as books, music, and films?",
+    "options": [
+      "Copyright",
+      "Trademark",
+      "Patent",
+      "Geographical Indication"
+    ],
+    "correct": 0,
+    "explanation": "The PDF defines Copyright as the rights creators have over 'literary and artistic works' including books, music, paintings, and films."
+  },
+  {
+    "question": "What is the 'Special Safeguard Mechanism' (SSM) in the context of WTO?",
+    "options": [
+      "A tool for developed countries to block imports from LDCs.",
+      "A tool for developing countries to protect agricultural sectors from import surges or price drops.",
+      "A mechanism to ensure all patents are registered in the US.",
+      "A security protocol for the WTO headquarters."
+    ],
+    "correct": 1,
+    "explanation": "The PDF defines SSM as a 'tool to protect their agricultural sectors from sudden surges in imports or drop in import price' for developing countries."
+  },
+  {
+    "question": "Which of the following is NOT a 'TRIM' (Trade-Related Investment Measure) according to the list provided in the PDF?",
+    "options": [
+      "Export Performance Requirements",
+      "Trade Balancing Requirements",
+      "Environmental Tax on Carbon",
+      "Local Content Requirements"
+    ],
+    "correct": 2,
+    "explanation": "The PDF lists Local Content, Trade Balancing, and Export Performance requirements as TRIMS, but does not mention an 'Environmental Tax on Carbon'."
+  },
+  {
+    "question": "India's current FDI policies screen investments from neighboring countries for national security. How does the PDF categorize this in relation to TRIMS?",
+    "options": [
+      "It is a violation of TRIMS because it restricts investment.",
+      "It is a 'TRIMS Plus' measure that India is not allowed to take.",
+      "It is an example of 'Dumping' by the Indian government.",
+      "It complies with TRIMS as it regulates investment rather than distorting trade."
+    ],
+    "correct": 3,
+    "explanation": "The PDF states: 'Recent FDI policies... comply with TRIMs as they regulate investment rather than distort trade'."
+  },
+  {
+    "question": "According to the PDF, what is 'Mode 4' of trade in services under GATS?",
+    "options": [
+      "Consumption Abroad (e.g., medical treatment).",
+      "Cross-Border Trade (e.g., online consultancy).",
+      "Commercial Presence (e.g., foreign bank branches).",
+      "Movement of Natural Persons (e.g., IT engineers traveling for work)."
+    ],
+    "correct": 3,
+    "explanation": "The table defines Mode 4 as 'Movement of Natural Persons' involving 'Temporary movement of professionals across borders'."
+  },
+  {
+    "question": "Which organization is a 'neutral third party' for settling disputes between foreign investors and governments, of which India is NOT a member?",
+    "options": [
+      "ICSID",
+      "IDA",
+      "IFC",
+      "MIGA"
+    ],
+    "correct": 0,
+    "explanation": "The PDF identifies ICSID as a 'neutral third party' for settling disputes and explicitly notes: 'India not a member'."
+  },
+  {
+    "question": "What are 'Geographical Indications' (GI) according to the PDF?",
+    "options": [
+      "The location of the IMF headquarters.",
+      "Patents that only apply to one specific country's land.",
+      "Maps used by the WTO to track trade routes.",
+      "Signs used on goods that have a specific geographical origin and qualities attributable to that place."
+    ],
+    "correct": 3,
+    "explanation": "The PDF defines GI as 'signs used on goods that have a specific geographical origin and possess qualities... essentially attributable to that place'."
+  },
+  {
+    "question": "Under IMF rules, what happens if a member country's SDR holding is less than its allocated amount?",
+    "options": [
+      "The country's voting power is doubled.",
+      "The country receives a free grant from the US.",
+      "The country is expelled from the IMF.",
+      "The country must pay interest on the deficiency."
+    ],
+    "correct": 3,
+    "explanation": "The PDF states: 'If SDR Holding is less than [allocated amount], you will pay interest on deficiency'."
+  },
+  {
+    "question": "What is the 'Conditionality' associated with IMF lending?",
+    "options": [
+      "Lending is only provided if the country has a high GDP.",
+      "The country must change its national flag.",
+      "The country must lend money to other neighbors.",
+      "The country must reform its economy based on IMF recommendations."
+    ],
+    "correct": 3,
+    "explanation": "The PDF notes that IMF lending is 'conditionality based' and the country must 'Reform the economy'."
+  },
+  {
+    "question": "Which of the following is described as the 'Lender of Last Resort' that uses its own funds when all other sources of help for a country in crisis are exhausted?",
+    "options": [
+      "IMF",
+      "US Treasury",
+      "WTO",
+      "World Bank"
+    ],
+    "correct": 0,
+    "explanation": "The PDF describes the IMF as the 'last Resort' when it 'goes into its own fund' to help countries in crisis."
+  },
+  {
+    "question": "What is an 'Economic Union' as defined in the document?",
+    "options": [
+      "A group of countries that only share a common currency.",
+      "An agreement to only trade agricultural goods.",
+      "A combination of a Customs Union and a Common Market.",
+      "A military alliance for trade protection."
+    ],
+    "correct": 2,
+    "explanation": "The PDF defines Economic Union as: 'Economic Union = Custom Union + Common Market'."
+  },
+  {
+    "question": "The 'TRIPS Plus' measures are typically negotiated through which of the following?",
+    "options": [
+      "IMF Conditionality",
+      "WTO Ministerial Conferences",
+      "Free Trade Agreements (FTAs)",
+      "United Nations General Assembly"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that TRIPS Plus (IP rules that go beyond WTO standards) are 'negotiated in FTA'."
+  },
+  {
+    "question": "In the WTO principle of 'Predictability,' what does 'Binding' a market commitment refer to?",
+    "options": [
+      "Forcing all countries to use the same currency.",
+      "Setting a ceiling on customs tariff rates that a country agrees not to exceed.",
+      "Ensuring all trade is done via sea routes.",
+      "Physically tying goods together during shipping."
+    ],
+    "correct": 1,
+    "explanation": "Under Principle III (Predictability), the PDF explains that binding commitments for goods involve a 'ceiling on customs tariff rates'."
+  },
+  {
+    "question": "Which body is responsible for appointing the Managing Director of the IMF according to its Articles?",
+    "options": [
+      "The Board of Governors",
+      "The President of the United States",
+      "The WTO Secretariat",
+      "The Executive Board"
+    ],
+    "correct": 3,
+    "explanation": "The document states that 'the Managing Director is selected by the Executive Board (by a simple majority)'."
+  },
+  {
+    "question": "What are 'Special Products' in the context of WTO agricultural negotiations?",
+    "options": [
+      "Goods that are only produced in Europe.",
+      "High-tech products like semiconductors.",
+      "Products that are exempt from all taxes forever.",
+      "Agricultural goods that developing countries can designate for more flexible treatment."
+    ],
+    "correct": 3,
+    "explanation": "The PDF defines 'Special Products' as agricultural goods for which developing countries can 'receive more flexible treatment in trade negotiation'."
+  },
+  {
+    "question": "According to the PDF, why was GATT considered 'merely a platform' compared to the WTO?",
+    "options": [
+      "It was run entirely by the World Bank.",
+      "It had no permanent members.",
+      "It was an agreement without a permanent institutional enforcement and dispute settlement body.",
+      "It only dealt with services and not goods."
+    ],
+    "correct": 2,
+    "explanation": "The document notes that GATT was 'merely a platform' and the WTO was needed as a 'permanent body' for enforcement and dispute settlement."
+  },
+  {
+    "question": "Which factor in the IMF quota formula carries a 5% weightage?",
+    "options": [
+      "Variability",
+      "GDP",
+      "Reserves",
+      "Openness"
+    ],
+    "correct": 2,
+    "explanation": "Based on the formula: (0.50*GDP + 0.30*Openness + 0.15*Variability + 0.05*Reserves), Reserves carry a 0.05 (5%) weight."
+  },
+  {
+    "question": "What does the 'Industrial Design' IP right specifically protect?",
+    "options": [
+      "The ornamental or aesthetic aspect of an article.",
+      "The chemical formula of a medicine.",
+      "The name of the company that made the product.",
+      "The technical functioning of a machine."
+    ],
+    "correct": 0,
+    "explanation": "The PDF defines Industrial Design as something that 'constitutes ornamental/aesthetic aspect of an article,' including shape and surface features."
+  },
+  {
+    "question": "In the WTO, what is the 'National Treatment' principle meant to prevent?",
+    "options": [
+      "The export of raw materials.",
+      "Discrimination between different foreign trading partners.",
+      "Discrimination between imported and locally produced goods.",
+      "The use of any tariffs at all."
+    ],
+    "correct": 2,
+    "explanation": "National Treatment focuses on 'treating foreign and locals equally,' meaning it prevents discrimination against foreign goods in favor of domestic ones once they enter the market."
+  },
+  {
+    "question": "According to the PDF, which institution is known for its 'Surveillance' function, alerting the world about potential economic crises?",
+    "options": [
+      "MIGA",
+      "World Bank",
+      "WTO",
+      "IMF"
+    ],
+    "correct": 3,
+    "explanation": "The PDF lists 'Surveillance' as a primary function of the IMF, stating it 'alerts the world' about countries facing crises."
+  },
+  {
+    "question": "What is the 'Credit Tranche' in the IMF?",
+    "options": [
+      "The amount of money the IMF borrows from commercial banks.",
+      "A free grant given to all new members.",
+      "The fee a country pays to join the WTO.",
+      "The portion of seeking funds beyond the Reserve Tranche that requires repayment and compliance with conditions."
+    ],
+    "correct": 3,
+    "explanation": "The PDF states: 'If amount sought > RTP [Reserve Tranche Position]: Credit Tranche, must be repaid in 3 years' and is 'accessible with incremental compliance with agreed-upon conditions'."
+  },
+  {
+    "question": "According to the Agreement on Agriculture (AoA), what is the primary objective of 'Tariffication'?",
+    "options": [
+      "To eliminate all forms of market access for foreign agricultural goods.",
+      "To increase non-tariff barriers for protecting domestic industries.",
+      "To apply unfair treatment to foreign goods and partners.",
+      "To convert non-tariff barriers into tariff barriers to ensure market access."
+    ],
+    "correct": 3,
+    "explanation": "The AoA requires the 'Tariffication' of Non-Tariff Barriers, meaning they must be converted into Tariff Barriers to ensure the market is open to foreign agricultural goods[cite: 31, 32, 33, 35, 29]."
+  },
+  {
+    "question": "Under the WTO's Agreement on Agriculture, which set of countries is provided with the most 'Stretched Out' and lenient timelines for compliance?",
+    "options": [
+      "Developed Countries",
+      "Developing Countries/LDCs",
+      "All countries follow identical timelines",
+      "Only countries with high export dependency"
+    ],
+    "correct": 1,
+    "explanation": "Based on the principles of the agreement, Developing and LDC (Least Developed Countries) are granted 'Stretched Out' timelines for compliance and are treated more leniently[cite: 13, 14, 16, 17, 18]."
+  },
+  {
+    "question": "How does the document distinguish between 'Subsidy' and 'Support' in the context of agriculture?",
+    "options": [
+      "Support refers to making goods available at lower than market price, while Subsidy is assistance by institutions.",
+      "Subsidy is a specific term referring to goods provided at prices lower than market, while Support is a broad term for various forms of assistance.",
+      "Subsidy is a broad term, while Support is specifically for price support.",
+      "There is no functional difference between the two terms according to the WTO."
+    ],
+    "correct": 1,
+    "explanation": "A Subsidy is defined as a specific term used when a good is made available at a price less than the market price, whereas Support is a broad term for various forms of assistance provided by governments or institutions[cite: 99, 101, 103, 105, 106, 109]."
+  },
+  {
+    "question": "What are the 'De minimis' levels for trade-distorting Amber Box subsidies for Developed and Developing countries respectively?",
+    "options": [
+      "Unlimited for both as long as they are product-specific.",
+      "No commitment is required for Developed countries.",
+      "10% for Developed and 5% for Developing countries.",
+      "5% for Developed and 10% for Developing countries."
+    ],
+    "correct": 3,
+    "explanation": "The 'De minimis level' for trade-distorting subsidies is set at 5% of agricultural production for Developed countries and 10% for Developing countries[cite: 113, 122, 124, 125]."
+  },
+  {
+    "question": "Which of the following is a characteristic of 'Green Box' subsidies?",
+    "options": [
+      "They include supports that are decoupled from current production levels or prices.",
+      "They are limited to 5% of the total agricultural production.",
+      "They are targeted at specific products to increase production.",
+      "They are highly trade-distorting and must be removed."
+    ],
+    "correct": 0,
+    "explanation": "Green Box supports are those that do not distort trade (or cause minimal distortion) and include direct income supports for farmers that are decoupled from current production levels or prices[cite: 137, 139, 146]."
+  },
+  {
+    "question": "Which of the following would be classified under 'Green Box' support according to the provided text?",
+    "options": [
+      "Research and Development (R&D) for quality seeds and rural roads.",
+      "Subsidies related to production quantities.",
+      "Export subsidies to make goods artificially competitive.",
+      "Price supports for specific crops."
+    ],
+    "correct": 0,
+    "explanation": "Examples of Green Box support allowed without limits include Rural development, Roads, Market Infrastructure, and R&D for quality seeds[cite: 147, 149, 150, 151, 152]."
+  },
+  {
+    "question": "How does the 'Blue Box' differ from the 'Amber Box' according to the document?",
+    "options": [
+      "Blue Box has stricter limits than the Amber Box for all countries.",
+      "Blue Box is essentially 'Amber Box with conditions' designed to reduce distortion.",
+      "Only Least Developed Countries (LDCs) are allowed to use Blue Box subsidies.",
+      "Blue Box subsidies are used only for export promotion."
+    ],
+    "correct": 1,
+    "explanation": "The Blue Box is described as an 'Amber Box with condition,' featuring conditions designed to reduce market distortion[cite: 155, 157]."
+  },
+  {
+    "question": "In the context of 'Export Subsidies', which group of countries has the 'Least flexibility' and must cut their subsidies the most?",
+    "options": [
+      "Developed Countries",
+      "Countries with high agricultural export dependency",
+      "Least Developed Countries (LDC)",
+      "Developing Countries"
+    ],
+    "correct": 0,
+    "explanation": "In terms of flexibility regarding subsidies, Developed countries have the 'Last flexibility' and are required to cut their subsidies the most[cite: 79, 80]."
+  },
+  {
+    "question": "What was the purpose of the 'Peace Clause' mentioned in the document in relation to India?",
+    "options": [
+      "To classify India as a Developed country for trade purposes.",
+      "To force India to reduce its R&D expenditure in agriculture.",
+      "To ensure no country can take action against India if its food security programs breach the De minimis limit.",
+      "To allow India to implement unlimited export subsidies for four years."
+    ],
+    "correct": 2,
+    "explanation": "The Peace Clause ensures that no country can go against India even if food subsidies under the NFSA, 2013 breach the De minimis limit[cite: 194, 195, 196, 201]."
+  },
+  {
+    "question": "Why does the US government provide 'production limiting subsidies' such as compensation to leave land fallow?",
+    "options": [
+      "To make their exports less competitive globally.",
+      "To increase production to record levels.",
+      "Because the productivity of American farms is too low.",
+      "To prevent a decline in prices by maintaining market prices at a reasonable level."
+    ],
+    "correct": 3,
+    "explanation": "The US government provides production-limiting subsidies to prevent a decline in prices caused by high production, thereby maintaining market prices at a reasonable level[cite: 182, 184, 185, 188, 192]."
+  },
+  {
+    "question": "According to the MoSPI 9-fold classification, how is 'Forest' land defined?",
+    "options": [
+      "Land unsuitable for cultivation but covered with natural vegetation.",
+      "Land recorded as forest in government records, regardless of actual tree cover.",
+      "Land with actual tree cover exceeding 10% of the area.",
+      "Land used specifically for timber production and silviculture."
+    ],
+    "correct": 1,
+    "explanation": "As per the MoSPI classification, forests include land recorded as forest in government records, regardless of the actual tree cover present on that land."
+  },
+  {
+    "question": "Which of the following describes 'Culturable Waste Land'?",
+    "options": [
+      "Land used for buildings, roads, and other non-farm activities.",
+      "Land physically unsuitable for cultivation like rocky or desert areas.",
+      "Land once cultivable but not in use for several years which can be reclaimed.",
+      "Land left uncultivated for 1 to 5 years for soil recovery."
+    ],
+    "correct": 2,
+    "explanation": "Culturable Waste Land is land that was once cultivable but has not been in use for cultivation for several years; it is characterized by the potential to be reclaimed."
+  },
+  {
+    "question": "What is the primary difference between 'Current Fallow' and 'Fallow Land other than Current Fallow'?",
+    "options": [
+      "Current Fallow is used for grazing, while the other is kept for future reclamation.",
+      "Current Fallow is recorded in government records, while the other is not.",
+      "Current Fallow is for soil recovery, while other fallow is for lack of water.",
+      "Current Fallow is left uncultivated for one agricultural year, while the other is for 1 to 5 years."
+    ],
+    "correct": 3,
+    "explanation": "Current Fallow is land left uncultivated during the current agricultural year to regain fertility, whereas 'Fallow Land other than Current Fallow' is left uncultivated for a period of 1 to 5 years."
+  },
+  {
+    "question": "Which land reform measure aimed to establish a direct link between the government and the actual tillers of the land?",
+    "options": [
+      "Tenancy Reforms",
+      "Abolition of Intermediaries",
+      "Consolidation of Landholdings",
+      "Land Ceiling and Redistribution"
+    ],
+    "correct": 1,
+    "explanation": "The Abolition of Intermediaries (removing zamindars) was aimed at transferring land ownership directly to cultivators, establishing a direct link with the government."
+  },
+  {
+    "question": "Under the Digital India Land Records Modernization Programme (DILRMP), which technology is specifically mentioned for survey and resurvey?",
+    "options": [
+      "Manual chain surveying",
+      "Internet-enabled kiosks",
+      "Satellite Imagery only",
+      "Drones and modern technology"
+    ],
+    "correct": 3,
+    "explanation": "DILRMP involves surveying and resurveying using drones and other modern technologies to modernize land records."
+  },
+  {
+    "question": "What is the primary objective of the SVAMITVA Scheme?",
+    "options": [
+      "To digitize all agricultural land records for credit access.",
+      "To abolish intermediaries in rural residential sectors.",
+      "To provide clear ownership of property in rural inhabited (Abadi) areas.",
+      "To provide 14-digit unique IDs to every land parcel."
+    ],
+    "correct": 2,
+    "explanation": "The SVAMITVA Scheme aims to provide clear ownership of property in rural inhabited areas through drone surveys and the issuance of 'property cards'."
+  },
+  {
+    "question": "The ULPIN Scheme is often referred to as:",
+    "options": [
+      "The Aadhaar for land",
+      "The PAN card for farmers",
+      "The Digital Signature for properties",
+      "The Passport for agriculture"
+    ],
+    "correct": 0,
+    "explanation": "The Unique Land Parcel Identification Number (ULPIN) provides a 14-digit alpha-numeric ID and is aimed to serve as the 'Aadhaar for land'."
+  },
+  {
+    "question": "Based on the provided data, which sector accounts for the highest use of ground water in India?",
+    "options": [
+      "Energy Sector",
+      "Domestic Use",
+      "Industrial Use",
+      "Agriculture"
+    ],
+    "correct": 3,
+    "explanation": "According to the sector-wise distribution of Ground water use provided in the document, Agriculture accounts for 85%."
+  },
+  {
+    "question": "Which type of irrigation is described as applying water below the soil surface directly to roots to reduce evaporation?",
+    "options": [
+      "Surface Irrigation",
+      "Sprinkler Irrigation",
+      "Subsurface Irrigation",
+      "Drip Irrigation"
+    ],
+    "correct": 2,
+    "explanation": "Subsurface Irrigation applies water below the soil surface directly to the roots, which reduces evaporation but is noted as being costly."
+  },
+  {
+    "question": "Which state-led initiative focuses specifically on the 'restoration and rejuvenation of tanks'?",
+    "options": [
+      "Neeru Chettu (Andhra Pradesh)",
+      "Mission Kakatiya (Telangana)",
+      "Jalyukt Shivar Abhiyan (Maharashtra)",
+      "Krishi Bhagya (Karnataka)"
+    ],
+    "correct": 1,
+    "explanation": "Mission Kakatiya in Telangana, launched in 2014, focuses on the restoration and rejuvenation of tanks and other minor irrigation sources."
+  },
+  {
+    "question": "What is the 'Per Drop More Crop' (PDMC) component a part of?",
+    "options": [
+      "National Water Mission",
+      "Jal Jeevan Mission",
+      "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)",
+      "Atal Bhujal Yojana"
+    ],
+    "correct": 2,
+    "explanation": "PDMC is a key component of PMKSY aimed at improving water use efficiency at the farm level."
+  },
+  {
+    "question": "The 'Atal Bhujal Yojana' primarily emphasizes which approach for groundwater management?",
+    "options": [
+      "Mandatory installation of meters on all borewells",
+      "Privatization of aquifer resources",
+      "Top-down government regulation",
+      "Community participation in water-stressed areas"
+    ],
+    "correct": 3,
+    "explanation": "Atal Bhujal Yojana's objective is sustainable groundwater management through community participation."
+  },
+  {
+    "question": "Under the PM Kisan Scheme, what is the total annual income support provided to eligible farmer families?",
+    "options": [
+      "₹8,000",
+      "₹6,000",
+      "₹2,000",
+      "₹4,000"
+    ],
+    "correct": 1,
+    "explanation": "The PM Kisan Scheme provides direct annual income support of ₹6,000, disbursed in three installments of ₹2,000 each."
+  },
+  {
+    "question": "Under the Modified Interest Subvention Scheme (MISS), what is the effective interest rate for farmers who repay their loans promptly?",
+    "options": [
+      "1.5%",
+      "3%",
+      "4%",
+      "7%"
+    ],
+    "correct": 2,
+    "explanation": "With a 3% Prompt Repayment Incentive (PRI), the effective interest rate for farmers is reduced to 4%."
+  },
+  {
+    "question": "What is the maximum limit for collateral-free loans under the Kisan Credit Card (KCC) scheme as per the document?",
+    "options": [
+      "Rs 1.6 lakh",
+      "Rs 3 lakh",
+      "Rs 2 lakh",
+      "Rs 1 lakh"
+    ],
+    "correct": 2,
+    "explanation": "The document states that collateral-free loans up to Rs 2 lakh are available under the KCC scheme."
+  },
+  {
+    "question": "The 'Agriculture Infrastructure Fund' (AIF) provides financing for which specific type of projects?",
+    "options": [
+      "Short-term seasonal crop loans",
+      "Direct seed and fertilizer subsidies",
+      "Purchase of cattle for small and marginal farmers",
+      "Post-harvest management infrastructure and community farming assets"
+    ],
+    "correct": 3,
+    "explanation": "AIF is designed for medium to long-term debt financing for post-harvest management infrastructure and community farming assets."
+  },
+  {
+    "question": "What is the mandatory lending target for the agriculture sector under Priority Sector Lending (PSL) for banks?",
+    "options": [
+      "10%",
+      "25%",
+      "15%",
+      "18%"
+    ],
+    "correct": 3,
+    "explanation": "Under PSL norms, banks must lend 18% of their total lending capacity to the agriculture sector."
+  },
+  {
+    "question": "Which technology under the PMFBY uses satellite images to estimate crop yields without manual surveys?",
+    "options": [
+      "DGCES",
+      "YES-TECH",
+      "WINDS",
+      "Agri-Stack"
+    ],
+    "correct": 1,
+    "explanation": "YES-TECH uses satellite images to quickly and accurately estimate crop yields, bypassing manual surveys."
+  },
+  {
+    "question": "Which seed category is issued a 'white' colour certificate?",
+    "options": [
+      "Certified seed",
+      "Foundation seed",
+      "Breeder seed",
+      "Registered seed"
+    ],
+    "correct": 1,
+    "explanation": "Foundation seed, which is the progeny of breeder seed, is issued a white colour certificate."
+  },
+  {
+    "question": "What are 'Landraces' as defined in the document?",
+    "options": [
+      "Certified seeds produced under the supervision of a seed agency.",
+      "High-yielding varieties created in laboratories.",
+      "Naturally occurring variants of commonly cultivated crops that are climate resilient.",
+      "Seeds that have been genetically modified to resist pests."
+    ],
+    "correct": 2,
+    "explanation": "Landraces are naturally occurring variants of commonly cultivated crops that are climate resilient and nutrient-rich, differing from lab-created hybrids."
+  },
+  {
+    "question": "Which practice in seed production involves the 'removal of inferior or defective plants' from a crop?",
+    "options": [
+      "Isolation",
+      "Processing",
+      "Tending",
+      "Roguing"
+    ],
+    "correct": 3,
+    "explanation": "Roguing is the specific practice of removing inferior or defective plants or seedlings from a crop to maintain quality."
+  },
+  {
+    "question": "Which apex body under the MoEFCC evaluates environmental and biosafety risks of GMOs?",
+    "options": [
+      "GEAC",
+      "FSSAI",
+      "DBT",
+      "RCGM"
+    ],
+    "correct": 0,
+    "explanation": "The Genetic Engineering Appraisal Committee (GEAC) is the apex body responsible for evaluating environmental and biosafety risks of GMOs."
+  },
+  {
+    "question": "The 'Seed Village Scheme' focuses on:",
+    "options": [
+      "Upgrading the quality of farmers' saved seeds and increasing local availability.",
+      "Establishing international seed banks in Ladakh.",
+      "Mandating 100% use of hybrid seeds in villages.",
+      "Granting intellectual property rights to global breeders."
+    ],
+    "correct": 0,
+    "explanation": "Seed Village Scheme is aimed at upgrading the quality of seeds saved by farmers to increase local seed availability."
+  },
+  {
+    "question": "Which nutrient supports root development and is key for ATP and flowering?",
+    "options": [
+      "Sulphur",
+      "Potassium",
+      "Phosphorus",
+      "Nitrogen"
+    ],
+    "correct": 2,
+    "explanation": "Phosphorus supports root development and is essential for ATP, flowering, and seed formation."
+  },
+  {
+    "question": "The 'One Nation One Fertilizer' scheme standardizes urea brands under which single brand name?",
+    "options": [
+      "Sarrthi",
+      "Bharat",
+      "Kisan",
+      "India"
+    ],
+    "correct": 1,
+    "explanation": "The scheme standardizes fertilizers across India under a single 'Bharat' brand to reduce confusion."
+  },
+  {
+    "question": "Which scheme aims to convert retail fertilizer shops into one-stop centers for various agricultural services?",
+    "options": [
+      "Soil Health Card Scheme",
+      "PM Kisan Samridhi Kendras (PM-KSKs)",
+      "PM-PRANAM",
+      "NBS Scheme"
+    ],
+    "correct": 1,
+    "explanation": "PM-KSKs aim to convert retail shops into one-stop centers offering fertilizers, seeds, testing, and advisory services."
+  },
+  {
+    "question": "What is the primary function of 'Neem Coating' on urea?",
+    "options": [
+      "To increase the weight of the urea bag.",
+      "To kill pests in the soil directly upon application.",
+      "To make the fertilizer smell better for farmers.",
+      "To slow down nitrogen release and reduce diversion for non-agricultural use."
+    ],
+    "correct": 3,
+    "explanation": "Neem coating slows nitrogen release (improving efficiency) and reduces the diversion of urea for non-agricultural purposes."
+  },
+  {
+    "question": "Which digital initiative is described as 'internet-enabled kiosks' for direct market access and input advice?",
+    "options": [
+      "AgriStack",
+      "e-Sagu",
+      "e-Choupal",
+      "Digital Green"
+    ],
+    "correct": 2,
+    "explanation": "e-Choupal refers to internet-enabled kiosks that provide farmers with direct market access and input advice."
+  },
+  {
+    "question": "The 'NaMo Drone Didi' scheme targets which group for training in agricultural drone operations?",
+    "options": [
+      "Self-Help Group (SHG) women",
+      "Unemployed youth in urban areas",
+      "Retired agricultural scientists",
+      "Large-scale commercial farmers"
+    ],
+    "correct": 0,
+    "explanation": "The NaMo Drone Didi scheme specifically aims to empower rural women by training SHG women to operate drones."
+  },
+  {
+    "question": "Which type of forestry involves trees grown by farmers on private land for economic returns or ecosystem services?",
+    "options": [
+      "Social Forestry",
+      "Farm Forestry",
+      "Mangrove Forestry",
+      "Protection Forestry"
+    ],
+    "correct": 1,
+    "explanation": "Farm Forestry refers to trees grown by farmers on private land (like field boundaries or intercropped) for economic or ecosystem benefits."
+  },
+  {
+    "question": "According to the document, which country has the world’s largest livestock population?",
+    "options": [
+      "Brazil",
+      "China",
+      "USA",
+      "India"
+    ],
+    "correct": 3,
+    "explanation": "As per the 20th Livestock Census mentioned in the document, India has the world's largest livestock population."
+  },
+  {
+    "question": "Which cattle breed is classified as a 'Milch' (Dairy) breed known for high milk yield and heat tolerance?",
+    "options": [
+      "Hallikar",
+      "Gir",
+      "Amrit Mahal",
+      "Khillar"
+    ],
+    "correct": 1,
+    "explanation": "Gir is listed as a popular Milch breed known for high milk yield and heat tolerance."
+  },
+  {
+    "question": "The 'Rashtriya Gokul Mission' is focused on:",
+    "options": [
+      "Establishing meat processing units.",
+      "Providing credit to poultry farmers.",
+      "Conservation and development of indigenous bovine breeds.",
+      "Vaccinating cattle against Foot and Mouth Disease."
+    ],
+    "correct": 2,
+    "explanation": "Rashtriya Gokul Mission's objective is the conservation and development of indigenous bovine breeds."
+  },
+  {
+    "question": "When is the 'Kharif' season typically sown and harvested in India?",
+    "options": [
+      "Sown: Oct-Dec; Harvest: Apr-Jun",
+      "Sown: Jan-Feb; Harvest: May-June",
+      "Sown: June-July; Harvest: Sept-Oct",
+      "Sown: March-April; Harvest: July-Aug"
+    ],
+    "correct": 2,
+    "explanation": "Kharif crops are sown in June-July with the monsoon and harvested in September-October."
+  },
+  {
+    "question": "What is 'Cropping Intensity' based on the formula provided?",
+    "options": [
+      "(Total Land Area / Net Sown Area) x 100",
+      "(Net Sown Area / Gross Cropped Area) x 100",
+      "(Gross Cropped Area / Net Sown Area) x 100",
+      "(Culturable Waste / Fallow Land) x 100"
+    ],
+    "correct": 2,
+    "explanation": "Cropping Intensity is calculated as (Gross Cropped Area ÷ Net Sown Area) × 100."
+  },
+  {
+    "question": "Which cropping system involves 'sowing the next crop before harvesting the standing crop'?",
+    "options": [
+      "Inter-Cropping",
+      "Mixed Cropping",
+      "Sequential Cropping",
+      "Relay Cropping"
+    ],
+    "correct": 3,
+    "explanation": "Relay Cropping is when the next crop is sown before harvesting the standing crop, saving time and moisture."
+  },
+  {
+    "question": "What is 'Mono-Cropping'?",
+    "options": [
+      "Growing crops only during the Rabi season.",
+      "Growing two crops in different rows.",
+      "Cultivation of one crop on the same field year after year.",
+      "Shifting from cereals to high-value crops."
+    ],
+    "correct": 2,
+    "explanation": "Mono-cropping is the cultivation of a single crop on the same field year after year, which can lead to nutrient depletion."
+  },
+  {
+    "question": "Maize requires which temperature range for optimal growth?",
+    "options": [
+      "21–27°C",
+      "15–20°C",
+      "10–15°C",
+      "30–35°C"
+    ],
+    "correct": 0,
+    "explanation": "As per the document, Maize thrives in a climate of 21–27°C."
+  },
+  {
+    "question": "Which crop is known as a 'Nutri-Cereal' and is noted for being climate resilient and gluten-free?",
+    "options": [
+      "Millets",
+      "Maize",
+      "Barley",
+      "Wheat"
+    ],
+    "correct": 0,
+    "explanation": "Millets (Nutri-Cereals) are small-seeded cereals known for climate resilience, low input needs, and being gluten-free."
+  },
+  {
+    "question": "The 'National Water Mission' focuses on ensuring which of the following?",
+    "options": [
+      "Privatization of river basins.",
+      "Equitable distribution of water both across and within states.",
+      "Mandatory desalination of coastal water.",
+      "Total ban on groundwater extraction."
+    ],
+    "correct": 1,
+    "explanation": "The National Water Mission's objective includes conserving water and ensuring equitable distribution across and within states."
+  },
+  {
+    "question": "Which scheme provides '1.5% interest subvention' to banks for short-term crop loans up to Rs 3 lakh?",
+    "options": [
+      "Modified Interest Subvention Scheme (MISS)",
+      "PM Kisan",
+      "NABARD Refinancing",
+      "AIF Scheme"
+    ],
+    "correct": 0,
+    "explanation": "MISS provides 1.5% interest subvention to banks for short-term crop loans through KCC."
+  },
+  {
+    "question": "What does 'YES-TECH' stand for/do in the context of PMFBY?",
+    "options": [
+      "A portal for processing loan applications.",
+      "Satellite-based yield estimation without manual surveys.",
+      "Youth Employment in Seed Technology.",
+      "Weather data collection from local stations."
+    ],
+    "correct": 1,
+    "explanation": "YES-TECH uses satellite images to quickly and accurately estimate crop yields."
+  },
+  {
+    "question": "Which color certificate is issued for 'Certified seed'?",
+    "options": [
+      "Golden Yellow",
+      "Blue",
+      "White",
+      "Purple"
+    ],
+    "correct": 1,
+    "explanation": "Certified seed is issued a blue colour certificate."
+  },
+  {
+    "question": "Under the Warehouse Receipt Financing Schemes, what is the maximum loan amount for farmers?",
+    "options": [
+      "₹50 lakh",
+      "₹1 crore",
+      "₹20 lakh",
+      "₹10 crore"
+    ],
+    "correct": 0,
+    "explanation": "The document specifies that the maximum loan amount for farmers under this scheme is ₹50 lakh."
+  },
+  {
+    "question": "What is the primary objective of the 'PM-PRANAM' scheme?",
+    "options": [
+      "To digitize land records using drones.",
+      "To restore natural ecosystems and promote sustainable practices.",
+      "To provide crop insurance to all farmers.",
+      "To provide tap water to every household."
+    ],
+    "correct": 1,
+    "explanation": "PM-PRANAM focuses on restoring natural ecosystems, conserving biodiversity, and promoting sustainable practices."
+  },
+  {
+    "question": "Which state's initiative, 'Krishi Bhagya', promotes micro-irrigation and rainwater harvesting?",
+    "options": [
+      "Telangana",
+      "Maharashtra",
+      "Karnataka",
+      "Andhra Pradesh"
+    ],
+    "correct": 2,
+    "explanation": "Krishi Bhagya is an initiative by the Karnataka government to enhance irrigation coverage and water use efficiency."
+  },
+  {
+    "question": "The 'Credit Guarantee Scheme for e-NWR' provides what percentage of coverage for loans up to Rs 3 lakh for small farmers?",
+    "options": [
+      "80%",
+      "90%",
+      "75%",
+      "85%"
+    ],
+    "correct": 3,
+    "explanation": "CGS-NPF provides 85% guarantee coverage for loans up to Rs 3 lakh for small and marginal farmers."
+  },
+  {
+    "question": "What is the 'Seed structure' function of the 'Seed coat'?",
+    "options": [
+      "Supports early growth with nutrients.",
+      "Transfers pollen from anthers to stigma.",
+      "Provides genetic purity certificates.",
+      "Protects the embryo and regulates dormancy."
+    ],
+    "correct": 3,
+    "explanation": "The seed coat protects the embryo and regulates dormancy."
+  },
+  {
+    "question": "Which ministry implements the 'Digital India Land Records Modernization Programme'?",
+    "options": [
+      "Ministry of Rural Development",
+      "Ministry of Panchayati Raj",
+      "Ministry of Chemicals & Fertilizers",
+      "Ministry of Agriculture & Farmers Welfare"
+    ],
+    "correct": 0,
+    "explanation": "The DILRMP is under the Ministry of Rural Development."
+  },
+  {
+    "question": "What does 'WINDS' do in the context of agricultural insurance?",
+    "options": [
+      "Monitors soil moisture through IoT sensors.",
+      "Calculates the wind speed for drone flights.",
+      "Estimates crop yield using AI.",
+      "Collects weather data from local stations to assess losses precisely."
+    ],
+    "correct": 3,
+    "explanation": "WINDS collects weather data from local stations and feeds it into the insurance portal to assess losses precisely."
+  },
+  {
+    "question": "Regarding the 'MAHARISHI' initiative mentioned in the context of global agricultural cooperation, which of the following statements is correct?",
+    "options": [
+      "It is a bilateral agreement between India and the UN to promote organic farming in the North East.",
+      "It is a scheme launched by the Ministry of Commerce to boost spice exports to G20 nations.",
+      "It is an international research initiative for millets and other ancient grains adopted during India's G20 Agriculture Ministers' Meeting.",
+      "It is a research coalition focused specifically on pulses and oilseeds adopted during the G20 meeting."
+    ],
+    "correct": 2,
+    "explanation": "According to the PDF, MAHARISHI (Millets and Other Ancient Grains International ReSearcH Initiative) was adopted during India's G20 Agriculture Ministers' Meeting (2023) to coordinate international R&D and awareness."
+  },
+  {
+    "question": "Which of the following climatic conditions is most suitable for the cultivation of Tea as per the provided document?",
+    "options": [
+      "Tropical and sub-tropical climate with 21-27°C during germination and warm sunny months for ripening.",
+      "Temperature of 20-30°C, high humidity, 150-300 cm rainfall, and frost-free environment.",
+      "Temperature of 15-28°C and 150-250 cm rainfall with shade-grown conditions.",
+      "Equatorial-tropical climate with 25-35°C temperature and more than 200 cm rain."
+    ],
+    "correct": 1,
+    "explanation": "The PDF specifies for Tea: Climatic conditions of 20-30°C; high humidity; 150-300 cm rain; frost-free; and prefers light shade."
+  },
+  {
+    "question": "In the context of the Sugar Industry in India, consider the following statements regarding Fair and Remunerative Price (FRP):\n1. It is the minimum price sugar mills are legally obligated to pay farmers.\n2. It is notified by the Ministry of Agriculture on the recommendation of CACP.\n3. It acts as a statutory floor price binding on mills nationwide.\nWhich of the statements given above is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct": 1,
+    "explanation": "As per the PDF, FRP is the minimum price mills are legally obligated to pay and is a statutory floor price binding nationwide. However, it is notified by the Cabinet Committee on Economic Affairs (CCEA), not the Ministry of Agriculture, though it is based on CACP recommendations."
+  },
+  {
+    "question": "With reference to 'Zero-Budget Natural Farming (ZBNF)' components, match the following terms with their descriptions:\n1. Beejamrit - Seed treatment with cow-based microbial inoculant\n2. Jeevamrit - Fermented microbial brew for soil life\n3. Waaphasa - Keeping soil aerated and moist\nWhich of the pairs given above are correctly matched?",
+    "options": [
+      "2 and 3 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 3,
+    "explanation": "The PDF defines Beejamrit as seed treatment, Jeevamrit as fermented microbial brew, and Waaphasa as keeping soil aerated and moist through light irrigations and tillage."
+  },
+  {
+    "question": "The 'NPOP' (National Programme for Organic Production) certification, essential for organic exports, is managed by which organization?",
+    "options": [
+      "Agricultural and Processed Food Products Export Development Authority (APEDA)",
+      "Ministry of Agriculture & Farmers Welfare (MoA&FW)",
+      "Food Safety and Standards Authority of India (FSSAI)",
+      "Spices Board of India"
+    ],
+    "correct": 0,
+    "explanation": "The document states that NPOP (National Programme for Organic Production) is under APEDA, Ministry of Commerce."
+  },
+  {
+    "question": "Which of the following is a key feature of 'Precision Agriculture' as defined in the provided text?",
+    "options": [
+      "Using tools like GPS, sensors, and drones to respond to intra-field variability for optimizing resource use.",
+      "Maximizing the use of chemical fertilizers to achieve the highest possible yield.",
+      "Shifting cultivation on forested slopes to maintain natural soil fertility.",
+      "Focusing on traditional manual labor and avoiding any modern navigation technology."
+    ],
+    "correct": 0,
+    "explanation": "The PDF defines Precision Agriculture as a technology-based farm management system using tools like GPS, sensors, drones, and data analytics to respond to intra-field variability."
+  },
+  {
+    "question": "Regarding the fisheries sector in India, which of the following is correct according to the basic data provided?",
+    "options": [
+      "Inland fisheries (including aquaculture) contribute about 25% of the total fish output.",
+      "The fisheries sector contributes approximately 6.7% to India's total GDP.",
+      "Inland fisheries account for roughly 75% of India's total fish production.",
+      "Marine fisheries account for roughly 75% of India's total fish production."
+    ],
+    "correct": 2,
+    "explanation": "According to the PDF, Inland fisheries account for roughly 75% of total production, while Marine fisheries contribute about 25%. It contributes 1.1% to GDP and 6.7% to Agri GVA."
+  },
+  {
+    "question": "Under the MSME classification effective from the latest revisions mentioned, a 'Medium Enterprise' is defined by:",
+    "options": [
+      "Investment up to ₹25 crore and Annual Turnover up to ₹100 crore.",
+      "Investment up to ₹125 crore and Annual Turnover up to ₹500 crore.",
+      "Investment up to ₹50 crore and Annual Turnover up to ₹250 crore.",
+      "Investment up to ₹2.5 crore and Annual Turnover up to ₹10 crore."
+    ],
+    "correct": 1,
+    "explanation": "The PDF table for MSME classification lists Medium Enterprises as having Investment up to ₹125 crore and Annual Turnover up to ₹500 crore."
+  },
+  {
+    "question": "Which of the following agricultural revolutions is correctly matched with its description?",
+    "options": [
+      "Blue Revolution - Focused efforts to increase production of oilseeds like mustard.",
+      "Silver Fiber Revolution - Efforts to boost jute production for the textile industry.",
+      "Golden Fiber Revolution - Efforts to boost jute production, supporting the textile industry.",
+      "Yellow Revolution - Focused efforts to increase fish production and aquaculture."
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that the Golden Fiber Revolution relates to boosting jute production. Yellow is for oilseeds, Blue is for fisheries, and Silver Fiber is for cotton."
+  },
+  {
+    "question": "The 'SPICED Scheme' (2025-26) mentioned in the document is an initiative of which body?",
+    "options": [
+      "APEDA",
+      "FSSAI",
+      "Spices Board (Ministry of Commerce)",
+      "Ministry of Agriculture & Farmers Welfare"
+    ],
+    "correct": 2,
+    "explanation": "The PDF mentions the Spices Board (Ministry of Commerce) - SPICED Scheme (2025-26) for sustainability, quality, and export development."
+  },
+  {
+    "question": "What is the primary objective of the 'Udyam Registration' portal for MSMEs?",
+    "options": [
+      "To provide high-interest loans to micro-enterprises.",
+      "To provide a single-window online registration system for MSME formalization and scheme access.",
+      "To regulate the export of heavy machinery from medium enterprises.",
+      "To provide manual training for cottage industry workers in rural areas."
+    ],
+    "correct": 1,
+    "explanation": "As per the PDF, Udyam Registration's objective is to provide a single-window online registration system for MSME formalization and scheme access."
+  },
+  {
+    "question": "According to the 'Income Realization Based Approach' in post-production, what is the significance of e-NAM and FPOs?",
+    "options": [
+      "They are primarily used for collecting land revenue from agricultural households.",
+      "They focus on increasing the fragmentation of land holdings for better management.",
+      "They allow farmers to bypass middlemen and access markets directly to avoid distress selling.",
+      "They help farmers increase production by providing free seeds and fertilizers."
+    ],
+    "correct": 2,
+    "explanation": "The PDF states that direct market access through e-NAM and FPOs helps farmers bypass middlemen and avoid distress selling, which is a key component of the Income Realization Based Approach."
+  },
+  {
+    "question": "Which state is the largest producer of Gram (Chana) and Soybean according to the document?",
+    "options": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Uttar Pradesh",
+      "Rajasthan"
+    ],
+    "correct": 0,
+    "explanation": "The PDF identifies Madhya Pradesh (MP) as the largest producer of Chana (Gram) and also lists it as a major state for Soybean."
+  },
+  {
+    "question": "What is the specific climatic requirement for Cotton cultivation as per the PDF?",
+    "options": [
+      "Warm and humid with retting water availability being crucial.",
+      "Kharif crop, 21-30°C temperature, and a long frost-free period.",
+      "Equatorial climate with temperature above 35°C and high winds.",
+      "Cool and dry climate during the Rabi season."
+    ],
+    "correct": 1,
+    "explanation": "The PDF states for Cotton: Climatic conditions include Kharif; 21-30°C; 50-100 cm rain; long frost-free period; sunny/dry at boll opening."
+  },
+  {
+    "question": "Regarding the 'Integrated Farming Systems (IFS)', what is the main benefit of 'Crop-Livestock Integration'?",
+    "options": [
+      "It creates a nutrient loop where dung is converted to biogas/compost and residues are used as feed.",
+      "It completely eliminates the need for any water management on the farm.",
+      "It is only suitable for large-scale commercial plantations.",
+      "It focuses solely on timber production on field edges."
+    ],
+    "correct": 0,
+    "explanation": "The PDF describes the nutrient loop in Crop-Livestock Integration: dung to biogas to slurry/compost (fertility), and residues (straw/stovers) to feed or mulch."
+  },
+  {
+    "question": "Which of the following is NOT classified as a 'Major Millet' in the provided PDF?",
+    "options": [
+      "Sorghum (Jowar)",
+      "Finger Millet (Ragi)",
+      "Foxtail Millet (Kakum)",
+      "Pearl Millet (Bajra)"
+    ],
+    "correct": 2,
+    "explanation": "According to the infographic in the PDF, Major Millets include Jowar, Bajra, and Ragi. Foxtail Millet (Kakum) is listed under Minor Millets."
+  },
+  {
+    "question": "The 'GOBARdhan' Scheme (2018) is designed to:",
+    "options": [
+      "Increase the export of organic honey from North East India.",
+      "Provide subsidies for the purchase of tractors in semi-arid regions.",
+      "Convert organic waste into biogas, compressed biogas (CBG), and bio-fertilizer.",
+      "Regulate the minimum support price for minor forest produce."
+    ],
+    "correct": 2,
+    "explanation": "The PDF states the GOBARdhan Scheme converts organic waste into biogas, compressed biogas (CBG), and bio-fertilizer."
+  },
+  {
+    "question": "Which scheme is specifically associated with reducing edible oil imports in India?",
+    "options": [
+      "NMEO-OP (National Mission on Edible Oils - Oil Palm)",
+      "MIDH",
+      "PMMSY",
+      "PM-POSHAN"
+    ],
+    "correct": 0,
+    "explanation": "The PDF mentions NMEO-OP (National Mission on Edible Oils - Oil Palm, 2021) to reduce edible oil imports."
+  },
+  {
+    "question": "What is 'Jhum' cultivation as described in the traditional farming systems section?",
+    "options": [
+      "Intensive multi-cropping in the coastal deltas.",
+      "Shifting cultivation involving short cultivation on forested slopes in NE hill states.",
+      "A modern precision farming technique used in peri-urban areas.",
+      "Mono-cropping on large plots in semi-arid regions with low labour."
+    ],
+    "correct": 1,
+    "explanation": "The PDF lists Shifting cultivation (Jhum) as short cultivation on forested slopes, distributed in NE hill states."
+  },
+  {
+    "question": "Which of the following is a component of the 'Pradhan Mantri Kisan SAMPADA Yojana' (PMKSY)?",
+    "options": [
+      "Providing interest-free loans for spice area expansion.",
+      "Setting up of solar pumps in rainfed areas.",
+      "Direct benefit transfer for purchasing seeds.",
+      "Infrastructure for mega food parks and integrated cold chains."
+    ],
+    "correct": 3,
+    "explanation": "The PDF states PMKSY provides infrastructure for mega food parks, integrated cold chains, and preservation units."
+  },
+  {
+    "question": "As per the PDF, what is the role of the 'CACP' in the context of MSP?",
+    "options": [
+      "It is the final authority that announces the MSP every season.",
+      "It recommends the Minimum Support Price to the Government of India.",
+      "It is responsible for the physical procurement of grains from farmers.",
+      "It manages the Fair Price Shops under the PDS framework."
+    ],
+    "correct": 1,
+    "explanation": "The PDF states MSP is announced by the Government of India based on recommendations of the CACP (Commission for Agricultural Costs and Prices)."
+  },
+  {
+    "question": "Which organization provides the 'Jaivik Bharat' logo used on retail packs of organic produce?",
+    "options": [
+      "Ministry of Agriculture & Farmers Welfare",
+      "FSSAI",
+      "APEDA",
+      "Spices Board"
+    ],
+    "correct": 1,
+    "explanation": "The PDF mentions the Jaivik Bharat logo (FSSAI) is a unified consumer logo used on retail packs alongside NPOP/PGS credentials."
+  },
+  {
+    "question": "In 'Fish-cum-Poultry' integrated systems, how is the nutrient pathway described?",
+    "options": [
+      "Poultry droppings fertilize the pond to create a plankton bloom for natural fish feed.",
+      "Fish waste is used as feed for the poultry birds.",
+      "Poultry and fish are kept in completely separate zones with no interaction.",
+      "The system relies entirely on external chemical fertilizers for fish growth."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states the nutrient pathway: droppings fertilize pond to plankton bloom to natural fish feed."
+  },
+  {
+    "question": "Which of the following states is the leading producer of Inland Fisheries in India?",
+    "options": [
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "West Bengal",
+      "Gujarat"
+    ],
+    "correct": 1,
+    "explanation": "The PDF lists top producing states for Inland Fisheries as Andhra Pradesh, West Bengal, and Uttar Pradesh."
+  },
+  {
+    "question": "The 'Situation Assessment Survey' (SAS) of agricultural households is conducted by which organization?",
+    "options": [
+      "NITI Aayog",
+      "Department of Agriculture & Farmers Welfare",
+      "National Sample Survey Organisation (NSSO)",
+      "National Statistical Office (NSO)"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states the SAS of agricultural households is conducted by the National Statistical Office (NSO) under MOSPI."
+  },
+  {
+    "question": "According to the PDF, what is the main purpose of the 'Kisan Rail'?",
+    "options": [
+      "To provide cheap passenger travel for farmers across the country.",
+      "To deliver subsidized fertilizers to remote agricultural clusters.",
+      "To transport heavy machinery like tractors to rural areas.",
+      "To move perishables quickly from production zones to consumption markets."
+    ],
+    "correct": 3,
+    "explanation": "The PDF mentions Kisan Rail was introduced to move perishables quickly, connecting production zones to consumption markets."
+  },
+  {
+    "question": "Which of the following is a 'Pseudo Millet' as per the classification in the document?",
+    "options": [
+      "Barnyard Millet (Sanwa)",
+      "Buckwheat (Kutku)",
+      "Kodo Millet (Kodon)",
+      "Proso Millet (Chenna)"
+    ],
+    "correct": 1,
+    "explanation": "The infographic in the PDF classifies Amaranth (Ramdana) and Buckwheat (Kutku) as Pseudo Millets."
+  },
+  {
+    "question": "Regarding MSME initiatives, the 'PMEGP' scheme aims to:",
+    "options": [
+      "Provide subsidies for international travel of MSME owners.",
+      "Regulate the minimum wage for workers in the formal sector.",
+      "Modernize existing large-scale steel plants.",
+      "Generate self-employment by facilitating bank-linked credit for new micro-enterprises."
+    ],
+    "correct": 3,
+    "explanation": "The PDF defines the objective of PMEGP as generating self-employment opportunities by facilitating bank-linked credit for new micro-enterprises."
+  },
+  {
+    "question": "Which of the following is a feature of 'Plantation Agriculture' as per the PDF?",
+    "options": [
+      "Large contiguous estates, perennial crops, and export orientation.",
+      "Mono-cropping on larger plots in low-density semi-arid areas.",
+      "Short cultivation periods on forested slopes followed by long fallow periods.",
+      "Small holdings with high labor use and reliance on irrigation."
+    ],
+    "correct": 0,
+    "explanation": "The PDF describes Plantation Agriculture as having large contiguous estates, perennial crops, export orientation, and being labor-intensive."
+  },
+  {
+    "question": "The 'PGS-India' (Participatory Guarantee System) for organic certification is implemented by which ministry?",
+    "options": [
+      "Ministry of Health and Family Welfare",
+      "Ministry of Commerce and Industry",
+      "Ministry of Environment, Forest and Climate Change",
+      "Ministry of Agriculture & Farmers Welfare (MoA&FW)"
+    ],
+    "correct": 3,
+    "explanation": "The PDF explicitly links PGS-India to the MoA&FW (Ministry of Agriculture & Farmers Welfare)."
+  },
+  {
+    "question": "What is the 'Evergreen Revolution' as described in the Crop Revolution section?",
+    "options": [
+      "Increasing the production of petroleum and biofuel crops.",
+      "Sustainable and eco-friendly growth by combining modern technologies with environmental conservation.",
+      "Focus on increasing wheat and rice production through chemical fertilizers.",
+      "A movement to increase overall agricultural productivity using traditional tools only."
+    ],
+    "correct": 1,
+    "explanation": "The PDF defines Evergreen Revolution as emphasizing sustainable and eco-friendly growth by combining modern technologies with environmental conservation principles."
+  },
+  {
+    "question": "Which organization handles the export of marine products from India?",
+    "options": [
+      "FCI",
+      "Spices Board",
+      "APEDA",
+      "MPEDA"
+    ],
+    "correct": 3,
+    "explanation": "The PDF identifies MPEDA (Marine Products Export Development Authority) as handling fish and seafood exports."
+  },
+  {
+    "question": "What is the 'Protein Revolution' as mentioned in the PDF?",
+    "options": [
+      "A movement to increase pulses production only in North India.",
+      "A policy to regulate the export of meat products to developed countries.",
+      "A scheme to provide free milk to all agricultural households.",
+      "A recent technology-driven movement aimed at increasing agricultural productivity and nutritional security."
+    ],
+    "correct": 3,
+    "explanation": "The PDF describes the Protein Revolution as a recent technology-driven movement aimed at increasing overall agricultural productivity and ensuring nutritional security."
+  },
+  {
+    "question": "The 'SPICED' scheme for the spices sector has a duration of:",
+    "options": [
+      "2025-2026",
+      "2020-2022",
+      "2023-2024",
+      "2026-2030"
+    ],
+    "correct": 0,
+    "explanation": "The PDF mentions the Spices Board's 'SPICED Scheme (2025-26)'."
+  },
+  {
+    "question": "Which of the following is correct regarding 'State Advised Price' (SAP) for sugarcane?",
+    "options": [
+      "It is announced by some states and is usually higher than FRP.",
+      "It is only applicable to organic sugarcane produced in the North East.",
+      "It is announced by the Central Government and is lower than FRP.",
+      "It is a recommendation that is not binding on sugar mills."
+    ],
+    "correct": 0,
+    "explanation": "The PDF states SAP is announced by some states (e.g., UP, Haryana); it is usually higher than FRP and binding within that state."
+  },
+  {
+    "question": "The 'National Mission on Edible Oils - Oil Palm' (NMEO-OP) was launched in which year?",
+    "options": [
+      "2023",
+      "2021",
+      "2019",
+      "2018"
+    ],
+    "correct": 1,
+    "explanation": "The PDF notes NMEO-OP was launched in 2021."
+  },
+  {
+    "question": "Which state is identified as the largest producer of Gram (Chana) and Soybean?",
+    "options": [
+      "Uttar Pradesh",
+      "Maharashtra",
+      "Madhya Pradesh",
+      "Rajasthan"
+    ],
+    "correct": 2,
+    "explanation": "The PDF lists Madhya Pradesh (MP) as the largest for Chana and also a major producer for Soybean."
+  },
+  {
+    "question": "What is the primary role of 'FCI' in the PDS framework?",
+    "options": [
+      "Allocating food grains and identifying beneficiaries at the state level.",
+      "Running Fair Price Shops at the grassroot level.",
+      "Procurement, storage, and transportation of food grains for the central pool.",
+      "Announcing the Minimum Support Price before the sowing season."
+    ],
+    "correct": 2,
+    "explanation": "The PDF states the Central Government's role, through FCI, is procurement, storage, and transportation."
+  },
+  {
+    "question": "Under the 'Fish-cum-Poultry' integration model, what is used as a supplement for fish feed as needed?",
+    "options": [
+      "Rice bran and oil-cake",
+      "No supplement is ever needed",
+      "Chemical pellets only",
+      "Kitchen waste only"
+    ],
+    "correct": 0,
+    "explanation": "The PDF mentions that Rice bran/oil-cake is used as a supplement as needed in the nutrient pathway."
+  },
+  {
+    "question": "Which of the following is a sub-discipline of Horticulture focusing on vegetable cultivation?",
+    "options": [
+      "Pomology",
+      "Olericulture",
+      "Mycology",
+      "Floriculture"
+    ],
+    "correct": 1,
+    "explanation": "The PDF defines Olericulture as vegetable cultivation (e.g., tomato, onion, potato)."
+  },
+  {
+    "question": "What is the focus of the 'MSME Sustainable' (formerly Lean Manufacturing Competitiveness) scheme?",
+    "options": [
+      "To provide high subsidies for the import of luxury goods.",
+      "To focus exclusively on the export of raw materials from rural clusters.",
+      "To shut down micro-enterprises that are not profitable.",
+      "To enhance productivity and reduce costs through adoption of Lean Manufacturing techniques."
+    ],
+    "correct": 3,
+    "explanation": "The PDF states the objective is to enhance productivity and reduce costs through adoption of Lean Manufacturing techniques."
+  },
+  {
+    "question": "Regarding the 'Agricultural Export Policy 2018', what was the target for agricultural exports by 2022?",
+    "options": [
+      "48.9 billion dollars",
+      "30 billion dollars",
+      "100 billion dollars",
+      "60 billion dollars"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states the Agricultural Export Policy 2018 had a target of $60 billion by 2022 (which was not achieved)."
+  },
+  {
+    "question": "Which of the following is a 'Pseudo Millet' as per the document?",
+    "options": [
+      "Foxtail Millet (Kakum)",
+      "Little Millet (Kutki)",
+      "Amaranth (Ramdana)",
+      "Proso Millet (Chenna)"
+    ],
+    "correct": 2,
+    "explanation": "The infographic in the PDF lists Amaranth (Ramdana/Rajgira) and Buckwheat (Kutku) as Pseudo Millets."
+  },
+  {
+    "question": "In 'Agroforestry Systems', what is 'Alley cropping'?",
+    "options": [
+      "Planting timber trees on field edges or plots.",
+      "Using trees + grasses for cut-and-carry fodder.",
+      "Planting fruit trees with seasonal fodder/legumes.",
+      "Growing crop rows between tree rows, with prunings used as mulch."
+    ],
+    "correct": 3,
+    "explanation": "The PDF defines Alley cropping as crop rows between tree rows; prunings as mulch."
+  },
+  {
+    "question": "Which scheme supports the setting up of CBG (Compressed Bio-Gas) plants using crop residues?",
+    "options": [
+      "SATAT",
+      "MIDH",
+      "PMMSY",
+      "AIF"
+    ],
+    "correct": 0,
+    "explanation": "The PDF states SATAT (Sustainable Alternative Towards Affordable Transportation) encourages setting up CBG plants using crop residues and organic waste."
+  },
+  {
+    "question": "What does the 'Jaivik Kheti' marketplace provide?",
+    "options": [
+      "Subsidized tractors for organic farmers.",
+      "A portal for the export of petroleum products.",
+      "A farmer-buyer interface for certified organic produce (PGS/NPOP).",
+      "Free seeds for chemical-based farming in the Indo-Gangetic plains."
+    ],
+    "correct": 2,
+    "explanation": "The PDF defines Jaivik Kheti as a marketplace and farmer-buyer interface for certified organic produce."
+  },
+  {
+    "question": "Which of the following is a characteristic of 'Subsistence Intensive' farming systems?",
+    "options": [
+      "Large holdings with low labor input.",
+      "Mono-cropping on large plots in semi-arid areas.",
+      "Focus exclusively on timber and fuelwood production.",
+      "Very small holdings, high labour & input use, and irrigation reliance."
+    ],
+    "correct": 3,
+    "explanation": "The PDF lists Features of Subsistence-Intensive: Very small holdings, high labour & input use, multi-cropping, irrigation reliance."
+  },
+  {
+    "question": "The 'Operation Green Scheme' was expanded from 'TOP to TOTAL'. What does 'TOP' stand for?",
+    "options": [
+      "Turmeric, Oilseed, Pepper",
+      "Tea, Oil, Pulses",
+      "Tomato, Onion, Potato",
+      "Tobacco, Orange, Pineapple"
+    ],
+    "correct": 2,
+    "explanation": "The PDF mentions Operation Greens (TOP to TOTAL) and lists Tomato, Onion, and Potato as the initial focus."
+  },
+  {
+    "question": "What is the objective of the 'Mission Organic Value Chain Development for North Eastern Region' (MOVCD-NER)?",
+    "options": [
+      "To regulate the price of rubber in the Tripura-Assam belt.",
+      "To promote chemical-intensive farming in the Brahmaputra valley.",
+      "To build end-to-end organic value chains in the 8 NE states.",
+      "To provide subsidies for the export of tea from Assam only."
+    ],
+    "correct": 2,
+    "explanation": "The PDF states the objective is to build end-to-end organic value chains in the 8 NE states—from certified production to processing, brand & market."
+  },
+  {
+    "question": "According to the PDF, which state is the leading producer of Marine Fisheries?",
+    "options": [
+      "Tamil Nadu",
+      "Gujarat",
+      "Andhra Pradesh",
+      "Kerala"
+    ],
+    "correct": 1,
+    "explanation": "The PDF lists Gujarat, Tamil Nadu, and Andhra Pradesh as top producing states for Marine Fisheries."
+  },
+  {
+    "question": "Regarding the Eight Major Infrastructure Sectors in India, which of the following statements is correct?",
+    "options": [
+      "These core industries account for approximately 40% weight in the Index of Industrial Production (IIP).",
+      "Natural gas and electricity are excluded from this specific performance index.",
+      "They represent the overall performance of the entire industrial sector in India.",
+      "The index is published quarterly to monitor industrial health."
+    ],
+    "correct": 0,
+    "explanation": "According to the document, the eight major infrastructure sectors (including coal, crude oil, natural gas, refinery products, fertilizers, steel, cement, and electricity) account for about 40% weight in the overall IIP and the index is published monthly."
+  },
+  {
+    "question": "In the context of industrial indicators, what does a value above 50 in the Purchasing Managers' Index (PMI) for Manufacturing signify?",
+    "options": [
+      "Economic expansion in the manufacturing sector.",
+      "A decline in investor sentiment and production trends.",
+      "A neutral state with no change in industrial activity.",
+      "Economic contraction in the manufacturing sector."
+    ],
+    "correct": 0,
+    "explanation": "The PMI is a monthly survey-based indicator where values above 50 indicate expansion and values below 50 indicate contraction."
+  },
+  {
+    "question": "Which of the following is a primary objective of the 'Make in India' initiative as stated in the government schemes table?",
+    "options": [
+      "To transform India into a global manufacturing hub by attracting investments.",
+      "To exclusively focus on the decriminalization of minor industrial offenses.",
+      "To provide direct cash transfers to MSME employees.",
+      "To provide collateral-free credit specifically for the textile sector."
+    ],
+    "correct": 0,
+    "explanation": "The document specifies that the objective of 'Make in India' is to transform India into a global manufacturing hub by attracting investments and enhancing manufacturing capacity."
+  },
+  {
+    "question": "Under the MSME Development Scheme, which Ministry is responsible for supporting the growth and competitiveness of MSMEs?",
+    "options": [
+      "Ministry of MSME",
+      "Ministry of Finance",
+      "Ministry of Electronics and IT",
+      "Ministry of Commerce and Industry"
+    ],
+    "correct": 0,
+    "explanation": "The MSME Development Scheme is under the Ministry of MSME, focusing on support, modernization, and competitiveness."
+  },
+  {
+    "question": "The Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) aims to improve financing access by:",
+    "options": [
+      "Providing interest-free loans to all startups.",
+      "Offering collateral-free credit guarantees up to 2 crore.",
+      "Investing directly in the equity of small businesses.",
+      "Subsidizing the electricity costs for rural industries."
+    ],
+    "correct": 1,
+    "explanation": "The CGTMSE scheme provides collateral-free credit guarantees up to 2 crore to improve MSME financing access."
+  },
+  {
+    "question": "Which scheme is specifically designed to promote modernization and technology advancement in the textiles and apparel sectors?",
+    "options": [
+      "National Manufacturing Competitiveness Program",
+      "Startup India",
+      "Technology Upgradation Fund Scheme (TUFS)",
+      "Industrial Infrastructure Upgradation Scheme"
+    ],
+    "correct": 2,
+    "explanation": "TUFS, under the Ministry of Textiles, is aimed at modernization and technology advancement in textiles and apparel."
+  },
+  {
+    "question": "The 'Stand Up India' scheme specifically facilitates bank loans for which category of entrepreneurs?",
+    "options": [
+      "SC/ST and women entrepreneurs for greenfield projects.",
+      "Only rural male entrepreneurs for any business type.",
+      "Existing MSME owners for upgrading their technology.",
+      "International investors looking to start manufacturing units."
+    ],
+    "correct": 0,
+    "explanation": "Stand Up India facilitates bank loans (10 lakh - 1 crore) for SC/ST and women entrepreneurs specifically for setting up greenfield projects."
+  },
+  {
+    "question": "What is the primary mechanism of the Production Linked Incentive (PLI) Scheme to boost manufacturing?",
+    "options": [
+      "Providing one-time grants to start new factories.",
+      "Providing free land to companies in the electronics sector.",
+      "Offering money-based incentives based on incremental production over previous years.",
+      "Reducing the corporate tax rate for all manufacturing firms to zero."
+    ],
+    "correct": 2,
+    "explanation": "The PLI scheme offers money-based incentives to companies based on how much more they produce compared to previous years (extra sales of goods made in India)."
+  },
+  {
+    "question": "As per the document, which of these is NOT one of the 14 sectors currently covered under the PLI scheme?",
+    "options": [
+      "Mobile manufacturing",
+      "Advanced chemistry cell (ACC) battery",
+      "Drones and drone components",
+      "Luxury tourism and hospitality"
+    ],
+    "correct": 3,
+    "explanation": "While the document lists various sectors for PLI including mobiles, drones, and ACC batteries, 'luxury tourism and hospitality' is not listed as a PLI sector."
+  },
+  {
+    "question": "How is the 'Quaternary' type of service defined in the classification of service sectors?",
+    "options": [
+      "Services provided by the primary sector to the manufacturing sector.",
+      "Basic services like transport and retail that support daily life.",
+      "High-level decision-making by CEOs and government officials.",
+      "Knowledge-based services involving information, research, and technology."
+    ],
+    "correct": 3,
+    "explanation": "Quaternary services are defined as knowledge-based services involving information, research, and technology (e.g., IT, R&D)."
+  },
+  {
+    "question": "According to the provided data for FY25, what was the status of the service sector regarding Foreign Direct Investment (FDI)?",
+    "options": [
+      "It emerged as the top recipient of FDI equity.",
+      "It received less FDI than the merchandise manufacturing sector.",
+      "It saw a decline in FDI compared to the previous decade.",
+      "It was excluded from FDI inflows to protect domestic shops."
+    ],
+    "correct": 0,
+    "explanation": "The document states that in FY25, the services sector emerged as the top recipient of FDI equity."
+  },
+  {
+    "question": "The concept of 'Servicification' mentioned in the document refers to:",
+    "options": [
+      "The replacement of manual labor by robots in the service sector.",
+      "The conversion of all government departments into private service providers.",
+      "A mandatory requirement for manufacturers to provide 10 years of service.",
+      "The increasing integration of services into the industrial sector."
+    ],
+    "correct": 3,
+    "explanation": "Servicification is described as the industrial sector increasingly integrating services, which adds value to the economy."
+  },
+  {
+    "question": "In the classification of MSME Services Enterprises, what is the criteria for a 'Small' enterprise?",
+    "options": [
+      "Investment up to 25 crore and Turnover up to 100 crore.",
+      "Investment up to 50 crore and Turnover up to 200 crore.",
+      "Investment up to 2.5 crore and Turnover up to 10 crore.",
+      "Investment up to 125 crore and Turnover up to 500 crore."
+    ],
+    "correct": 0,
+    "explanation": "The document defines 'Small' services enterprises as having investment up to 25 crore and annual turnover up to 100 crore."
+  },
+  {
+    "question": "What is the role of the Jan Vishwas Act in the 'Ease of Doing Business' framework?",
+    "options": [
+      "It provided a 10-year tax holiday for new service startups.",
+      "It repealed thousands of minor offences to promote decriminalization.",
+      "It established a single-window system for all construction permits.",
+      "It mandated the use of PAN-based identification for all citizens."
+    ],
+    "correct": 1,
+    "explanation": "The Jan Vishwas Act was used to repeal thousands of minor offences, focusing on decriminalization so inadvertent errors are less likely to attract penalties."
+  },
+  {
+    "question": "Under the Digital India Mission, what are 'Common Service Centers (CSCs)' intended to be?",
+    "options": [
+      "Training centers exclusively for high-level software engineers.",
+      "Access points for government services and multi-service centers in rural areas.",
+      "Private internet cafes for gaming and entertainment.",
+      "Physical warehouses for the Government e-Marketplace (GeM)."
+    ],
+    "correct": 1,
+    "explanation": "CSCs are intended to enable access to government services and act as multi-service centers, providing government-to-citizen services in rural areas."
+  },
+  {
+    "question": "Which Ministry is associated with the 'e-Sanjeevani' scheme for telemedicine and teleconsultation?",
+    "options": [
+      "Ministry of Science and Technology",
+      "Ministry of Health and Family Welfare",
+      "Ministry of Skill Development and Entrepreneurship",
+      "Ministry of Electronics and IT"
+    ],
+    "correct": 1,
+    "explanation": "e-Sanjeevani is a scheme under the Ministry of Health and Family Welfare to provide telemedicine services."
+  },
+  {
+    "question": "What is the primary difference between the 'Inventory-Based Model' and the 'Marketplace Model' in e-commerce?",
+    "options": [
+      "Marketplace models have full control over pricing, whereas Inventory models do not.",
+      "The Inventory model earns commission, whereas the Marketplace model earns direct profit.",
+      "The Inventory model only sells to businesses (B2B), while Marketplace sells to customers (B2C).",
+      "In the Inventory model, the platform owns the products; in the Marketplace model, third-party sellers own them."
+    ],
+    "correct": 3,
+    "explanation": "According to the comparison table, in the Inventory-Based Model, the platform owns the products, while in the Marketplace Model, third-party sellers own the products."
+  },
+  {
+    "question": "How does the Open Network for Digital Commerce (ONDC) differ from platforms like Amazon or Flipkart?",
+    "options": [
+      "ONDC is a network that connects buyers and sellers across different apps, rather than being a single platform.",
+      "ONDC only allows the sale of government-made products.",
+      "ONDC is a private app that charges higher commissions than other platforms.",
+      "ONDC requires sellers to store all inventory in government warehouses."
+    ],
+    "correct": 0,
+    "explanation": "ONDC is described as a network (like UPI) that connects buyers and sellers, allowing sellers to connect via any ONDC-enabled app rather than relying on one big platform."
+  },
+  {
+    "question": "In the context of e-commerce, 'Predatory Pricing' is defined as:",
+    "options": [
+      "A strategy of lowering prices below cost to drive competitors out of the market.",
+      "The practice of increasing prices during peak holiday seasons.",
+      "A government-mandated price ceiling for essential services.",
+      "Setting prices based on the high quality of premium products."
+    ],
+    "correct": 0,
+    "explanation": "Predatory Pricing is a strategy where a company deliberately lowers prices below cost to drive competitors out, eventually aiming to dominate the market."
+  },
+  {
+    "question": "Which scheme incentivizes employer and employee contributions to EPFO to promote formal employment in organized services?",
+    "options": [
+      "Service Exports from India Scheme (SEIS)",
+      "Skill India",
+      "Atmanirbhar Bharat Rojgar Yojana (ABRY)",
+      "National Apprenticeship Training Scheme (NATS)"
+    ],
+    "correct": 2,
+    "explanation": "The ABRY, under the Ministry of Labour and Employment, incentivizes EPFO contributions where the government pays these for new employees to promote formal employment."
+  }
+]

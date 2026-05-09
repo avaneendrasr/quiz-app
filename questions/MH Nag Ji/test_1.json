@@ -1,0 +1,2752 @@
+[
+  {
+    "question": "Which of the following factors is described in the text as a reason for the military inferiority of the Mughals against European powers?",
+    "options": [
+      "Lack of numerical strength in the Mughal army",
+      "Outdated military strategies compared to better-equipped European armies",
+      "Frequent desertions by Mughal generals to European camps",
+      "The use of foreign mercenaries by the Mughal emperors"
+    ],
+    "correct": 1,
+    "explanation": "According to the PDF, outdated Mughal military strategies failed against better-equipped European armies, contributing to the decline of Mughal authority."
+  },
+  {
+    "question": "What was the historical significance of the 18th century in India as mentioned in the document?",
+    "options": [
+      "It was the peak of the Mughal Empire's territorial expansion.",
+      "It served as a transitional phase between medieval and modern India.",
+      "It marked the complete isolation of India from global trade.",
+      "It was a period of absolute peace and political stability."
+    ],
+    "correct": 1,
+    "explanation": "The document states that the 18th century acted as a transitional phase between medieval and modern India."
+  },
+  {
+    "question": "The title 'Shah-i-Bekhabar' was associated with which Mughal emperor due to his disregard for administration?",
+    "options": [
+      "Jahandar Shah",
+      "Farrukh Siyar",
+      "Bahadur Shah I",
+      "Muhammad Shah"
+    ],
+    "correct": 2,
+    "explanation": "Historians labeled Bahadur Shah I as 'Shah-i-Bekhabar' because of his disregard for administration."
+  },
+  {
+    "question": "Which revenue system introduced during the later Mughal period is cited as a reason for weakening governance?",
+    "options": [
+      "Zabt system",
+      "Malzamani system",
+      "Ijrah (Revenue farming)",
+      "Dahshala system"
+    ],
+    "correct": 2,
+    "explanation": "The text mentions that inefficient revenue systems, such as Ijrah (revenue farming), weakened governance."
+  },
+  {
+    "question": "During the reign of which Mughal emperor did Nadir Shah invade India and carry off the Peacock Throne?",
+    "options": [
+      "Ahmad Shah",
+      "Muhammad Shah",
+      "Alamgir II",
+      "Shah Alam II"
+    ],
+    "correct": 1,
+    "explanation": "Nadir Shah invaded in 1739 during the rule of Muhammad Shah, looting Delhi and taking the Peacock Throne."
+  },
+  {
+    "question": "The 'Farman of 1717', which granted trading privileges to the British East India Company, was issued by:",
+    "options": [
+      "Bahadur Shah I",
+      "Jahandar Shah",
+      "Farrukh Siyar",
+      "Akbar Shah II"
+    ],
+    "correct": 2,
+    "explanation": "The PDF notes that Farrukh Siyar issued the Farman of 1717 granting trading privileges to the British."
+  },
+  {
+    "question": "Which regional state is categorized as an 'Independent State' that was historically not part of the Mughal Empire?",
+    "options": [
+      "Awadh",
+      "Bengal",
+      "Mysore",
+      "Hyderabad"
+    ],
+    "correct": 2,
+    "explanation": "The document categorizes Mysore as an independent state that was historically not part of the Mughal Empire."
+  },
+  {
+    "question": "The 'Sayyid Brothers' are famously known in history as 'Kingmakers'. During whose installation did they play a primary role?",
+    "options": [
+      "Bahadur Shah I",
+      "Farrukh Siyar",
+      "Shah Alam II",
+      "Akbar Shah II"
+    ],
+    "correct": 1,
+    "explanation": "Farrukh Siyar was installed by the Sayyid Brothers, who held the real power during his reign."
+  },
+  {
+    "question": "Who was the founder of the autonomous state of Hyderabad in 1724?",
+    "options": [
+      "Saadat Khan",
+      "Murshid Quli Khan",
+      "Nizam-ul-Mulk (Qlich Khan)",
+      "Saadatullah Khan"
+    ],
+    "correct": 2,
+    "explanation": "Nizam-ul-Mulk (Qlich Khan) founded Hyderabad in 1724."
+  },
+  {
+    "question": "In the 18th century context, 'Successor States' were those that:",
+    "options": [
+      "Rebelled and completely broke all ties with the Mughal Emperor.",
+      "Were formed from existing Mughal provinces and retained nominal allegiance to the emperor.",
+      "Were established by European powers after defeating local rulers.",
+      "Were ancient kingdoms that never came under Mughal rule."
+    ],
+    "correct": 1,
+    "explanation": "Successor States were formed from existing Mughal provinces but retained nominal allegiance to the Mughal emperor."
+  },
+  {
+    "question": "The Battle of Shaker-Kheda led to the establishment of which state?",
+    "options": [
+      "Bengal",
+      "Awadh",
+      "Hyderabad",
+      "Carnatic"
+    ],
+    "correct": 2,
+    "explanation": "Hyderabad was established after a conflict with the Mughal viceroy Mubariz Khan at the Battle of Shaker-Kheda."
+  },
+  {
+    "question": "Which ruler introduced the 'Malzamani System' for revenue collection in Bengal?",
+    "options": [
+      "Alivardi Khan",
+      "Siraj-ud-Daula",
+      "Murshid Quli Khan",
+      "Mir Jafar"
+    ],
+    "correct": 2,
+    "explanation": "Murshid Quli Khan introduced the Malzamani System for efficient revenue collection in Bengal."
+  },
+  {
+    "question": "The Persian saying 'Sultanat-e-Shah Alam, Az Dili ta Palam' refers to the drastically reduced authority of which emperor?",
+    "options": [
+      "Shah Alam II",
+      "Akbar Shah II",
+      "Bahadur Shah II",
+      "Alamgir II"
+    ],
+    "correct": 0,
+    "explanation": "The saying specifically refers to Shah Alam II, meaning his kingdom only extended from Delhi to Palam."
+  },
+  {
+    "question": "Which Maratha Peshwa is credited with making the post of Peshwa hereditary?",
+    "options": [
+      "Baji Rao I",
+      "Balaji Baji Rao",
+      "Balaji Vishwanath",
+      "Madhav Rao"
+    ],
+    "correct": 2,
+    "explanation": "The document states that Balaji Vishwanath made the post of Peshwa hereditary."
+  },
+  {
+    "question": "The Sikh Empire was unified and founded by which leader?",
+    "options": [
+      "Banda Bahadur",
+      "Ranjit Singh",
+      "Guru Gobind Singh",
+      "Sardar Kapur Singh"
+    ],
+    "correct": 1,
+    "explanation": "Ranjit Singh unified Punjab and founded the Sikh Empire."
+  },
+  {
+    "question": "Who was the first Mughal Emperor to become a pensioner of the British East India Company?",
+    "options": [
+      "Akbar Shah II",
+      "Shah Alam II",
+      "Bahadur Shah II",
+      "Alamgir II"
+    ],
+    "correct": 1,
+    "explanation": "Shah Alam II was the first Mughal Emperor to become a pensioner of the Company after the Battle of Buxar."
+  },
+  {
+    "question": "The state of Mysore was transformed from a viceroyalty to an independent state under which dynasty?",
+    "options": [
+      "Asaf Jahi Dynasty",
+      "Wodeyar Dynasty",
+      "Adil Shahi Dynasty",
+      "Nizam Dynasty"
+    ],
+    "correct": 1,
+    "explanation": "Mysore was transformed from a viceroyalty of the Vijayanagar Empire to an independent state under the Wodeyar Dynasty."
+  },
+  {
+    "question": "Which event in 1453 is cited as a reason for Europeans seeking new sea routes to India?",
+    "options": [
+      "The Battle of Plassey",
+      "The Fall of Constantinople",
+      "The discovery of the Cape of Good Hope",
+      "The death of Aurangzeb"
+    ],
+    "correct": 1,
+    "explanation": "The Fall of Constantinople in 1453 made traditional routes difficult, prompting the search for new maritime routes."
+  },
+  {
+    "question": "Vasco da Gama reached Calicut in 1498 under the patronage of which King?",
+    "options": [
+      "King Henry",
+      "King Emmanuel",
+      "King Ferdinand",
+      "King Charles"
+    ],
+    "correct": 1,
+    "explanation": "Vasco da Gama reached Calicut under the patronage of King Emmanuel."
+  },
+  {
+    "question": "According to the document, why were eastern spices so important for European traders?",
+    "options": [
+      "They were used as a form of currency.",
+      "They were essential for making medicinal dyes.",
+      "They were used to mask the flavor of spoiled meat due to lack of refrigeration.",
+      "They were required for religious ceremonies in Europe."
+    ],
+    "correct": 2,
+    "explanation": "Spices were important for masking the flavor of rancid or spoiled meat as food spoiled easily without refrigeration."
+  },
+  {
+    "question": "Which Mughal ruler stopped issuing coins in his name, signifying the supremacy of British power?",
+    "options": [
+      "Shah Alam II",
+      "Akbar Shah II",
+      "Bahadur Shah II",
+      "Alamgir II"
+    ],
+    "correct": 1,
+    "explanation": "During the rule of Akbar Shah II, the British stopped issuing coins in his name."
+  },
+  {
+    "question": "The Battle of Palkhed (1728) was a clash between Hyderabad and which other power?",
+    "options": [
+      "The British",
+      "The Marathas",
+      "The French",
+      "The Sikhs"
+    ],
+    "correct": 1,
+    "explanation": "The text mentions that Hyderabad frequently clashed with the Marathas, citing the Battle of Palkhed (1728) as an example."
+  },
+  {
+    "question": "Who was the Nawab of Carnatic who appointed his nephew Dost Ali as successor without the Nizam's approval?",
+    "options": [
+      "Saadat Khan",
+      "Saadatullah Khan",
+      "Anwar-ud-din",
+      "Chanda Sahib"
+    ],
+    "correct": 1,
+    "explanation": "Nawab Saadatullah of Carnatic appointed his nephew Dost Ali as his successor without the prior approval of the Nizam."
+  },
+  {
+    "question": "What led to the assassination of Farrukh Siyar?",
+    "options": [
+      "A revolt by the Sikh leader Banda Bahadur",
+      "Conspiracies between the Sayyid Brothers and Peshwa Balaji Vishwanath",
+      "An invasion by Nadir Shah",
+      "A conflict with the British East India Company"
+    ],
+    "correct": 1,
+    "explanation": "Farrukh Siyar was assassinated due to conspiracies between the Sayyid Brothers and Peshwa Balaji Vishwanath."
+  },
+  {
+    "question": "Which ruler assumed power in Bengal through a coup by killing Sarfaraz Khan?",
+    "options": [
+      "Murshid Quli Khan",
+      "Alivardi Khan",
+      "Siraj-ud-Daula",
+      "Mir Qasim"
+    ],
+    "correct": 1,
+    "explanation": "Alivardi Khan assumed power through a coup and killed Sarfaraz Khan at the Battle of Gheria."
+  },
+  {
+    "question": "The 'Jagirdari Crisis' is listed as a reason for the decline of which authority?",
+    "options": [
+      "Maratha Empire",
+      "Mughal Empire",
+      "Sikh Empire",
+      "Mysore Kingdom"
+    ],
+    "correct": 1,
+    "explanation": "The 'Jagirdari Crisis' is explicitly listed as a reason for the decline of Mughal authority."
+  },
+  {
+    "question": "Which European power was the first to navigate the entire African coastline?",
+    "options": [
+      "The Dutch",
+      "The English",
+      "The Portuguese",
+      "The French"
+    ],
+    "correct": 2,
+    "explanation": "The document states that the Portuguese became the first ones to navigate the entire African coastline."
+  },
+  {
+    "question": "Bartholomew Dias reached the 'Cape of Good Hope' in 1487. What was its original name?",
+    "options": [
+      "Cape of Spices",
+      "Cape of Storms",
+      "Cape of Navigation",
+      "Cape of Discovery"
+    ],
+    "correct": 1,
+    "explanation": "It was originally named 'Cape of Storms' before being renamed to 'Cape of Good Hope'."
+  },
+  {
+    "question": "Under whose reign did the Maratha confederacy emerge supreme, represented by various houses like Gaekwads and Holkars?",
+    "options": [
+      "Balaji Vishwanath",
+      "Baji Rao",
+      "Nana Saheb",
+      "Chhatrapati Shahu"
+    ],
+    "correct": 1,
+    "explanation": "Under Baji Rao, the Maratha confederacy emerged supreme, represented by various regional houses."
+  },
+  {
+    "question": "Which Mughal emperor was deported to Rangoon after the Revolt of 1857?",
+    "options": [
+      "Akbar Shah II",
+      "Shah Alam II",
+      "Bahadur Shah II",
+      "Alamgir II"
+    ],
+    "correct": 2,
+    "explanation": "Bahadur Shah II was captured and deported to Rangoon where he died."
+  },
+  {
+    "question": "What was the significance of the Battle of Lohgarh?",
+    "options": [
+      "The Marathas defeated the Mughals.",
+      "Bahadur Shah I defeated the Sikh revolts under Banda Bahadur.",
+      "The British defeated the French.",
+      "Nadir Shah defeated the Mughal army."
+    ],
+    "correct": 1,
+    "explanation": "Bahadur Shah I faced Sikh revolts under Banda Bahadur, whom he defeated at Lohgarh."
+  },
+  {
+    "question": "Who among the following was the Wazir and 'Kingmaker' during the reign of Ahmad Shah (1748-1754)?",
+    "options": [
+      "Zulfiqar Khan",
+      "Sayyid Brothers",
+      "Imad-ul-Mulk",
+      "Nizam-ul-Mulk"
+    ],
+    "correct": 2,
+    "explanation": "During Ahmad Shah's reign, Imad-ul-Mulk became the new wazir and kingmaker."
+  },
+  {
+    "question": "The 'Third Battle of Panipat' in 1761 was fought between:",
+    "options": [
+      "Mughals and British",
+      "Marathas and Ahmad Shah Abdali",
+      "Sikhs and Afghans",
+      "Marathas and British"
+    ],
+    "correct": 1,
+    "explanation": "The Third Battle of Panipat (1761) was fought between the Marathas and Abdali."
+  },
+  {
+    "question": "Which statement correctly describes the policy of Bahadur Shah I towards the Maratha prince Shahu?",
+    "options": [
+      "He kept Shahu in prison to weaken the Marathas.",
+      "He allowed Shahu to return and granted Sardesmukhi in the Deccan.",
+      "He recognized Shahu as the Chhatrapati of all Marathas.",
+      "He granted Shahu the right to collect Chauth from all Mughal provinces."
+    ],
+    "correct": 1,
+    "explanation": "Bahadur Shah I allowed Shahu to return and granted Sardesmukhi in the Deccan."
+  },
+  {
+    "question": "The 18th century transformation in India was marked by the fragmentation of the Mughal Empire into:",
+    "options": [
+      "European colonies",
+      "Regional powers",
+      "Religious caliphates",
+      "Democratic states"
+    ],
+    "correct": 1,
+    "explanation": "The transformation was marked by fragmentation into regional powers, leading to a redistribution of political control."
+  },
+  {
+    "question": "Which state was established by Saadat Khan in 1722?",
+    "options": [
+      "Bengal",
+      "Hyderabad",
+      "Awadh",
+      "Carnatic"
+    ],
+    "correct": 2,
+    "explanation": "Saadat Khan became the Subahdar of Awadh in 1722, aiming to establish it as an independent power center."
+  },
+  {
+    "question": "In the late 18th century, who overthrew the Wodeyar rulers in Mysore?",
+    "options": [
+      "The Marathas",
+      "The British",
+      "Haidar Ali and Tipu Sultan",
+      "The Nizam of Hyderabad"
+    ],
+    "correct": 2,
+    "explanation": "The Wodeyar rulers were overthrown by Haidar Ali and Tipu Sultan in the late 18th century."
+  },
+  {
+    "question": "The Sikh confederacy initially organized itself into how many 'Misls'?",
+    "options": [
+      "5",
+      "10",
+      "12",
+      "24"
+    ],
+    "correct": 2,
+    "explanation": "Sikhs initially organized themselves under 12 Misls (Groups) each under a local chief."
+  },
+  {
+    "question": "Which Mughal ruler was known as 'Rangeela'?",
+    "options": [
+      "Jahandar Shah",
+      "Muhammad Shah",
+      "Farrukh Siyar",
+      "Ahmad Shah"
+    ],
+    "correct": 1,
+    "explanation": "Muhammad Shah was known as 'Rangeela' for his indulgent lifestyle."
+  },
+  {
+    "question": "The Battle of Plassey (1757) occurred during the reign of which Mughal emperor?",
+    "options": [
+      "Muhammad Shah",
+      "Ahmad Shah",
+      "Alamgir II",
+      "Shah Alam II"
+    ],
+    "correct": 2,
+    "explanation": "Alamgir II's reign witnessed the Battle of Plassey (1757)."
+  },
+  {
+    "question": "Who granted the title 'Raja' to Ram Mohan Roy?",
+    "options": [
+      "Shah Alam II",
+      "Akbar Shah II",
+      "Bahadur Shah II",
+      "Lord William Bentinck"
+    ],
+    "correct": 1,
+    "explanation": "Akbar Shah II granted the title 'Raja' to Ram Mohan Roy while sending him to London."
+  },
+  {
+    "question": "Which port cities were captured by Peshwa Baji Rao from the Portuguese?",
+    "options": [
+      "Goa and Daman",
+      "Bassein and Salsette",
+      "Surat and Bombay",
+      "Calicut and Cochin"
+    ],
+    "correct": 1,
+    "explanation": "Peshwa Baji Rao captured Bassein and Salsette ports from the Portuguese."
+  },
+  {
+    "question": "The term 'Degeneration of Mughal Nobility' is cited as a reason for:",
+    "options": [
+      "Success of the Marathas",
+      "Decline of Mughal Authority",
+      "Growth of Sikh Misls",
+      "Advent of European Powers"
+    ],
+    "correct": 1,
+    "explanation": "Degeneration of Mughal Nobility is explicitly listed as a reason for the decline of Mughal authority."
+  },
+  {
+    "question": "Who was the Mughal viceroy defeated at the Battle of Shaker-Kheda?",
+    "options": [
+      "Zulfiqar Khan",
+      "Mubariz Khan",
+      "Imad-ul-Mulk",
+      "Safdar Jung"
+    ],
+    "correct": 1,
+    "explanation": "Hyderabad was established after a conflict with the Mughal viceroy Mubariz Khan."
+  },
+  {
+    "question": "Which regional power acted as a 'protectorate of the Mughal Empire' during the Third Battle of Panipat?",
+    "options": [
+      "The British",
+      "The Marathas",
+      "The Sikhs",
+      "The Jats"
+    ],
+    "correct": 1,
+    "explanation": "The Marathas fought the Third Battle of Panipat (1761) as a protectorate of the Mughal Empire."
+  },
+  {
+    "question": "In the context of European arrival, what occurred in 1519?",
+    "options": [
+      "Vasco da Gama's second voyage",
+      "Establishment of the Dutch East India Company",
+      "First circumnavigation of the world by a Spanish fleet",
+      "The Battle of Diu"
+    ],
+    "correct": 2,
+    "explanation": "In 1519, a Spanish fleet under Ferdinand Magellan set out, resulting in the first circumnavigation of the world."
+  },
+  {
+    "question": "Which Mughal ruler's reign saw Punjab and Multan surrendered to Persian invaders to appease them?",
+    "options": [
+      "Muhammad Shah",
+      "Ahmad Shah",
+      "Alamgir II",
+      "Shah Alam II"
+    ],
+    "correct": 1,
+    "explanation": "During Ahmad Shah's reign (1748-1754), he surrendered Punjab and Multan to Persian invaders."
+  },
+  {
+    "question": "Which state was established in Eastern India, comprising Bengal, Bihar, and Orissa, as a sovereign entity under Alivardi Khan?",
+    "options": [
+      "Awadh",
+      "Hyderabad",
+      "Bengal",
+      "Carnatic"
+    ],
+    "correct": 2,
+    "explanation": "Under Alivardi's rule, Bengal, Bihar, and Orissa were established as a sovereign state in Eastern India."
+  },
+  {
+    "question": "According to the PDF, what did European nations utilize trade networks for in the 17th century?",
+    "options": [
+      "To spread Christianity primarily",
+      "To exchange goods for bullion",
+      "To conquer internal territories",
+      "To abolish local taxes"
+    ],
+    "correct": 1,
+    "explanation": "They utilized existing trade networks to exchange goods for bullion, shifting the balance of trade in India's favor."
+  },
+  {
+    "question": "Who was the 'First puppet Ruler' under Wazir Zulfiqar Khan?",
+    "options": [
+      "Bahadur Shah I",
+      "Jahandar Shah",
+      "Farrukh Siyar",
+      "Muhammad Shah"
+    ],
+    "correct": 1,
+    "explanation": "Jahandar Shah was the first puppet ruler under Wazir Zulfiqar Khan."
+  },
+    {
+      "question": "Regarding the Portuguese 'Estado da India' established in 1505, which of the following statements best describes its primary objective as per the provided text?",
+      "options": [
+        "To focus exclusively on the spice trade with Indian local rulers.",
+        "To act as a non-military governing body for merchant settlements.",
+        "To establish a Christian state in the East and launch a holy war against Islam.",
+        "To maintain neutrality in the naval conflicts between Arab and Persian merchants."
+      ],
+      "correct": 2,
+      "explanation": "The text states that the formation of the 'Estado da India' indicated the Portuguese would no longer be content with mere spice trade but set out to establish a Christian Portuguese state and launch a holy war against Islam[cite: 458]."
+    },
+    {
+      "question": "Who was the first Portuguese Viceroy in India to initiate the 'Blue Water Policy'?",
+      "options": [
+        "Alfonso de Albuquerque",
+        "Francisco De Almeida",
+        "Nino de Cunha",
+        "Vasco da Gama"
+      ],
+      "correct": 1,
+      "explanation": "Francisco De Almeida (1505-1509) was the first Portuguese Viceroy and initiated the Blue Water Policy aimed at mastery over the sea[cite: 460, 461]."
+    },
+    {
+      "question": "Which Portuguese Viceroy is credited with the conquest of Goa from the Sultan of Bijapur in 1510?",
+      "options": [
+        "Francisco De Almeida",
+        "Nuno da Cunha",
+        "Alfonso de Albuquerque",
+        "Vasco da Gama"
+      ],
+      "correct": 2,
+      "explanation": "Alfonso de Albuquerque conquered Goa from the Sultan of Bijapur (Adil Shah) in 1510[cite: 465]."
+    },
+    {
+      "question": "The 'Vedor da Fazenda' in the Portuguese administration was primarily responsible for:",
+      "options": [
+        "Military training of the Armadas.",
+        "Religious conversions and education.",
+        "Revenues, cargoes, and dispatch of fleets.",
+        "Diplomatic relations with the Mughal Emperor."
+      ],
+      "correct": 2,
+      "explanation": "The post of Vedor da Fazenda was responsible for revenues, cargoes, and the dispatch of fleets[cite: 459]."
+    },
+    {
+      "question": "In the context of Portuguese influence in India, which ruler assisted Alfonso de Albuquerque in the conquest of Goa in exchange for a supply of horses?",
+      "options": [
+        "Bahadur Shah of Gujarat",
+        "Krishnadev Raya",
+        "The Zamorin of Calicut",
+        "Anwaruddin of Carnatic"
+      ],
+      "correct": 1,
+      "explanation": "Albuquerque was helped by Krishnadev Raya in lieu of a supply of horses during the conquest of Goa[cite: 465]."
+    },
+    {
+      "question": "Which Portuguese official transferred the government headquarters from Cochin to Goa in 1530?",
+      "options": [
+        "Alfonso de Albuquerque",
+        "Francisco De Almeida",
+        "Nuno de Cunha",
+        "Francis Caron"
+      ],
+      "correct": 2,
+      "explanation": "Nuno de Cunha transferred the Government head office from Cochin to Goa in 1530, making Goa the official capital[cite: 471]."
+    },
+    {
+      "question": "The Island of Bombay was ceded to the British Crown in 1661 as a result of:",
+      "options": [
+        "A military defeat of the Portuguese by the English at Swally.",
+        "The Treaty of Reswick.",
+        "A marriage dowry for Princess Catherine of Braganza.",
+        "A direct sale by the Portuguese home government to King Charles II."
+      ],
+      "correct": 2,
+      "explanation": "In 1661, during the marriage of Princess Catherine of Braganza to King Charles II, the Island of Bombay was ceded to the British Crown as part of her dowry[cite: 475, 476]."
+    },
+    {
+      "question": "According to the document, why did the Spanish rule (1580-1640) contribute to the decline of the Portuguese in India?",
+      "options": [
+        "Spain prioritized the African spice trade over Indian textiles.",
+        "Portuguese interests in India were neglected as focus shifted to Brazil.",
+        "Spain forced the Portuguese to sell all Indian factories to the Dutch.",
+        "The Spanish Crown banned the use of the Cartaz system."
+      ],
+      "correct": 1,
+      "explanation": "Under Spanish control, Portuguese interests in India were neglected, and attention shifted towards the lucrative colony in Brazil[cite: 480]."
+    },
+    {
+      "question": "Which of the following crops was NOT introduced to India by the Portuguese according to the provided text?",
+      "options": [
+        "Tobacco",
+        "Cashew nut",
+        "Black Pepper",
+        "Pineapple"
+      ],
+      "correct": 2,
+      "explanation": "The text lists tobacco, cashew nut, and pineapple as Portuguese introductions, but notes that chillies largely replaced black pepper, implying black pepper was not introduced by them[cite: 486, 487]."
+    },
+    {
+      "question": "The first printing press in India was established by the Portuguese in 1556 at:",
+      "options": [
+        "Cochin",
+        "Goa",
+        "Calicut",
+        "Surat"
+      ],
+      "correct": 1,
+      "explanation": "The Portuguese brought the first printing press to India in Goa in 1556[cite: 486]."
+    },
+    {
+      "question": "What was the primary purpose of the 'Cartaz' system introduced by the Portuguese?",
+      "options": [
+        "A land revenue system for the Konkan coast.",
+        "A religious certificate for Christian converts.",
+        "A sea pass ensuring sovereignty and dominance in the Indian Ocean.",
+        "A permit for Dutch merchants to trade in Portuguese ports."
+      ],
+      "correct": 2,
+      "explanation": "The Cartaz (or carat) system was a sea pass introduced as a mark of Portuguese sovereignty and dominance in the Indian Ocean[cite: 489, 490]."
+    },
+    {
+      "question": "The Dutch model of trade in India was characterized by which of the following?",
+      "options": [
+        "Monopoly of the Spanish Crown",
+        "Cartel or Cooperative System",
+        "Direct control by the Dutch Monarch",
+        "Religious propagation through education"
+      ],
+      "correct": 1,
+      "explanation": "The text states that the Dutch model of Trade was based on a Cartel or Cooperative System[cite: 499]."
+    },
+    {
+      "question": "Where did the Dutch establish their first factory in India in 1605?",
+      "options": [
+        "Pulicat",
+        "Nagapattinam",
+        "Masulipatnam",
+        "Surat"
+      ],
+      "correct": 2,
+      "explanation": "In 1605, the first Dutch factory was established at Masulipatnam[cite: 496]."
+    },
+    {
+      "question": "What led the English East India Company to shift its focus from the Indonesian Spice Islands to India in the early 17th century?",
+      "options": [
+        "The invitation of Mughal Emperor Jahangir.",
+        "The overwhelming presence of the Dutch in Indonesia.",
+        "A royal decree from Queen Elizabeth to focus on textiles.",
+        "The discovery of gold mines in the Deccan."
+      ],
+      "correct": 1,
+      "explanation": "Initially interested in Indonesia, the English shifted to India due to the overwhelming presence of the Dutch[cite: 505]."
+    },
+    {
+      "question": "Which event in 1759 effectively ended Dutch power in India?",
+      "options": [
+        "Amboyna Massacre",
+        "Battle of Bedara",
+        "Battle of St. Thomas",
+        "Treaty of Reswick"
+      ],
+      "correct": 1,
+      "explanation": "The Dutch were defeated by the English in the decisive Battle of Bedara/Hooghly in 1759, ending Dutch power in India[cite: 502]."
+    },
+    {
+      "question": "Who was the first official English East India Company envoy to visit Jahangir's court in 1609?",
+      "options": [
+        "Sir Thomas Roe",
+        "Ralph Fitch",
+        "Captain Hawkins",
+        "Captain Thomas Best"
+      ],
+      "correct": 2,
+      "explanation": "Hawkins was the first official EIC envoy to Jahangir's court in 1609[cite: 507]."
+    },
+    {
+      "question": "The 'Golden Farman' issued in 1632 in favor of the English was granted by:",
+      "options": [
+        "The Mughal Emperor Aurangzeb",
+        "The Sultan of Golconda",
+        "The Raja of Chandragiri",
+        "The Sultan of Bijapur"
+      ],
+      "correct": 1,
+      "explanation": "In 1632, the Sultan of Golconda issued a Golden Farman in favor of the English[cite: 515]."
+    },
+    {
+      "question": "In 1639, Francis Day obtained Madras on lease from which local ruler?",
+      "options": [
+        "The Nayak of Thanjavur",
+        "The Raja of Chandragiri",
+        "The Nawab of Carnatic",
+        "The Zamorin of Calicut"
+      ],
+      "correct": 1,
+      "explanation": "Francis Day obtained Madras on lease from the Raja of Chandragiri in 1639[cite: 516]."
+    },
+    {
+      "question": "What was the 'Magna Carta' of the English East India Company according to the text?",
+      "options": [
+        "The Royal Charter of 1600 by Queen Elizabeth.",
+        "The Farman of 1717 granted by Farukh Siyar.",
+        "The Golden Farman of 1632.",
+        "The Treaty of Aix-la-Chapelle."
+      ],
+      "correct": 1,
+      "explanation": "The Farman of 1717 secured from Farukh Siyar is referred to as the 'Magna Carta' of the Company[cite: 527, 528]."
+    },
+    {
+      "question": "Under the Farman of 1717, what was the annual payment required for the Company to have its trade duties waived in Bengal?",
+      "options": [
+        "Rs. 1000",
+        "Rs. 3000",
+        "Rs. 10000",
+        "500 Pagodas"
+      ],
+      "correct": 1,
+      "explanation": "In Bengal, taxes on the Company's trade were waived for an annual payment of Rs. 3000[cite: 528]."
+    },
+    {
+      "question": "Which European power founded the colony of Frederick Nagore at Serampore in 1755?",
+      "options": [
+        "The Dutch",
+        "The Danes",
+        "The French",
+        "The Portuguese"
+      ],
+      "correct": 1,
+      "explanation": "The Danes founded a colony called Frederick Nagore near Serampore in 1755[cite: 536]."
+    },
+    {
+      "question": "The French East India Company (Company des Indes Orientales) was formed by which French minister?",
+      "options": [
+        "Dupleix",
+        "Colbert",
+        "Francis Caron",
+        "Francois Martin"
+      ],
+      "correct": 1,
+      "explanation": "In 1664, Colbert formed the Company des Indes Orientales[cite: 545]."
+    },
+    {
+      "question": "Who is considered the founder of Pondicherry, which later became the French capital in India?",
+      "options": [
+        "Francis Caron",
+        "Francois Martin",
+        "Dupleix",
+        "Colbert"
+      ],
+      "correct": 1,
+      "explanation": "Francois Martin received a village from Sher Khan Lodhi and founded Pondicherry[cite: 547, 549]."
+    },
+    {
+      "question": "Pondicherry was restored to the French from the Dutch under which treaty?",
+      "options": [
+        "Treaty of Aix-la-Chapelle",
+        "Treaty of Reswick",
+        "Treaty of Paris",
+        "Treaty of Madras"
+      ],
+      "correct": 1,
+      "explanation": "Pondicherry was restored to the French under the Treaty of Reswick[cite: 550]."
+    },
+    {
+      "question": "According to the text, why did Southern India become the primary arena for Anglo-French rivalry in the mid-18th century?",
+      "options": [
+        "Because the Mughal Empire was strongest in the South.",
+        "Due to the presence of powerful Marathas in Western India and Alivardi Khan in Eastern India.",
+        "The French had already captured all ports in Western India.",
+        "The English preferred the climate of the Coromandel Coast."
+      ],
+      "correct": 1,
+      "explanation": "Conditions were favorable in the South because Western India had powerful Marathas and Eastern India was under Alivardi Khan[cite: 577]."
+    },
+    {
+      "question": "The immediate cause of the First Carnatic War (1746-1748) was:",
+      "options": [
+        "The death of the Nizam of Hyderabad.",
+        "The Battle of Plassey.",
+        "The War of Austrian Succession in Europe.",
+        "The capture of Pondicherry by the English."
+      ],
+      "correct": 2,
+      "explanation": "The immediate context was provided by the War of Austrian Succession in Europe[cite: 577, 578]."
+    },
+    {
+      "question": "In the First Carnatic War, which French Governor of Mauritius provided reinforcements to Dupleix to capture Madras?",
+      "options": [
+        "Colbert",
+        "La Bourdonnais",
+        "Francis Caron",
+        "Francois Martin"
+      ],
+      "correct": 1,
+      "explanation": "La Bourdonnais, the French Governor of Mauritius, sent reinforcements to help Dupleix[cite: 584, 585]."
+    },
+    {
+      "question": "The Battle of St. Thomas (1746) was fought between:",
+      "options": [
+        "The English and the Dutch.",
+        "The French and the English.",
+        "The French and the army of Nawab Anwaruddin.",
+        "The Portuguese and the Mughal Empire."
+      ],
+      "correct": 2,
+      "explanation": "The Battle of St. Thomas was fought between the French and the army of Anwaruddin, the Nawab of Carnatic[cite: 587, 589]."
+    },
+    {
+      "question": "What surprise outcome resulted from the Battle of St. Thomas on the banks of River Adyar?",
+      "options": [
+        "The Nawab's 10,000-man army defeated the French.",
+        "A small, well-trained French force routed the Nawab's vast army.",
+        "The English intervened and defeated both sides.",
+        "The French surrendered Madras to the Nawab."
+      ],
+      "correct": 1,
+      "explanation": "A handful of properly trained French soldiers routed Anwaruddin's vast army of 10,000 men[cite: 589]."
+    },
+    {
+      "question": "Which English figure was taken as a prisoner of war during the French capture of Madras but later escaped to Fort St. David?",
+      "options": [
+        "Job Charnock",
+        "Francis Day",
+        "Robert Clive",
+        "Thomas Roe"
+      ],
+      "correct": 2,
+      "explanation": "Robert Clive was taken as a prisoner of war and escaped to Fort St. David[cite: 586]."
+    },
+    {
+      "question": "The English first permanent factory was established at Surat in 1613 after Captain Thomas Best defeated the Portuguese at:",
+      "options": [
+        "Bedara",
+        "Swally",
+        "Cochin",
+        "Masulipatnam"
+      ],
+      "correct": 1,
+      "explanation": "Captain Thomas Best defeated the Portuguese at Swally near Surat, leading to the establishment of the first permanent factory[cite: 510, 511]."
+    },
+    {
+      "question": "Where did the English establish their first temporary factory in 1611?",
+      "options": [
+        "Surat",
+        "Masulipatnam",
+        "Madras",
+        "Bombay"
+      ],
+      "correct": 1,
+      "explanation": "The text notes the first temporary factory was at Masulipatnam in 1611[cite: 743]."
+    },
+    {
+      "question": "Job Charnock is associated with the establishment of which factory in 1690?",
+      "options": [
+        "Balasore",
+        "Sutanati",
+        "Chandernagore",
+        "Surat"
+      ],
+      "correct": 1,
+      "explanation": "In 1690, Job Charnock established a factory at Sutanati[cite: 770]."
+    },
+    {
+      "question": "The United Company of Merchants of England trading to the East Indies was formed in 1708 by the fusion of two rival companies. How many directors were in its court?",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "10"
+      ],
+      "correct": 1,
+      "explanation": "The United Company was organized into a court of 24 directors[cite: 784, 785]."
+    },
+    {
+      "question": "Which city was known as Frederick Nagore under the Danes?",
+      "options": [
+        "Tranquebar",
+        "Serampore",
+        "Pondicherry",
+        "Calicut"
+      ],
+      "correct": 1,
+      "explanation": "The Danes founded a colony called Frederick Nagore near Serampore[cite: 789]."
+    },
+    {
+      "question": "In which year did Denmark sell all its Indian colonies to Britain?",
+      "options": [
+        "1771",
+        "1801",
+        "1845",
+        "1961"
+      ],
+      "correct": 2,
+      "explanation": "In 1845, Denmark sold all its Indian colonies to Britain[cite: 797]."
+    },
+    {
+      "question": "The 'Vedor da Fazenda' was an official post in which colonial administration?",
+      "options": [
+        "Dutch",
+        "English",
+        "Portuguese",
+        "French"
+      ],
+      "correct": 2,
+      "explanation": "Vedor da Fazenda was a Portuguese post responsible for revenues and cargoes[cite: 459]."
+    },
+    {
+      "question": "Which of the following was the official capital of the Portuguese in India from 1530?",
+      "options": [
+        "Cochin",
+        "Calicut",
+        "Goa",
+        "Daman"
+      ],
+      "correct": 2,
+      "explanation": "Nuno de Cunha transferred the head office to Goa in 1530, making it the official capital[cite: 471]."
+    },
+    {
+      "question": "The Dutch minted gold coins in India called:",
+      "options": [
+        "Dastaks",
+        "Pagoda",
+        "Cartaz",
+        "Real"
+      ],
+      "correct": 1,
+      "explanation": "The Dutch minted gold coins called pagoda at Pulicat[cite: 496]."
+    },
+    {
+      "question": "Who was the first Dutch traveler to reach India in 1596?",
+      "options": [
+        "Cornelius de Houtman",
+        "Alfonso de Albuquerque",
+        "Francis Caron",
+        "Colbert"
+      ],
+      "correct": 0,
+      "explanation": "In 1596, Cornelius de Houtman was the first Dutch traveler to reach India[cite: 494]."
+    },
+    {
+      "question": "In the context of the Farman of 1717, the term 'dastaks' referred to:",
+      "options": [
+        "Gold coins minted by the Mughal Emperor.",
+        "Permits for the transportation of goods.",
+        "Taxes paid by the Dutch to the English.",
+        "Military alliances with local rajas."
+      ],
+      "correct": 1,
+      "explanation": "The Company was permitted to issue dastaks for the transportation of goods under the Farman of 1717[cite: 529]."
+    },
+    {
+      "question": "The first English factory in Bengal was set up in 1651 at Hugli with permission from:",
+      "options": [
+        "Aurangzeb",
+        "Sultan Shuja",
+        "Farukh Siyar",
+        "Alivardi Khan"
+      ],
+      "correct": 1,
+      "explanation": "The first English factory in Bengal was set up at Hugli in 1651 upon receiving permission from Sultan Shuja[cite: 767]."
+    },
+    {
+      "question": "Which Portuguese Viceroy abolished Sati in the regions under his control?",
+      "options": [
+        "Francisco De Almeida",
+        "Nuno da Cunha",
+        "Alfonso de Albuquerque",
+        "Nino de Cunha"
+      ],
+      "correct": 2,
+      "explanation": "Alfonso de Albuquerque abolished Sati in the regions under his control[cite: 469]."
+    },
+    {
+      "question": "The Portuguese settlements of Goa, Daman, and Diu remained in their hands until:",
+      "options": [
+        "1759",
+        "1845",
+        "1947",
+        "1961"
+      ],
+      "correct": 3,
+      "explanation": "The Portuguese settlements remained in their hands till 1961 (Operation Vijay)[cite: 478]."
+    },
+    {
+      "question": "The Battle of Bedara (1759) took place in which region?",
+      "options": [
+        "Madras",
+        "Bengal",
+        "Gujarat",
+        "Carnatic"
+      ],
+      "correct": 1,
+      "explanation": "The Battle of Bedara/Hooghly/Chinsurah took place in Bengal[cite: 502]."
+    },
+    {
+      "question": "Which of the following was NOT a reason for the failure of the Portuguese in India according to the text?",
+      "options": [
+        "Corrupt administration",
+        "Religious policy of forceful conversion",
+        "Establishment of a monopoly by the Spanish Crown",
+        "Focusing on Brazil instead of India"
+      ],
+      "correct": 2,
+      "explanation": "The text lists corrupt administration, religious policy, and the shift of focus to Brazil as causes, but does not state that Spain established a monopoly in India[cite: 479, 480, 482]."
+    },
+    {
+      "question": "The 'Amboyna Massacre' (1623) involved a conflict between:",
+      "options": [
+        "Portuguese and Dutch",
+        "Dutch and English",
+        "English and French",
+        "French and Portuguese"
+      ],
+      "correct": 1,
+      "explanation": "The Amboyna massacre took place in Indonesia where the Dutch killed 10 Englishmen[cite: 500]."
+    },
+    {
+      "question": "Which European power introduced maize and potatoes to India?",
+      "options": [
+        "The Dutch",
+        "The English",
+        "The Portuguese",
+        "The Danes"
+      ],
+      "correct": 2,
+      "explanation": "The Portuguese introduced several new crops to India including maize and potato[cite: 486]."
+    },
+    {
+      "question": "The Dutch transferred their headquarters from Pulicat to Nagapattinam in which year?",
+      "options": [
+        "1610",
+        "1690",
+        "1759",
+        "1605"
+      ],
+      "correct": 1,
+      "explanation": "In 1690, Dutch headquarters were transferred from Pulicat to Nagapattinam[cite: 498]."
+    },
+    {
+      "question": "According to the text, the Portuguese 'Armadas' were:",
+      "options": [
+        "Religious missionaries.",
+        "Naval fleets.",
+        "Trading factories.",
+        "Administrative officers."
+      ],
+      "correct": 1,
+      "explanation": "The text states that factories served as bases for a naval fleet called Armadas[cite: 456]."
+    },
+    {
+      "question": "Which treaty marked the conclusion of the first round of Anglo-French rivalry in India during the 18th century?",
+      "options": [
+        "Treaty of Pondicherry",
+        "Treaty of Alinagar",
+        "Treaty of Aix-la-Chapelle",
+        "Peace of Paris"
+      ],
+      "correct": 2,
+      "explanation": "The first Anglo-French war ended with the Treaty of Aix-la-Chapelle (1748) on the basis of mutual restitution of conquests."
+    },
+    {
+      "question": "Who was the first European to initiate the strategy of intervening in the internal disputes of Indian rulers to acquire political control?",
+      "options": [
+        "Robert Clive",
+        "Count De Lally",
+        "Godeheu",
+        "Dupleix"
+      ],
+      "correct": 3,
+      "explanation": "Dupleix was the first to show the way of intervening in disputes of Indian rulers to acquire political control, a technique later perfected by the English."
+    },
+    {
+      "question": "During the Second Carnatic War, which candidate for the Nawabship of Carnatic was supported by the French?",
+      "options": [
+        "Anwaruddin Khan",
+        "Chanda Sahib",
+        "Nasir Jung",
+        "Muhammad Ali"
+      ],
+      "correct": 1,
+      "explanation": "In the Second Carnatic War, the French supported the claims of Chanda Sahib for Carnatic and Muzaffar Jung for Hyderabad."
+    },
+    {
+      "question": "The Battle of Ambur (1749) is significant for which of the following events?",
+      "options": [
+        "The defeat of the Marathas",
+        "The death of Nawab Anwaruddin",
+        "The capture of Robert Clive",
+        "The signing of the Treaty of Paris"
+      ],
+      "correct": 1,
+      "explanation": "In August 1749, the French, Muzaffar Jung, and Chanda Sahib defeated and killed Anwaruddin at the Battle of Ambur."
+    },
+    {
+      "question": "Which French officer was stationed at Hyderabad to maintain influence and control the political fortune of the Deccan for seven years?",
+      "options": [
+        "Count De Lally",
+        "Godeheu",
+        "Bussy",
+        "Eyre Coote"
+      ],
+      "correct": 2,
+      "explanation": "Dupleix placed his best officer, Bussy, at the disposal of Muzaffar Jung at Hyderabad, where Bussy remained for seven years."
+    },
+    {
+      "question": "What strategic move did Robert Clive suggest to relieve the pressure on Muhammad Ali at Trichinopoly?",
+      "options": [
+        "A direct naval attack on Pondicherry",
+        "An expedition to capture Arcot",
+        "A diplomatic treaty with the Marathas",
+        "Seeking help from the Mughal Emperor"
+      ],
+      "correct": 1,
+      "explanation": "Clive suggested an attack on Arcot, the capital of Carnatic, to force Chanda Sahib to divert his army from the siege of Trichinopoly."
+    },
+    {
+      "question": "The Treaty of Pondicherry (1754) included which specific clause regarding the European companies?",
+      "options": [
+        "Complete withdrawal of the French from India",
+        "Agreement not to interfere in the quarrels of Indian princes",
+        "Joint administration of the Deccan",
+        "Unification of the English and French companies"
+      ],
+      "correct": 2,
+      "explanation": "Under the Treaty of Pondicherry, both the English and French companies agreed not to interfere in the quarrels of Indian princes."
+    },
+    {
+      "question": "The Third Carnatic War in India was a direct consequence of which European conflict?",
+      "options": [
+        "War of Spanish Succession",
+        "Napoleonic Wars",
+        "Seven Years' War",
+        "War of Austrian Succession"
+      ],
+      "correct": 2,
+      "explanation": "The Third Carnatic War was the echo of the hostilities happening in Europe during the Seven Years' War (1756-1763)."
+    },
+    {
+      "question": "At which battle in 1760 did the English army under General Eyre Coote decisively defeat the French forces?",
+      "options": [
+        "Battle of Buxar",
+        "Battle of Plassey",
+        "Battle of Wandiwash",
+        "Battle of Biderra"
+      ],
+      "correct": 2,
+      "explanation": "The English army led by General Eyre Coote totally routed the French army under Count De Lally at the Battle of Wandiwash."
+    },
+    {
+      "question": "Under the Peace of Paris (1763), what status was accorded to the French settlements in India?",
+      "options": [
+        "They were annexed by the English",
+        "They were returned but could not be fortified",
+        "They became independent city-states",
+        "They were given to the Dutch"
+      ],
+      "correct": 1,
+      "explanation": "The treaty restored French settlements to France but stipulated they were never to be fortified and could only serve as trading centers."
+    },
+    {
+      "question": "What was a major organizational reason for the English Company's success over the French Company?",
+      "options": [
+        "The English Company was a state-controlled department",
+        "The French Company had more private shareholders",
+        "The English Company was an independent commercial corporation with less government interference",
+        "The French Company was better funded by private merchants"
+      ],
+      "correct": 2,
+      "explanation": "The English Company was an independent commercial corporation, whereas the French Company was state-controlled and state-subsidized, making it less agile."
+    },
+    {
+      "question": "In the 18th century, Bengal was a significant supplier of which essential material for European warfare?",
+      "options": [
+        "Iron and Steel",
+        "Saltpeter for gunpowder",
+        "Lead for bullets",
+        "Teak wood for ships"
+      ],
+      "correct": 1,
+      "explanation": "Bengal was a big supplier of saltpeter, which was a necessary ingredient for making gunpowder in Europe."
+    },
+    {
+      "question": "Who was the first independent Nawab of Bengal, appointed as the Diwan by Farrukhsiyar in 1717?",
+      "options": [
+        "Alivardi Khan",
+        "Siraj-ud-Daulah",
+        "Murshid Quli Khan",
+        "Mir Jafar"
+      ],
+      "correct": 2,
+      "explanation": "Murshid Quli Khan was appointed as the Diwan and later the Subahdar, becoming the first independent Nawab of Bengal."
+    },
+    {
+      "question": "Which ruler did Alivardi Khan depose in 1740 to seize power in Bengal?",
+      "options": [
+        "Murshid Quli Khan",
+        "Sarfaraz Khan",
+        "Shaukat Jung",
+        "Siraj-ud-Daulah"
+      ],
+      "correct": 1,
+      "explanation": "Alivardi Khan deposed and killed Nawab Sarfaraz Khan, the grandson of Murshid Quli Khan, in 1740."
+    },
+    {
+      "question": "What action by the English at Fort William served as the 'immediate cause' for Siraj-ud-Daulah's attack on Calcutta?",
+      "options": [
+        "The refusal to pay trade duties",
+        "Strengthening fortifications and mounting guns without permission",
+        "The assassination of a court official",
+        "The support of the French at Chandernagore"
+      ],
+      "correct": 1,
+      "explanation": "Siraj-ud-Daulah was provoked when the English strengthened the fortification of Fort William and mounted guns without his permission."
+    },
+    {
+      "question": "After the fall of Fort William in 1756, Calcutta was renamed by the Nawab as:",
+      "options": [
+        "Murshidabad",
+        "Alinagar",
+        "Kasimbazar",
+        "Sutanati"
+      ],
+      "correct": 1,
+      "explanation": "Following the capture of the city, Nawab Siraj-ud-Daulah renamed Calcutta as Alinagar."
+    },
+    {
+      "question": "Which influential figure in the Nawab's court was bribed by Clive to ensure the easy surrender of Calcutta?",
+      "options": [
+        "Jagat Seth",
+        "Manik Chand",
+        "Rai Durlabh",
+        "Mir Madan"
+      ],
+      "correct": 1,
+      "explanation": "Manik Chand, the officer in charge of Calcutta, was bribed by Clive and surrendered the fort after a brief pretense of resistance."
+    },
+    {
+      "question": "The Treaty of Alinagar (1757) forced the Nawab of Bengal to concede which of the following?",
+      "options": [
+        "The Diwani of Bengal",
+        "The right to fortify Calcutta",
+        "Expulsion of the French from Bengal",
+        "An annual tribute of 50 lakh rupees"
+      ],
+      "correct": 1,
+      "explanation": "The treaty compelled the Nawab to restore trade privileges and grant the English permission to fortify Calcutta."
+    },
+    {
+      "question": "Who was the 'Mir Bakshi' (Commander-in-Chief) of Siraj-ud-Daulah who betrayed him during the Battle of Plassey?",
+      "options": [
+        "Mir Madan",
+        "Mohan Lal",
+        "Mir Jafar",
+        "Rai Durlabh"
+      ],
+      "correct": 2,
+      "explanation": "Mir Jafar, the Mir Bakshi of the Nawab's army, entered into a secret conspiracy with the English to overthrow Siraj-ud-Daulah."
+    },
+    {
+      "question": "Which of the following describes the military nature of the Battle of Plassey according to the text?",
+      "options": [
+        "A grand tactical victory of English infantry",
+        "A long-drawn-out siege lasting months",
+        "A mere skirmish decided by treachery rather than military might",
+        "A battle won due to the Nawab's lack of artillery"
+      ],
+      "correct": 2,
+      "explanation": "The battle was hardly significant militarily; it was a skirmish where the fate was decided by the treachery of the Nawab's own generals."
+    },
+    {
+      "question": "As a result of the Battle of Plassey, the English Company received the zamindari of which region?",
+      "options": [
+        "Burdwan",
+        "Midnapore",
+        "24 Parganas",
+        "Chittagong"
+      ],
+      "correct": 2,
+      "explanation": "Following the victory at Plassey, the English Company was granted the zamindari of the 24 Parganas."
+    },
+    {
+      "question": "In 1759, the English defeated the Dutch in which battle, effectively ending Dutch ambitions in Bengal?",
+      "options": [
+        "Battle of Biderra",
+        "Battle of Wandiwash",
+        "Battle of Buxar",
+        "Battle of Ambur"
+      ],
+      "correct": 0,
+      "explanation": "Robert Clive defeated the Dutch at the Battle of Biderra (Chinsurah) in 1759, thwarting their alliance with Mir Jafar."
+    },
+    {
+      "question": "Why did Mir Qasim shift his capital from Murshidabad to Monghyr?",
+      "options": [
+        "Due to the threat of Maratha invasions",
+        "To be closer to his ally, the Nawab of Awadh",
+        "To distance himself from the Company's influence and court intrigues",
+        "Because Murshidabad was no longer profitable"
+      ],
+      "correct": 2,
+      "explanation": "Mir Qasim shifted the capital to Monghyr to escape the Company's constant interference at Calcutta and intrigues at Murshidabad."
+    },
+    {
+      "question": "The primary conflict between Mir Qasim and the English centered on the misuse of which trade permit?",
+      "options": [
+        "Farman",
+        "Dastak",
+        "Jagir",
+        "Sanad"
+      ],
+      "correct": 1,
+      "explanation": "The conflict arose from the misuse of 'Dastaks' (trade permits) by Company servants for their private trade, leading to revenue loss for the Nawab."
+    },
+    {
+      "question": "What radical economic measure did Mir Qasim take to support local merchants against the English?",
+      "options": [
+        "Doubling the tax on English goods",
+        "Banning all European trade",
+        "Abolishing all inland duties for all merchants",
+        "Imposing a naval blockade"
+      ],
+      "correct": 2,
+      "explanation": "To create a level playing field for Indian merchants, Mir Qasim abolished all inland duties, which angered the English."
+    },
+    {
+      "question": "Which three powers formed an alliance against the British in the Battle of Buxar (1764)?",
+      "options": [
+        "Mir Jafar, Shah Alam II, and Shuja-ud-Daulah",
+        "Mir Qasim, Shah Alam II, and Shuja-ud-Daulah",
+        "Siraj-ud-Daulah, the Marathas, and the French",
+        "Hyder Ali, Mir Qasim, and the Nizam"
+      ],
+      "correct": 1,
+      "explanation": "The alliance was formed by Mir Qasim, Shuja-ud-Daulah (Nawab of Awadh), and Shah Alam II (the Mughal Emperor)."
+    },
+    {
+      "question": "Who was the English commander at the Battle of Buxar?",
+      "options": [
+        "Robert Clive",
+        "Major Munro",
+        "General Eyre Coote",
+        "Warren Hastings"
+      ],
+      "correct": 1,
+      "explanation": "The English forces at the Battle of Buxar were commanded by Major Munro."
+    },
+    {
+      "question": "Which battle is credited with firmly establishing the British as the masters of Bengal, Bihar, and Orissa?",
+      "options": [
+        "Battle of Plassey",
+        "Battle of Wandiwash",
+        "Battle of Buxar",
+        "Battle of Biderra"
+      ],
+      "correct": 2,
+      "explanation": "While Plassey was a start, the Battle of Buxar firmly established the British as masters of Bengal, Bihar, and Orissa."
+    },
+    {
+      "question": "What happened to the Carnatic region in 1740 that contributed to its political instability?",
+      "options": [
+        "A French invasion",
+        "A Maratha invasion that killed Nawab Dost Ali",
+        "A famine that destroyed the economy",
+        "An English naval blockade"
+      ],
+      "correct": 1,
+      "explanation": "In 1740, the Marathas invaded the Carnatic and killed Nawab Dost Ali, leading to a period of instability."
+    },
+    {
+      "question": "Who succeeded Nasir Jung as the Nizam of Hyderabad with French assistance in 1750?",
+      "options": [
+        "Salabat Jung",
+        "Muzaffar Jung",
+        "Nizam-ul-Mulk",
+        "Anwaruddin"
+      ],
+      "correct": 1,
+      "explanation": "After the French killed Nasir Jung, they installed Muzaffar Jung as the Nizam of Hyderabad."
+    },
+    {
+      "question": "The 'Black Hole Tragedy' is associated with which event in Bengal's history?",
+      "options": [
+        "The Maratha raid on Murshidabad",
+        "The capture of Calcutta by Siraj-ud-Daulah",
+        "The famine of 1770",
+        "The aftermath of the Battle of Buxar"
+      ],
+      "correct": 1,
+      "explanation": "The tragedy allegedly occurred after Siraj-ud-Daulah captured Fort William (Calcutta) in 1756."
+    },
+    {
+      "question": "In the Battle of Plassey, which two generals remained loyal to Siraj-ud-Daulah and fought bravely?",
+      "options": [
+        "Mir Jafar and Rai Durlabh",
+        "Mir Madan and Mohan Lal",
+        "Manik Chand and Jagat Seth",
+        "Shaukat Jung and Ghaseti Begum"
+      ],
+      "correct": 1,
+      "explanation": "While others betrayed him, a small group of loyalists led by Mir Madan and Mohan Lal fought for the Nawab."
+    },
+    {
+      "question": "Which French leader was executed in France following the French defeat in the Third Carnatic War?",
+      "options": [
+        "Dupleix",
+        "Bussy",
+        "Count De Lally",
+        "Godeheu"
+      ],
+      "correct": 2,
+      "explanation": "Count De Lally was defeated, taken as a prisoner of war to England, and upon returning to France, he was imprisoned and executed."
+    },
+    {
+      "question": "Which Indian ruler's forces returned home without fighting during the English siege of Pondicherry in 1761?",
+      "options": [
+        "The Nizam of Hyderabad",
+        "The Maratha Peshwa",
+        "Hyder Ali of Mysore",
+        "The Nawab of Awadh"
+      ],
+      "correct": 2,
+      "explanation": "Lally sought help from Hyder Ali, but the Mysore contingent returned home without fighting due to a lack of coordination."
+    },
+    {
+      "question": "What was the significance of the 1717 Farman regarding the English trade in Bengal?",
+      "options": [
+        "It gave the English the right to rule Bengal",
+        "It permitted duty-free trade for an annual payment of Rs 3,000",
+        "It banned the French from trading in Bengal",
+        "It established the first English mint in India"
+      ],
+      "correct": 1,
+      "explanation": "The 1717 Farman by Emperor Farrukhsiyar allowed the English to trade in Bengal without paying duties, provided they paid Rs 3,000 annually."
+    },
+    {
+      "question": "Which relative of Siraj-ud-Daulah contested his succession and sought English support?",
+      "options": [
+        "Mir Qasim",
+        "Ghaseti Begum",
+        "Mir Madan",
+        "Alivardi Khan"
+      ],
+      "correct": 1,
+      "explanation": "Ghaseti Begum, the aunt of Siraj-ud-Daulah, was one of the primary contenders who opposed his succession."
+    },
+    {
+      "question": "In the context of the Carnatic Wars, what was the 'Battle of St. Thome' famous for?",
+      "options": [
+        "A victory of the English over the French",
+        "A small French-led force defeating a much larger Indian army",
+        "The capture of Pondicherry",
+        "The death of Dupleix"
+      ],
+      "correct": 1,
+      "explanation": "The Battle of St. Thome (1746) demonstrated that a small, disciplined European-trained force could defeat a much larger Indian army."
+    },
+    {
+      "question": "How did the English respond to the French influence in Hyderabad during the Second Carnatic War?",
+      "options": [
+        "By attacking Hyderabad directly",
+        "By supporting Nasir Jung and later Muhammad Ali in the Carnatic",
+        "By signing a treaty with the Nizam",
+        "By withdrawing from South India"
+      ],
+      "correct": 1,
+      "explanation": "To counter French influence (who supported Muzaffar Jung), the English supported Nasir Jung in Hyderabad and Muhammad Ali in the Carnatic."
+    },
+    {
+      "question": "What reason did the French Directors give for recalling Dupleix in 1754?",
+      "options": [
+        "He had lost the war against the Marathas",
+        "His political ambitions were causing heavy financial losses to the Company",
+        "He had defected to the English side",
+        "He was accused of treason against the King"
+      ],
+      "correct": 1,
+      "explanation": "The French Company was a commercial body and the Directors disapproved of the heavy expenses incurred by Dupleix’s political wars."
+    },
+    {
+      "question": "Who was the Governor of Fort William who fled when Siraj-ud-Daulah attacked Calcutta?",
+      "options": [
+        "Robert Clive",
+        "Roger Drake",
+        "Warren Hastings",
+        "Major Munro"
+      ],
+      "correct": 1,
+      "explanation": "When Siraj-ud-Daulah attacked, Governor Roger Drake and other high officials fled from the back gate of the fort."
+    },
+    {
+      "question": "The term 'Clive's Jackal' was used to describe which historical figure?",
+      "options": [
+        "Mir Qasim",
+        "Mir Jafar",
+        "Shuja-ud-Daulah",
+        "Shah Alam II"
+      ],
+      "correct": 1,
+      "explanation": "Mir Jafar was mockingly referred to as 'Clive's Jackal' due to his subservience to Robert Clive after becoming Nawab."
+    },
+    {
+      "question": "What was the 'immediate' outcome of the Battle of Buxar for the Nawab of Awadh?",
+      "options": [
+        "He was executed by the British",
+        "He was restored to his throne as a dependent ally",
+        "He fled to Afghanistan",
+        "He became the Mughal Emperor"
+      ],
+      "correct": 1,
+      "explanation": "After the defeat at Buxar, Awadh was placed at the mercy of the British, and the Nawab became a dependent ally."
+    },
+    {
+      "question": "Which city served as the capital of the Carnatic during the 18th century?",
+      "options": [
+        "Madras",
+        "Pondicherry",
+        "Arcot",
+        "Trichinopoly"
+      ],
+      "correct": 2,
+      "explanation": "Arcot was the capital of the Carnatic, and its capture by Clive was a turning point in the Second Carnatic War."
+    },
+    {
+      "question": "The English Company was granted the zamindari of Burdwan, Midnapore, and Chittagong by which Nawab?",
+      "options": [
+        "Mir Jafar",
+        "Mir Qasim",
+        "Siraj-ud-Daulah",
+        "Alivardi Khan"
+      ],
+      "correct": 1,
+      "explanation": "Mir Qasim granted the zamindari of Burdwan, Midnapore, and Chittagong to the English Company to satisfy their demands."
+    },
+    {
+      "question": "In 1698, the English acquired the zamindari of which three villages that later became Calcutta?",
+      "options": [
+        "Hooghly, Chinsurah, and Chandernagore",
+        "Sutanati, Kalikata, and Gobindpura",
+        "Patna, Kasimbazar, and Murshidabad",
+        "Plassey, Buxar, and Alinagar"
+      ],
+      "correct": 1,
+      "explanation": "The three villages that formed the nucleus of Calcutta were Sutanati, Kalikata, and Gobindpura."
+    },
+    {
+      "question": "Who was the ruler of Purnea who was a rival to Siraj-ud-Daulah for the Bengal throne?",
+      "options": [
+        "Shaukat Jung",
+        "Mir Madan",
+        "Mohan Lal",
+        "Rai Durlabh"
+      ],
+      "correct": 0,
+      "explanation": "Shaukat Jung, the Governor of Purnea and Siraj's cousin, was a major rival for the throne."
+    },
+    {
+      "question": "What was the primary reason for the English Company's desire to replace Mir Jafar with Mir Qasim?",
+      "options": [
+        "Mir Jafar was too powerful",
+        "Mir Jafar failed to meet the Company's increasing financial demands",
+        "Mir Qasim was a better military commander",
+        "The English wanted to return the throne to the Mughals"
+      ],
+      "correct": 1,
+      "explanation": "Mir Jafar could not fulfill the English demands for more money, leading them to look for a more capable and wealthy successor."
+    },
+    {
+      "question": "How did the English obtain the 'Diwani' of Bengal, Bihar, and Orissa?",
+      "options": [
+        "By defeating the French at Wandiwash",
+        "Through the Treaty of Allahabad following the Battle of Buxar",
+        "As a gift from Siraj-ud-Daulah",
+        "By purchasing it from the Marathas"
+      ],
+      "correct": 1,
+      "explanation": "The victory at Buxar led to the Treaty of Allahabad, where the Mughal Emperor granted the Diwani rights to the English."
+    },
+    {
+      "question": "The 'Seven Years' War' in Europe corresponded to which war in India?",
+      "options": [
+        "First Carnatic War",
+        "Second Carnatic War",
+        "Third Carnatic War",
+        "Battle of Plassey"
+      ],
+      "correct": 2,
+      "explanation": "The Third Carnatic War (1758-1763) was the Indian theater of the global Seven Years' War."
+    },
+    {
+      "question": "According to the text, what did the Battle of Plassey primarily provide to the English Company?",
+      "options": [
+        "Control over the Mughal Emperor",
+        "Vast resources of Bengal to defeat the French in the South",
+        "A peace treaty with the Marathas",
+        "The end of the Portuguese trade"
+      ],
+      "correct": 1,
+      "explanation": "The wealth and resources of Bengal obtained after Plassey were crucial for the English to finance their wars against the French in South India."
+    },
+    {
+      "question": "Regarding the consequences of the Battle of Buxar, which of the following conditions was imposed on Mir Jafar upon his restoration to the throne of Bengal?",
+      "options": [
+        "He was required to pay a one-time war indemnity of Rs 50 Lakh.",
+        "He had to surrender the districts of Midnapore, Burdwan, and Chittagong to the English.",
+        "He was granted complete duty-free trade for himself and his merchants.",
+        "He was required to increase his military establishments to support the Company."
+      ],
+      "correct": 1,
+      "explanation": "According to the notes, Mir Jafar was brought back to the throne on harsher terms, which included handing over the districts of Midnapore, Burdwan, and Chittagong to the English."
+    },
+    {
+      "question": "What was the 'Dual System' of administration in Bengal as established after the Battle of Buxar?",
+      "options": [
+        "A system where the Nawab handled finances and the Company handled law and order.",
+        "A power-sharing agreement where the Company and the Mughal Emperor ruled jointly.",
+        "A system where the Company held Diwani functions and the Nawab held Nizamat functions.",
+        "An administrative setup where the French and English jointly managed trade."
+      ],
+      "correct": 2,
+      "explanation": "The Dual System meant the system of Governance where the Company exercised Diwani functions while the Nawab of Bengal exercised the Nizamat functions (defence, law and order, and justice)."
+    },
+    {
+      "question": "Which treaty marked the transition of the Nawab of Awadh into a dependent ally of the British Company?",
+      "options": [
+        "The Treaty of Mangalore",
+        "The First Treaty of Allahabad",
+        "The Treaty of Srirangapatnam",
+        "The Treaty of Madras"
+      ],
+      "correct": 1,
+      "explanation": "Clive met Shuja-ud-Daula at Allahabad and concluded the First Treaty of Allahabad, through which the Nawab of Awadh became dependent on the Company."
+    },
+    {
+      "question": "How did the Mughal Emperor Shah Alam II figure into the settlement after the Battle of Buxar?",
+      "options": [
+        "He was executed to clear the path for British rule.",
+        "He was restored to the throne of Delhi with full sovereign powers.",
+        "He was taken into Company protection and resided in Allahabad fort as a virtual prisoner.",
+        "He was made the Commander-in-Chief of the Bengal Army."
+      ],
+      "correct": 2,
+      "explanation": "The Emperor was taken into Company's protection in the fort of Allahabad for 6 years as a virtual prisoner of the English."
+    },
+    {
+      "question": "What was the financial arrangement for the Mughal Emperor under the Farman of August 1765?",
+      "options": [
+        "The Company paid him an annual sum of Rs 26 Lakhs.",
+        "He paid the Company Rs 5 Lakhs per month for protection.",
+        "He was allowed to collect all revenues from Bengal and Bihar.",
+        "The Company provided him a fixed military budget of Rs 1 Crore."
+      ],
+      "correct": 0,
+      "explanation": "In return for the Diwani of Bengal, Bihar, and Orissa, the Company made an annual payment of Rs 26 Lakhs to the Emperor."
+    },
+    {
+      "question": "Under the Dual System, who was responsible for the 'Nizamat' functions of Bengal?",
+      "options": [
+        "The Governor of Bengal",
+        "The Mughal Emperor",
+        "The Nawab of Bengal",
+        "The Naib-Subahdar alone"
+      ],
+      "correct": 2,
+      "explanation": "The Nawab of Bengal exercised the Nizamat functions, which included defence, law and order, and administration of justice."
+    },
+    {
+      "question": "What did the term 'divorce of power from responsibility' refer to in the context of 18th-century Bengal?",
+      "options": [
+        "The Mughal Emperor having title but no land.",
+        "The Company having all real power while the Nawab was responsible for administration.",
+        "The French having military power while the English had trading rights.",
+        "The Marathas having the right to collect Chauth without governing."
+      ],
+      "correct": 1,
+      "explanation": "The dual system was a system where the Company acquired all real power while the 'responsibility' for administration rested on the shoulders of the Nawab."
+    },
+    {
+      "question": "What was a major consequence of the 'Drain of Wealth' from Bengal after 1765?",
+      "options": [
+        "The Company began importing more gold from England.",
+        "Indian goods were purchased using Bengal's revenue instead of English money.",
+        "The Nawab of Bengal became the wealthiest ruler in India.",
+        "The Mughal Emperor stopped issuing Farmans."
+      ],
+      "correct": 1,
+      "explanation": "The Company stopped sending money from England to buy Indian goods; these goods were now purchased from the revenue of Bengal and sold abroad."
+    },
+    {
+      "question": "Which event is cited as being accentuated by the British policies under the Dual System?",
+      "options": [
+        "The Third Battle of Panipat",
+        "The Great Bengal Famine of 1770",
+        "The Sepoy Mutiny",
+        "The invasion of Nadir Shah"
+      ],
+      "correct": 1,
+      "explanation": "The Drain of Wealth and British policies accentuated the devastating effects of the Bengal famine of 1770."
+    },
+    {
+      "question": "How did the Battle of Buxar differ in significance from the Battle of Plassey according to the text?",
+      "options": [
+        "Plassey was a military victory while Buxar was a diplomatic one.",
+        "Plassey made them a factor in Bengal, while Buxar made them a power in North Indian politics.",
+        "Buxar was fought against the French, while Plassey was against the Dutch.",
+        "Plassey ended the Mughal Empire, while Buxar started it."
+      ],
+      "correct": 1,
+      "explanation": "While Plassey made them a powerful factor in Bengal politics, Buxar made them a powerful factor in the politics of north India."
+    },
+    {
+      "question": "Who were Nanjaraja and Devaraja in the history of Mysore?",
+      "options": [
+        "Successors of Hyder Ali",
+        "Ministers who seized power from the Wadiyar King Chikka Krishnaraja",
+        "Mughal governors of the Deccan",
+        "Maratha generals who invaded Mysore"
+      ],
+      "correct": 1,
+      "explanation": "In the early 18th century, two ministers, Nanjaraja and Devaraja, seized power and reduced the Wadiyar king to a mere puppet."
+    },
+    {
+      "question": "How did Hyder Ali begin his career?",
+      "options": [
+        "As a prince of the Wadiyar dynasty",
+        "As a French mercenary",
+        "As a petty officer in the Mysore Army",
+        "As a merchant from Turkey"
+      ],
+      "correct": 2,
+      "explanation": "Hyder Ali began his career as a petty officer in the Mysore Army and rose to be a brilliant commander."
+    },
+    {
+      "question": "What was Hyder Ali's primary military innovation?",
+      "options": [
+        "The use of elephant-mounted cannons.",
+        "Modernizing his army along European lines with French experts.",
+        "Relying solely on Guerilla warfare like the Marathas.",
+        "Building a navy larger than the British."
+      ],
+      "correct": 1,
+      "explanation": "His most remarkable achievement was his vision to modernise his army along European lines, inducting French experts and establishing a modern arsenal at Dindigul."
+    },
+    {
+      "question": "In 1761, what significant political move did Hyder Ali make?",
+      "options": [
+        "He signed the Treaty of Madras.",
+        "He overthrew Nanjaraja and established authority over Mysore.",
+        "He defeated the British at Porto-Novo.",
+        "He surrendered to the Marathas."
+      ],
+      "correct": 1,
+      "explanation": "In 1761, Hyder overthrew Nanjaraja and established authority over Mysore."
+    },
+    {
+      "question": "What was the outcome of the First Anglo-Mysore War (1767-1769)?",
+      "options": [
+        "Hyder Ali was defeated and his sons were taken as hostages.",
+        "The British annexed the Malabar coast.",
+        "The Treaty of Madras was signed on Hyder's terms.",
+        "Mysore was divided between the Nizam and the Marathas."
+      ],
+      "correct": 2,
+      "explanation": "Hyder forced the Madras Council to sign peace on his terms in 1769, known as the Treaty of Madras."
+    },
+    {
+      "question": "What was a key provision of the Treaty of Madras (1769)?",
+      "options": [
+        "Mysore would pay a war indemnity of 3 crores.",
+        "Both powers agreed to help each other in case of an attack by a third party.",
+        "Hyder Ali agreed to expel all French officers.",
+        "The British gained control of the Northern Circars permanently."
+      ],
+      "correct": 1,
+      "explanation": "As per the treaty, both the powers agreed to help each other in case of an attack by a third party."
+    },
+    {
+      "question": "What provided the immediate context for the outbreak of the Second Anglo-Mysore War?",
+      "options": [
+        "Tipu's attack on Travancore.",
+        "The British capture of the French settlement at Mahe.",
+        "The assassination of Narayan Rao.",
+        "The death of the Mughal Emperor."
+      ],
+      "correct": 1,
+      "explanation": "The English attempt to capture Mahe (a French settlement within Hyder's jurisdiction) provided the immediate context for the second Mysore War."
+    },
+    {
+      "question": "Who defeated Hyder Ali at the Battle of Porto-Novo in 1781?",
+      "options": [
+        "Lord Cornwallis",
+        "Sir Eyre Coote",
+        "Warren Hastings",
+        "Lord Wellesley"
+      ],
+      "correct": 1,
+      "explanation": "In July 1781, the English Army under Sir Eyre Coote defeated Hyder Ali at Porto-Novo."
+    },
+    {
+      "question": "The Treaty of Mangalore (1784) is significant in British-Indian history because:",
+      "options": [
+        "It was the first time a subsidiary alliance was signed.",
+        "It was the last British treaty with an Indian ruler on an equal footing.",
+        "It ended the Maratha influence in the South.",
+        "It resulted in the total annexation of Mysore."
+      ],
+      "correct": 1,
+      "explanation": "The Treaty of Mangalore (March 1784) was the last British treaty with an Indian ruler on an equal footing."
+    },
+    {
+      "question": "Which title did Tipu Sultan assume in 1787 to assert his autonomy?",
+      "options": [
+        "Chhatrapati",
+        "Padshah",
+        "Nizam-ul-Mulk",
+        "Peshwa"
+      ],
+      "correct": 1,
+      "explanation": "In 1787, Tipu assumed the title of Padshah and issued coins in his own name."
+    },
+    {
+      "question": "Tipu Sultan's 'Tree of Liberty' was planted at which location?",
+      "options": [
+        "Mysore",
+        "Dindigul",
+        "Seringapatam",
+        "Mangalore"
+      ],
+      "correct": 2,
+      "explanation": "Tipu is believed to have planted the 'Tree of Liberty' at Seringapatam as a sign of interest in the French Revolution."
+    },
+    {
+      "question": "What was the immediate cause of the Third Anglo-Mysore War?",
+      "options": [
+        "Tipu's alliance with the Marathas.",
+        "The British refusal to pay for the Northern Circars.",
+        "Tipu's attack on Travancore, a British ally.",
+        "The execution of British merchants in Mysore."
+      ],
+      "correct": 2,
+      "explanation": "Tipu's attack on Travancore became the immediate cause of the Third-Mysore War."
+    },
+    {
+      "question": "Under the Treaty of Srirangapatnam (1792), what was the status of Tipu's sons?",
+      "options": [
+        "They were made the rulers of the ceded territories.",
+        "They were sent to France for education.",
+        "They were kept as prisoners/hostages with Cornwallis until the indemnity was paid.",
+        "They were executed by the British."
+      ],
+      "correct": 2,
+      "explanation": "As Tipu was unable to pay the war indemnity, his two sons were kept as prisoners with Cornwallis."
+    },
+    {
+      "question": "Who is known as the 'Father of the policy of non-intervention' towards Indian states?",
+      "options": [
+        "Lord Cornwallis",
+        "Sir John Shore",
+        "Warren Hastings",
+        "Lord Wellesley"
+      ],
+      "correct": 1,
+      "explanation": "Sir John Shore adopted the policy of non-intervention towards Mysore and is known as the Father of this policy."
+    },
+    {
+      "question": "Which global event heightened British anxiety regarding Tipu Sultan during Wellesley's time?",
+      "options": [
+        "The American Civil War",
+        "The Russian Revolution",
+        "Napoleon Bonaparte's capture of Egypt and Syria",
+        "The Opium Wars"
+      ],
+      "correct": 2,
+      "explanation": "Napoleon had captured Egypt and Syria and turned towards India, leading Wellesley to take a hard line against Tipu."
+    },
+    {
+      "question": "What was the final outcome of the Fourth Anglo-Mysore War (1799)?",
+      "options": [
+        "Tipu Sultan escaped to Turkey.",
+        "Tipu was killed defending Seringapatam.",
+        "Mysore was annexed completely into the Bengal Presidency.",
+        "The French successfully landed troops to support Tipu."
+      ],
+      "correct": 1,
+      "explanation": "Tipu was killed during the defence of the city of Seringapatam on 4 May 1799."
+    },
+    {
+      "question": "After the Fourth Anglo-Mysore War, to whom was the core of Mysore restored?",
+      "options": [
+        "A French commandant",
+        "The Nizam of Hyderabad",
+        "The minor prince Krishnaraj of the Wadiyar Dynasty",
+        "The Peshwa of Poona"
+      ],
+      "correct": 2,
+      "explanation": "The remaining core around Mysore was restored to the minor Indian prince Krishnaraj belonging to the Wadiyar Dynasty."
+    },
+    {
+      "question": "What did Tipu Sultan do to promote modern industry in Mysore?",
+      "options": [
+        "He abolished all taxes on trade.",
+        "He set up state factories (karkhanas) for sugar, silk, and armaments.",
+        "He invited the British East India Company to build factories.",
+        "He focused exclusively on agriculture."
+      ],
+      "correct": 1,
+      "explanation": "Tipu set up a number of state factories (karkhanas) producing sugar, silk fabrics, armaments, etc."
+    },
+    {
+      "question": "Which Indian ruler is credited with pioneering iron-cased rocket technology?",
+      "options": [
+        "Hyder Ali",
+        "Tipu Sultan",
+        "The Nizam of Hyderabad",
+        "Madhav Rao Peshwa"
+      ],
+      "correct": 1,
+      "explanation": "Tipu Sultan pioneered iron-cased rocket technology."
+    },
+    {
+      "question": "How did Tipu Sultan handle the trade of pepper and cardamom in his kingdom?",
+      "options": [
+        "He allowed the British a monopoly on these items.",
+        "He declared an embargo on their export through his ports in 1785.",
+        "He traded them only with the Marathas.",
+        "He discouraged their cultivation to focus on silk."
+      ],
+      "correct": 1,
+      "explanation": "In 1785, Tipu declared an embargo on the export of pepper and cardamom through the ports within his kingdom."
+    },
+    {
+      "question": "Regarding the administration of Tipu Sultan, which statement is true?",
+      "options": [
+        "He had a powerful Wazir who handled all civil matters.",
+        "He exercised concentrated authority as civil, political, and military head.",
+        "He was uneducated and relied entirely on his ministers.",
+        "He followed the Mughal system of administration without changes."
+      ],
+      "correct": 1,
+      "explanation": "Under his administration, Tipu exercised concentrated authority—acting as the civil, political, and military head of the state."
+    },
+    {
+      "question": "Who was the 'nominal head' of the Maratha Confederacy?",
+      "options": [
+        "Scindia of Gwalior",
+        "Holkar of Indore",
+        "The Peshwa of Poona",
+        "Gaekwad of Baroda"
+      ],
+      "correct": 2,
+      "explanation": "The Peshwa was the nominal head of the Maratha confederacy."
+    },
+    {
+      "question": "Which event significantly weakened the Maratha power before their wars with the British?",
+      "options": [
+        "The Battle of Plassey",
+        "The Third Battle of Panipat (1761)",
+        "The death of Aurangzeb",
+        "The invasion of the French"
+      ],
+      "correct": 1,
+      "explanation": "Their strength had already been weakened by their defeat in the Third Battle of Panipat (1761) against Ahmed Shah Abdali."
+    },
+    {
+      "question": "What triggered the First Anglo-Maratha War?",
+      "options": [
+        "The British desire to annex Gwalior.",
+        "Internal strife among Marathas and the British desire for Salsette and Bassein.",
+        "The Maratha attack on Bengal.",
+        "A treaty between the Marathas and Napoleon."
+      ],
+      "correct": 1,
+      "explanation": "The war was a result of the excessive ambition of the English and internal strife of the Marathas, with the Bombay government eyeing Salsette and Bassein."
+    },
+    {
+      "question": "In the Maratha succession dispute, who did the English support after the assassination of Narayan Rao?",
+      "options": [
+        "Sawai Madhav Rao",
+        "Raghunath Rao",
+        "Nana Phadnavis",
+        "Ahilyabai Holkar"
+      ],
+      "correct": 1,
+      "explanation": "The English took the opportunity to intervene in favor of Raghunath Rao, who had named himself Peshwa after getting Narayan Rao assassinated."
+    },
+    {
+      "question": "Who led the 'Barabhai' (council of 12) conspiracy to remove Raghunath Rao?",
+      "options": [
+        "Madhav Rao I",
+        "Mahadji Scindia",
+        "Nana Phadnavis",
+        "Baji Rao II"
+      ],
+      "correct": 2,
+      "explanation": "The Barabhai (council of 12) conspiracy happened under Nana Phadnavis to remove Raghunath Rao from the seat."
+    },
+    {
+      "question": "Which territories were the primary targets of the Bombay Government's 'longing eyes' before the First Maratha War?",
+      "options": [
+        "Poona and Nagpur",
+        "Gwalior and Indore",
+        "Salsette and Bassein",
+        "Surat and Baroda"
+      ],
+      "correct": 2,
+      "explanation": "The Bombay Government had its longing eyes upon the Maratha territories, particularly the ports of Salsette and Bassein."
+    },
+    {
+      "question": "What was the 'Northern Circars' mentioned in the context of the Anglo-Mysore wars?",
+      "options": [
+        "A mountain range in Mysore.",
+        "Coastal territories between British Madras and Bengal.",
+        "A group of Maratha forts.",
+        "French trading posts on the west coast."
+      ],
+      "correct": 1,
+      "explanation": "Northern Circars was a series of coastal territories that lay between the British territories in Madras and Bengal."
+    },
+    {
+      "question": "Why did the Nizam of Hyderabad initially reject the British demand for Northern Circars?",
+      "options": [
+        "He was in a strong alliance with the French.",
+        "He was under the protection of the Marathas.",
+        "He initially rejected it but later signed a treaty due to poor financial conditions.",
+        "The Mughal Emperor had forbidden him from doing so."
+      ],
+      "correct": 2,
+      "explanation": "The Nizam initially rejected the British demand but later signed a treaty in view of his poor financial condition."
+    },
+    {
+      "question": "According to the notes, what was the 'fatal divorce' in the Dual System?",
+      "options": [
+        "The separation of the Mughal Emperor from his family.",
+        "The separation of power from responsibility.",
+        "The separation of Bengal from Bihar.",
+        "The separation of the British Army from the Nawab's treasury."
+      ],
+      "correct": 1,
+      "explanation": "A fatal divorce of power from responsibility was inherent in this dual system."
+    },
+    {
+      "question": "Which British official stated: 'Such a state of confusion, bribery, corruption and extortion was never seen or heard of in any country but Bengal'?",
+      "options": [
+        "Warren Hastings",
+        "Lord Cornwallis",
+        "Robert Clive",
+        "Sir John Shore"
+      ],
+      "correct": 2,
+      "explanation": "These were the words of Robert Clive himself regarding the state of Bengal under the Dual System."
+    },
+    {
+      "question": "How did the British Company's monopoly impact the local Indian merchants in Bengal?",
+      "options": [
+        "It allowed them to trade freely in Europe.",
+        "Company merchants would undersell them, pushing many into destitution.",
+        "They were given preference over French traders.",
+        "The Company provided them with low-interest loans."
+      ],
+      "correct": 1,
+      "explanation": "Company merchants exercised strict monopoly and would undersell the Indian merchants, pushing many of them into destitution and beggary."
+    },
+    {
+      "question": "How were cotton weavers in Bengal treated by the Company according to the text?",
+      "options": [
+        "They were encouraged to start their own export businesses.",
+        "They were compelled to buy raw materials from and sell woven cloths to the Company at arbitrary prices.",
+        "They were exempted from all duties on salt.",
+        "The Company built modern factories for them."
+      ],
+      "correct": 1,
+      "explanation": "The Company used its political power to compel the cotton weavers to buy raw material from and sell cloth to the Company exclusively at arbitrary prices."
+    },
+    {
+      "question": "What role did the Ottoman Khalif play in Tipu Sultan's reign?",
+      "options": [
+        "He provided military troops for the Fourth Mysore War.",
+        "Tipu sought a Sanad (Royal order) from him to legitimize his rule.",
+        "He mediated the Treaty of Srirangapatnam.",
+        "He was a puppet of Tipu Sultan."
+      ],
+      "correct": 1,
+      "explanation": "Tipu Sultan sought a Sanad (Royal order) from the Ottoman Khalif to legitimize his rule."
+    },
+    {
+      "question": "Which of these pairs of Maratha chiefs and their seats is correctly matched according to the PDF?",
+      "options": [
+        "Scindia - Indore",
+        "Holkar - Gwalior",
+        "Bhonsle - Nagpur",
+        "Gaekwad - Poona"
+      ],
+      "correct": 2,
+      "explanation": "The text lists: Bhonsle of Nagpur, Scindia at Gwalior, Holkar at Indore, and Gaekwad at Baroda."
+    },
+    {
+      "question": "What was the significance of the year 1761 in the history of Mysore and India as per the notes?",
+      "options": [
+        "Hyder Ali established authority over Mysore and the Marathas were defeated at Panipat.",
+        "The Treaty of Allahabad was signed.",
+        "Tipu Sultan became the ruler of Mysore.",
+        "The Dual System was abolished."
+      ],
+      "correct": 0,
+      "explanation": "In 1761, Hyder Ali established authority over Mysore (source 380), and the Marathas were defeated in the Third Battle of Panipat (source 585)."
+    },
+    {
+      "question": "The 'Jacobin Club' is associated with which Indian ruler?",
+      "options": [
+        "Hyder Ali",
+        "Nawab of Awadh",
+        "Tipu Sultan",
+        "The Mughal Emperor"
+      ],
+      "correct": 2,
+      "explanation": "Tipu Sultan became a member of the Jacobin Club and allowed himself to be addressed as Citizen Tipu."
+    },
+    {
+      "question": "What was the main reason for the English Company's aggressive expansionist policy during Wellesley's time?",
+      "options": [
+        "A request from the Mughal Emperor.",
+        "Need for finances for growing expenditure in Napoleonic wars.",
+        "A desire to spread Christianity.",
+        "An invitation from the Marathas to curb Tipu."
+      ],
+      "correct": 1,
+      "explanation": "The British home government was in need of finances for growing expenditure in Napoleonic wars, which encouraged aggressive expansion."
+    },
+    {
+      "question": "Which battle is described as 'deciding the fate of India', whereas Plassey decided the fate of Bengal?",
+      "options": [
+        "Battle of Panipat",
+        "Battle of Buxar",
+        "Battle of Seringapatam",
+        "Battle of Porto-Novo"
+      ],
+      "correct": 1,
+      "explanation": "The text states: 'The Battle of Plassey decided the fate of Bengal while the Battle of Buxar decided the Fate of India.'"
+    },
+    {
+      "question": "In the context of the Second Anglo-Mysore War, what happened in 1783 that affected Tipu Sultan's position?",
+      "options": [
+        "The American War of Independence ended and the French sailed back to Europe.",
+        "The Marathas joined Tipu against the British.",
+        "The British annexed the whole of Malabar.",
+        "Tipu was defeated at Seringapatam."
+      ],
+      "correct": 0,
+      "explanation": "In 1783, the American War of Independence ended, and the French sailed back to Europe, leaving Tipu to fight alone."
+    },
+    {
+      "question": "Which treaty marked the beginning of the First Anglo-Maratha War?",
+      "options": [
+        "Treaty of Purandar",
+        "Treaty of Surat",
+        "Treaty of Salbai",
+        "Treaty of Wadgaon"
+      ],
+      "correct": 1,
+      "explanation": "According to the text, the First Anglo-Maratha War began with the Treaty of Surat, signed between Raghunath Rao and the British Government on 7 March 1775."
+    },
+    {
+      "question": "What was the immediate cause for Raghunath Rao to seek help from the British in 1775?",
+      "options": [
+        "To fight against the French adventurer St. Lubin",
+        "To protect the Maratha borders from Mysore",
+        "Frustration over power and a desire to capture the Peshwaship",
+        "To annex territories of Salsette and Bassein"
+      ],
+      "correct": 2,
+      "explanation": "The document states that out of frustration, Raghunath Rao went over to the British to try and capture power with their help, which provided the immediate background for the war."
+    },
+    {
+      "question": "Under the Treaty of Surat (1775), what did Raghunath Rao agree to cede to the British in exchange for military support?",
+      "options": [
+        "Poona and Satara",
+        "Ahmedabad and Gwalior",
+        "Salsette and Bassein",
+        "Cuttack and Balasore"
+      ],
+      "correct": 2,
+      "explanation": "In return for 2500 soldiers, Raghunath Rao (Raghoba) agreed to cede the territories of Salsette and Bassein, along with revenues from Surat and Bharuch."
+    },
+    {
+      "question": "Why did the British Government in Bengal condemn the Treaty of Surat?",
+      "options": [
+        "They believed the military force sent was too small",
+        "They regarded it as unjust and unauthorized",
+        "They wanted to support the Poona Darbar instead",
+        "They feared it would provoke the French"
+      ],
+      "correct": 1,
+      "explanation": "When the copy reached Bengal, the superior British Government condemned it as 'unjust and unauthorised' and subsequently sent Colonel Upton to sign a new treaty."
+    },
+    {
+      "question": "Which official was sent by Warren Hastings to Poona to sign the Treaty of Purandar in 1776?",
+      "options": [
+        "Colonel Keating",
+        "Colonel Egerton",
+        "Colonel Upton",
+        "Colonel Cockburn"
+      ],
+      "correct": 2,
+      "explanation": "Warren Hastings sent Colonel Upton to Poona Darbar to sign the Treaty of Purandar on 1 March 1776, which annulled the Treaty of Surat."
+    },
+    {
+      "question": "What was the primary outcome for Raghunath Rao under the Treaty of Purandar (1776)?",
+      "options": [
+        "He was recognized as the official Peshwa",
+        "He was executed for treason",
+        "He was to receive a monthly pension and abandon his claim to the throne",
+        "He was appointed as the Governor of Bombay"
+      ],
+      "correct": 2,
+      "explanation": "The treaty stated the British would leave his side, his claim to the throne would be abandoned, and he would be given a monthly pension by the Peshwa Government."
+    },
+    {
+      "question": "Which international event contributed to the non-implementation of the Treaty of Purandar?",
+      "options": [
+        "The French Revolution",
+        "The American War of Independence",
+        "The Napoleonic Wars",
+        "The Seven Years' War"
+      ],
+      "correct": 1,
+      "explanation": "The text mentions the American War of Independence (1775) and France joining the Americans against England as factors that changed the British stance."
+    },
+    {
+      "question": "Who was the 'French adventurer' whose arrival in Poona alarmed Warren Hastings in 1777?",
+      "options": [
+        "Chevalier de St. Lubin",
+        "Dupleix",
+        "Count de Lally",
+        "Maha Bandula"
+      ],
+      "correct": 0,
+      "explanation": "The arrival of Chevalier de St. Lubin at Poona greatly alarmed Hastings, leading him to scrap the Treaty of Purandar and resume operations."
+    },
+    {
+      "question": "Which Maratha General was responsible for luring the English army into the valleys of the Western Ghats during the Battle of Talegaon?",
+      "options": [
+        "Nana Phadnavis",
+        "Mahadji Scindia",
+        "Baji Rao II",
+        "Raghoji Bhonsle"
+      ],
+      "correct": 1,
+      "explanation": "The Maratha Army was led by the 'brilliant General Mahadji Schinde (Scindia)', who trapped the English near Talegaon."
+    },
+    {
+      "question": "What tactic did the Marathas use during the Battle of Talegaon to weaken the English forces?",
+      "options": [
+        "Guerrilla warfare in the plains",
+        "Subsidiary alliance traps",
+        "Scorched Earth Policy including poisoning wells",
+        "Frontal naval assault"
+      ],
+      "correct": 2,
+      "explanation": "The Marathas used the 'Scorched Earth Policy', which involved burning farmlands and poisoning wells to harass the enemy."
+    },
+    {
+      "question": "The humiliating Treaty of Wadgaon (1779) forced the Bombay Government to:",
+      "options": [
+        "Cede all territories in Bengal",
+        "Accept Baji Rao II as the Peshwa",
+        "Return all territory conquered since 1773",
+        "Pay an indemnity of 26 lakhs"
+      ],
+      "correct": 2,
+      "explanation": "As per the Treaty of Wadgaon, the Bombay Government was forced to return all territory conquered by it after 1773."
+    },
+    {
+      "question": "Who mediated the Treaty of Salbai (1782) between the British and the Poona Government?",
+      "options": [
+        "Nana Phadnavis",
+        "Mahadji Scindia",
+        "Hyder Ali",
+        "Lord Wellesley"
+      ],
+      "correct": 1,
+      "explanation": "The Treaty of Salbai was signed with the mediation of Mahadji Scindia."
+    },
+    {
+      "question": "According to the Treaty of Salbai, who was recognized as the Peshwa?",
+      "options": [
+        "Raghunath Rao",
+        "Baji Rao II",
+        "Madhavrao II (Madhav Narayan Rao)",
+        "Nana Saheb"
+      ],
+      "correct": 2,
+      "explanation": "The main provision of the Treaty of Salbai was that Madhavrao II (Sawai Madhavrao) would be accepted as the Peshwa."
+    },
+    {
+      "question": "What was the significance of the 20-year peace (1782-1802) following the First Anglo-Maratha War for the British?",
+      "options": [
+        "It allowed them to conquer Punjab",
+        "It gave them time to concentrate on other fronts, especially Mysore",
+        "It allowed them to sign a treaty with the Mughals",
+        "It led to the immediate annexation of Burma"
+      ],
+      "correct": 1,
+      "explanation": "The text states the peace ensured time for the British to concentrate on other fronts, specifically mentioning Mysore."
+    },
+    {
+      "question": "Which British Governor General aggressively followed the policy of Subsidiary Alliance starting in 1798?",
+      "options": [
+        "Warren Hastings",
+        "Lord Hastings",
+        "Lord Wellesley",
+        "Lord Dalhousie"
+      ],
+      "correct": 2,
+      "explanation": "Lord Wellesley came to India in 1798 and aggressively followed the policy of the subsidiary alliance."
+    },
+    {
+      "question": "Which event led Peshwa Baji Rao II to seek assistance from Wellesley in 1802?",
+      "options": [
+        "The death of Nana Phadnavis",
+        "The invasion of the Pindaris",
+        "Defeat by Holkar forces after the murder of Jaswant Rao Holkar's brother",
+        "The arrival of Russian troops in Kabul"
+      ],
+      "correct": 2,
+      "explanation": "After the Peshwa murdered Holkar's brother, Holkar defeated the Scindia and Peshwa forces, forcing the Peshwa to seek British help."
+    },
+    {
+      "question": "The Treaty of Bassein (1802) is categorized as which type of agreement?",
+      "options": [
+        "A commercial trade pact",
+        "A peace treaty ending a draw",
+        "A Subsidiary Alliance",
+        "A declaration of independence"
+      ],
+      "correct": 2,
+      "explanation": "The document explicitly describes the Treaty of Bassein as 'essentially a subsidiary alliance with the Peshwa'."
+    },
+    {
+      "question": "Under the Treaty of Bassein, the Peshwa agreed to station how many battalions of British troops at Poona?",
+      "options": [
+        "Two",
+        "Four",
+        "Six",
+        "Ten"
+      ],
+      "correct": 2,
+      "explanation": "The treaty provided for a 'British Subsidiary force of 6 battalions' for whose upkeep territory was ceded."
+    },
+    {
+      "question": "Which Maratha chief remained neutral during the Second Anglo-Maratha War while others fought the British?",
+      "options": [
+        "Scindia",
+        "Bhonsle",
+        "Holkar",
+        "Gaekwad"
+      ],
+      "correct": 3,
+      "explanation": "The text notes that while Scindia and Bhonsle formed an alliance, 'Gaekwad remained neutral'."
+    },
+    {
+      "question": "In 1803, the control of Delhi passed from the Marathas to the British after which battle?",
+      "options": [
+        "Battle of Assaye",
+        "Battle of Delhi",
+        "Battle of Laswari",
+        "Battle of Argaon"
+      ],
+      "correct": 1,
+      "explanation": "The control of Delhi passed into British hands after the Battle of Delhi on 11 September 1803."
+    },
+    {
+      "question": "Following the Second Anglo-Maratha War, which Mughal ruler became a pensioner of the British Company for the second time?",
+      "options": [
+        "Bahadur Shah Zafar",
+        "Shah Alam II",
+        "Akbar II",
+        "Aurangzeb"
+      ],
+      "correct": 1,
+      "explanation": "Shah Alam II became a pensioner of the Company again after the British took control of Delhi in 1803."
+    },
+    {
+      "question": "The Treaty of Deogaon (1803) resulted in the cession of which territory by Raghoji II Bhonsle?",
+      "options": [
+        "Ganges-Yamuna Doab",
+        "Cuttack and Balasore",
+        "Ahmedabad",
+        "Surat"
+      ],
+      "correct": 1,
+      "explanation": "The Treaty of Deogaon saw Bhonsle ceding Cuttack and Balasore (Orissa), linking British territories of Bengal and Madras."
+    },
+    {
+      "question": "Which treaty ended hostilities with Yashwantrao Holkar in 1805?",
+      "options": [
+        "Treaty of Surji-Anjangaon",
+        "Treaty of Rajpurghat",
+        "Treaty of Mandsaur",
+        "Treaty of Poona"
+      ],
+      "correct": 1,
+      "explanation": "The defeat of Holkar led to the Treaty of Rajpurghat (24 Dec 1805), ending the hostilities."
+    },
+    {
+      "question": "Who was the Governor General during the Third Anglo-Maratha War (1817-1818)?",
+      "options": [
+        "Lord Wellesley",
+        "Lord Hastings",
+        "Lord Dalhousie",
+        "Warren Hastings"
+      ],
+      "correct": 1,
+      "explanation": "The third phase of the war started with the arrival of British Governor Lord Hastings."
+    },
+    {
+      "question": "What was the immediate cause of the Third Anglo-Maratha War?",
+      "options": [
+        "The murder of a British Resident",
+        "Lord Hastings' actions against the Pindaris",
+        "The succession crisis in Nagpur",
+        "A French invasion of Gujarat"
+      ],
+      "correct": 1,
+      "explanation": "The document states the immediate cause was 'Lord Hastings' actions against the Pindaris', which was seen as a transgression of Maratha sovereignty."
+    },
+    {
+      "question": "At which location was the Peshwa defeated during the Third Anglo-Maratha War?",
+      "options": [
+        "Sitabuldi",
+        "Mahidpur",
+        "Khirki",
+        "Assaye"
+      ],
+      "correct": 2,
+      "explanation": "The text mentions the 'Peshwa was defeated at Khirki'."
+    },
+    {
+      "question": "What was the final political fate of the Peshwaship after 1818?",
+      "options": [
+        "It was moved to Satara",
+        "It was abolished, and the Peshwa was pensioned off to Bithoor",
+        "It became a subsidiary state under Scindia",
+        "It was given to a French administrator"
+      ],
+      "correct": 1,
+      "explanation": "Lord Hastings decided to get rid of the Peshwaship; the Peshwa was dethroned and ordered to spend his last days in Bithoor."
+    },
+    {
+      "question": "Which small kingdom was carved out by the British to satisfy Maratha pride after the fall of the Peshwa?",
+      "options": [
+        "Baroda",
+        "Indore",
+        "Satara",
+        "Gwalior"
+      ],
+      "correct": 2,
+      "explanation": "A small kingdom of Satara was carved out and given to Pratap Singh, a descendant of Shivaji."
+    },
+    {
+      "question": "According to the 'Why Marathas Lost' section, what was a weakness of their military system?",
+      "options": [
+        "Lack of cavalry",
+        "Over-reliance on naval power",
+        "Cavalry-heavy doctrine with uneven infantry/artillery modernization",
+        "Refusal to use firearms"
+      ],
+      "correct": 2,
+      "explanation": "The text lists 'Cavalry-heavy doctrine with uneven infantry/artillery modernization' as a reason for their loss."
+    },
+    {
+      "question": "What territory was ceded to British India by Nepal after the Treaty of Sugauli (1816)?",
+      "options": [
+        "Assam and Manipur",
+        "Garhwal and Kumaon",
+        "Cuttack and Balasore",
+        "Sindh and Punjab"
+      ],
+      "correct": 1,
+      "explanation": "Nepal ceded the territories of Garhwal and Kumaon and abandoned claims to the Terai region under the Treaty of Sugauli."
+    },
+    {
+      "question": "Why did the British originally view Nepal as an important strategic buffer?",
+      "options": [
+        "To protect against the Sikhs",
+        "As a buffer between British India and Tibet/China",
+        "To control the rice trade in the Irrawaddy",
+        "To block Russian influence in the Arabian Sea"
+      ],
+      "correct": 1,
+      "explanation": "The British looked at Nepal as a 'stable Himalayan buffer state between British India and Tibet/China'."
+    },
+    {
+      "question": "The First Anglo-Burmese War ended with which treaty in 1826?",
+      "options": [
+        "Treaty of Sagaing",
+        "Treaty of Yandabo",
+        "Treaty of Mandsaur",
+        "Treaty of Bassein"
+      ],
+      "correct": 1,
+      "explanation": "The First Anglo-Burmese War (1824-1826) ended with the Treaty of Yandabo."
+    },
+    {
+      "question": "What was a significant economic motivation for the British to annex parts of Burma during the 19th century?",
+      "options": [
+        "Control over the diamond mines of Ava",
+        "Supplies of timber, tin, pepper, and ivory",
+        "Monopoly over the silk trade",
+        "Control over the salt pans of Rakhine"
+      ],
+      "correct": 1,
+      "explanation": "Burma emerged as a major supplier of timber and other costly items like tin, pepper, and ivory, which tempted the British to annex it."
+    },
+    {
+      "question": "What was the pretext for the Third Anglo-Burmese War in 1885?",
+      "options": [
+        "Border clashes in Assam",
+        "The King was suspected of intriguing with the French in Vietnam",
+        "A dispute over rice exports to Bengal",
+        "The murder of a British ship captain in Rangoon"
+      ],
+      "correct": 1,
+      "explanation": "The English attacked on the pretext that the King was intriguing with the French in Vietnam to weaken English control."
+    },
+    {
+      "question": "The diplomatic competition between the British and Russian empires for influence in Asia was known as:",
+      "options": [
+        "The Cold War",
+        "The Great Game",
+        "The Forward Policy",
+        "The Tournament of Shadows (only to the British)"
+      ],
+      "correct": 1,
+      "explanation": "The competition was known as 'the Great Game' to the British and the 'Tournament of Shadows' to the Russians."
+    },
+    {
+      "question": "What was the 'Policy of Masterly Inactivity' regarding Afghanistan?",
+      "options": [
+        "Creating a buffer state by force",
+        "Annexing Afghanistan immediately",
+        "Non-intervention and diplomatic understanding with Russia",
+        "Installing a British ruler in Kabul"
+      ],
+      "correct": 2,
+      "explanation": "The Policy of Masterly Inactivity involved following a policy of non-intervention and reaching a diplomatic understanding with Russia."
+    },
+    {
+      "question": "In the context of Afghan policy, who generally held the 'Forward Policy' view?",
+      "options": [
+        "Liberals",
+        "Conservatives",
+        "The Maratha Chiefs",
+        "The French"
+      ],
+      "correct": 1,
+      "explanation": "The text states the 'Forward Policy' view was held by conservatives."
+    },
+    {
+      "question": "Which territory's annexation in 1843 brought the British frontier closer to Afghanistan?",
+      "options": [
+        "Punjab",
+        "Sindh",
+        "Burma",
+        "Nepal"
+      ],
+      "correct": 1,
+      "explanation": "The document notes that subsequent frontier policy led to the annexation of Sindh (1843)."
+    },
+    {
+      "question": "Who was the Amir of Afghanistan at the start of the First Anglo-Afghan War?",
+      "options": [
+        "Shah Shuja",
+        "Dost Mohammad",
+        "Maha Bandula",
+        "Akbar Khan"
+      ],
+      "correct": 1,
+      "explanation": "Initially, the relationship with Dost Mohammad (Amir of Afghanistan) was good before he showed signs of friendship with Russia."
+    },
+    {
+      "question": "What specific act by Emir Dost Mohammad Khan in 1837 alarmed the British?",
+      "options": [
+        "Invading the Punjab",
+        "Receiving a Russian envoy",
+        "Signing a treaty with the French",
+        "Abolishing the trade of timber"
+      ],
+      "correct": 1,
+      "explanation": "In late 1837, Alexander Burnes's mission found that the Emir had received a Russian envoy, triggering British anxiety."
+    },
+    {
+      "question": "According to the Bhat Dynasty chronology, who was the Peshwa from 1720-1740?",
+      "options": [
+        "Balaji Vishwanath",
+        "Baji Rao I",
+        "Balaji Rao",
+        "Madhav Rao I"
+      ],
+      "correct": 1,
+      "explanation": "The chronology shows Baji Rao I was Peshwa from 1720-1740."
+    },
+    {
+      "question": "Who was the father of Baji Rao II in the provided family tree?",
+      "options": [
+        "Madhav Rao",
+        "Narayan Rao",
+        "Raghunath Rao",
+        "Balaji Rao"
+      ],
+      "correct": 2,
+      "explanation": "The chart shows Baji Rao II (1796-1818) as the son of Raghunath Rao."
+    },
+    {
+      "question": "Which female figure is linked to Baji Rao I in the dynasty chart?",
+      "options": [
+        "Kashibai",
+        "Mastani",
+        "Both A and B",
+        "Neither A nor B"
+      ],
+      "correct": 2,
+      "explanation": "The chart lists both Kashibai and Mastani as connected to Baji Rao I."
+    },
+    {
+      "question": "What was the outcome of the Battle of Adas (18 May 1775)?",
+      "options": [
+        "The Marathas were defeated",
+        "The British force under Col. Keating was defeated",
+        "A peace treaty was signed immediately",
+        "Raghunath Rao was captured"
+      ],
+      "correct": 1,
+      "explanation": "The text states: 'At Adas (18 May 1775), the British force under Col. Keating was defeated by the Marathas'."
+    },
+    {
+      "question": "What was the 'status quo ante bellum' provision in the Treaty of Salbai?",
+      "options": [
+        "One side pays all war costs",
+        "Mutual restitution of each other's territories",
+        "Permanent annexation of all conquered lands",
+        "Abolition of all previous treaties"
+      ],
+      "correct": 1,
+      "explanation": "The treaty was signed on the basis of 'mutual restitution of each other's territories' or status quo ante bellum."
+    },
+    {
+      "question": "Which islands were retained or acquired by the British Company under the Treaty of Salbai?",
+      "options": [
+        "Andaman and Nicobar",
+        "Elephanta, Karanja, and Hog Islands",
+        "Ceylon and Maldives",
+        "Salsette and Bassein only"
+      ],
+      "correct": 1,
+      "explanation": "The Company retained Salsette and acquired Elephanta, Karanja, and Hog Islands, and Broach."
+    },
+    {
+      "question": "Which Maratha leader was neutralised by the Treaty of Gwalior in 1817?",
+      "options": [
+        "Holkar",
+        "Bhonsle",
+        "Scindia",
+        "Peshwa"
+      ],
+      "correct": 2,
+      "explanation": "The text says 'Scindia was neutralised by the Treaty of Gwalior (5 Nov 1817)' during the Third Anglo-Maratha War."
+    },
+    {
+      "question": "The Second Anglo-Maratha War was fought concurrently in which two regions?",
+      "options": [
+        "Bengal and Punjab",
+        "Deccan and Upper India",
+        "Sindh and Afghanistan",
+        "Nepal and Burma"
+      ],
+      "correct": 1,
+      "explanation": "The war was fought in Deccan under Arthur Wellesley and in Upper India under General Lake."
+    },
+    {
+      "question": "What happened to the territories of Lower Burma after the Second Anglo-Burmese War?",
+      "options": [
+        "They were returned to the King",
+        "They were annexed by the British, including Pegu",
+        "They became an independent republic",
+        "They were ceded to the French"
+      ],
+      "correct": 1,
+      "explanation": "The British annexed Lower Burma (including Pegu/Martaban) after the 1852-53 war."
+    },
+    {
+      "question": "Which city became the capital for King Mindon after the loss of Lower Burma?",
+      "options": [
+        "Rangoon",
+        "Mandalay",
+        "Yandabo",
+        "Pegu"
+      ],
+      "correct": 1,
+      "explanation": "King Mindon moved the royal capital to Mandalay in 1857 after the loss of Lower Burma."
+    }
+]

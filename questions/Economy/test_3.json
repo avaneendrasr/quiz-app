@@ -1,0 +1,1927 @@
+[
+  {
+    "question": "Money supply is represented by which formula?",
+    "options": ["Ms = Mo + m", "Ms = m × Mo", "Ms = Mo − m", "Ms = m / Mo"],
+    "correct": 1,
+    "explanation": "The document states Money Supply = m × Mo."
+  },
+  {
+    "question": "What does 'Mo' represent in the money supply equation?",
+    "options": ["Market output", "Money multiplier", "High-powered money", "Monetary output"],
+    "correct": 2,
+    "explanation": "Mo is defined as high-powered money in the text."
+  },
+  {
+    "question": "Open Market Operations involve:",
+    "options": ["Tax collection", "Buying and selling of assets by RBI", "Issuing currency notes only", "Setting lending rates"],
+    "correct": 1,
+    "explanation": "The document defines OMO as RBI buying and selling assets in the open market."
+  },
+  {
+    "question": "When RBI buys securities in the open market, what happens?",
+    "options": ["Money supply decreases", "Money supply increases", "Interest rates rise immediately", "Fiscal deficit reduces"],
+    "correct": 1,
+    "explanation": "Buying securities injects money, increasing Mo and hence money supply."
+  },
+  {
+    "question": "Cash Reserve Ratio (CRR) is defined as:",
+    "options": ["Percentage of profits kept by banks", "Percentage of deposits lent to public", "Percentage of NDTL kept with RBI as cash", "Interest charged on loans"],
+    "correct": 2,
+    "explanation": "CRR is the percentage of NDTL that banks must keep with RBI as cash."
+  },
+  {
+    "question": "What happens when CRR increases?",
+    "options": ["Banks have more lendable funds", "Money supply increases", "Lendable funds decrease", "Interest rates fall"],
+    "correct": 2,
+    "explanation": "Higher CRR reduces lendable money, decreasing money supply."
+  },
+  {
+    "question": "Does RBI pay interest on CRR deposits?",
+    "options": ["Yes, always", "Only during inflation", "No", "Only to public sector banks"],
+    "correct": 2,
+    "explanation": "The document clearly states RBI does not pay interest on CRR deposits."
+  },
+  {
+    "question": "Statutory Liquidity Ratio (SLR) requires banks to maintain assets in the form of:",
+    "options": ["Foreign currency", "Gold only", "Designated liquid assets", "Equity shares"],
+    "correct": 2,
+    "explanation": "SLR mandates holding a proportion of NDTL in designated liquid assets."
+  },
+  {
+    "question": "An increase in SLR leads to:",
+    "options": ["Increase in lendable funds", "Decrease in lendable funds", "No impact on money supply", "Increase in exports"],
+    "correct": 1,
+    "explanation": "Higher SLR reduces money available for lending."
+  },
+  {
+    "question": "Liquidity Adjustment Facility (LAF) is used to:",
+    "options": ["Control fiscal deficit", "Adjust liquidity in the banking system", "Increase tax revenue", "Control exchange rate"],
+    "correct": 1,
+    "explanation": "The document defines LAF as borrowing and lending between RBI and banks to adjust liquidity."
+  },
+  {
+    "question": "Repo rate refers to:",
+    "options": ["Rate at which RBI borrows from banks", "Rate at which banks lend to customers", "Rate at which RBI lends to banks", "Exchange rate policy"],
+    "correct": 2,
+    "explanation": "Repo rate is the interest charged by RBI when lending to banks."
+  },
+  {
+    "question": "If repo rate increases, borrowing by banks becomes:",
+    "options": ["Cheaper", "Costlier", "Unchanged", "Subsidized"],
+    "correct": 1,
+    "explanation": "Higher repo rate makes borrowing from RBI costlier."
+  },
+  {
+    "question": "Reverse repo rate refers to:",
+    "options": ["Rate at which banks lend to public", "Rate at which RBI borrows from banks", "Rate of inflation", "Tax rate"],
+    "correct": 1,
+    "explanation": "Reverse repo is when banks deposit money with RBI and earn interest."
+  },
+  {
+    "question": "Marginal Standing Facility (MSF) allows banks to:",
+    "options": ["Borrow without collateral", "Borrow using SLR securities", "Avoid CRR requirements", "Increase deposits"],
+    "correct": 1,
+    "explanation": "Banks can borrow using SLR securities under MSF."
+  },
+  {
+    "question": "Which of the following is a qualitative tool of monetary policy?",
+    "options": ["CRR", "SLR", "Moral suasion", "OMO"],
+    "correct": 2,
+    "explanation": "Moral suasion is listed as a qualitative tool influencing bank behaviour."
+  },
+  {
+    "question": "Credit rationing involves:",
+    "options": ["Increasing lending rates", "Limiting credit to certain sectors", "Reducing CRR", "Buying government bonds"],
+    "correct": 1,
+    "explanation": "The document defines credit rationing as limiting credit to specific sectors."
+  },
+  {
+    "question": "Loan-to-value ratio is controlled under:",
+    "options": ["OMO", "Regulation of margins", "CRR", "MSF"],
+    "correct": 1,
+    "explanation": "Regulation of margins controls loan-to-value ratios."
+  },
+  {
+    "question": "Priority sector lending requires banks to:",
+    "options": ["Invest abroad", "Lend a portion to specific sectors", "Reduce interest rates universally", "Hold more CRR"],
+    "correct": 1,
+    "explanation": "Banks are mandated to lend a certain portion to priority sectors."
+  },
+  {
+    "question": "Monetary Policy Committee (MPC) consists of how many members?",
+    "options": ["4", "5", "6", "7"],
+    "correct": 2,
+    "explanation": "The document states MPC has 6 members."
+  },
+  {
+    "question": "Who has the casting vote in MPC decisions?",
+    "options": ["Finance Minister", "RBI Governor", "Prime Minister", "Chief Economic Advisor"],
+    "correct": 1,
+    "explanation": "The RBI Governor has the casting vote in case of a tie."
+  },
+  {
+    "question": "What is the inflation target under MPC framework?",
+    "options": ["2%", "4% ± 2%", "6%", "8%"],
+    "correct": 1,
+    "explanation": "The document specifies the target as 4% with a tolerance band of ±2%."
+  },
+  {
+    "question": "Which of the following best describes the primary role of Payment Banks as per the given document?",
+    "options": [
+      "Providing loans to all sectors including MSMEs",
+      "Focusing on deposits and payment services with limited financial scope",
+      "Financing large infrastructure projects",
+      "Providing credit only to cooperative members"
+    ],
+    "correct": 1,
+    "explanation": "The document states that Payment Banks provide limited financial services, focusing mainly on deposits and payments rather than full-scale lending."
+  },
+  {
+    "question": "Consider the following statements regarding Small Finance Banks (SFBs):\n1. They primarily serve underserved sections.\n2. They must allocate 75% of ANBC to priority sector lending.\n3. They are not allowed to provide loans.\nWhich of the statements is/are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct": 0,
+    "explanation": "SFBs promote financial inclusion and must allocate 75% of ANBC to PSL. They do provide loans, mainly to small businesses and low-income groups."
+  },
+  {
+    "question": "Which banking institution is governed by the Regional Rural Banks Act, 1976?",
+    "options": [
+      "Scheduled Commercial Banks",
+      "Regional Rural Banks",
+      "Payment Banks",
+      "Local Area Banks"
+    ],
+    "correct": 1,
+    "explanation": "The document clearly states that Regional Rural Banks are governed by the Regional Rural Banks Act, 1976."
+  },
+  {
+    "question": "What is the key restriction on deposit acceptance by Payment Banks?",
+    "options": [
+      "They cannot accept current deposits",
+      "They cannot accept deposits above ₹10 lakh",
+      "They cannot accept deposits above ₹2 lakh per customer",
+      "They cannot accept savings deposits"
+    ],
+    "correct": 2,
+    "explanation": "Payment Banks can accept savings and current deposits but are limited to ₹2 lakh per customer."
+  },
+  {
+    "question": "Which of the following correctly matches the bank type with its regulator structure?",
+    "options": [
+      "RRBs – RBI only",
+      "Cooperative Banks – State Government only",
+      "RRBs – RBI and NABARD",
+      "Payment Banks – NABARD only"
+    ],
+    "correct": 2,
+    "explanation": "RRBs are regulated by RBI, with NABARD acting as the immediate regulator."
+  },
+  {
+    "question": "Which type of bank has its area of operation limited to a maximum of three geographically contiguous districts?",
+    "options": [
+      "Regional Rural Banks",
+      "Local Area Banks",
+      "Small Finance Banks",
+      "Cooperative Banks"
+    ],
+    "correct": 1,
+    "explanation": "Local Area Banks operate within a limited geographical area, specifically up to three contiguous districts."
+  },
+  {
+    "question": "Which of the following statements about Priority Sector Lending (PSL) is correct?",
+    "options": [
+      "Payment Banks must meet 75% PSL targets",
+      "Scheduled Commercial Banks must meet 40% of ANBC as PSL",
+      "Cooperative Banks have no PSL requirements",
+      "RRBs are exempted from PSL"
+    ],
+    "correct": 1,
+    "explanation": "Scheduled Commercial Banks are required to allocate 40% of Adjusted Net Bank Credit (ANBC) to priority sectors."
+  },
+  {
+    "question": "What is the minimum paid-up capital requirement for Payment Banks?",
+    "options": [
+      "₹500 crore",
+      "₹200 crore",
+      "₹100 crore",
+      "₹5 crore"
+    ],
+    "correct": 2,
+    "explanation": "The document specifies that Payment Banks require a minimum paid-up capital of ₹100 crore."
+  },
+  {
+    "question": "Which of the following institutions is regulated by SEBI as per the document?",
+    "options": [
+      "Housing Finance Companies",
+      "Chit Fund Companies",
+      "Mutual Funds",
+      "Nidhi Companies"
+    ],
+    "correct": 2,
+    "explanation": "Mutual Funds fall under the regulatory purview of SEBI, as stated in the document."
+  },
+  {
+    "question": "Which feature distinguishes Cooperative Banks from Scheduled Commercial Banks?",
+    "options": [
+      "They are profit-oriented entities",
+      "They provide universal banking services",
+      "They are community-based and member-focused institutions",
+      "They operate only in urban areas"
+    ],
+    "correct": 2,
+    "explanation": "Cooperative Banks function as cooperatives, primarily serving members of specific communities with a not-for-profit orientation."
+  },
+  {
+    "question": "Which legislation defines banks and their functions in India?",
+    "options": ["RBI Act, 1934", "Banking Regulation Act, 1949", "Companies Act, 2013", "SARFAESI Act, 2002"],
+    "correct": 1,
+    "explanation": "The Banking Regulation Act, 1949 defines banks and their functions."
+  },
+  {
+    "question": "Which institution regulates banks in India?",
+    "options": ["SEBI", "Ministry of Finance", "RBI", "NABARD"],
+    "correct": 2,
+    "explanation": "The Reserve Bank of India (RBI) is the regulator of banks."
+  },
+  {
+    "question": "To use the word 'Bank' in its name, an entity must obtain a license from:",
+    "options": ["SEBI", "RBI", "Ministry of Corporate Affairs", "NABARD"],
+    "correct": 1,
+    "explanation": "Entities must obtain a license from RBI under the Banking Regulation Act."
+  },
+  {
+    "question": "Which type of banks perform all banking functions?",
+    "options": ["Payments Banks", "Small Finance Banks", "Universal Banks", "Custodian Banks"],
+    "correct": 2,
+    "explanation": "Universal banks perform all banking functions."
+  },
+  {
+    "question": "Differentiated banks are characterized by:",
+    "options": ["Performing all functions", "Performing selective functions", "Operating only internationally", "Being unregulated"],
+    "correct": 1,
+    "explanation": "Differentiated banks perform only some banking functions."
+  },
+  {
+    "question": "Small Finance Banks primarily focus on:",
+    "options": ["Large corporate loans", "Urban infrastructure", "Small loans and financial inclusion", "Foreign exchange trading"],
+    "correct": 2,
+    "explanation": "SFBs focus on small loans and financial inclusion."
+  },
+  {
+    "question": "Payments Banks are primarily created to:",
+    "options": ["Provide large loans", "Facilitate payments infrastructure", "Finance infrastructure projects", "Provide insurance"],
+    "correct": 1,
+    "explanation": "Payments banks aim to improve payment infrastructure."
+  },
+  {
+    "question": "Payments Banks are restricted from:",
+    "options": ["Accepting deposits", "Issuing cards", "Providing credit", "Investing in government securities"],
+    "correct": 2,
+    "explanation": "Payments banks cannot provide credit."
+  },
+  {
+    "question": "Scheduled banks are listed in:",
+    "options": ["Schedule 1 of RBI Act", "Schedule 2 of RBI Act", "Schedule 3 of Companies Act", "Schedule 4 of Banking Regulation Act"],
+    "correct": 1,
+    "explanation": "Scheduled banks are listed in Schedule 2 of the RBI Act."
+  },
+  {
+    "question": "Scheduled banks are eligible for:",
+    "options": ["SEBI funding", "RBI facilities like repo", "Government subsidies", "Foreign investments only"],
+    "correct": 1,
+    "explanation": "Scheduled banks can access RBI facilities such as repo."
+  },
+  {
+    "question": "Cooperative banks are primarily regulated by:",
+    "options": ["RBI only", "Registrar of Cooperative Societies", "SEBI", "IRDAI"],
+    "correct": 1,
+    "explanation": "Cooperative banks are regulated by the Registrar of Cooperative Societies."
+  },
+  {
+    "question": "Regional Rural Banks mainly serve:",
+    "options": ["Urban areas", "Industrial sectors", "Rural areas", "International markets"],
+    "correct": 2,
+    "explanation": "RRBs are designed to serve rural areas."
+  },
+  {
+    "question": "Priority Sector Lending requires banks to lend what percentage of ANBC?",
+    "options": ["20%", "30%", "40%", "50%"],
+    "correct": 2,
+    "explanation": "PSL mandates 40% of ANBC to priority sectors."
+  },
+  {
+    "question": "PSL shortfall can be met by contributing to:",
+    "options": ["SEBI fund", "RIDF of NABARD", "IMF", "World Bank"],
+    "correct": 1,
+    "explanation": "Shortfall is deposited in RIDF managed by NABARD."
+  },
+  {
+    "question": "Lead Bank Scheme assigns a bank to:",
+    "options": ["Each state", "Each district", "Each village", "Each sector"],
+    "correct": 1,
+    "explanation": "A lead bank is designated for each district."
+  },
+  {
+    "question": "Foreign ownership in private banks can go up to:",
+    "options": ["20%", "49%", "74%", "100%"],
+    "correct": 2,
+    "explanation": "Foreign shareholding can go up to 74%."
+  },
+  {
+    "question": "Custodian banks are responsible for:",
+    "options": ["Retail lending", "Safekeeping of assets", "Insurance services", "Tax collection"],
+    "correct": 1,
+    "explanation": "Custodian banks safeguard assets."
+  },
+  {
+    "question": "Development Finance Institutions mainly finance:",
+    "options": ["Retail loans", "Infrastructure projects", "Agriculture only", "Exports only"],
+    "correct": 1,
+    "explanation": "DFIs finance infrastructure projects."
+  },
+  {
+    "question": "Core Banking Solution enables:",
+    "options": ["Branch isolation", "Centralized data management", "Manual banking", "Limited transactions"],
+    "correct": 1,
+    "explanation": "CBS enables centralized data and branchless banking."
+  },
+  {
+    "question": "NABARD was established based on recommendations of:",
+    "options": ["Narasimham Committee", "Sivaraman Committee", "Raghuram Rajan Committee", "Kelkar Committee"],
+    "correct": 1,
+    "explanation": "NABARD was set up based on Sivaraman Committee."
+  },
+  {
+    "question": "NBFCs are regulated under:",
+    "options": ["Banking Regulation Act", "Companies Act", "RBI Act only", "SEBI Act"],
+    "correct": 1,
+    "explanation": "NBFCs are registered under Companies Act."
+  },
+  {
+    "question": "NBFCs differ from banks because they:",
+    "options": ["Cannot lend", "Cannot invest", "Are not under Banking Regulation Act", "Cannot earn profits"],
+    "correct": 2,
+    "explanation": "NBFCs are not governed by the Banking Regulation Act."
+  },
+  {
+    "question": "Liquidity trap is characterized by:",
+    "options": ["High interest rates", "High inflation", "Low interest rates and low demand", "High borrowing"],
+    "correct": 2,
+    "explanation": "Liquidity trap involves low rates but no increase in demand."
+  },
+  {
+    "question": "A key feature of liquidity trap is:",
+    "options": ["High spending", "Hoarding of cash", "High investment", "Rising demand"],
+    "correct": 1,
+    "explanation": "People hoard cash instead of spending."
+  },
+  {
+    "question": "DSIBs are important because they are:",
+    "options": ["Small banks", "Too big to fail", "Unregulated", "Foreign banks"],
+    "correct": 1,
+    "explanation": "DSIBs are systemically important and 'too big to fail'."
+  },
+  {
+    "question": "CRAR stands for:",
+    "options": ["Capital Risk Asset Ratio", "Capital to Risk Weighted Asset Ratio", "Credit Risk Assessment Ratio", "Cash Reserve Asset Ratio"],
+    "correct": 1,
+    "explanation": "CRAR measures capital relative to risk-weighted assets."
+  },
+  {
+    "question": "Minimum CRAR requirement under Basel norms is:",
+    "options": ["5%", "7%", "9%", "12%"],
+    "correct": 2,
+    "explanation": "Basel norms require minimum 9% CRAR."
+  },
+  {
+    "question": "Provisioning refers to:",
+    "options": ["Lending more money", "Setting aside funds for potential losses", "Increasing deposits", "Reducing capital"],
+    "correct": 1,
+    "explanation": "Provisioning means setting aside funds for risks."
+  },
+  {
+    "question": "Non-performing assets are loans that:",
+    "options": ["Generate high income", "Fail to generate income", "Are secured", "Are short-term"],
+    "correct": 1,
+    "explanation": "NPAs do not generate income for banks."
+  },
+  {
+    "question": "Write-off of loans means:",
+    "options": ["Loan forgiven permanently", "Loan removed from books but recovery possible", "Loan transferred", "Loan increased"],
+    "correct": 1,
+    "explanation": "Write-off removes asset from books but recovery can continue."
+  },
+  {
+    "question": "Wilful default includes:",
+    "options": ["Economic downturn", "Diversion of funds", "Policy changes", "Recession"],
+    "correct": 1,
+    "explanation": "Wilful default includes diversion of funds."
+  },
+  {
+    "question": "Twin Balance Sheet problem involves stress in:",
+    "options": ["Government and banks", "Banks and corporates", "Households and firms", "Exports and imports"],
+    "correct": 1,
+    "explanation": "It refers to stress in banks and corporate balance sheets."
+  },
+  {
+    "question": "SARFAESI Act, 2002 provides:",
+    "options": ["Insurance services", "Banking license", "Enforcement of security interest", "Tax regulation"],
+    "correct": 2,
+    "explanation": "It allows enforcement of security interests."
+  },
+  {
+    "question": "RDDB Act, 1993 established:",
+    "options": ["SEBI", "DRT and DRAT", "NABARD", "RBI"],
+    "correct": 1,
+    "explanation": "It created Debt Recovery Tribunals."
+  },
+  {
+    "question": "Basel norms are set by:",
+    "options": ["RBI", "World Bank", "Bank for International Settlements", "IMF"],
+    "correct": 2,
+    "explanation": "Basel norms are developed by BIS."
+  },
+  {
+    "question": "Capital conservation buffer under Basel is:",
+    "options": ["1%", "2.5%", "5%", "10%"],
+    "correct": 1,
+    "explanation": "It is 2.5% additional buffer."
+  },
+  {
+    "question": "Tier 1 capital consists of:",
+    "options": ["Borrowed funds", "Permanent capital", "Short-term loans", "Deposits"],
+    "correct": 1,
+    "explanation": "Tier 1 is core permanent capital."
+  },
+  {
+    "question": "Tier 2 capital is:",
+    "options": ["Permanent capital", "Borrowed capital", "Equity only", "Cash reserves"],
+    "correct": 1,
+    "explanation": "Tier 2 includes borrowed capital."
+  },
+  {
+    "question": "NBFC regulatory issue arises due to:",
+    "options": ["Single regulator", "Multiple regulators", "No lending", "No deposits"],
+    "correct": 1,
+    "explanation": "Multiple regulators lead to weak oversight."
+  },
+  {
+    "question": "A key feature of cooperative banks is:",
+    "options": ["Profit maximization", "Social objective", "Foreign ownership", "High capital"],
+    "correct": 1,
+    "explanation": "Cooperative banks focus on social objectives."
+  },
+  {
+    "question": "Payments banks invest deposits mainly in:",
+    "options": ["Corporate loans", "Equity markets", "Government securities", "Real estate"],
+    "correct": 2,
+    "explanation": "They invest in safe instruments like G-secs."
+  },
+  {
+    "question": "Branchless banking is enabled through:",
+    "options": ["Manual records", "CBS", "Cheque clearing", "RTGS"],
+    "correct": 1,
+    "explanation": "CBS enables branchless banking."
+  },
+  {
+    "question": "Financial inclusion focuses on:",
+    "options": ["High profits", "Urban banking", "Access to financial services", "Foreign exchange"],
+    "correct": 2,
+    "explanation": "It ensures access to financial services."
+  },
+  {
+    "question": "PSL certificates allow banks to:",
+    "options": ["Avoid regulation", "Trade PSL obligations", "Increase deposits", "Reduce capital"],
+    "correct": 1,
+    "explanation": "Banks can trade PSL certificates."
+  },
+  {
+    "question": "Haircut in banking means:",
+    "options": ["Interest increase", "Reduction in asset value", "Loan approval", "Deposit increase"],
+    "correct": 1,
+    "explanation": "Haircut reduces asset value."
+  },
+  {
+    "question": "Amortisation refers to:",
+    "options": ["Loan default", "Structured repayment", "Loan waiver", "Capital increase"],
+    "correct": 1,
+    "explanation": "Amortisation is structured repayment."
+  },
+  {
+    "question": "Non-wilful default occurs due to:",
+    "options": ["Fraud", "Diversion", "Economic reasons", "Misuse"],
+    "correct": 2,
+    "explanation": "Non-wilful default arises from economic factors."
+  },
+  {
+    "question": "Basel norms aim to:",
+    "options": ["Increase profits", "Strengthen banks", "Reduce lending", "Control inflation"],
+    "correct": 1,
+    "explanation": "They aim to strengthen banking systems."
+  },
+  {
+    "question": "Prompt Corrective Action is a framework by:",
+    "options": ["SEBI", "RBI", "IMF", "World Bank"],
+    "correct": 1,
+    "explanation": "RBI implements PCA framework."
+  },
+  {
+    "question": "Bank capital acts as:",
+    "options": ["Liability", "Buffer against losses", "Revenue", "Expense"],
+    "correct": 1,
+    "explanation": "Capital provides a buffer against risks."
+  },
+  {
+    "question": "Which of the following is the primary function of Asset Reconstruction Companies (ARCs)?",
+    "options": [
+      "Provide retail loans to individuals",
+      "Purchase NPAs and recover value from underlying assets",
+      "Regulate financial institutions",
+      "Issue sovereign guarantees"
+    ],
+    "correct": 1,
+    "explanation": "ARCs are specialized in buying non-performing assets (NPAs) from banks and recovering value from underlying assets."
+  },
+  {
+    "question": "Under SARFAESI Act, banks are empowered to:",
+    "options": [
+      "Issue currency notes",
+      "Take possession of secured assets without court intervention",
+      "Fix interest rates",
+      "Provide subsidies to borrowers"
+    ],
+    "correct": 1,
+    "explanation": "SARFAESI allows banks to enforce security interest and take possession of assets without court intervention."
+  },
+  {
+    "question": "Which institution adjudicates insolvency cases for companies under IBC?",
+    "options": [
+      "DRT",
+      "NCLT",
+      "Supreme Court",
+      "SEBI"
+    ],
+    "correct": 1,
+    "explanation": "NCLT (National Company Law Tribunal) acts as the adjudicating authority for companies under IBC."
+  },
+  {
+    "question": "What is the purpose of the moratorium declared by NCLT during CIRP?",
+    "options": [
+      "Increase lending rates",
+      "Suspend all recovery proceedings against debtor",
+      "Allow liquidation immediately",
+      "Transfer ownership to government"
+    ],
+    "correct": 1,
+    "explanation": "Moratorium halts all legal proceedings and recovery actions against the debtor during CIRP."
+  },
+  {
+    "question": "Who regulates Insolvency Professionals (IPs) in India?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IBBI",
+      "Finance Commission"
+    ],
+    "correct": 2,
+    "explanation": "The Insolvency and Bankruptcy Board of India (IBBI) regulates Insolvency Professionals."
+  },
+  {
+    "question": "Financial creditors are defined as those to whom:",
+    "options": [
+      "Operational debt is owed",
+      "Financial debt is owed",
+      "Tax is owed",
+      "Equity is issued"
+    ],
+    "correct": 1,
+    "explanation": "Financial creditors are those to whom financial debt is owed, involving time value of money."
+  },
+  {
+    "question": "Operational debt arises from:",
+    "options": [
+      "Borrowing from banks",
+      "Supply of goods or services",
+      "Equity investments",
+      "Government grants"
+    ],
+    "correct": 1,
+    "explanation": "Operational debt refers to claims arising from supply of goods or services."
+  },
+  {
+    "question": "Which body forms the Committee of Creditors (CoC)?",
+    "options": [
+      "All operational creditors",
+      "All financial creditors",
+      "Government officials",
+      "Shareholders"
+    ],
+    "correct": 1,
+    "explanation": "CoC is primarily composed of all financial creditors."
+  },
+  {
+    "question": "Voting in the Committee of Creditors is based on:",
+    "options": [
+      "Number of creditors",
+      "Majority of members",
+      "Value of credit",
+      "Government decision"
+    ],
+    "correct": 2,
+    "explanation": "Voting is based on the value of credit held, not number of creditors."
+  },
+  {
+    "question": "Pre-packaged insolvency resolution is mainly designed for:",
+    "options": [
+      "Large corporates",
+      "MSMEs",
+      "Government entities",
+      "Banks only"
+    ],
+    "correct": 1,
+    "explanation": "Pre-pack insolvency process is designed specifically for MSMEs."
+  },
+  {
+    "question": "Which amendment recognized homebuyers as financial creditors?",
+    "options": [
+      "IBC Amendment 2016",
+      "IBC Amendment Ordinance 2018",
+      "Companies Act 2013",
+      "SARFAESI Amendment"
+    ],
+    "correct": 1,
+    "explanation": "IBC Amendment Ordinance 2018 recognized homebuyers as financial creditors."
+  },
+  {
+    "question": "Which institution provides authenticated information on debts and defaults?",
+    "options": [
+      "NCLT",
+      "Information Utilities",
+      "RBI",
+      "SEBI"
+    ],
+    "correct": 1,
+    "explanation": "Information Utilities provide verified information on debts and defaults."
+  },
+  {
+    "question": "IBBI operates under administrative control of:",
+    "options": [
+      "Ministry of Finance",
+      "Ministry of Corporate Affairs",
+      "RBI",
+      "SEBI"
+    ],
+    "correct": 1,
+    "explanation": "IBBI functions under the Ministry of Corporate Affairs."
+  },
+  {
+    "question": "Which of the following is NOT a pillar of IBC?",
+    "options": [
+      "Insolvency Professionals",
+      "Information Utilities",
+      "Adjudicating Authorities",
+      "Monetary Policy Committee"
+    ],
+    "correct": 3,
+    "explanation": "Monetary Policy Committee is unrelated to IBC pillars."
+  },
+  {
+    "question": "NBFCs are registered under which Act?",
+    "options": [
+      "Banking Regulation Act",
+      "Companies Act, 2013",
+      "RBI Act only",
+      "SEBI Act"
+    ],
+    "correct": 1,
+    "explanation": "NBFCs are registered under the Companies Act, 2013."
+  },
+  {
+    "question": "Which NBFC type can accept deposits?",
+    "options": [
+      "NBFC-ND",
+      "NBFC-D",
+      "NBFC-SI",
+      "NBFC-IFC"
+    ],
+    "correct": 1,
+    "explanation": "Only deposit-taking NBFCs (NBFC-D) can accept deposits."
+  },
+  {
+    "question": "CRR is applicable to:",
+    "options": [
+      "All NBFCs",
+      "Only NBFC-D",
+      "Only banks",
+      "NBFC-ND-SI"
+    ],
+    "correct": 2,
+    "explanation": "CRR is applicable to banks, not NBFCs."
+  },
+  {
+    "question": "Which NBFC provides loans against gold?",
+    "options": [
+      "Factoring Company",
+      "Gold Loan Company",
+      "Infrastructure Finance Company",
+      "Investment Company"
+    ],
+    "correct": 1,
+    "explanation": "Gold Loan Companies provide loans against gold as collateral."
+  },
+  {
+    "question": "Factoring companies primarily provide:",
+    "options": [
+      "Long-term loans",
+      "Equity capital",
+      "Short-term financing against invoices",
+      "Housing loans"
+    ],
+    "correct": 2,
+    "explanation": "Factoring companies finance businesses against invoices."
+  },
+  {
+    "question": "Which NBFC focuses on long-term investments in companies?",
+    "options": [
+      "Core Investment Company",
+      "Gold Loan Company",
+      "Factoring Company",
+      "Microfinance Institution"
+    ],
+    "correct": 0,
+    "explanation": "Core Investment Companies invest long-term in corporate stakes."
+  },
+  {
+    "question": "Infrastructure Debt Funds primarily:",
+    "options": [
+      "Provide retail loans",
+      "Invest in infrastructure projects",
+      "Trade securities",
+      "Offer insurance"
+    ],
+    "correct": 1,
+    "explanation": "They invest in infrastructure projects similar to infrastructure finance companies."
+  },
+  {
+    "question": "Microfinance institutions mainly serve:",
+    "options": [
+      "High-income groups",
+      "Corporate sector",
+      "Low-income households",
+      "Government agencies"
+    ],
+    "correct": 2,
+    "explanation": "They provide small loans and services to low-income households."
+  },
+  {
+    "question": "Which NBFC is owned by SIDBI?",
+    "options": [
+      "MUDRA",
+      "NABARD",
+      "LIC",
+      "SEBI"
+    ],
+    "correct": 0,
+    "explanation": "MUDRA is a non-deposit taking NBFC owned by SIDBI."
+  },
+  {
+    "question": "Authorized Dealers in Money Exchange operate under:",
+    "options": [
+      "SEBI Act",
+      "FEMA, 1999",
+      "Companies Act",
+      "IBC"
+    ],
+    "correct": 1,
+    "explanation": "They function under RBI license via FEMA, 1999."
+  },
+  {
+    "question": "Stock brokers are regulated by:",
+    "options": [
+      "RBI",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+    ],
+    "correct": 1,
+    "explanation": "Stock brokers fall under SEBI regulation."
+  },
+  {
+    "question": "Depositories help in:",
+    "options": [
+      "Issuing loans",
+      "Storing shares in DEMAT form",
+      "Trading currencies",
+      "Providing insurance"
+    ],
+    "correct": 1,
+    "explanation": "Depositories store securities electronically in DEMAT accounts."
+  },
+  {
+    "question": "Clearing houses ensure:",
+    "options": [
+      "Loan approvals",
+      "Settlement of trades",
+      "Insurance claims",
+      "Tax collection"
+    ],
+    "correct": 1,
+    "explanation": "They ensure transfer of funds and securities between parties."
+  },
+  {
+    "question": "Credit Rating Agencies assess:",
+    "options": [
+      "Creditworthiness of entities",
+      "Stock prices",
+      "Tax liabilities",
+      "Foreign exchange rates"
+    ],
+    "correct": 0,
+    "explanation": "They evaluate creditworthiness of companies and governments."
+  },
+  {
+    "question": "Credit Information Companies are regulated by:",
+    "options": [
+      "SEBI",
+      "RBI",
+      "IRDAI",
+      "MCA"
+    ],
+    "correct": 1,
+    "explanation": "They are regulated by RBI."
+  },
+  {
+    "question": "Which issue is associated with IBC framework?",
+    "options": [
+      "Excess liquidity",
+      "Cross-border insolvency not addressed",
+      "High inflation",
+      "Low tax collection"
+    ],
+    "correct": 1,
+    "explanation": "IBC currently does not deal with cross-border insolvency issues."
+  },
+  {
+    "question": "Which of the following correctly distinguishes between debt and equity as methods of raising capital?",
+    "options": [
+      "Debt involves dilution of ownership, while equity requires fixed interest payments",
+      "Debt requires interest payments, while equity involves dilution of ownership",
+      "Both debt and equity require interest payments",
+      "Both debt and equity involve dilution of ownership"
+    ],
+    "correct": 1,
+    "explanation": "The document states that capital can be obtained either by paying interest (debt) or by diluting equity (equity)."
+  },
+  {
+    "question": "Which of the following instruments is described as a short-term unsecured debt instrument issued only by the central government?",
+    "options": [
+      "Debenture",
+      "Commercial Paper",
+      "Treasury Bill",
+      "Equity Share"
+    ],
+    "correct": 2,
+    "explanation": "Treasury Bills are mentioned as short-term unsecured debt instruments issued only by the central government."
+  },
+  {
+    "question": "What is the key characteristic of commercial paper as described in the document?",
+    "options": [
+      "It is a long-term secured instrument",
+      "It is a very short-term discounted debt instrument",
+      "It is issued only by the government",
+      "It involves equity dilution"
+    ],
+    "correct": 1,
+    "explanation": "Commercial paper is described as a very short-period debt instrument that is issued at a discount."
+  },
+  {
+    "question": "In the hierarchy of debt repayment, which type of debt generally has higher preference?",
+    "options": [
+      "Subordinate debt",
+      "Equity",
+      "Preferred debt",
+      "Convertible debt"
+    ],
+    "correct": 2,
+    "explanation": "The document explains that preferred debt ranks higher in the order of repayment compared to subordinate debt."
+  },
+  {
+    "question": "Which type of investor typically provides funding at the earliest stage of a small business when others are unwilling?",
+    "options": [
+      "Private Equity Firm",
+      "Venture Capitalist",
+      "Angel Investor",
+      "Commercial Bank"
+    ],
+    "correct": 2,
+    "explanation": "Angel investors are identified as early-stage investors when businesses struggle to obtain funding."
+  },
+  {
+    "question": "What is the next stage of funding after angel investment once a business demonstrates capability?",
+    "options": [
+      "Public issue",
+      "Venture capital funding",
+      "Government grants",
+      "Bank loans only"
+    ],
+    "correct": 1,
+    "explanation": "The document states that venture capital firms invest after demonstration of capability."
+  },
+  {
+    "question": "Which of the following entities typically invests in large, diversified portfolios of privately held companies?",
+    "options": [
+      "Angel Investors",
+      "Venture Capital Firms",
+      "Private Equity Firms",
+      "Commercial Banks"
+    ],
+    "correct": 2,
+    "explanation": "Private equity firms are described as investing in large numbers of privately held companies with diversified portfolios."
+  },
+  {
+    "question": "What is the primary purpose of an Initial Public Offering (IPO)?",
+    "options": [
+      "To repay government debt",
+      "To allow private trading among investors",
+      "To raise funds from the public by offering shares",
+      "To eliminate company ownership"
+    ],
+    "correct": 2,
+    "explanation": "IPO is described as a process where companies sell shares to the public to raise funds."
+  },
+  {
+    "question": "Which document provides detailed information about a company before an IPO and is reviewed by the regulator?",
+    "options": [
+      "Balance Sheet",
+      "Draft Red Herring Prospectus (DRHP)",
+      "Memorandum of Association",
+      "Audit Report"
+    ],
+    "correct": 1,
+    "explanation": "The DRHP contains details such as valuation, purpose, and share dilution and is reviewed before IPO approval."
+  },
+  {
+    "question": "What is the role of SEBI in capital markets as described in the document?",
+    "options": [
+      "To fix share prices",
+      "To guarantee profits for investors",
+      "To regulate markets and ensure fair practices",
+      "To directly manage companies"
+    ],
+    "correct": 2,
+    "explanation": "SEBI ensures fair contracts, prevents cheating, and regulates capital markets without dictating valuation."
+  },
+  {
+    "question": "What happens in the case of an oversubscribed IPO?",
+    "options": [
+      "Company increases share price freely",
+      "All applicants get full allocation",
+      "Allocation is scaled down or randomized",
+      "IPO is cancelled"
+    ],
+    "correct": 2,
+    "explanation": "When oversubscribed, shares are allocated through scaling or random allocation methods."
+  },
+  {
+    "question": "What is the function of an underwriter in an IPO?",
+    "options": [
+      "To determine stock prices in the secondary market",
+      "To guarantee purchase of shares if undersubscribed",
+      "To regulate stock exchanges",
+      "To act as a broker for investors"
+    ],
+    "correct": 1,
+    "explanation": "Underwriters assure the company that they will purchase shares in case of undersubscription."
+  },
+  {
+    "question": "Which of the following correctly describes the secondary market?",
+    "options": [
+      "Companies receive funds directly",
+      "Government controls all transactions",
+      "Shares are traded between investors without company involvement",
+      "Only new shares are issued"
+    ],
+    "correct": 2,
+    "explanation": "In the secondary market, shares are traded among investors and companies do not receive money."
+  },
+  {
+    "question": "What is the primary role of stock exchanges?",
+    "options": [
+      "Issuing new shares only",
+      "Providing a marketplace and enforcing contracts",
+      "Fixing company profits",
+      "Managing government funds"
+    ],
+    "correct": 1,
+    "explanation": "Stock exchanges act as marketplaces, facilitate trading, and enforce standardized contracts."
+  },
+  {
+    "question": "What is the function of a clearinghouse in stock exchanges?",
+    "options": [
+      "Issuing shares",
+      "Fixing prices",
+      "Guaranteeing and settling transactions",
+      "Providing loans"
+    ],
+    "correct": 2,
+    "explanation": "The clearinghouse ensures settlement and provides guarantees similar to an escrow mechanism."
+  },
+  {
+    "question": "What was the major benefit of dematerialization of shares?",
+    "options": [
+      "Increase in physical paperwork",
+      "Reduction in settlement cycle time",
+      "Elimination of brokers",
+      "Increase in share prices"
+    ],
+    "correct": 1,
+    "explanation": "Dematerialization reduced settlement cycles significantly, improving efficiency."
+  },
+  {
+    "question": "Which institutions are responsible for holding shares in dematerialized form?",
+    "options": [
+      "Commercial Banks",
+      "Stock Exchanges",
+      "Depositories like NSDL and CDSL",
+      "Insurance Companies"
+    ],
+    "correct": 2,
+    "explanation": "NSDL and CDSL are depositories that hold shares in electronic form."
+  },
+  {
+    "question": "What does a stock market index represent?",
+    "options": [
+      "Profit of a single company",
+      "Total government revenue",
+      "Performance of selected companies or sectors",
+      "Interest rates in the economy"
+    ],
+    "correct": 2,
+    "explanation": "An index represents the weighted performance of selected companies or sectors."
+  },
+  {
+    "question": "Why are stock market indices considered leading indicators?",
+    "options": [
+      "They reflect past economic data",
+      "They are based only on government policies",
+      "They incorporate future expectations into current prices",
+      "They measure only inflation"
+    ],
+    "correct": 2,
+    "explanation": "Indices reflect future expectations, making them leading indicators."
+  },
+  {
+    "question": "Which of the following best defines market capitalization?",
+    "options": [
+      "Total profit of a company",
+      "Total debt of a company",
+      "Total shares multiplied by price per share",
+      "Total assets minus liabilities"
+    ],
+    "correct": 2,
+    "explanation": "Market capitalization is calculated as total shares multiplied by the value of one share."
+  },
+  {
+    "question": "Which of the following best describes a derivative instrument in financial markets?",
+    "options": [
+      "An asset with intrinsic value independent of markets",
+      "An instrument deriving value from an underlying asset",
+      "A government-issued bond with fixed returns",
+      "A share representing company ownership"
+    ],
+    "correct": 1,
+    "explanation": "Derivatives derive their value from an underlying asset such as stocks or indices."
+  },
+  {
+    "question": "Which authority regulates the securities market in India as per the document?",
+    "options": [
+      "RBI",
+      "SEBI",
+      "Ministry of Finance",
+      "NABARD"
+    ],
+    "correct": 1,
+    "explanation": "SEBI is explicitly mentioned as the regulator of the securities market."
+  },
+  {
+    "question": "What is a key characteristic of forward contracts?",
+    "options": [
+      "They are standardized and traded on exchanges",
+      "They guarantee profit to both parties",
+      "They obligate parties to transact at a future date and price",
+      "They involve no risk"
+    ],
+    "correct": 2,
+    "explanation": "Forward contracts obligate parties to transact an asset at a predetermined future date and price."
+  },
+  {
+    "question": "Which of the following distinguishes futures contracts from forward contracts?",
+    "options": [
+      "Futures are informal agreements",
+      "Futures are traded over-the-counter only",
+      "Futures are standardized and cleared through exchanges",
+      "Futures do not require margin"
+    ],
+    "correct": 2,
+    "explanation": "Futures contracts are standardized and traded via exchanges with clearing houses."
+  },
+  {
+    "question": "Which of the following correctly defines an option contract?",
+    "options": [
+      "An obligation to buy or sell an asset",
+      "A right without obligation to buy or sell",
+      "A fixed deposit instrument",
+      "A government borrowing tool"
+    ],
+    "correct": 1,
+    "explanation": "Options give the right but not the obligation to buy or sell an asset."
+  },
+  {
+    "question": "Which of the following instruments allows Indian companies to raise funds abroad?",
+    "options": [
+      "Treasury Bills",
+      "ADR/GDR",
+      "Commercial Papers",
+      "Certificates of Deposit"
+    ],
+    "correct": 1,
+    "explanation": "ADR/GDR are instruments used by Indian companies to raise money in foreign markets."
+  },
+  {
+    "question": "Which of the following best describes mutual funds?",
+    "options": [
+      "Tradeable instruments on stock exchanges",
+      "Direct investment by individuals in stocks",
+      "Pooled investments managed by fund managers",
+      "Government bonds issued to public"
+    ],
+    "correct": 2,
+    "explanation": "Mutual funds pool money and are managed by fund managers based on predeclared objectives."
+  },
+  {
+    "question": "How are Exchange Traded Funds (ETFs) different from mutual funds?",
+    "options": [
+      "They are not regulated",
+      "They are traded on exchanges",
+      "They are always actively managed",
+      "They cannot track assets"
+    ],
+    "correct": 1,
+    "explanation": "ETFs are tradeable on stock exchanges unlike traditional mutual funds."
+  },
+  {
+    "question": "Which of the following is a defining feature of hedge funds?",
+    "options": [
+      "Low-risk investment strategy",
+      "Investment only in government securities",
+      "Use of risky instruments for high returns",
+      "Strict passive management"
+    ],
+    "correct": 2,
+    "explanation": "Hedge funds use risky instruments to generate high returns."
+  },
+  {
+    "question": "Money market instruments are characterized by which of the following?",
+    "options": [
+      "Maturity greater than 10 years",
+      "Equity ownership",
+      "Short-term maturity less than one year",
+      "High volatility assets"
+    ],
+    "correct": 2,
+    "explanation": "Money market instruments have maturity of less than one year."
+  },
+  {
+    "question": "Which of the following is an example of a money market instrument?",
+    "options": [
+      "Equity shares",
+      "Treasury Bills",
+      "Debentures",
+      "Real estate"
+    ],
+    "correct": 1,
+    "explanation": "Treasury Bills are short-term debt instruments in the money market."
+  },
+  {
+    "question": "What is the defining feature of capital market instruments?",
+    "options": [
+      "Maturity less than one year",
+      "Used only by banks",
+      "Maturity greater than one year",
+      "No risk involved"
+    ],
+    "correct": 2,
+    "explanation": "Capital market instruments have maturity greater than one year."
+  },
+  {
+    "question": "In liquidation, who has the first claim among stakeholders?",
+    "options": [
+      "Equity shareholders",
+      "Debenture holders",
+      "Employees",
+      "Customers"
+    ],
+    "correct": 1,
+    "explanation": "Debt holders (creditors) have the first claim in liquidation."
+  },
+  {
+    "question": "Which institution manages government securities in India?",
+    "options": [
+      "SEBI",
+      "RBI",
+      "NSE",
+      "Finance Ministry"
+    ],
+    "correct": 1,
+    "explanation": "RBI manages government securities for both central and state governments."
+  },
+  {
+    "question": "What is the key purpose of inflation-indexed bonds?",
+    "options": [
+      "Eliminate inflation",
+      "Ensure negative real returns",
+      "Provide returns adjusted for inflation",
+      "Reduce government borrowing"
+    ],
+    "correct": 2,
+    "explanation": "Inflation-indexed bonds link interest rates to inflation to ensure positive real returns."
+  },
+  {
+    "question": "Which of the following correctly describes Sovereign Gold Bonds?",
+    "options": [
+      "Issued by private companies",
+      "Value fixed permanently",
+      "Issued by RBI based on gold prices",
+      "No interest is paid"
+    ],
+    "correct": 2,
+    "explanation": "Sovereign Gold Bonds are issued by RBI and linked to prevailing gold prices."
+  },
+  {
+    "question": "What is a key feature of equity shares?",
+    "options": [
+      "Fixed returns",
+      "No ownership rights",
+      "Ownership in a company",
+      "First claim in liquidation"
+    ],
+    "correct": 2,
+    "explanation": "Equity shares represent ownership in a company."
+  },
+  {
+    "question": "Which of the following is true about preference shares?",
+    "options": [
+      "They have voting rights",
+      "They get fixed dividends",
+      "They are riskier than equity",
+      "They have no claim in liquidation"
+    ],
+    "correct": 1,
+    "explanation": "Preference shares have fixed dividend rates and priority in liquidation."
+  },
+  {
+    "question": "What is ESOP in corporate finance?",
+    "options": [
+      "Government bond scheme",
+      "Employee stock purchase right",
+      "Debt restructuring plan",
+      "Foreign investment route"
+    ],
+    "correct": 1,
+    "explanation": "ESOP provides employees the right to purchase company stock at a specific price."
+  },
+  {
+    "question": "What does the Price-to-Earnings (P/E) ratio indicate?",
+    "options": [
+      "Company debt level",
+      "Market price relative to earnings",
+      "Dividend payout",
+      "Asset value"
+    ],
+    "correct": 1,
+    "explanation": "P/E ratio compares market price of a share to its earnings per share."
+  },
+  {
+    "question": "What does Return on Equity (ROE) measure?",
+    "options": [
+      "Liquidity of assets",
+      "Profitability relative to shareholders’ equity",
+      "Market volatility",
+      "Debt repayment capacity"
+    ],
+    "correct": 1,
+    "explanation": "ROE measures how efficiently equity capital generates profits."
+  },
+  {
+    "question": "What does Beta represent in financial analysis?",
+    "options": [
+      "Company profitability",
+      "Volatility relative to market",
+      "Dividend yield",
+      "Debt ratio"
+    ],
+    "correct": 1,
+    "explanation": "Beta measures volatility of an asset relative to the stock market."
+  },
+  {
+    "question": "What is Alpha in mutual fund performance?",
+    "options": [
+      "Absolute return",
+      "Comparison with inflation",
+      "Performance relative to benchmark",
+      "Risk measurement"
+    ],
+    "correct": 2,
+    "explanation": "Alpha compares mutual fund performance relative to a benchmark like Sensex."
+  },
+  {
+    "question": "What is share pledging?",
+    "options": [
+      "Selling shares in market",
+      "Using shares as collateral for loans",
+      "Issuing new shares",
+      "Transferring ownership"
+    ],
+    "correct": 1,
+    "explanation": "Share pledging refers to using shares as collateral to borrow money."
+  },
+  {
+    "question": "Which of the following best defines working capital?",
+    "options": [
+      "Long-term investments in assets",
+      "Funds used for daily business operations",
+      "Government borrowing",
+      "Equity capital"
+    ],
+    "correct": 1,
+    "explanation": "Working capital refers to funds used for day-to-day operations of a business."
+  },
+  {
+    "question": "What is the primary purpose of recapitalisation of banks as discussed in the document?",
+    "options": ["To reduce inflation", "To provide capital to banks", "To increase taxation", "To reduce public expenditure"],
+    "correct": 1,
+    "explanation": "Recapitalisation is done because banks need capital, which the government can provide directly or through bonds."
+  },
+  {
+    "question": "What is one key objective of reforms in the banking system mentioned in the document?",
+    "options": ["Increase government ownership", "Eliminate taxation", "Improve credit culture", "Reduce public goods"],
+    "correct": 2,
+    "explanation": "The document highlights improving credit culture to avoid NPA problems."
+  },
+  {
+    "question": "Which institution replaced the Bank Board Bureau?",
+    "options": ["RBI", "Finance Commission", "Financial Services Institutions Bureau", "Planning Commission"],
+    "correct": 2,
+    "explanation": "The document states that BBB was replaced by the Financial Services Institutions Bureau."
+  },
+  {
+    "question": "Budgeting in government refers to what?",
+    "options": ["Past expenditure analysis", "Accounting for future income and expenditure", "Tax collection only", "Loan distribution"],
+    "correct": 1,
+    "explanation": "Budgeting means accounting for future sources of income and expenditure."
+  },
+  {
+    "question": "Which Article provides for expected credits and debits in the Constitution?",
+    "options": ["Article 110", "Article 112", "Article 120", "Article 80"],
+    "correct": 1,
+    "explanation": "Article 112 deals with expected credits and debits."
+  },
+  {
+    "question": "Is the term 'Budget' explicitly mentioned in the Constitution?",
+    "options": ["Yes", "No", "Only in amendments", "Only in schedules"],
+    "correct": 1,
+    "explanation": "The document clearly states that the word 'Budget' is not mentioned in the Constitution."
+  },
+  {
+    "question": "Which function of the budget deals with equitable distribution of wealth?",
+    "options": ["Allocation function", "Stabilisation function", "Collection function", "Regulation function"],
+    "correct": 0,
+    "explanation": "Allocation function ensures distribution of public goods and equity."
+  },
+  {
+    "question": "What happens when tax rates are very high according to the Laffer Curve concept?",
+    "options": ["Tax revenue increases infinitely", "People are more willing to pay taxes", "People are less willing to pay taxes", "Inflation reduces"],
+    "correct": 2,
+    "explanation": "High taxes reduce willingness to pay taxes."
+  },
+  {
+    "question": "Line-item budgeting is characterized by what feature?",
+    "options": ["Outcome focus", "Program classification", "Detailed item-wise expenditure", "Zero base analysis"],
+    "correct": 2,
+    "explanation": "It involves line-by-line and item-by-item expenditure listing."
+  },
+  {
+    "question": "What is a major issue with line-item budgeting?",
+    "options": ["Lack of data", "Too much data but less information", "No accountability", "No classification"],
+    "correct": 1,
+    "explanation": "The document states it has excessive data but little useful information."
+  },
+  {
+    "question": "Program budgeting organizes data into what?",
+    "options": ["Departments", "Programs", "Taxes", "Loans"],
+    "correct": 1,
+    "explanation": "Data is segregated under various programs."
+  },
+  {
+    "question": "Performance budgeting evaluates what aspect?",
+    "options": ["Tax rates", "Budget efficiency", "Loan repayment", "Revenue collection only"],
+    "correct": 1,
+    "explanation": "It assesses efficiency and performance of expenditures."
+  },
+  {
+    "question": "Outcome budgeting primarily focuses on what?",
+    "options": ["Inputs", "Outputs", "End results", "Taxation"],
+    "correct": 2,
+    "explanation": "It focuses on outcomes like reduction in MMR."
+  },
+  {
+    "question": "Zero-based budgeting assumes what?",
+    "options": ["Previous budget continues", "Automatic approval", "All expenditures start from zero", "Only capital expenditure matters"],
+    "correct": 2,
+    "explanation": "Every expense is re-evaluated from scratch each year."
+  },
+  {
+    "question": "Gender budgeting primarily assesses what?",
+    "options": ["Tax collection", "Impact on GDP", "Differential impact on women", "Loan allocation"],
+    "correct": 2,
+    "explanation": "It analyzes how budget allocations impact women differently."
+  },
+  {
+    "question": "What are 'Actuals' in budgeting?",
+    "options": ["Future estimates", "Revised projections", "Final recorded figures", "Loan approvals"],
+    "correct": 2,
+    "explanation": "Actuals refer to completed and finalized accounting figures."
+  },
+  {
+    "question": "Annual Financial Statement consists of which two components?",
+    "options": ["Loans and grants", "Receipts and Expenditure", "Taxes and subsidies", "Assets and liabilities"],
+    "correct": 1,
+    "explanation": "Budget is divided into receipts and expenditure."
+  },
+  {
+    "question": "Revenue expenditure generally relates to what?",
+    "options": ["Asset creation", "Maintenance and functions", "Loan repayment", "Capital formation"],
+    "correct": 1,
+    "explanation": "It is related to maintenance and sovereign functions."
+  },
+  {
+    "question": "Capital expenditure results in what?",
+    "options": ["No asset creation", "Increase in liabilities only", "Creation of assets or reduction of liabilities", "Tax increase"],
+    "correct": 2,
+    "explanation": "Capital expenditure affects assets or liabilities."
+  },
+  {
+    "question": "Interest payments by government are classified as?",
+    "options": ["Capital expenditure", "Revenue expenditure", "Capital receipt", "Non-debt receipt"],
+    "correct": 1,
+    "explanation": "Interest payments fall under revenue expenditure."
+  },
+  {
+    "question": "Sale of shares in a PSU is what type of receipt?",
+    "options": ["Revenue receipt", "Capital receipt", "Tax receipt", "Grant"],
+    "correct": 1,
+    "explanation": "It reduces assets, hence capital receipt."
+  },
+  {
+    "question": "Grants received by government fall under which category?",
+    "options": ["Capital receipts", "Revenue receipts", "Debt receipts", "Non-budgetary receipts"],
+    "correct": 1,
+    "explanation": "Grants do not affect assets or liabilities."
+  },
+  {
+    "question": "Budget deficit is defined as what?",
+    "options": ["Revenue minus expenditure", "Expenditure minus revenue", "Debt minus tax", "Assets minus liabilities"],
+    "correct": 1,
+    "explanation": "Budget deficit = Total Expenditure - Total Revenue."
+  },
+  {
+    "question": "Monetised deficit involves which institution?",
+    "options": ["SEBI", "RBI", "Finance Commission", "NITI Aayog"],
+    "correct": 1,
+    "explanation": "It is financed by RBI through printing money."
+  },
+  {
+    "question": "Why was monetisation of deficit criticized?",
+    "options": ["Increases exports", "Improves fiscal discipline", "Compromises RBI independence", "Reduces inflation"],
+    "correct": 2,
+    "explanation": "It undermines RBI's independence and monetary policy."
+  },
+  {
+    "question": "What agreement ended monetised deficit practice?",
+    "options": ["FRBM Act", "WMA Agreement", "Planning Act", "Finance Act"],
+    "correct": 1,
+    "explanation": "Ways and Means Advances Agreement (1997) ended it."
+  },
+  {
+    "question": "FRBM Act was passed in which year?",
+    "options": ["2000", "2003", "1997", "2012"],
+    "correct": 1,
+    "explanation": "It was introduced in 2000 and passed in 2003."
+  },
+  {
+    "question": "Fiscal deficit represents what?",
+    "options": ["Total revenue", "Total borrowing of government", "Tax revenue only", "Capital expenditure only"],
+    "correct": 1,
+    "explanation": "Fiscal deficit equals total borrowings."
+  },
+  {
+    "question": "Primary deficit is calculated by subtracting what?",
+    "options": ["Capital receipts", "Interest payments", "Tax revenue", "Subsidies"],
+    "correct": 1,
+    "explanation": "Primary deficit = Fiscal deficit - Interest payments."
+  },
+  {
+    "question": "Revenue deficit indicates what?",
+    "options": ["Borrowing level", "Shortfall in capital assets", "Revenue expenditure exceeding receipts", "Tax inefficiency"],
+    "correct": 2,
+    "explanation": "It shows whether revenue receipts cover revenue expenditure."
+  },
+  {
+    "question": "Effective Revenue Deficit excludes what?",
+    "options": ["Interest payments", "Transfers for capital asset creation", "Tax revenue", "Subsidies"],
+    "correct": 1,
+    "explanation": "Transfers for asset creation are removed."
+  },
+  {
+    "question": "Debt is considered what type of variable?",
+    "options": ["Flow variable", "Stock variable", "Nominal variable", "Real variable"],
+    "correct": 1,
+    "explanation": "Debt represents accumulated borrowings."
+  },
+  {
+    "question": "Deficit is considered what type of variable?",
+    "options": ["Stock variable", "Flow variable", "Capital variable", "Static variable"],
+    "correct": 1,
+    "explanation": "Deficit is measured for a specific period."
+  },
+  {
+    "question": "NK Singh Committee recommended targeting what?",
+    "options": ["Only deficit", "Only expenditure", "Debt along with deficit", "Only tax collection"],
+    "correct": 2,
+    "explanation": "It emphasized debt targets along with fiscal deficit."
+  },
+  {
+    "question": "Counter-cyclical policy suggests what during low growth?",
+    "options": ["Reduce expenditure", "Increase taxes", "Increase expenditure", "Stop borrowing"],
+    "correct": 2,
+    "explanation": "Government should spend more during downturns."
+  },
+  {
+    "question": "Which condition allows deviation from fiscal targets?",
+    "options": ["High exports", "War or calamity", "High tax revenue", "Low inflation"],
+    "correct": 1,
+    "explanation": "Deviation allowed during war, calamities, etc."
+  },
+  {
+    "question": "FRBM Amendment 2018 set central debt target at?",
+    "options": ["20%", "40%", "60%", "90%"],
+    "correct": 1,
+    "explanation": "Central government debt target is 40% of GDP."
+  },
+  {
+    "question": "General government debt target is set at?",
+    "options": ["40%", "50%", "60%", "70%"],
+    "correct": 2,
+    "explanation": "Combined debt target is 60% of GDP."
+  },
+  {
+    "question": "Escape clause allows deviation up to?",
+    "options": ["0.2%", "0.5%", "1%", "2%"],
+    "correct": 1,
+    "explanation": "Deviation allowed up to 0.5%."
+  },
+  {
+    "question": "Revenue receipts include which of the following?",
+    "options": ["Borrowings", "Sale of assets", "Tax and non-tax revenue", "Disinvestment"],
+    "correct": 2,
+    "explanation": "Revenue receipts include tax and non-tax sources."
+  },
+  {
+    "question": "Capital receipts include what?",
+    "options": ["Tax revenue", "Interest income", "Borrowings", "Grants"],
+    "correct": 2,
+    "explanation": "Borrowings create liabilities, hence capital receipts."
+  },
+  {
+    "question": "Which scheme type is fully funded by the Union Government?",
+    "options": ["Centrally Sponsored Scheme", "Central Sector Scheme", "State Scheme", "Local Scheme"],
+    "correct": 1,
+    "explanation": "Central Sector Schemes are fully funded by the Union."
+  },
+  {
+    "question": "Centrally Sponsored Schemes relate to which subjects?",
+    "options": ["Union List only", "State List subjects", "Concurrent List only", "Judiciary"],
+    "correct": 1,
+    "explanation": "They relate to state subjects but are supported by the Centre."
+  },
+  {
+    "question": "Finance Commission recommends what?",
+    "options": ["Tax rates", "Monetary policy", "Devolution of taxes", "Loan waivers"],
+    "correct": 2,
+    "explanation": "It recommends vertical devolution of tax proceeds."
+  },
+  {
+    "question": "Capital expenditure is important primarily for what?",
+    "options": ["Subsidies", "Infrastructure development", "Tax reduction", "Debt repayment only"],
+    "correct": 1,
+    "explanation": "It creates assets like infrastructure."
+  },
+  {
+    "question": "What is Balanced Budget?",
+    "options": ["Revenue > Expenditure", "Revenue < Expenditure", "Revenue = Expenditure", "No borrowing"],
+    "correct": 2,
+    "explanation": "Balanced budget occurs when revenue equals expenditure."
+  },
+  {
+    "question": "Before 1997, budgets were often presented in deficit because?",
+    "options": ["High growth", "Political reasons", "Low inflation", "Export surplus"],
+    "correct": 1,
+    "explanation": "Budget deficit was used as a political tool."
+  },
+  {
+    "question": "Ways and Means Advances are used for?",
+    "options": ["Long-term borrowing", "Short-term liquidity mismatch", "Capital expenditure", "Subsidy funding"],
+    "correct": 1,
+    "explanation": "WMA helps manage short-term liquidity mismatches."
+  },
+  {
+    "question": "Interest rate on WMA is linked to what?",
+    "options": ["Inflation rate", "Repo rate", "Bank rate", "GDP growth"],
+    "correct": 1,
+    "explanation": "WMA interest is linked to the repo rate."
+  },
+  {
+    "question": "Revenue expenditure includes which of the following?",
+    "options": ["Road construction", "Loan repayment", "Salary payments", "Equity investment"],
+    "correct": 2,
+    "explanation": "Salaries are part of revenue expenditure."
+  },
+  {
+    "question": "Which of the following best describes internal public debt?",
+    "options": [
+      "Debt owed by the government to non-residents",
+      "Debt owed by the government to residents within the country",
+      "Debt issued only in foreign currency",
+      "Debt raised exclusively from international organizations"
+    ],
+    "correct": 1,
+    "explanation": "Internal public debt refers to debt owed by the government to residents, including instruments like G-Secs and T-Bills."
+  },
+  {
+    "question": "Which instrument is categorized as a zero-coupon debt instrument?",
+    "options": [
+      "Government Securities",
+      "Corporate Bonds",
+      "Treasury Bills",
+      "Masala Bonds"
+    ],
+    "correct": 2,
+    "explanation": "Treasury Bills are issued at a discount and redeemed at face value, making them zero-coupon instruments."
+  },
+  {
+    "question": "Why are Treasury Bills considered unsecured instruments?",
+    "options": [
+      "They are backed by foreign reserves",
+      "They are issued without collateral security",
+      "They are issued only by private institutions",
+      "They are linked to stock market performance"
+    ],
+    "correct": 1,
+    "explanation": "Treasury Bills are unsecured borrowings issued without collateral, unlike G-Secs which are backed by the Consolidated Fund of India."
+  },
+  {
+    "question": "What distinguishes Masala Bonds from other sovereign bonds?",
+    "options": [
+      "They are issued only domestically",
+      "They are denominated in foreign currency",
+      "They are rupee-denominated but issued offshore",
+      "They are issued only by state governments"
+    ],
+    "correct": 2,
+    "explanation": "Masala Bonds are rupee-denominated debt instruments issued in offshore markets."
+  },
+  {
+    "question": "Which of the following is an example of external public debt?",
+    "options": [
+      "Treasury Bills",
+      "Loans from domestic banks",
+      "Borrowings from the World Bank",
+      "Public Provident Fund"
+    ],
+    "correct": 2,
+    "explanation": "External public debt includes borrowings from non-residents such as the World Bank and IMF."
+  },
+  {
+    "question": "Which statement correctly differentiates liabilities from debt?",
+    "options": [
+      "All liabilities are debts",
+      "All debts are liabilities but not all liabilities are debts",
+      "Liabilities and debts are identical",
+      "Debts include only involuntary obligations"
+    ],
+    "correct": 1,
+    "explanation": "The text clearly states that all debts are liabilities, but not all liabilities are debts."
+  },
+  {
+    "question": "Public Provident Fund (PPF) falls under which category?",
+    "options": [
+      "External debt",
+      "Internal public debt",
+      "Other liabilities of government",
+      "Corporate borrowing"
+    ],
+    "correct": 2,
+    "explanation": "PPF is categorized under other liabilities, where the government acts as a custodian of funds."
+  },
+  {
+    "question": "What is the primary objective of debt management principles?",
+    "options": [
+      "Maximize borrowing",
+      "Ensure debt sustainability",
+      "Increase foreign debt",
+      "Eliminate internal debt"
+    ],
+    "correct": 1,
+    "explanation": "Debt management aims to ensure that debt remains sustainable and bearable."
+  },
+  {
+    "question": "What does a negative (r - g) in IGRD indicate?",
+    "options": [
+      "Debt is unsustainable",
+      "Debt is sustainable",
+      "Interest rates are rising",
+      "Growth rate is zero"
+    ],
+    "correct": 1,
+    "explanation": "If (r - g) is negative, it indicates that debt is sustainable."
+  },
+  {
+    "question": "Why is borrowing in domestic currency preferred?",
+    "options": [
+      "It increases inflation",
+      "It avoids the need for foreign currency repayment",
+      "It reduces tax burden",
+      "It increases imports"
+    ],
+    "correct": 1,
+    "explanation": "Borrowing in domestic currency avoids the need for foreign exchange to repay debt."
+  },
+  {
+    "question": "Which type of tax is borne by the same person who pays it?",
+    "options": [
+      "Indirect tax",
+      "Direct tax",
+      "Ad valorem tax",
+      "Specific tax"
+    ],
+    "correct": 1,
+    "explanation": "In direct taxes, the taxpayer bears the burden and pays the tax."
+  },
+  {
+    "question": "Excise duty is levied at which stage?",
+    "options": [
+      "Sale of goods",
+      "Import of goods",
+      "Production of goods",
+      "Consumption of goods"
+    ],
+    "correct": 2,
+    "explanation": "Excise duty is levied at the production stage when goods come into existence."
+  },
+  {
+    "question": "Which tax is levied when goods cross international boundaries?",
+    "options": [
+      "Sales tax",
+      "Excise duty",
+      "Custom duty",
+      "Income tax"
+    ],
+    "correct": 2,
+    "explanation": "Custom duty is levied when goods move across international borders."
+  },
+  {
+    "question": "What was the primary issue with the pre-VAT taxation system?",
+    "options": [
+      "Low tax rates",
+      "Lack of compliance",
+      "Cascading of taxes",
+      "Absence of indirect taxes"
+    ],
+    "correct": 2,
+    "explanation": "The earlier system led to cascading or double taxation."
+  },
+  {
+    "question": "What is the key feature of Value Added Tax (VAT)?",
+    "options": [
+      "Tax on total production",
+      "Tax on final sale only",
+      "Tax on value added at each stage",
+      "Tax only on imports"
+    ],
+    "correct": 2,
+    "explanation": "VAT taxes only the value added at each stage of production and distribution."
+  },
+  {
+    "question": "What is the backbone of the VAT system?",
+    "options": [
+      "Excise duty",
+      "Custom duty",
+      "Input Tax Credit",
+      "Sales tax"
+    ],
+    "correct": 2,
+    "explanation": "Input Tax Credit allows adjustment of taxes paid at earlier stages, forming the backbone of VAT."
+  },
+  {
+    "question": "Which state was the last to adopt VAT?",
+    "options": [
+      "Punjab",
+      "Haryana",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "correct": 1,
+    "explanation": "Haryana was the last state to adopt VAT by 2010."
+  },
+  {
+    "question": "GST was implemented in which year?",
+    "options": [
+      "2011",
+      "2015",
+      "2017",
+      "2020"
+    ],
+    "correct": 2,
+    "explanation": "GST came into existence in 2017."
+  },
+  {
+    "question": "What is the tagline associated with GST?",
+    "options": [
+      "One Nation, One Economy",
+      "One Nation, One Tax",
+      "Unified Tax System",
+      "Single Market Tax"
+    ],
+    "correct": 1,
+    "explanation": "GST is described by the tagline 'One Nation, One Tax'."
+  },
+  {
+    "question": "What is anti-profiteering under GST?",
+    "options": [
+      "Charging lower taxes than required",
+      "Avoiding tax payment",
+      "Charging higher price without passing tax benefits",
+      "Reducing production cost"
+    ],
+    "correct": 2,
+    "explanation": "Anti-profiteering refers to not passing tax benefits to consumers and is a criminal offense under GST."
+  },
+  {
+    "question": "What does the Laffer Curve illustrate?",
+    "options": [
+      "Relation between tax and inflation",
+      "Relation between tax rate and tax revenue",
+      "Relation between GDP and tax",
+      "Relation between imports and exports"
+    ],
+    "correct": 1,
+    "explanation": "The Laffer Curve shows the relationship between tax rates and tax revenue collection."
+  },
+  {
+    "question": "At 0% tax rate, what is the tax revenue according to the Laffer Curve?",
+    "options": [
+      "Maximum",
+      "Minimum but positive",
+      "Zero",
+      "Uncertain"
+    ],
+    "correct": 2,
+    "explanation": "At 0% tax rate, no tax is collected, so revenue is zero."
+  },
+  {
+    "question": "What does tax elasticity measure?",
+    "options": [
+      "Change in tax rates",
+      "Change in tax revenue due to tax rate change",
+      "Government expenditure",
+      "Inflation levels"
+    ],
+    "correct": 1,
+    "explanation": "Tax elasticity measures how tax revenue changes in response to changes in tax rates."
+  },
+  {
+    "question": "Revenue Neutral Rate refers to:",
+    "options": [
+      "Zero tax collection",
+      "Tax rate maximizing revenue",
+      "Tax rate maintaining same revenue as before",
+      "Tax rate reducing inflation"
+    ],
+    "correct": 2,
+    "explanation": "It is the tax rate that ensures revenue neutrality compared to the previous system."
+  }
+]

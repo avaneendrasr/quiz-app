@@ -1,0 +1,1283 @@
+[
+  {
+    "question": "In which Part of the Indian Constitution are the Fundamental Rights enshrined?",
+    "options": ["Part II", "Part III", "Part IV", "Part V"],
+    "correct": 1,
+    "explanation": "The Fundamental Rights are enshrined in Part III of the Constitution from Articles 12 to 35."
+  },
+  {
+    "question": "From which country's constitution did the framers of the Indian Constitution derive inspiration for Fundamental Rights?",
+    "options": ["UK", "France", "USA", "USSR"],
+    "correct": 2,
+    "explanation": "The framers of the Constitution derived inspiration from the Constitution of USA (i.e., Bill of Rights) for Fundamental Rights."
+  },
+  {
+    "question": "Part III of the Indian Constitution is described as the:",
+    "options": ["Bill of Rights of India", "Magna Carta of India", "Constitution of Liberty", "Charter of Freedom"],
+    "correct": 1,
+    "explanation": "Part III of the Constitution is rightly described as the Magna Carta of India."
+  },
+  {
+    "question": "The Magna Carta was issued by which King of England?",
+    "options": ["King Henry VIII", "King Richard I", "King John", "King Edward I"],
+    "correct": 2,
+    "explanation": "Magna Carta is the Charter of Rights issued by King John of England in 1215 under pressure from the barons."
+  },
+  {
+    "question": "Originally, how many Fundamental Rights were provided in the Indian Constitution?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "correct": 2,
+    "explanation": "Originally, the Constitution provided for seven Fundamental Rights."
+  },
+  {
+    "question": "Which Constitutional Amendment Act deleted the Right to Property from the list of Fundamental Rights?",
+    "options": ["42nd Amendment Act, 1976", "44th Amendment Act, 1978", "46th Amendment Act, 1982", "48th Amendment Act, 1984"],
+    "correct": 1,
+    "explanation": "The right to property was deleted from the list of Fundamental Rights by the 44th Amendment Act, 1978."
+  },
+  {
+    "question": "After the deletion of Right to Property, under which Article is it made a legal right?",
+    "options": ["Article 265", "Article 300", "Article 300-A", "Article 301"],
+    "correct": 2,
+    "explanation": "The Right to Property is made a legal right under Article 300-A in Part XII of the Constitution."
+  },
+  {
+    "question": "Currently, how many Fundamental Rights exist in the Indian Constitution?",
+    "options": ["Four", "Five", "Six", "Seven"],
+    "correct": 2,
+    "explanation": "At present, there are only six Fundamental Rights after the right to property was deleted."
+  },
+  {
+    "question": "Which of the following is NOT a feature of Fundamental Rights?",
+    "options": ["They are justiciable", "They are absolute in nature", "They can be suspended during National Emergency", "Parliament can curtail them by constitutional amendment"],
+    "correct": 1,
+    "explanation": "Fundamental Rights are not absolute but qualified. The state can impose reasonable restrictions on them."
+  },
+  {
+    "question": "Fundamental Rights can be suspended during which of the following?",
+    "options": ["State Emergency", "Financial Emergency", "National Emergency", "Constitutional Crisis"],
+    "correct": 2,
+    "explanation": "Fundamental Rights can be suspended during the operation of a National Emergency except the rights guaranteed by Articles 20 and 21."
+  },
+  {
+    "question": "Which Articles' rights are NOT suspended even during a National Emergency?",
+    "options": ["Articles 14 and 19", "Articles 19 and 21", "Articles 20 and 21", "Articles 21 and 22"],
+    "correct": 2,
+    "explanation": "Fundamental Rights can be suspended during the operation of a National Emergency except the rights guaranteed by Articles 20 and 21."
+  },
+  {
+    "question": "Who can curtail or repeal Fundamental Rights?",
+    "options": ["President of India", "Supreme Court", "Parliament by constitutional amendment", "State Legislatures"],
+    "correct": 2,
+    "explanation": "The Parliament can curtail or repeal Fundamental Rights but only by a constitutional amendment act and not by an ordinary act."
+  },
+  {
+    "question": "Which Article of the Constitution defines the term 'State' for purposes of Fundamental Rights?",
+    "options": ["Article 11", "Article 12", "Article 13", "Article 14"],
+    "correct": 1,
+    "explanation": "Article 12 has defined the term 'State' for the purposes of Part III (Fundamental Rights)."
+  },
+  {
+    "question": "Which of the following is included in the definition of 'State' under Article 12?",
+    "options": ["Only Central Government", "Only State Governments", "All local authorities like municipalities and panchayats", "Only Parliament and State Legislatures"],
+    "correct": 2,
+    "explanation": "The definition of 'State' under Article 12 includes all local authorities like municipalities, panchayats, district boards, improvement trusts, etc."
+  },
+  {
+    "question": "Article 13 provides for which important doctrine?",
+    "options": ["Doctrine of Separation of Powers", "Doctrine of Judicial Review", "Doctrine of Basic Structure", "Doctrine of Pith and Substance"],
+    "correct": 1,
+    "explanation": "Article 13 expressively provides for the doctrine of judicial review, declaring all laws inconsistent with Fundamental Rights as void."
+  },
+  {
+    "question": "In the Kesavananda Bharati case (1973), the Supreme Court held that:",
+    "options": ["Constitutional amendments cannot be challenged", "A constitutional amendment can be challenged if it violates a fundamental right forming part of the basic structure", "Parliament has unlimited power to amend the Constitution", "Fundamental Rights are absolute"],
+    "correct": 1,
+    "explanation": "The Supreme Court held in the Kesavananda Bharati case (1973) that a Constitutional amendment can be challenged on the ground that it violates a fundamental right that forms a part of the 'basic structure' of the Constitution."
+  },
+  {
+    "question": "The concept of 'equality before law' under Article 14 has been borrowed from:",
+    "options": ["American Constitution", "Irish Constitution", "British Constitution", "Canadian Constitution"],
+    "correct": 2,
+    "explanation": "The concept of 'equality before law' is of British origin."
+  },
+  {
+    "question": "The concept of 'equal protection of laws' under Article 14 has been taken from:",
+    "options": ["British Constitution", "American Constitution", "Australian Constitution", "South African Constitution"],
+    "correct": 1,
+    "explanation": "The concept of 'equal protection of laws' has been taken from the American Constitution."
+  },
+  {
+    "question": "The concept of 'Rule of Law' was propounded by:",
+    "options": ["John Locke", "Montesquieu", "A.V. Dicey", "Jean-Jacques Rousseau"],
+    "correct": 2,
+    "explanation": "The concept of 'Rule of Law' was propounded by A.V. Dicey, the British jurist."
+  },
+  {
+    "question": "Which of the following is an exception to the rule of equality before law?",
+    "options": ["Members of Parliament", "Cabinet Ministers", "Chief Ministers", "Senior bureaucrats"],
+    "correct": 0,
+    "explanation": "No member of Parliament shall be liable to any proceedings in any court in respect of anything said or any vote given by him/her in Parliament or any committee thereof (Article 105). This is an exception to equality."
+  },
+  {
+    "question": "Article 15 prohibits discrimination on the ground of:",
+    "options": ["Religion, race, caste, sex, or place of birth", "Religion, language, culture, or sex", "Caste, class, race, or religion", "Sex, age, disability, or place of birth"],
+    "correct": 0,
+    "explanation": "Article 15 provides that the State shall not discriminate against any citizen on grounds only of religion, race, caste, sex or place of birth."
+  },
+  {
+    "question": "Which Constitutional Amendment added the provision for reservation for Economically Weaker Sections (EWSs) in Article 15?",
+    "options": ["93rd Amendment Act, 2005", "100th Amendment Act, 2015", "103rd Amendment Act, 2019", "101st Amendment Act, 2016"],
+    "correct": 2,
+    "explanation": "The provision for EWS reservation (Article 15(6)) was added by the 103rd Amendment Act, 2019."
+  },
+  {
+    "question": "What is the maximum percentage of reservation allowed for Economically Weaker Sections in educational institutions?",
+    "options": ["5%", "10%", "15%", "27%"],
+    "correct": 1,
+    "explanation": "The state is allowed to make a provision for the reservation of up to 10% of seats for economically weaker sections in admission to educational institutions."
+  },
+  {
+    "question": "The 93rd Amendment Act of 2005 added which clause to Article 15?",
+    "options": ["Article 15(3)", "Article 15(4)", "Article 15(5)", "Article 15(6)"],
+    "correct": 2,
+    "explanation": "The above exception (c) regarding OBC reservation in educational institutions was added by the 93rd Amendment Act of 2005, inserting Article 15(5)."
+  },
+  {
+    "question": "The Central Educational Institutions (Reservation in Admission) Act, 2006 provided what quota for OBC candidates?",
+    "options": ["15%", "22%", "27%", "33%"],
+    "correct": 2,
+    "explanation": "The Centre enacted the Central Educational Institutions (Reservation in Admission) Act, 2006, providing a quota of 27% for candidates belonging to the Other Backward Classes (OBCs)."
+  },
+  {
+    "question": "Which of the following categories belongs to the 'creamy layer' among OBCs?",
+    "options": ["Persons whose income is below ₹8 lakh per annum", "Group 'A'/Class I officers of All India Services", "Persons holding agricultural land below the ceiling limit", "Persons working in non-governmental schools"],
+    "correct": 1,
+    "explanation": "Group 'A'/Class I and Group 'B'/Class II Officers of the All India, Central and State Services belong to the 'creamy layer' among OBCs."
+  },
+  {
+    "question": "When was the 'creamy layer' ceiling first introduced among OBCs?",
+    "options": ["1990", "1993", "1997", "2000"],
+    "correct": 1,
+    "explanation": "In 1993, when the 'creamy layer' ceiling was introduced, it was ₹1 lakh."
+  },
+  {
+    "question": "Article 16 provides for equality of opportunity in matters of:",
+    "options": ["Education", "Public employment", "Business", "Political representation"],
+    "correct": 1,
+    "explanation": "Article 16 provides for equality of opportunity for all citizens in matters of employment or appointment to any office under the State."
+  },
+  {
+    "question": "The Mandal Commission was appointed in 1979 under the chairmanship of:",
+    "options": ["Kaka Kalelkar", "B.P. Mandal", "V.P. Singh", "Ram Nandan"],
+    "correct": 1,
+    "explanation": "The Second Backward Classes Commission was appointed under the chairmanship of B.P. Mandal, a Member of Parliament."
+  },
+  {
+    "question": "The Mandal Commission submitted its report in which year?",
+    "options": ["1979", "1980", "1985", "1990"],
+    "correct": 1,
+    "explanation": "The commission submitted its report in 1980 and identified as many as 3743 castes as socially and educationally backward classes."
+  },
+  {
+    "question": "How many castes were identified by the Mandal Commission as socially and educationally backward?",
+    "options": ["2000", "2743", "3743", "4000"],
+    "correct": 2,
+    "explanation": "The Mandal Commission submitted its report in 1980 and identified as many as 3743 castes as socially and educationally backward classes."
+  },
+  {
+    "question": "In the Indra Sawhney case (1992), the Supreme Court held that the total reserved quota should not exceed:",
+    "options": ["27%", "33%", "50%", "69%"],
+    "correct": 2,
+    "explanation": "The Supreme Court held in the Indra Sawhney case that the total reserved quota should not exceed 50% except in some extraordinary situations."
+  },
+  {
+    "question": "Which Amendment Act added the provision for reservation in promotions in favour of SCs and STs under Article 16?",
+    "options": ["72nd Amendment Act, 1992", "77th Amendment Act, 1995", "81st Amendment Act, 2000", "85th Amendment Act, 2001"],
+    "correct": 1,
+    "explanation": "The 77th Amendment Act was enacted in 1995 adding a new provision in Article 16 that empowers the State to provide for reservation in promotions in favour of SCs and STs."
+  },
+  {
+    "question": "Article 17 deals with:",
+    "options": ["Abolition of titles", "Abolition of untouchability", "Equality before law", "Prohibition of discrimination"],
+    "correct": 1,
+    "explanation": "Article 17 abolishes 'untouchability' and forbids its practice in any form."
+  },
+  {
+    "question": "The Untouchability (Offences) Act 1955 was amended and renamed as which Act in 1976?",
+    "options": ["Civil Rights Protection Act, 1976", "Protection of Civil Rights Act, 1955", "Anti-Untouchability Act, 1976", "Scheduled Castes Protection Act, 1976"],
+    "correct": 1,
+    "explanation": "In 1976, the Untouchability (Offences) Act, 1955 has been comprehensively amended and renamed as the Protection of Civil Rights Act, 1955."
+  },
+  {
+    "question": "Article 18 prohibits conferring of titles except:",
+    "options": ["Civil and judicial distinctions", "Political and administrative titles", "Military or academic distinctions", "Religious and social honors"],
+    "correct": 2,
+    "explanation": "Article 18 prohibits the state from conferring any title except a military or academic distinction on any body."
+  },
+  {
+    "question": "In the Balaji Raghavan case (1995), the Supreme Court ruled that National Awards like Bharat Ratna:",
+    "options": ["Are titles within the meaning of Article 18", "Violate the principle of equality", "Do not amount to 'titles' within the meaning of Article 18", "Should be discontinued immediately"],
+    "correct": 2,
+    "explanation": "The Supreme Court upheld the constitutional validity of National Awards and ruled that they do not amount to 'titles' within the meaning of Article 18 that prohibits only hereditary titles of nobility."
+  },
+  {
+    "question": "The National Awards (Bharat Ratna, Padma Awards) were instituted in which year?",
+    "options": ["1947", "1950", "1954", "1960"],
+    "correct": 2,
+    "explanation": "These National Awards were instituted in 1954."
+  },
+  {
+    "question": "Which government discontinued National Awards in 1977?",
+    "options": ["Congress government led by Indira Gandhi", "Janata Party government headed by Morarji Desai", "National Front government led by V.P. Singh", "BJP government led by Atal Bihari Vajpayee"],
+    "correct": 1,
+    "explanation": "The Janata Party government headed by Morarji Desai discontinued them in 1977."
+  },
+  {
+    "question": "Article 19 originally contained how many rights?",
+    "options": ["Five", "Six", "Seven", "Eight"],
+    "correct": 2,
+    "explanation": "Originally, Article 19 contained seven rights. But, the right to acquire, hold and dispose of property was deleted by the 44th Amendment Act of 1978."
+  },
+  {
+    "question": "The right to form 'co-operative societies' under Article 19(1)(c) was added by which Amendment?",
+    "options": ["86th Constitutional Amendment Act of 2002", "93rd Constitutional Amendment Act of 2005", "97th Constitutional Amendment Act of 2011", "103rd Constitutional Amendment Act of 2019"],
+    "correct": 2,
+    "explanation": "The provision for 'co-operative societies' was made by the 97th Constitutional Amendment Act of 2011."
+  },
+  {
+    "question": "Which of the following is NOT a ground for imposing reasonable restrictions on freedom of speech and expression?",
+    "options": ["Security of the State", "Friendly relations with foreign states", "Protection of scheduled tribe interests", "Contempt of court"],
+    "correct": 2,
+    "explanation": "Protection of interests of scheduled tribes is not a ground for restricting freedom of speech and expression under Article 19(2). It is a ground for restricting freedom of movement and residence."
+  },
+  {
+    "question": "The rights guaranteed under Article 19 are protected against which actions?",
+    "options": ["Only private individuals", "Only state action", "Both state action and private individuals", "Neither state nor private individuals"],
+    "correct": 1,
+    "explanation": "These six rights are protected against only state action and not private individuals."
+  },
+  {
+    "question": "Under Article 20, the protection against 'no ex-post-facto law' applies to:",
+    "options": ["Civil laws only", "Tax laws only", "Criminal laws only", "All laws"],
+    "correct": 2,
+    "explanation": "This limitation is imposed only on criminal laws and not on civil laws or tax laws. In other words, a civil liability or a tax can be imposed retrospectively."
+  },
+  {
+    "question": "The protection against double jeopardy under Article 20 is available in proceedings before:",
+    "options": ["Administrative authorities only", "Departmental authorities", "A court of law or a judicial tribunal", "All authorities including departmental ones"],
+    "correct": 2,
+    "explanation": "The protection against double jeopardy is available only in proceedings before a court of law or a judicial tribunal. It is not available in proceedings before departmental or administrative authorities."
+  },
+  {
+    "question": "In the Gopalan case (1950), the Supreme Court interpreted Article 21 to mean protection against:",
+    "options": ["Both arbitrary executive and legislative action", "Only arbitrary legislative action", "Only arbitrary executive action", "Neither executive nor legislative action"],
+    "correct": 2,
+    "explanation": "In the famous Gopalan case (1950), the Supreme Court held that the protection under Article 21 is available only against arbitrary executive action and not from arbitrary legislative action."
+  },
+  {
+    "question": "In which landmark case did the Supreme Court take a wider interpretation of Article 21?",
+    "options": ["A.K. Gopalan case (1950)", "Maneka Gandhi case (1978)", "Kesavananda Bharati case (1973)", "Indra Sawhney case (1992)"],
+    "correct": 1,
+    "explanation": "In Maneka case (1978), the Supreme Court overruled its judgement in the Gopalan case by taking a wider interpretation of Article 21."
+  },
+  {
+    "question": "Which of the following rights has been declared as part of Article 21 by the Supreme Court?",
+    "options": ["Right to vote", "Right to own property", "Right to privacy", "Right to form trade unions"],
+    "correct": 2,
+    "explanation": "The Supreme Court declared the Right to privacy as part of Article 21 (K.S. Puttaswamy vs. Union of India, 2017)."
+  },
+  {
+    "question": "The right to die with dignity (passive euthanasia) was recognized in which case?",
+    "options": ["K.S. Puttaswamy vs. Union of India (2017)", "Common Cause (A Regd. Society) vs. Union of India (2018)", "Maneka Gandhi vs. Union of India (1978)", "Francis Coralie Mullin vs. Administrator, Delhi (1981)"],
+    "correct": 1,
+    "explanation": "Common Cause (A Regd. Society) vs. Union of India (2018) declared the Right to die with dignity (Passive euthanasia) as part of Article 21."
+  },
+  {
+    "question": "Article 21A was added by which Constitutional Amendment?",
+    "options": ["73rd Amendment Act, 1992", "76th Amendment Act, 1994", "86th Amendment Act, 2002", "93rd Amendment Act, 2005"],
+    "correct": 2,
+    "explanation": "This provision (Article 21A - Right to Education) was added by the 86th Constitutional Amendment Act of 2002."
+  },
+  {
+    "question": "Article 21A provides for free and compulsory education to children of which age group?",
+    "options": ["3 to 10 years", "5 to 12 years", "6 to 14 years", "6 to 18 years"],
+    "correct": 2,
+    "explanation": "Article 21A declares that the State shall provide free and compulsory education to all children of the age of six to fourteen years."
+  },
+  {
+    "question": "The Right of Children to Free and Compulsory Education (RTE) Act was enacted by Parliament in which year?",
+    "options": ["2005", "2007", "2009", "2010"],
+    "correct": 2,
+    "explanation": "In pursuance of Article 21A, the Parliament enacted the Right of Children to Free and Compulsory Education (RTE) Act, 2009."
+  },
+  {
+    "question": "The Constitution (Eighty-Sixth Amendment) Act, 2002 and the RTE Act, 2009 came into force from:",
+    "options": ["1 January 2009", "1 April 2010", "1 August 2010", "26 January 2010"],
+    "correct": 1,
+    "explanation": "The Constitution (Eighty-Sixth Amendment) Act, 2002 and the Right of Children to Free and Compulsory Education Act, 2009 have come into force w.e.f. 1 April 2010."
+  },
+  {
+    "question": "Preventive detention differs from punitive detention because:",
+    "options": ["It punishes a person for a past offence", "It requires trial and conviction", "It prevents a person from committing an offence in the near future without trial", "It is imposed only by courts"],
+    "correct": 2,
+    "explanation": "Preventive detention means detention of a person without trial and conviction by a court. Its purpose is not to punish a person for a past offence but to prevent him/her from committing an offence in the near future."
+  },
+  {
+    "question": "Under the first part of Article 22, a person arrested under ordinary law must be produced before a magistrate within:",
+    "options": ["12 hours", "24 hours", "48 hours", "72 hours"],
+    "correct": 1,
+    "explanation": "Under Article 22, a person arrested has the right to be produced before a magistrate within 24 hours, excluding the journey time."
+  },
+  {
+    "question": "Under Article 22, the detention of a person cannot exceed how many months without an advisory board's approval?",
+    "options": ["One month", "Two months", "Three months", "Six months"],
+    "correct": 2,
+    "explanation": "The detention of a person cannot exceed three months unless an advisory board reports sufficient cause for extended detention."
+  },
+  {
+    "question": "Which of the following preventive detention laws is still in force?",
+    "options": ["Preventive Detention Act, 1950", "Maintenance of Internal Security Act (MISA), 1971", "Terrorist and Disruptive Activities (Prevention) Act (TADA), 1985", "Unlawful Activities (Prevention) Act (UAPA), 1967"],
+    "correct": 3,
+    "explanation": "UAPA (1967), as amended in 2004, 2008, 2012 and 2019, is still in force. The others listed were repealed or expired."
+  },
+  {
+    "question": "Article 23 prohibits which of the following?",
+    "options": ["Employment of children in factories", "Traffic in human beings and forced labour", "Discrimination based on religion", "Denial of freedom of speech"],
+    "correct": 1,
+    "explanation": "Article 23 prohibits traffic in human beings, begar (forced labour) and other similar forms of forced labour."
+  },
+  {
+    "question": "The term 'begar' refers to:",
+    "options": ["Bonded labour", "Compulsory work without remuneration", "Forced labour for less than minimum wage", "Human trafficking"],
+    "correct": 1,
+    "explanation": "The term 'begar' means compulsory work without remuneration."
+  },
+  {
+    "question": "Article 24 prohibits employment of children below which age in hazardous activities?",
+    "options": ["10 years", "12 years", "14 years", "16 years"],
+    "correct": 2,
+    "explanation": "Article 24 prohibits the employment of children below the age of 14 years in any factory, mine or other hazardous activities."
+  },
+  {
+    "question": "The most important law related to child labour prohibition is:",
+    "options": ["Factories Act, 1948", "Child Labour (Prohibition and Regulation) Act, 1986", "Mines Act, 1952", "Employment of Children Act, 1938"],
+    "correct": 1,
+    "explanation": "The Child Labour (Prohibition and Regulation) Act, 1986, is the most important law in the direction of prohibiting child labour."
+  },
+  {
+    "question": "In 1996, the Supreme Court directed the establishment of Child Labour Rehabilitation Welfare Fund. The offending employer should deposit a fine of how much for each child employed?",
+    "options": ["₹10,000", "₹15,000", "₹20,000", "₹25,000"],
+    "correct": 2,
+    "explanation": "In 1996, the Supreme Court directed the establishment of Child Labour Rehabilitation Welfare Fund in which the offending employer should deposit a fine of ₹20,000 for each child employed by him/her."
+  },
+  {
+    "question": "In 2006, the government banned employment of children as domestic servants or in business establishments. Anyone employing children below which age would be liable for prosecution?",
+    "options": ["10 years", "12 years", "14 years", "16 years"],
+    "correct": 2,
+    "explanation": "In 2006, the government warned that anyone employing children below 14 years of age would be liable for prosecution and penal action."
+  },
+  {
+    "question": "Article 25 guarantees freedom of conscience and right to:",
+    "options": ["Profess, preach and convert religion", "Profess, practice and propagate religion", "Practice and promote any religion", "Profess and practice religion privately only"],
+    "correct": 1,
+    "explanation": "Article 25 says that all persons are equally entitled to freedom of conscience and the right to freely profess, practice and propagate religion."
+  },
+  {
+    "question": "The right to propagate religion under Article 25 does NOT include:",
+    "options": ["Transmission of religious beliefs", "Exposition of tenets of one's religion", "Right to convert another person forcibly", "Dissemination of religious beliefs"],
+    "correct": 2,
+    "explanation": "The right to propagate does not include a right to convert another person to one's own religion. Forcible conversions impinge on the 'freedom of conscience' guaranteed to all persons alike."
+  },
+  {
+    "question": "Which Article protects the collective freedom of religion for religious denominations?",
+    "options": ["Article 24", "Article 25", "Article 26", "Article 27"],
+    "correct": 2,
+    "explanation": "Article 26 protects collective freedom of religion. It guarantees rights of religious denominations or their sections."
+  },
+  {
+    "question": "For a religious denomination to qualify under Article 26, which condition must it NOT necessarily satisfy?",
+    "options": ["Collection of individuals with a system of beliefs", "Common organisation", "Designated by a distinctive name", "Recognition by the government"],
+    "correct": 3,
+    "explanation": "The Supreme Court held that a religious denomination must satisfy three conditions: common beliefs, common organisation, and a distinctive name. Government recognition is not a condition."
+  },
+  {
+    "question": "Article 27 prohibits compulsion to pay taxes for:",
+    "options": ["General public welfare", "National defense", "Promotion or maintenance of any particular religion", "Environmental protection"],
+    "correct": 2,
+    "explanation": "Article 27 lays down that no person shall be compelled to pay any taxes for the promotion or maintenance of any particular religion or religious denomination."
+  },
+  {
+    "question": "Article 27 prohibits levy of a tax but not a fee. This is because:",
+    "options": ["Fees are voluntary contributions", "The purpose of a fee is to control secular administration of religious institutions, not to promote religion", "Fees are collected by religious bodies only", "Fees are part of fundamental rights"],
+    "correct": 1,
+    "explanation": "This provision prohibits only levy of a tax and not a fee. This is because the purpose of a fee is to control secular administration of religious institutions and not to promote or maintain religion."
+  },
+  {
+    "question": "Under Article 28, in which type of educational institution is religious instruction completely prohibited?",
+    "options": ["Institutions administered by State but established under endowment", "Institutions recognised by the State", "Institutions wholly maintained by the State", "Institutions receiving aid from the State"],
+    "correct": 2,
+    "explanation": "Under Article 28, in institutions wholly maintained by the State, religious instruction is completely prohibited."
+  },
+  {
+    "question": "Article 29 protects the rights of which groups?",
+    "options": ["Only religious minorities", "Only linguistic minorities", "Both religious and linguistic minorities", "Only scheduled castes and tribes"],
+    "correct": 2,
+    "explanation": "Article 29 grants protection to both religious minorities as well as linguistic minorities."
+  },
+  {
+    "question": "Article 30 grants the right to minorities to establish and administer educational institutions. This right is confined to:",
+    "options": ["All sections of citizens", "Only religious minorities", "Only linguistic minorities", "Only minorities (religious or linguistic)"],
+    "correct": 3,
+    "explanation": "The protection under Article 30 is confined only to minorities (religious or linguistic) and does not extend to any section of citizens (as under Article 29)."
+  },
+  {
+    "question": "The term 'minority' in the Indian Constitution is:",
+    "options": ["Defined under Article 30", "Defined under Article 29", "Defined under Article 12", "Not defined anywhere in the Constitution"],
+    "correct": 3,
+    "explanation": "The term 'minority' has not been defined anywhere in the Constitution."
+  },
+  {
+    "question": "Dr. Ambedkar called which Article as the 'heart and soul' of the Constitution?",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "correct": 3,
+    "explanation": "Dr. Ambedkar called Article 32 as the most important article of the Constitution – 'an Article without which this constitution would be a nullity. It is the very soul of the Constitution and the very heart of it'."
+  },
+  {
+    "question": "The Supreme Court can issue writs for enforcement of Fundamental Rights under which Article?",
+    "options": ["Article 32", "Article 226", "Article 136", "Article 143"],
+    "correct": 0,
+    "explanation": "Article 32 confers the right to remedies for the enforcement of the fundamental rights. The Supreme Court has power to issue writs under this Article."
+  },
+  {
+    "question": "High Courts can issue writs under which Article?",
+    "options": ["Article 32", "Article 136", "Article 226", "Article 227"],
+    "correct": 2,
+    "explanation": "Article 226 has conferred power on the high courts to issue directions, orders and writs for the enforcement of Fundamental Rights and for any other purpose."
+  },
+  {
+    "question": "The writ of Habeas Corpus literally means:",
+    "options": ["We command", "To have the body of", "By what authority", "To be certified"],
+    "correct": 1,
+    "explanation": "Habeas Corpus is a Latin term which literally means 'to have the body of'."
+  },
+  {
+    "question": "The writ of Mandamus literally means:",
+    "options": ["To have the body of", "We command", "To forbid", "By what authority"],
+    "correct": 1,
+    "explanation": "Mandamus literally means 'we command'. It is a command issued by the court to a public official asking him/her to perform his/her official duties."
+  },
+  {
+    "question": "Which writ is issued to prevent a lower court from exceeding its jurisdiction?",
+    "options": ["Habeas Corpus", "Mandamus", "Prohibition", "Quo-Warranto"],
+    "correct": 2,
+    "explanation": "Prohibition is issued by a higher court to a lower court or tribunal to prevent the latter from exceeding its jurisdiction or usurping a jurisdiction that it does not possess."
+  },
+  {
+    "question": "The writ of Certiorari is issued by a higher court to:",
+    "options": ["Produce the body of a detained person", "Command a public official to perform duties", "Quash the order passed by a lower court", "Enquire into legality of claim to public office"],
+    "correct": 2,
+    "explanation": "Certiorari is issued by a higher court to a lower court or tribunal to quash the order passed by the latter in a case."
+  },
+  {
+    "question": "The writ of Quo-Warranto literally means:",
+    "options": ["We command", "To have the body of", "By what authority or warrant", "To be certified"],
+    "correct": 2,
+    "explanation": "Quo-Warranto in the literal sense means 'by what authority or warrant'. It is issued by the court to enquire into the legality of claim of a person to a public office."
+  },
+  {
+    "question": "The writ of Habeas Corpus CANNOT be issued when:",
+    "options": ["Detention is unlawful", "The person is imprisoned by a private individual", "Detention is lawful", "The person is held without charges"],
+    "correct": 2,
+    "explanation": "The writ of Habeas Corpus is not issued where (a) the detention is lawful, (b) the proceeding is for contempt of a legislature or a court, (c) detention is by a competent court, and (d) detention is outside the jurisdiction of the court."
+  },
+  {
+    "question": "The writ of Mandamus CANNOT be issued against:",
+    "options": ["Public bodies", "Corporations", "Inferior courts", "President of India"],
+    "correct": 3,
+    "explanation": "The writ of mandamus cannot be issued against the President of India or the state governors."
+  },
+  {
+    "question": "The writ of Quo-Warranto can be sought by:",
+    "options": ["Only the aggrieved person", "Only the government", "Any public-minded person", "Only a legal representative"],
+    "correct": 2,
+    "explanation": "This writ can be sought by any public-minded person and not necessarily by the aggrieved person."
+  },
+  {
+    "question": "Before 1950, only which High Courts had the power to issue writs?",
+    "options": ["Calcutta, Bombay, and Allahabad", "Calcutta, Madras, and Allahabad", "Calcutta, Bombay, and Madras", "Delhi, Bombay, and Madras"],
+    "correct": 2,
+    "explanation": "Before 1950, only the High Courts of Calcutta, Bombay and Madras had the power to issue the writs."
+  },
+  {
+    "question": "The writ jurisdiction of the Supreme Court differs from that of High Courts in which respect?",
+    "options": ["Supreme Court can issue writs for any purpose including ordinary legal rights", "Supreme Court can issue writs only for enforcement of Fundamental Rights", "High Court can issue writs only for Fundamental Rights", "Both have identical writ jurisdiction"],
+    "correct": 1,
+    "explanation": "The Supreme Court can issue writs only for the enforcement of fundamental rights whereas a high court can issue writs not only for the enforcement of Fundamental Rights but also for any other purpose."
+  },
+  {
+    "question": "Which Article empowers Parliament to restrict Fundamental Rights of armed forces members?",
+    "options": ["Article 31", "Article 32", "Article 33", "Article 34"],
+    "correct": 2,
+    "explanation": "Article 33 empowers the Parliament to restrict or abrogate the fundamental rights of the members of armed forces, para-military forces, police forces, intelligence agencies and analogous forces."
+  },
+  {
+    "question": "The expression 'members of the armed forces' under Article 33 also covers:",
+    "options": ["Civilians working near military areas", "Non-combatants like barbers, cooks, and tailors employed in armed forces", "Government contractors working for military", "Defense ministry officials"],
+    "correct": 1,
+    "explanation": "The expression 'members of the armed forces' also covers such employees of the armed forces as barbers, carpenters, mechanics, cooks, chowkidars, bootmakers, tailors who are non-combatants."
+  },
+  {
+    "question": "Article 34 provides for restrictions on Fundamental Rights while which law is in force?",
+    "options": ["National Emergency", "State Emergency", "Martial Law", "President's Rule"],
+    "correct": 2,
+    "explanation": "Article 34 provides for the restrictions on fundamental rights while martial law is in force in any area within the territory of India."
+  },
+  {
+    "question": "Which of the following is a difference between Martial Law and National Emergency?",
+    "options": ["Martial Law has specific provision in the Constitution; National Emergency does not", "Martial Law continues ordinary law courts; National Emergency suspends them", "Martial Law suspends government and ordinary law courts; National Emergency continues them", "Martial Law is imposed for the whole country; National Emergency in specific areas"],
+    "correct": 2,
+    "explanation": "According to Table 8.7, Martial Law suspends the government and ordinary law courts, while National Emergency continues the government and ordinary law courts."
+  },
+  {
+    "question": "Article 35 ensures which of the following?",
+    "options": ["State legislatures have power to make laws regarding Fundamental Rights", "Parliament alone has power to make laws giving effect to certain Fundamental Rights", "Both Parliament and State legislatures have equal power regarding Fundamental Rights", "President has exclusive power over Fundamental Rights legislation"],
+    "correct": 1,
+    "explanation": "Article 35 lays down that the power to make laws, to give effect to certain specified fundamental rights shall vest only in the Parliament and not in the state legislatures."
+  },
+  {
+    "question": "Which of the following rights is available to foreigners in India?",
+    "options": ["Protection of six rights under Article 19", "Prohibition of discrimination under Article 15", "Protection of life and personal liberty under Article 21", "Equality of opportunity in public employment under Article 16"],
+    "correct": 2,
+    "explanation": "Protection of life and personal liberty (Article 21) is available to both citizens and foreigners (except enemy aliens)."
+  },
+  {
+    "question": "Which of the following Fundamental Rights is available ONLY to citizens and NOT to foreigners?",
+    "options": ["Protection against arrest and detention (Article 22)", "Prohibition of traffic in human beings (Article 23)", "Protection of six rights regarding freedom of speech, assembly, etc. (Article 19)", "Freedom of conscience and propagation of religion (Article 25)"],
+    "correct": 2,
+    "explanation": "Protection of six rights regarding freedom of speech and expression, assembly, association, movement, residence, and profession under Article 19 is available only to citizens and not to foreigners."
+  },
+  {
+    "question": "The six rights under Article 19 are automatically suspended when emergency is declared on which grounds?",
+    "options": ["Armed rebellion only", "War or external aggression only", "Both war/external aggression and armed rebellion", "Financial emergency"],
+    "correct": 1,
+    "explanation": "The six rights guaranteed by Article 19 are automatically suspended only when emergency is declared on the grounds of war or external aggression (i.e., external emergency) and not on the ground of armed rebellion (i.e., internal emergency)."
+  },
+  {
+    "question": "The Supreme Court held in the People's Union for Democratic Rights case (1982) that the right under Article 17 (abolition of untouchability) is available against:",
+    "options": ["Only State authorities", "Only private individuals", "Private individuals as well, with State having constitutional obligation to protect it", "International bodies"],
+    "correct": 2,
+    "explanation": "The Supreme Court held that the right under Article 17 is available against private individuals and it is the constitutional obligation of the State to take necessary action to ensure that this right is not violated."
+  },
+  {
+    "question": "What does Article 31A save?",
+    "options": ["Acts in the Ninth Schedule from judicial review", "Laws giving effect to directive principles from challenge", "Five categories of laws related to acquisition of estates from challenge on grounds of Articles 14 and 19", "All laws enacted by Parliament from judicial scrutiny"],
+    "correct": 2,
+    "explanation": "Article 31A saves five categories of laws (related to agricultural land reforms, industry and commerce) from being challenged and invalidated on the ground of contravention of Articles 14 and 19."
+  },
+  {
+    "question": "The Ninth Schedule of the Indian Constitution was added by which Amendment?",
+    "options": ["1st Constitutional Amendment Act of 1951", "4th Constitutional Amendment Act", "7th Constitutional Amendment Act", "25th Constitutional Amendment Act"],
+    "correct": 0,
+    "explanation": "Article 31B along with the Ninth Schedule was added by the 1st Constitutional Amendment Act of 1951."
+  },
+  {
+    "question": "Originally (in 1951), how many acts and regulations were included in the Ninth Schedule?",
+    "options": ["5", "10", "13", "20"],
+    "correct": 2,
+    "explanation": "Originally (in 1951), the Ninth Schedule contained only 13 acts and regulations."
+  },
+  {
+    "question": "In the I.R. Coelho case (2007), the Supreme Court ruled that laws placed under the Ninth Schedule after which date are open to challenge in court?",
+    "options": ["26 January 1950", "24 April 1973", "25 June 1975", "1 January 1980"],
+    "correct": 1,
+    "explanation": "The Supreme Court ruled that the laws placed under the Ninth Schedule after 24 April, 1973 (date of judgement in the Kesavananda Bharati case) are open to challenge in court if they violated fundamental rights guaranteed under Articles 14, 15, 19 and 21 or the basic structure of the constitution."
+  },
+  {
+    "question": "Article 31C was inserted by which Amendment Act?",
+    "options": ["1st Amendment Act of 1951", "25th Amendment Act of 1971", "42nd Amendment Act of 1976", "44th Amendment Act of 1978"],
+    "correct": 1,
+    "explanation": "Article 31C was inserted by the 25th Amendment Act of 1971."
+  },
+  {
+    "question": "Which case declared the second provision of Article 31C (that no law giving effect to Article 39(b) or (c) can be questioned in any court) as unconstitutional?",
+    "options": ["Golak Nath case", "Kesavananda Bharati case (1973)", "Minerva Mills case (1980)", "Indra Sawhney case (1992)"],
+    "correct": 1,
+    "explanation": "In the Kesavananda Bharati case (1973), the Supreme Court declared the (b) provision of Article 31C as unconstitutional and invalid on the ground that judicial review is a basic feature of the Constitution."
+  },
+  {
+    "question": "The 42nd Amendment Act (1976) extended Article 31C's protection to laws implementing which directive principles?",
+    "options": ["Only Article 39(b) and (c)", "All directive principles in Part IV", "Only socioeconomic directive principles", "Only environmental directive principles"],
+    "correct": 1,
+    "explanation": "The 42nd Amendment Act (1976) extended the scope by including within its protection any law to implement any of the directive principles specified in Part IV of the Constitution and not merely in Article 39 (b) or (c)."
+  },
+  {
+    "question": "Which of the following is a criticism of Fundamental Rights?",
+    "options": ["They are too few in number", "They have excessive limitations and restrictions", "They are available only to citizens", "They cannot be amended"],
+    "correct": 1,
+    "explanation": "One of the main criticisms is that Fundamental Rights are subjected to innumerable exceptions, restrictions, qualifications and explanations. Critics say the Constitution grants rights with one hand and takes them away with the other."
+  },
+  {
+    "question": "Sir Ivor Jennings called the Constitution of India as:",
+    "options": ["A model for democracies", "A paradise for lawyers", "A charter of liberties", "A complex charter"],
+    "correct": 1,
+    "explanation": "Sir Ivor Jennings called the Constitution of India a 'paradise for lawyers' due to the complicated and ambiguous language used to describe Fundamental Rights."
+  },
+  {
+    "question": "Which of the following is a non-fundamental constitutional right mentioned outside Part III?",
+    "options": ["Right to freedom of speech", "Right to equality before law", "Right to move freely throughout India", "Trade, commerce and intercourse throughout India shall be free (Article 301)"],
+    "correct": 3,
+    "explanation": "Article 301 in Part XIII states that trade, commerce and intercourse throughout the territory of India shall be free. This is a constitutional right outside Part III."
+  },
+  {
+    "question": "A private body working as an instrument of the State falls within the meaning of 'State' under Article 12. This was held by:",
+    "options": ["Parliament of India", "President of India", "Supreme Court of India", "Law Commission of India"],
+    "correct": 2,
+    "explanation": "According to the Supreme Court, even a private body or an agency working as an instrument of the State falls within the meaning of the 'State' under Article 12."
+  },
+  {
+    "question": "Freedom of movement under Article 19 has two dimensions. The external dimension (right to move out and return) is protected under which Article?",
+    "options": ["Article 19", "Article 20", "Article 21", "Article 22"],
+    "correct": 2,
+    "explanation": "Article 19 protects only the internal dimension (right to move inside the country). The second dimension (right to move out of the country and right to come back) is dealt by Article 21 (right to life and personal liberty)."
+  },
+  {
+    "question": "In the Anuradha Bhasin case (2020), the Supreme Court held that freedom to practice any profession over the medium of internet enjoys constitutional protection under:",
+    "options": ["Article 19(1)(a)", "Article 19(1)(g)", "Article 21", "Article 19(1)(c)"],
+    "correct": 1,
+    "explanation": "In Anuradha Bhasin case (2020), the Supreme Court held that the freedom to practice any profession or carry on any trade, business or occupation over the medium of internet enjoys constitutional protection under Article 19(1)(g)."
+  },
+  {
+    "question": "Which of the following is NOT a significance of Fundamental Rights as mentioned in the text?",
+    "options": ["They constitute the bedrock of the democratic system", "They protect the interests of minorities and weaker sections", "They guarantee economic prosperity to all citizens", "They check the absoluteness of the authority of the government"],
+    "correct": 2,
+    "explanation": "The text mentions that Fundamental Rights constitute the bedrock of democracy, protect minorities, check government authority, etc. However, guaranteeing economic prosperity is not listed as a significance."
+  },
+  {
+    "question": "The first Backward Classes Commission was appointed in 1953 under the chairmanship of:",
+    "options": ["B.P. Mandal", "Kaka Kalelkar", "Ram Nandan", "V.P. Singh"],
+    "correct": 1,
+    "explanation": "The first Backward Classes Commission was appointed in 1953 under the chairmanship of Kaka Kalelkar. It submitted its report in 1955."
+  },
+  {
+    "question": "The 76th Amendment Act of 1994 placed the Tamil Nadu Reservations Act of 1993 in the Ninth Schedule because it provided for what percentage of reservation?",
+    "options": ["50%", "60%", "69%", "75%"],
+    "correct": 2,
+    "explanation": "The 76th Amendment Act of 1994 placed the Tamil Nadu Reservations Act of 1993 in the Ninth Schedule to protect it from judicial review as it provided for 69 per cent of reservation, far exceeding the 50 per cent ceiling."
+  },
+  {
+    "question": "Under Article 31A, which of the following is NOT one of the five categories of laws saved from constitutional challenge?",
+    "options": ["Acquisition of estates and related rights by the State", "Amalgamation of corporations", "Extinguishment or modification of mining leases", "Abolition of privy purses"],
+    "correct": 3,
+    "explanation": "The five categories under Article 31A are: acquisition of estates, taking over management of properties, amalgamation of corporations, extinguishment of rights of directors/shareholders of corporations, and extinguishment of mining leases. Abolition of privy purses is not listed."
+  },
+  {
+    "question": "Which EWS eligibility criterion disqualifies a family from being identified as EWS irrespective of family income?",
+    "options": ["Having 3 acres of agricultural land", "Owning a residential flat of 800 sq.ft.", "Having a residential plot of 100 sq.yards in notified municipalities", "Having a gross annual income of ₹6 lakh"],
+    "correct": 2,
+    "explanation": "Persons whose family owns a residential plot of 100 sq.yards and above in notified municipalities are to be excluded from being identified as EWSs, irrespective of family income."
+  },
+  {
+    "question": "For the purpose of EWS reservation, 'family' includes:",
+    "options": ["Only the applicant", "The applicant and his/her parents", "The applicant, parents, siblings below 18 years, spouse, and children below 18 years", "All blood relatives of the applicant"],
+    "correct": 2,
+    "explanation": "Family for this purpose would include the person who seeks benefit of reservation, his/her parents and siblings below the age of 18 years as also his/her spouse and children below the age of 18 years."
+  },
+  {
+    "question": "Which of the following is NOT included in the definition of 'traffic in human beings' under Article 23?",
+    "options": ["Selling and buying of men, women and children", "Devadasi system", "Bonded labour", "Slavery"],
+    "correct": 2,
+    "explanation": "The expression 'traffic in human beings' includes selling and buying of men, women and children; immoral traffic including prostitution; devadasis; and slavery. Bonded labour is a form of 'forced labour' prohibited under Article 23 but not classified as 'traffic in human beings' per se."
+  },
+  {
+    "question": "The 85th Amendment Act of 2001 added which provision regarding promotion for government servants belonging to SCs and STs?",
+    "options": ["Reservation in promotions", "Consequential seniority in cases of promotion by virtue of rule of reservation with retrospective effect from June 1995", "50% ceiling on promotion reservations", "Carry-forward rule for unfilled vacancies"],
+    "correct": 1,
+    "explanation": "The 85th Amendment Act of 2001 provides for 'consequential seniority' in the case of promotion by virtue of rule of reservation for the government servants belonging to the SCs and STs with retrospective effect from June 1995."
+  },
+  {
+    "question": "Article 31C does not immunise a state law from judicial review unless:",
+    "options": ["It is passed by a 2/3rd majority", "It has been reserved for the President's consideration and has received his/her assent", "It is approved by the Supreme Court", "It is ratified by at least half the state legislatures"],
+    "correct": 1,
+    "explanation": "Article 31C does not immunise a state law from judicial review unless it has been reserved for the President's consideration and has received his/her assent."
+  },
+  {
+    "question": "Judicial review has been described by the Supreme Court as a:",
+    "options": ["Directive principle", "Fundamental duty", "Basic feature of the Constitution", "Reasonable restriction on rights"],
+    "correct": 2,
+    "explanation": "The Supreme Court held in the I.R. Coelho case that judicial review is a 'basic feature' of the constitution and it could not be taken away by putting a law under the Ninth Schedule."
+  },
+  {
+    "question": "Which of the following writs can be issued only against judicial and quasi-judicial authorities?",
+    "options": ["Habeas Corpus and Mandamus", "Prohibition and Certiorari", "Mandamus and Quo-Warranto", "Habeas Corpus and Quo-Warranto"],
+    "correct": 1,
+    "explanation": "The writs of Prohibition and Certiorari can be issued only against judicial and quasi-judicial authorities. They are not available against administrative authorities, legislative bodies, and private individuals or bodies."
+  },
+  {
+    "question": "According to the Supreme Court, the 'Rule of Law' as embodied in Article 14 is a:",
+    "options": ["Directive Principle", "Fundamental Duty", "Basic feature of the Constitution", "Non-justiciable right"],
+    "correct": 2,
+    "explanation": "The Supreme Court held that the 'Rule of Law' as embodied in Article 14 is a 'basic feature' of the constitution. Hence, it cannot be destroyed even by an amendment."
+  },
+  {
+    "question": "Under Article 22, which persons are NOT entitled to the safeguards available to a person arrested under ordinary law?",
+    "options": ["Indian citizens", "Foreigners residing in India", "Enemy aliens and persons arrested under preventive detention law", "Persons arrested for civil offences"],
+    "correct": 2,
+    "explanation": "These safeguards (informing grounds of arrest, legal counsel, produced before magistrate within 24 hours) are not available to an enemy alien or a person arrested or detained under a preventive detention law."
+  },
+  {
+    "question": "The Mysore High Court held that 'untouchability' under Article 17 refers to:",
+    "options": ["Social boycott of individuals in general", "Exclusion from religious services", "Social disabilities imposed on certain classes by reason of birth in certain castes", "Any form of social discrimination"],
+    "correct": 2,
+    "explanation": "The Mysore High Court held that the subject matter of Article 17 refers to the social disabilities imposed on certain classes of persons by reason of their birth in certain castes."
+  },
+  {
+    "question": "In the Unni Krishnan case (1993), the Supreme Court recognized a Fundamental Right to primary education under which Article?",
+    "options": ["Article 19", "Article 20", "Article 21", "Article 21A"],
+    "correct": 2,
+    "explanation": "In Unni Krishnan case (1993), the Supreme Court recognised a Fundamental Right to primary education in the right to life under Article 21."
+  },
+  {
+    "question": "The 'creamy layer' income ceiling was ₹1 lakh when first introduced in 1993. What was it revised to in 2017?",
+    "options": ["₹4.5 lakh", "₹6 lakh", "₹8 lakh", "₹10 lakh"],
+    "correct": 2,
+    "explanation": "The 'creamy layer' ceiling was ₹1 lakh when introduced in 1993, subsequently revised to ₹2.5 lakh in 2004, ₹4.5 lakh in 2008, ₹6 lakh in 2013 and ₹8 lakh in 2017."
+  },
+  {
+    "question": "Which of the following correctly states the relationship between Articles 29 and 30?",
+    "options": ["Article 29 protects collective rights; Article 30 protects individual rights", "Article 29 grants protection to section of citizens (including minorities and majority); Article 30 is confined only to minorities", "Article 29 is for minorities only; Article 30 is for all sections of citizens", "Both Articles 29 and 30 have identical scope"],
+    "correct": 1,
+    "explanation": "Article 29 uses words 'section of citizens' that include minorities as well as majority. However, Article 30 is confined only to minorities (religious or linguistic)."
+  },
+    {
+      "question": "In which Part of the Indian Constitution are the Directive Principles of State Policy enumerated?",
+      "options": ["Part III", "Part IV", "Part V", "Part VI"],
+      "correct": 1,
+      "explanation": "The Directive Principles of State Policy are enumerated in Part IV of the Constitution from Articles 36 to 51."
+    },
+    {
+      "question": "From which country's constitution did the framers of the Indian Constitution borrow the idea of Directive Principles of State Policy?",
+      "options": ["Spanish Constitution", "Irish Constitution of 1937", "American Constitution", "British Constitution"],
+      "correct": 1,
+      "explanation": "The framers of the Constitution borrowed the idea of Directive Principles from the Irish Constitution of 1937, which had itself copied it from the Spanish Constitution."
+    },
+    {
+      "question": "Who described the Directive Principles of State Policy as 'novel features' of the Indian Constitution?",
+      "options": ["Granville Austin", "Sir B.N. Rau", "Dr. B.R. Ambedkar", "Jawaharlal Nehru"],
+      "correct": 2,
+      "explanation": "Dr. B.R. Ambedkar described the Directive Principles as 'novel features' of the Indian Constitution."
+    },
+    {
+      "question": "Granville Austin described the Directive Principles and the Fundamental Rights together as which of the following?",
+      "options": ["Soul of the Constitution", "Conscience of the Constitution", "Cornerstone of the Constitution", "Philosophy of the Constitution"],
+      "correct": 1,
+      "explanation": "Granville Austin described the Directive Principles and the Fundamental Rights as the 'Conscience of the Constitution'."
+    },
+    {
+      "question": "Which Article of the Constitution defines the term 'State' for the purposes of Part IV (Directive Principles)?",
+      "options": ["Article 37", "Article 38", "Article 36", "Article 39"],
+      "correct": 2,
+      "explanation": "According to Article 36, the term 'State' in Part IV has the same meaning as in Part III dealing with Fundamental Rights."
+    },
+    {
+      "question": "The Directive Principles resemble which instrument mentioned in the Government of India Act of 1935?",
+      "options": ["Charter of Rights", "Instrument of Instructions", "Instrument of Governance", "Directive of Policy"],
+      "correct": 1,
+      "explanation": "The Directive Principles resemble the 'Instrument of Instructions' enumerated in the Government of India Act of 1935, as described by Dr. B.R. Ambedkar."
+    },
+    {
+      "question": "Which Article of the Constitution states that the Directive Principles are fundamental in the governance of the country and it shall be the duty of the State to apply them in making laws?",
+      "options": ["Article 36", "Article 38", "Article 37", "Article 39"],
+      "correct": 2,
+      "explanation": "Article 37 of the Constitution makes it clear that these principles are fundamental in the governance of the country and it shall be the duty of the State to apply these principles in making laws."
+    },
+    {
+      "question": "The Directive Principles are classified into how many broad categories based on their content and direction?",
+      "options": ["Two", "Three", "Four", "Five"],
+      "correct": 1,
+      "explanation": "On the basis of their content and direction, the Directive Principles can be classified into three broad categories: socialistic, Gandhian, and liberal-intellectual."
+    },
+    {
+      "question": "Under which Article do the Socialistic Principles direct the State to promote equal justice and provide free legal aid to the poor?",
+      "options": ["Article 39", "Article 41", "Article 39A", "Article 43"],
+      "correct": 2,
+      "explanation": "Article 39A directs the State to promote equal justice and to provide free legal aid to the poor."
+    },
+    {
+      "question": "Which of the following is a Gandhian Principle under the Directive Principles of State Policy?",
+      "options": ["Securing uniform civil code", "Organising village panchayats", "Separating judiciary from executive", "Promoting international peace"],
+      "correct": 1,
+      "explanation": "Organising village panchayats and endowing them with necessary powers and authority to function as units of self-government (Article 40) is a Gandhian Principle."
+    },
+    {
+      "question": "Which Article directs the State to prohibit the slaughter of cows, calves, and other milch and draught cattle?",
+      "options": ["Article 46", "Article 47", "Article 48", "Article 49"],
+      "correct": 2,
+      "explanation": "Article 48 directs the State to prohibit the slaughter of cows, calves and other milch and draught cattle and to improve their breeds. This is a Gandhian Principle."
+    },
+    {
+      "question": "Securing a uniform civil code throughout the country for all citizens falls under which category of Directive Principles?",
+      "options": ["Socialistic Principles", "Gandhian Principles", "Liberal-Intellectual Principles", "Economic Principles"],
+      "correct": 2,
+      "explanation": "Securing a uniform civil code for all citizens (Article 44) is classified under the Liberal-Intellectual Principles, which represent the ideology of liberalism."
+    },
+    {
+      "question": "Which Constitutional Amendment Act added the directive relating to participation of workers in the management of industries (Article 43A)?",
+      "options": ["44th Amendment Act of 1978", "42nd Amendment Act of 1976", "86th Amendment Act of 2002", "97th Amendment Act of 2011"],
+      "correct": 1,
+      "explanation": "The 42nd Amendment Act of 1976 added four new Directive Principles including Article 43A, which requires steps to secure the participation of workers in the management of industries."
+    },
+    {
+      "question": "The 44th Constitutional Amendment Act of 1978 added a Directive Principle which requires the State to do which of the following?",
+      "options": ["Provide free legal aid to the poor", "Protect and improve the environment", "Minimise inequalities in income, status, facilities and opportunities", "Promote co-operative societies"],
+      "correct": 2,
+      "explanation": "The 44th Amendment Act of 1978 added one more Directive Principle which requires the State to minimise inequalities in income, status, facilities and opportunities (Article 38)."
+    },
+    {
+      "question": "Which Amendment Act changed Article 45 and made elementary education a Fundamental Right under Article 21A?",
+      "options": ["42nd Amendment Act of 1976", "44th Amendment Act of 1978", "97th Amendment Act of 2011", "86th Amendment Act of 2002"],
+      "correct": 3,
+      "explanation": "The 86th Amendment Act of 2002 changed the subject-matter of Article 45 and made elementary education a fundamental right under Article 21A."
+    },
+    {
+      "question": "Which Amendment Act added a new Directive Principle relating to co-operative societies (Article 43B)?",
+      "options": ["42nd Amendment Act of 1976", "86th Amendment Act of 2002", "97th Amendment Act of 2011", "44th Amendment Act of 1978"],
+      "correct": 2,
+      "explanation": "The 97th Amendment Act of 2011 added a new Directive Principle relating to co-operative societies (Article 43B), requiring the State to promote voluntary formation, autonomous functioning, democratic control and professional management."
+    },
+    {
+      "question": "Who was the Constitutional Advisor to the Constituent Assembly who recommended dividing individual rights into justiciable and non-justiciable categories?",
+      "options": ["Dr. B.R. Ambedkar", "Granville Austin", "Sir B.N. Rau", "Alladi Krishna Swamy Ayyar"],
+      "correct": 2,
+      "explanation": "Sir B.N. Rau, the Constitutional Advisor to the Constituent Assembly, recommended that the rights of an individual should be divided into two categories—justiciable and non-justiciable."
+    },
+    {
+      "question": "What is the real force behind the Directive Principles according to the document?",
+      "options": ["Legal sanctions by the Supreme Court", "Financial penalties imposed by the government", "Public opinion", "International pressure"],
+      "correct": 2,
+      "explanation": "Though the Directive Principles impose a moral obligation on state authorities, the real force behind them is political, that is, public opinion."
+    },
+    {
+      "question": "Which critic described the Directive Principles as 'a cheque on a bank, payable only when the resources of the bank permit'?",
+      "options": ["Nasiruddin", "K.T. Shah", "T.T. Krishnamachari", "Sir Ivor Jennings"],
+      "correct": 1,
+      "explanation": "K.T. Shah dubbed the Directives as 'pious superfluities' and compared them with 'a cheque on a bank, payable only when the resources of the bank permit'."
+    },
+    {
+      "question": "Who described the Directive Principles as 'a veritable dustbin of sentiments'?",
+      "options": ["K.C. Wheare", "Sir Ivor Jennings", "T.T. Krishnamachari", "K. Santhanam"],
+      "correct": 2,
+      "explanation": "T.T. Krishnamachari described the Directives as 'a veritable dustbin of sentiments'."
+    },
+    {
+      "question": "According to Sir Ivor Jennings, the Directive Principles are based on the political philosophy of which century's England?",
+      "options": ["17th century", "18th century", "19th century", "20th century"],
+      "correct": 2,
+      "explanation": "According to Sir Ivor Jennings, the Directives are based on the political philosophy of the 19th century England, expressing 'Fabian Socialism without the socialism'."
+    },
+    {
+      "question": "K. Santhanam pointed out that the Directives lead to constitutional conflict between which of the following?",
+      "options": ["Between Parliament and the Supreme Court only", "Between the Centre and states, President and Prime Minister, and Governor and Chief Minister", "Between the Centre and states only", "Between the judiciary and executive only"],
+      "correct": 1,
+      "explanation": "K. Santhanam pointed out that the Directives lead to constitutional conflict (a) between the Centre and the states, (b) between the President and the Prime Minister, and (c) between the governor and the chief minister."
+    },
+    {
+      "question": "According to L.M. Singhvi, which of the following best describes the Directive Principles?",
+      "options": ["They are mere moral aspirations", "They are the life giving provisions of the Constitution and constitute its philosophy of social justice", "They are legally unenforceable and thus useless", "They are supplementary to Fundamental Rights only"],
+      "correct": 1,
+      "explanation": "According to L.M. Singhvi, an eminent jurist and diplomat, 'the Directives are the life giving provisions of the Constitution. They constitute the stuff of the Constitution and its philosophy of social justice'."
+    },
+    {
+      "question": "In which landmark Supreme Court case (1951) was it ruled that in case of conflict between Fundamental Rights and Directive Principles, the former would prevail?",
+      "options": ["Golaknath Case", "Kesavananda Bharati Case", "Champakam Dorairajan Case", "Minerva Mills Case"],
+      "correct": 2,
+      "explanation": "In the Champakam Dorairajan case (1951), the Supreme Court ruled that in case of any conflict between the Fundamental Rights and the Directive Principles, the former would prevail."
+    },
+    {
+      "question": "In the Golaknath case (1967), what did the Supreme Court rule regarding Fundamental Rights?",
+      "options": ["Fundamental Rights can be abridged by Parliament through ordinary legislation", "Parliament cannot take away or abridge any Fundamental Rights as they are 'sacrosanct'", "Directive Principles have supremacy over Fundamental Rights", "Fundamental Rights and Directive Principles are equal in legal standing"],
+      "correct": 1,
+      "explanation": "In the Golaknath case (1967), the Supreme Court ruled that the Parliament cannot take away or abridge any of the Fundamental Rights, which are 'sacrosanct' in nature."
+    },
+    {
+      "question": "Which Amendment Act declared that the Parliament has the power to abridge or take away any of the Fundamental Rights by enacting Constitutional Amendment Acts?",
+      "options": ["25th Amendment Act (1971)", "24th Amendment Act (1971)", "42nd Amendment Act (1976)", "44th Amendment Act (1978)"],
+      "correct": 1,
+      "explanation": "The 24th Amendment Act declared that the Parliament has the power to abridge or take away any of the Fundamental Rights by enacting Constitutional Amendment Acts."
+    },
+    {
+      "question": "Article 31C was inserted by which Amendment Act?",
+      "options": ["24th Amendment Act (1971)", "25th Amendment Act (1971)", "42nd Amendment Act (1976)", "44th Amendment Act (1978)"],
+      "correct": 1,
+      "explanation": "The 25th Amendment Act (1971) inserted a new Article 31C which contained provisions protecting laws implementing socialistic Directive Principles from challenge under Articles 14, 19, and 31."
+    },
+    {
+      "question": "In the Kesavananda Bharati case (1973), what did the Supreme Court declare about the second provision of Article 31C?",
+      "options": ["It was constitutional and valid", "It was unconstitutional and invalid as judicial review is a basic feature of the Constitution", "It was partly valid and partly invalid", "It was upheld in its entirety"],
+      "correct": 1,
+      "explanation": "In the Kesavananda Bharati case (1973), the Supreme Court declared the second provision of Article 31C as unconstitutional and invalid on the ground that judicial review is a basic feature of the Constitution and hence cannot be taken away."
+    },
+    {
+      "question": "In the Minerva Mills case (1980), the Supreme Court declared which extension as unconstitutional?",
+      "options": ["The 24th Amendment Act's extension of Parliamentary power", "The 42nd Amendment Act's extension of Article 31C's protection to all Directive Principles", "The 25th Amendment Act's insertion of Article 31C", "The 44th Amendment Act's omission of Article 31"],
+      "correct": 1,
+      "explanation": "The 42nd Amendment Act (1976) extended Article 31C's protection to all Directive Principles, but this extension was declared unconstitutional and invalid by the Supreme Court in the Minerva Mills case (1980)."
+    },
+    {
+      "question": "In the Minerva Mills case (1980), the Supreme Court described the Fundamental Rights and Directive Principles using which metaphor?",
+      "options": ["Two sides of the same coin", "Two wheels of a chariot", "Two pillars of the Constitution", "Two eyes of the Constitution"],
+      "correct": 1,
+      "explanation": "In the Minerva Mills case (1980), the Supreme Court held that Fundamental Rights and Directive Principles 'are like two wheels of a chariot, one no less than the other'."
+    },
+    {
+      "question": "What is the present legal position regarding the relationship between Fundamental Rights and Directive Principles?",
+      "options": ["Directive Principles have absolute supremacy", "Both are equal in legal standing", "Fundamental Rights enjoy supremacy, but Parliament can amend them to implement Directive Principles without destroying the basic structure", "Directive Principles are superior to Articles 14 and 19"],
+      "correct": 2,
+      "explanation": "The present position is that Fundamental Rights enjoy supremacy over the Directive Principles, but Parliament can amend the Fundamental Rights for implementing the Directive Principles, so long as the amendment does not damage or destroy the basic structure of the Constitution."
+    },
+    {
+      "question": "When was the Planning Commission replaced by NITI Aayog?",
+      "options": ["2014", "2015", "2016", "2013"],
+      "correct": 1,
+      "explanation": "In 2015, the Planning Commission was replaced by a new body called NITI Aayog (National Institution for Transforming India)."
+    },
+    {
+      "question": "The Legal Services Authorities Act (1987) established which forum for conciliatory settlement of legal disputes?",
+      "options": ["Gram Nyayalaya", "Lok Adalat", "Fast Track Court", "District Consumer Forum"],
+      "correct": 1,
+      "explanation": "The Legal Services Authorities Act (1987) established a nation-wide network to provide free legal aid and to organise Lok Adalat for promoting equal justice. Lok Adalat is a statutory forum for conciliatory settlement of legal disputes."
+    },
+    {
+      "question": "Which Amendment Act provided constitutional status and protection to Panchayati Raj institutions?",
+      "options": ["42nd Amendment Act (1976)", "44th Amendment Act (1978)", "73rd Amendment Act (1992)", "86th Amendment Act (2002)"],
+      "correct": 2,
+      "explanation": "The 73rd Amendment Act (1992) has been enacted to provide constitutional status and protection to Panchayati Raj institutions."
+    },
+    {
+      "question": "Which Article (outside Part IV) directs that the claims of Scheduled Castes and Scheduled Tribes shall be taken into consideration in making appointments to services and posts?",
+      "options": ["Article 350-A", "Article 351", "Article 335", "Article 340"],
+      "correct": 2,
+      "explanation": "Article 335 in Part XVI directs that the claims of members of Scheduled Castes and Scheduled Tribes shall be taken into consideration, consistently with the maintenance of efficiency of administration, in making appointments to services and posts."
+    },
+    {
+      "question": "Which Article outside Part IV requires every state and local authority to provide adequate facilities for instruction in the mother-tongue at the primary stage of education to linguistic minority groups?",
+      "options": ["Article 335", "Article 351", "Article 350-A", "Article 340"],
+      "correct": 2,
+      "explanation": "Article 350-A in Part XVII requires every state and every local authority within the state to provide adequate facilities for instruction in the mother-tongue at the primary stage of education to children belonging to linguistic minority groups."
+    },
+    {
+      "question": "What does Article 51 of the Constitution direct the State to do?",
+      "options": ["Separate the judiciary from the executive", "Protect monuments of national importance", "Promote international peace and security and encourage settlement of international disputes by arbitration", "Organise agriculture on modern and scientific lines"],
+      "correct": 2,
+      "explanation": "Article 51 directs the State to promote international peace and security and maintain just and honourable relations between nations; to foster respect for international law and treaty obligations, and to encourage settlement of international disputes by arbitration."
+    },
+    {
+      "question": "Which of the following correctly distinguishes Fundamental Rights from Directive Principles?",
+      "options": ["Fundamental Rights are positive while Directive Principles are negative in nature", "Fundamental Rights promote welfare of the community while Directive Principles promote welfare of the individual", "Fundamental Rights are justiciable while Directive Principles are non-justiciable", "Fundamental Rights require legislation for implementation while Directive Principles do not"],
+      "correct": 2,
+      "explanation": "Fundamental Rights are justiciable, that is, they are legally enforceable by the courts in case of their violation, while Directive Principles are non-justiciable, meaning they are not legally enforceable by courts for their violation."
+    },
+    {
+      "question": "According to the document, what concept do the Directive Principles embody in contrast to the 'police state' that existed during the colonial era?",
+      "options": ["A 'socialist state'", "A 'welfare state'", "A 'secular state'", "A 'democratic state'"],
+      "correct": 1,
+      "explanation": "The Directive Principles embody the concept of a 'welfare state' and not that of a 'police state', which existed during the colonial era."
+    },
+    {
+      "question": "Which of the following Acts was enacted to protect the SCs and STs from social injustice and exploitation, originally known as the Untouchability (Offences) Act, 1955?",
+      "options": ["Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989", "Protection of Civil Rights Act (renamed in 1976)", "Both of the above", "Neither of the above"],
+      "correct": 2,
+      "explanation": "The Untouchability (Offences) Act, 1955, was renamed as the Protection of Civil Rights Act in 1976 and the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989 were both enacted to protect SCs and STs from social injustice and exploitation."
+    },
+    {
+      "question": "A 'living wage' as mentioned in Article 43 differs from a 'minimum wage' in which of the following ways?",
+      "options": ["Living wage covers only bare needs like food, shelter and clothing", "Living wage includes education, health, insurance etc. in addition to bare needs", "Living wage is lower than minimum wage", "Living wage and minimum wage are the same"],
+      "correct": 1,
+      "explanation": "According to the document, 'minimum wage' includes the bare needs of life like food, shelter and clothing. In addition to these bare needs, a 'living wage' includes education, health, insurance, etc. A 'fair wage' is a mean between 'living wage' and 'minimum wage'."
+    },
+    {
+      "question": "The Fundamental Duties of citizens were added to the Indian Constitution by which Constitutional Amendment Act?",
+      "options": ["40th Constitutional Amendment Act, 1976", "42nd Constitutional Amendment Act, 1976", "44th Constitutional Amendment Act, 1978", "86th Constitutional Amendment Act, 2002"],
+      "correct": 1,
+      "explanation": "The 42nd Constitutional Amendment Act in 1976 added a new part, Part IVA, to the Constitution which specified a code of ten Fundamental Duties of citizens under Article 51A."
+    },
+    {
+      "question": "The Fundamental Duties in the Indian Constitution are inspired by the constitution of which country?",
+      "options": ["Japan", "USA", "Erstwhile USSR", "France"],
+      "correct": 2,
+      "explanation": "The Fundamental Duties in the Indian Constitution are inspired by the Constitution of erstwhile USSR, which declared that the citizen's exercise of their rights and freedoms was inseparable from the performance of their duties and obligations."
+    },
+    {
+      "question": "The Swaran Singh Committee recommended incorporation of how many Fundamental Duties?",
+      "options": ["Six", "Eight", "Ten", "Eleven"],
+      "correct": 1,
+      "explanation": "Though the Swaran Singh Committee suggested the incorporation of eight Fundamental Duties, the 42nd Constitutional Amendment Act (1976) included ten Fundamental Duties."
+    },
+    {
+      "question": "Under which Article of the Indian Constitution are the Fundamental Duties listed?",
+      "options": ["Article 49A", "Article 50A", "Article 51A", "Article 52A"],
+      "correct": 2,
+      "explanation": "The new Part IVA added by the 42nd Amendment consists of only one Article, that is, Article 51A, which for the first time specified a code of ten Fundamental Duties of citizens."
+    },
+    {
+      "question": "Which of the following was a recommendation of the Swaran Singh Committee that was NOT incorporated into the Constitution?",
+      "options": ["Citizens should abide by the Constitution", "Duty to pay taxes should be a Fundamental Duty", "Citizens should protect the natural environment", "Citizens should develop scientific temper"],
+      "correct": 1,
+      "explanation": "The duty to pay taxes was recommended by the Swaran Singh Committee but was not accepted by the Congress Party and hence not incorporated in the Constitution."
+    },
+    {
+      "question": "The 11th Fundamental Duty on providing education to children between 6 and 14 years was added by which Amendment Act?",
+      "options": ["42nd Constitutional Amendment Act, 1976", "44th Constitutional Amendment Act, 1978", "73rd Constitutional Amendment Act, 1992", "86th Constitutional Amendment Act, 2002"],
+      "correct": 3,
+      "explanation": "The duty to provide opportunities for education to his/her child or ward between the age of six and fourteen years was added by the 86th Constitutional Amendment Act, 2002."
+    },
+    {
+      "question": "Which of the following statements about Fundamental Duties is correct as per the Indian Constitution?",
+      "options": ["They are justiciable and can be enforced by courts directly", "They extend to all persons including foreigners", "They are non-justiciable like the Directive Principles", "They override Fundamental Rights in case of conflict"],
+      "correct": 2,
+      "explanation": "Like the Directive Principles, the Fundamental Duties are also non-justiciable. The Constitution does not provide for their direct enforcement by the courts. Moreover, there is no legal sanction against their violation."
+    },
+    {
+      "question": "In which Part of the Indian Constitution are the Fundamental Duties contained?",
+      "options": ["Part III", "Part IV", "Part IVA", "Part V"],
+      "correct": 2,
+      "explanation": "The 42nd Constitutional Amendment Act added a new Part IVA to the Constitution which contains Article 51A listing the Fundamental Duties of citizens."
+    },
+    {
+      "question": "Which democratic country's constitution is perhaps the only one in the world to specifically contain a list of duties of citizens?",
+      "options": ["Germany", "Canada", "Japan", "Australia"],
+      "correct": 2,
+      "explanation": "The Japanese Constitution is, perhaps, the only democratic Constitution in the world which contains a list of duties of citizens. Countries like USA, Canada, France, Germany and Australia do not contain such a list."
+    },
+    {
+      "question": "Which was the period of internal emergency referred to in the context of the need for Fundamental Duties?",
+      "options": ["1971–1973", "1973–1975", "1975–1977", "1977–1979"],
+      "correct": 2,
+      "explanation": "The Swaran Singh Committee was set up to make recommendations about Fundamental Duties, the need of which was felt during the operation of the internal emergency (1975–1977)."
+    },
+    {
+      "question": "Which of the following is NOT listed as a Fundamental Duty under Article 51A of the Indian Constitution?",
+      "options": ["To develop scientific temper, humanism and the spirit of inquiry and reform", "To safeguard public property and to abjure violence", "To cast vote in elections", "To protect and improve the natural environment including forests, lakes, rivers and wildlife"],
+      "correct": 2,
+      "explanation": "Casting vote is not a Fundamental Duty listed under Article 51A. The PDF notes it as a gap under 'Criticism of Fundamental Duties', where the list is described as not exhaustive."
+    },
+    {
+      "question": "In the Mohan Kumar Singhania case (1991), what did the Supreme Court hold regarding Article 51A?",
+      "options": ["Fundamental Duties are justiciable and enforceable", "Article 51A can be used to interpret ambiguous laws to determine their constitutionality", "Fundamental Duties override Fundamental Rights", "Violation of Fundamental Duties is a punishable offence"],
+      "correct": 1,
+      "explanation": "In Mohan Kumar Singhania case (1991), the Supreme Court held that Article 51A (Fundamental Duties) can be used to interpret ambiguous laws in order to determine their constitutionality."
+    },
+    {
+      "question": "Which of the following is a correctly described feature of Fundamental Duties?",
+      "options": ["They extend to foreigners living in India", "Some are moral duties while others are civic duties", "They are justiciable in nature", "They were part of the original Constitution"],
+      "correct": 1,
+      "explanation": "Some Fundamental Duties are moral duties while others are civic duties. For instance, cherishing noble ideals of freedom struggle is a moral precept and respecting the Constitution, National Flag and National Anthem is a civic duty."
+    },
+    {
+      "question": "What was the position of the Janata Government under Morarji Desai regarding Fundamental Duties?",
+      "options": ["It annulled the Fundamental Duties through the 43rd Amendment", "It added more Fundamental Duties to the Constitution", "It did not annul the Fundamental Duties", "It made Fundamental Duties justiciable"],
+      "correct": 2,
+      "explanation": "The new Janata Government headed by Morarji Desai in the post-emergency period did not annul the Fundamental Duties, even though it sought to undo many changes introduced by the 42nd Amendment Act through the 43rd and 44th Amendment Acts."
+    },
+    {
+      "question": "The Prevention of Insults to National Honour Act (1971) identified by the Verma Committee implements which Fundamental Duty?",
+      "options": ["To uphold and protect the sovereignty, unity and integrity of India", "To abide by the Constitution and respect the National Flag and the National Anthem", "To promote harmony and the spirit of common brotherhood", "To safeguard public property and abjure violence"],
+      "correct": 1,
+      "explanation": "The Verma Committee identified that the Prevention of Insults to National Honour Act (1971) prevents disrespect to the Constitution of India, the National Flag and the National Anthem, corresponding to clause (a) of Article 51A."
+    },
+    {
+      "question": "Critics argued that Fundamental Duties should have been placed where in the Constitution?",
+      "options": ["Before Part III to override Fundamental Rights", "After Part III to keep them on par with Fundamental Rights", "In Part II along with Citizenship provisions", "As part of Directive Principles in Part IV"],
+      "correct": 1,
+      "explanation": "The PDF states that critics argued the inclusion of Fundamental Duties as an appendage to Part IV reduced their value and significance. They should have been added after Part III so as to keep them on par with Fundamental Rights."
+    },
+    {
+      "question": "The Wildlife (Protection) Act of 1972 identified by the Verma Committee implements which Fundamental Duty?",
+      "options": ["To develop scientific temper and humanism", "To value and preserve the rich heritage of composite culture", "To protect and improve the natural environment and have compassion for living creatures", "To safeguard public property and abjure violence"],
+      "correct": 2,
+      "explanation": "The Verma Committee identified that the Wildlife (Protection) Act of 1972, which prohibits trade in rare and endangered species, corresponds to the Fundamental Duty to protect the natural environment and have compassion for living creatures."
+    },
+    {
+      "question": "In the Ramlila Maidan Incident case (2012), what did the Supreme Court observe about Parts III, IV and IVA of the Constitution?",
+      "options": ["These parts are mutually exclusive and should be interpreted independently", "A common thread runs through all three parts and they should be interpreted together", "Part IVA overrides Parts III and IV in case of conflict", "Parts III and IV are justiciable while Part IVA is not"],
+      "correct": 1,
+      "explanation": "In the Ramlila Maidan Incident case (2012), the court observed that a common thread runs through Parts III, IV and IVA of the Constitution, and it is always advisable to examine the scope and impact of interpretation on all three constitutional aspects."
+    },
+    {
+      "question": "Which of the following correctly describes the significance of Fundamental Duties as mentioned in the PDF?",
+      "options": ["They serve as binding obligations enforceable by courts against citizens", "They serve as a reminder to citizens to be conscious of duties while enjoying rights", "They serve as a basis to suspend Fundamental Rights during emergency", "They serve as guidelines only for Parliament to make laws"],
+      "correct": 1,
+      "explanation": "Fundamental Duties serve as a reminder to the citizens that while enjoying their rights, they should also be conscious of duties they owe to their country, their society and to their fellow citizens."
+    },
+    {
+      "question": "The Swaran Singh Committee's recommendation that no law imposing penalty for non-performance of duties shall be questioned in court was rejected. What was the ground on which such a law could have been challenged, making this recommendation necessary?",
+      "options": ["On the ground of violation of Directive Principles of State Policy", "On the ground of infringement of Fundamental Rights or repugnancy to any other provision of the Constitution", "On the ground of violation of basic structure of the Constitution", "On the ground of conflict with international treaties"],
+      "correct": 1,
+      "explanation": "The Swaran Singh Committee recommended that no law imposing penalty for non-compliance with duties shall be called in question in any court on the ground of infringement of any Fundamental Rights or on the ground of repugnancy to any other provision of the Constitution."
+    },
+    {
+      "question": "Which of the following best describes the nature of the amendment procedure of the Indian Constitution as given in the text?",
+      "options": [
+        "Completely rigid like the USA",
+        "Completely flexible like Britain",
+        "A synthesis of flexibility and rigidity",
+        "Dependent entirely on state legislatures"
+      ],
+      "correct": 2,
+      "explanation": "The text states that the Indian Constitution is neither flexible nor rigid but a synthesis of both."
+    },
+    {
+      "question": "Article 368 in Part XX primarily deals with:",
+      "options": [
+        "Emergency provisions",
+        "Powers of Parliament to amend the Constitution and its procedure",
+        "Judicial appointments",
+        "Distribution of taxation powers"
+      ],
+      "correct": 1,
+      "explanation": "Article 368 deals with Parliament's power to amend the Constitution and the procedure for doing so."
+    },
+    {
+      "question": "According to the text, Parliament may amend the Constitution by way of:",
+      "options": [
+        "Addition, variation or repeal",
+        "Judicial interpretation only",
+        "Executive notification only",
+        "Referendum only"
+      ],
+      "correct": 0,
+      "explanation": "The text expressly mentions amendment by addition, variation or repeal."
+    },
+    {
+      "question": "Which limitation on Parliament's amending power was affirmed in the Kesavananda Bharati case (1973)?",
+      "options": [
+        "No Fundamental Rights can be amended",
+        "Only states can amend federal provisions",
+        "Basic structure cannot be amended",
+        "President can veto any amendment"
+      ],
+      "correct": 2,
+      "explanation": "The Supreme Court held that Parliament cannot amend provisions forming the basic structure of the Constitution."
+    },
+    {
+      "question": "A Constitutional Amendment Bill can be introduced in:",
+      "options": [
+        "Only Lok Sabha",
+        "Only Rajya Sabha",
+        "Either House of Parliament",
+        "Any State Legislature"
+      ],
+      "correct": 2,
+      "explanation": "The text states that such a bill may be introduced in either House of Parliament."
+    },
+    {
+      "question": "Who may introduce a Constitutional Amendment Bill according to the text?",
+      "options": [
+        "Only a minister",
+        "Only the Prime Minister",
+        "Either a minister or a private member",
+        "Only the President"
+      ],
+      "correct": 2,
+      "explanation": "The bill can be introduced either by a minister or by a private member."
+    },
+    {
+      "question": "Prior permission of the President is required before introducing a Constitutional Amendment Bill.",
+      "options": [
+        "Always required",
+        "Required only in Lok Sabha",
+        "Not required",
+        "Required only for federal amendments"
+      ],
+      "correct": 2,
+      "explanation": "The text clearly states that prior permission of the President is not required."
+    },
+    {
+      "question": "Special majority for passing a Constitutional Amendment Bill in each House means:",
+      "options": [
+        "Simple majority of members present and voting",
+        "Majority of total membership and two-thirds of members present and voting",
+        "Two-thirds of total membership only",
+        "Unanimous approval"
+      ],
+      "correct": 1,
+      "explanation": "The required majority is majority of total membership plus two-thirds of members present and voting."
+    },
+    {
+      "question": "If the two Houses disagree on a Constitutional Amendment Bill, what mechanism exists?",
+      "options": [
+        "Joint sitting",
+        "Joint committee",
+        "Presidential mediation",
+        "No provision for joint sitting"
+      ],
+      "correct": 3,
+      "explanation": "The text specifically says there is no provision for a joint sitting for such a bill."
+    },
+    {
+      "question": "Amendments affecting federal provisions additionally require ratification by:",
+      "options": [
+        "All states unanimously",
+        "Half of the states by simple majority",
+        "One-third of the states",
+        "Rajya Sabha alone"
+      ],
+      "correct": 1,
+      "explanation": "Federal provisions need ratification by legislatures of half of the states by simple majority."
+    },
+    {
+      "question": "After passage and required ratification, a Constitutional Amendment Bill is presented to the President for:",
+      "options": [
+        "Reconsideration",
+        "Dissolution",
+        "Assent",
+        "Reference to Supreme Court"
+      ],
+      "correct": 2,
+      "explanation": "The bill is presented to the President for assent."
+    },
+    {
+      "question": "After the 24th Constitutional Amendment Act, 1971, the President:",
+      "options": [
+        "May withhold assent",
+        "May return the bill for reconsideration",
+        "Must give assent to a Constitutional Amendment Bill",
+        "May refer it to states again"
+      ],
+      "correct": 2,
+      "explanation": "The 24th Amendment made it obligatory for the President to give assent."
+    },
+    {
+      "question": "After Presidential assent, the amendment bill becomes:",
+      "options": [
+        "A Money Bill",
+        "A Constitutional Amendment Act",
+        "An Ordinance",
+        "A Directive"
+      ],
+      "correct": 1,
+      "explanation": "Upon assent, it becomes a constitutional amendment act."
+    },
+    {
+      "question": "According to the text, the Constitution can be amended in how many ways?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Five"
+      ],
+      "correct": 1,
+      "explanation": "The text lists three ways: simple majority, special majority, and special majority plus state ratification."
+    },
+    {
+      "question": "Which of the following can be amended by a simple majority of Parliament outside Article 368?",
+      "options": [
+        "Fundamental Rights",
+        "Directive Principles",
+        "Admission or establishment of new states",
+        "Election of the President"
+      ],
+      "correct": 2,
+      "explanation": "Admission or establishment of new states is listed under simple majority amendments."
+    }
+]

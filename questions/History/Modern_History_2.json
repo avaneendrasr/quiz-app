@@ -2,43 +2,43 @@
   {
     "question": "Which of the following best describes the aim of Socio-Religious Reform Movements in India during the British period?",
     "options": [
-      "To replace Indian traditions entirely with Western values",
       "To transform society and religion by addressing social evils and promoting enlightenment",
-      "To establish a theocratic state based on Vedic principles",
-      "To resist Western education and promote only traditional learning"
+      "To establish autonomous Hindu kingdoms independent of Mughal oversight",
+      "To reconcile Indian traditions with rational Western Enlightenment thought",
+      "To abolish caste distinctions by adopting Christian missionary principles"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Aim: Transform society and religion for the better by addressing social evils and promoting enlightenment.' The movements kept what was ethical in tradition and threw out what was plainly rotten."
   },
   {
     "question": "Which Act of 1813 allowed Christian missionaries to critique religious practices in India?",
     "options": [
       "Regulating Act",
-      "Pitt's India Act",
       "Charter Act of 1813",
-      "Government of India Act"
+      "Government of India Act",
+      "Pitt's India Act"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes mention: 'The Charter Act of 1813 allowed missionaries to critique religious practices.' This was one of the factors leading to socio-religious reforms."
   },
   {
     "question": "Raja Ram Mohan Roy wrote 'Tuhfat-ul-Muwahhidin' (A Gift to Monotheists) in which language?",
     "options": [
-      "Bengali",
-      "Sanskrit",
       "Urdu",
-      "Persian"
+      "Sanskrit",
+      "Persian",
+      "Bengali"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "According to the notes, Ram Mohan Roy 'Wrote Tuhfat-ul-Muwahhidin (A Gift to Monotheists) in Persian (1805)'."
   },
   {
     "question": "The Atmiya Sabha, founded by Raja Ram Mohan Roy in 1815, primarily aimed at:",
     "options": [
-      "Promoting widow remarriage",
+      "Translating the Upanishads and Quran into English for comparative study",
       "Critiquing idolatry and polytheism while advocating monotheism and rational thought",
-      "Establishing English medium schools",
-      "Uniting all religions under one banner"
+      "Translating Vedic texts into vernacular languages for wider reach",
+      "Challenging the authority of the East India Company in Bengal"
     ],
     "correct": 1,
     "explanation": "The notes state that Atmiya Sabha (1815) 'Critiqued idolatry and polytheism' and 'Advocated monotheism and rational thought'."
@@ -46,10 +46,10 @@
   {
     "question": "Which Governor-General supported Raja Ram Mohan Roy in the abolition of Sati in 1829?",
     "options": [
+      "Lord Dalhousie",
       "Lord Cornwallis",
-      "Lord Hastings",
       "William Bentinck",
-      "Lord Dalhousie"
+      "Lord Hastings"
     ],
     "correct": 2,
     "explanation": "The notes state that Roy 'Influenced its banning with the support of William Bentinck' regarding the Bengal Sati Regulation, 1829."
@@ -57,32 +57,32 @@
   {
     "question": "The Brahmo Sabha, founded in 1828, was focused on:",
     "options": [
-      "Revival of Vedic rituals",
       "Monotheism, social equality, and human dignity",
-      "Promotion of Sanskrit education",
-      "Opposition to Western education"
+      "Rejection of all non-Hindu reform movements including Brahmo Samaj",
+      "Promotion of indigenous crafts and cottage industry revival",
+      "Propagation of Urdu as the medium for Hindu religious learning"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "According to the notes, 'Brahmo Sabha (1828) focused on monotheism, social equality, and human dignity. By 1830, it was known as Brahmo Samaj.'"
   },
   {
     "question": "After Raja Ram Mohan Roy's death in 1833, who took over the leadership of Brahmo Samaj?",
     "options": [
       "Keshab Chandra Sen",
+      "Dwarka Nath Tagore",
       "Debendranath Tagore",
-      "Ishwar Chandra Vidyasagar",
-      "Dwarka Nath Tagore"
+      "Ishwar Chandra Vidyasagar"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'After the death of Raja Ram Mohan Roy in 1833, the leadership of the Brahmo Samaj passed to Debendranath Tagore, the father of Rabindranath Tagore.'"
   },
   {
     "question": "The Tattvabodhini Sabha, founded by Debendranath Tagore in 1839, aimed to:",
     "options": [
       "Promote rationalism by focusing on India's history and indigenous languages",
-      "Convert Hindus to Christianity",
-      "Establish English medium schools in Bengal",
-      "Unite Hindus and Muslims under one religious banner"
+      "Revive ancient Vedic practices and reject Western influence",
+      "Create a separate educational institution for upper-caste Hindus",
+      "Publish rationalist literature challenging Brahminical orthodoxy"
     ],
     "correct": 0,
     "explanation": "The notes mention that Tattvabodhini Sabha was 'Founded by Debendranath to carry forward the ideas of Raja Ram Mohan Roy aiming to promote rationalism by focusing on India's history and indigenous languages.'"
@@ -90,32 +90,32 @@
   {
     "question": "The split of Brahmo Samaj in 1866 resulted in the formation of which two organizations?",
     "options": [
-      "Brahmo Samaj of India and Sadharan Brahmo Samaj",
-      "Brahmo Samaj of India and Adi Brahmo Samaj",
       "Adi Brahmo Samaj and Prarthana Samaj",
-      "Sadharan Brahmo Samaj and Arya Samaj"
+      "Sadharan Brahmo Samaj and Arya Samaj",
+      "Brahmo Samaj of India and Sadharan Brahmo Samaj",
+      "Brahmo Samaj of India and Adi Brahmo Samaj"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "According to the notes, in 1866 'this led to the formation of: Brahmo Samaj of India (led by Keshub Chandra Sen) and Adi Brahmo Samaj (led by Debendranath Tagore).'"
   },
   {
     "question": "The Sadharan Brahmo Samaj was formed in 1878 primarily because:",
     "options": [
-      "Keshab Chandra Sen wanted to integrate all religions",
       "Keshab Chandra Sen conducted his underage daughter's marriage using orthodox rituals",
-      "Debendranath Tagore opposed Western education",
-      "The Brahmo Samaj failed to oppose the Sati system"
+      "Debendranath Tagore accepted Western dress codes against Brahmo values",
+      "Debendranath Tagore formally broke from the Vedas as the sole authority",
+      "Keshab Chandra Sen renounced Hinduism and embraced a new syncretic religion"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Another split occurred when Keshub Chandra Sen conducted his underage daughter's marriage using orthodox rituals, which contradicted the reformist principles of the Brahmo Samaj. Disgruntled members established the Sadharan Brahmo Samaj.'"
   },
   {
     "question": "Henry Vivian Derozio was associated with which institution as a professor?",
     "options": [
-      "Presidency College, Calcutta",
+      "Serampore College, Bengal",
       "Hindu College, Kolkata",
-      "Calcutta University",
-      "Fort William College"
+      "Sanskrit College, Calcutta",
+      "David Hare School, Calcutta"
     ],
     "correct": 1,
     "explanation": "The notes describe Derozio as an 'Anglo-Indian radical thinker, professor at Hindu College (1826), Kolkata' who founded the Academic Association (1828)."
@@ -123,54 +123,54 @@
   {
     "question": "Ishwar Chandra Vidyasagar's most notable legislative achievement was lobbying for which Act?",
     "options": [
-      "Bengal Sati Regulation, 1829",
-      "Caste Disabilities Removal Act, 1850",
+      "Bengal Sati Regulation, 1826",
       "Hindu Widows' Remarriage Act, 1856",
-      "Age of Consent Act, 1891"
+      "Caste Disabilities Removal Act, 1847",
+      "Age of Consent Act, 1893"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state that Vidyasagar 'Led the Hindu Widow Remarriage Act (1856)' through his lobbying efforts."
   },
   {
     "question": "Which reformer was known as the 'Father of Marathi Journalism' and founded the newspaper Darpan in 1832?",
     "options": [
-      "Mahadev Govind Ranade",
       "Gopal Ganesh Agarkar",
       "Balshastri Jambhekar",
-      "Jyotirao Phule"
+      "Jyotirao Phule",
+      "Mahadev Govind Ranade"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "According to the notes, Balshastri Jambhekar (1812-1846) was 'Known as the Father of Marathi Journalism' and 'Founded the first Marathi newspaper, Darpan, in 1832.'"
   },
   {
     "question": "The Prarthana Samaj was founded in 1867 in Bombay by:",
     "options": [
       "Mahadev Govind Ranade",
-      "Atmaram Pandurang",
       "Dadoba Pandurang",
-      "Gopal Ganesh Agarkar"
+      "Gopal Ganesh Agarkar",
+      "Atmaram Pandurang"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Prarthana Samaj (1867) was Founded by Atmaram Pandurang in Bombay (1867)' and was influenced by Brahmo Samaj ideals."
   },
   {
     "question": "Jyotirao Phule published 'Gulamgiri' (1873) which primarily emphasized:",
     "options": [
-      "Vedic authority and revival",
       "Equality and opposition to caste dominance",
-      "Muslim reform and education",
-      "Women's rights in the Western tradition"
+      "Vedantic philosophy and Hindu revivalism",
+      "Vedic authority and revival",
+      "Resistance to British land revenue settlements in rural areas"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes mention that Jyotirao Phule 'Published Gulamgiri (1873) and other works emphasizing equality' and 'Criticized orthodox Brahmins and caste dominance.'"
   },
   {
     "question": "Savitribai Phule opened India's first school for girls at which location?",
     "options": [
-      "Bombay",
-      "Nasik",
+      "Surat, Gujarat",
+      "Satara",
       "Bhide Wada, Pune",
-      "Satara"
+      "Banaras (Varanasi), Uttar Pradesh"
     ],
     "correct": 2,
     "explanation": "According to the notes, Savitribai Phule 'Opened India's first school for girls at Bhide Wada, Pune (1851).'"
@@ -178,10 +178,10 @@
   {
     "question": "Maharshi Dhondo Keshav Karve was honored with the Bharat Ratna in which year?",
     "options": [
-      "1947",
-      "1950",
+      "1952",
+      "1967",
       "1958",
-      "1965"
+      "1945"
     ],
     "correct": 2,
     "explanation": "The notes state that Karve was 'Honored with the Bharat Ratna (1958) for his contributions to social reform.'"
@@ -189,53 +189,53 @@
   {
     "question": "The SNDT Women's University, India's first women's university, was founded by whom and in which year?",
     "options": [
-      "Pandita Ramabai in 1889",
+      "Savitribai Phule in 1848",
+      "Pandita Ramabai in 1892",
       "Maharshi Dhondo Keshav Karve in 1916",
-      "Savitribai Phule in 1851",
-      "Ramabai Ranade in 1908"
+      "Ramabai Ranade in 1910"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes mention that Karve 'Founded SNDT Women's University (1916), India's first women's university, in Maharashtra.'"
   },
   {
     "question": "The Servants of India Society (1905) was founded by:",
     "options": [
-      "Bal Gangadhar Tilak",
-      "Gopal Krishna Gokhale",
       "Mahadev Govind Ranade",
-      "Surendranath Banerjee"
+      "Bal Gangadhar Tilak",
+      "Surendranath Banerjee",
+      "Gopal Krishna Gokhale"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "According to the notes, 'Servants of India Society (1905) was Founded by Gopal Krishna Gokhale in 1905 at Poona.' Gokhale was also the leader of the moderate faction of the Indian National Congress."
   },
   {
     "question": "The quote 'What Bengal thinks today, India thinks tomorrow' is attributed to which leader?",
     "options": [
+      "Surendranath Banerjee",
       "Rabindranath Tagore",
       "Bal Gangadhar Tilak",
-      "Gopal Krishna Gokhale",
-      "Surendranath Banerjee"
+      "Gopal Krishna Gokhale"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes attribute this famous quote to Gopal Krishna Gokhale: 'Famous for the quote: What Bengal thinks today, India thinks tomorrow.'"
   },
   {
     "question": "The Ramakrishna Mission was founded in 1897 by:",
     "options": [
-      "Ramakrishna Paramahansa",
-      "Swami Vivekananda",
       "Debendranath Tagore",
-      "Keshab Chandra Sen"
+      "Ramakrishna Paramahansa",
+      "Keshab Chandra Sen",
+      "Swami Vivekananda"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "According to the notes, 'Ramakrishna Math (1886-87, organized by his disciples) and Ramakrishna Mission (1897) were founded by Swami Vivekananda in his master's name.'"
   },
   {
     "question": "Swami Vivekananda represented Hinduism at which international event in 1893?",
     "options": [
-      "World Parliament of Nations, London",
-      "World Parliament of Religions, Chicago",
       "International Congress of Philosophy, Paris",
+      "World Parliament of Religions, Chicago",
+      "World Parliament of Nations, London",
       "World Conference of Religions, New York"
     ],
     "correct": 1,
@@ -244,21 +244,21 @@
   {
     "question": "Swami Dayanand Saraswati established the Arya Samaj in which city and year?",
     "options": [
-      "Lahore, 1877",
-      "Delhi, 1875",
+      "Delhi, 1877",
       "Bombay, 1875",
-      "Calcutta, 1873"
+      "Lahore, 1875",
+      "Calcutta, 1870"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Swami Dayananda Saraswati (original name: Mool Shankar Tiwari) established Arya Samaj in Bombay, 1875.'"
   },
   {
     "question": "The famous slogan 'Go Back to the Vedas' is associated with which reform movement?",
     "options": [
       "Brahmo Samaj",
-      "Prarthana Samaj",
+      "Ramakrishna Mission",
       "Arya Samaj",
-      "Ramakrishna Mission"
+      "Prarthana Samaj"
     ],
     "correct": 2,
     "explanation": "The notes clearly state that Arya Samaj had a 'Famous Slogan: Go Back to the Vedas' under the leadership of Swami Dayananda Saraswati."
@@ -266,98 +266,98 @@
   {
     "question": "The Shuddhi Movement, advocating reconversion of Hindus who had converted to other religions, was introduced by:",
     "options": [
+      "Bal Gangadhar Tilak",
       "Swami Vivekananda",
-      "Swami Dayanand Saraswati",
       "Keshab Chandra Sen",
-      "Bal Gangadhar Tilak"
+      "Swami Dayanand Saraswati"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "According to the notes, Swami Dayanand Saraswati 'Introduced Shuddhi Movement, advocating for reconversion of Hindus who had converted to other religions.'"
   },
   {
     "question": "The College Party of Arya Samaj, which advocated modern education, was led by which prominent leaders?",
     "options": [
       "Swami Shraddhanand and Guru Datta Vidyarthi",
-      "Lala Hansraj, Lala Lajpat Rai, and Lala Lal Chand",
       "Mahatma Gandhi and Jawaharlal Nehru",
-      "Bal Gangadhar Tilak and Bipin Chandra Pal"
+      "Bal Gangadhar Tilak and Bipin Chandra Pal",
+      "Lala Hansraj, Lala Lajpat Rai, and Lala Lal Chand"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state that the College Party was 'Led by Lala Hansraj, Lala Lajpat Rai, and Lala Lal Chand' and 'Focused on modern education, establishing DAV schools and colleges.'"
   },
   {
     "question": "The Theosophical Society was founded in 1875 in New York by:",
     "options": [
-      "Annie Besant and Colonel H.S. Olcott",
-      "Madame Helena Blavatsky and Colonel H.S. Olcott",
+      "Colonel H.S. Olcott and Swami Vivekananda",
       "Madame Helena Blavatsky and Annie Besant",
-      "Colonel H.S. Olcott and Swami Vivekananda"
+      "Annie Besant and Colonel H.S. Olcott",
+      "Madame Helena Blavatsky and Colonel H.S. Olcott"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "According to the notes, the Theosophical Society was 'Founded: 1875, New York, by Madame Helena Blavatsky and Colonel H.S. Olcott' and later shifted its headquarters to Adyar, Madras, India (1882)."
   },
   {
     "question": "The Theosophical Society's founding of Central Hindu School in 1898 at Varanasi eventually evolved into which institution?",
     "options": [
+      "Punjab University",
       "Aligarh Muslim University",
       "Banaras Hindu University",
-      "Calcutta University",
-      "Punjab University"
+      "Serampore College, Bengal"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state that the Theosophical Society 'Founded Central Hindu School (1898) in Varanasi, which evolved into Banaras Hindu University (BHU) led by Madan Mohan Malviya.'"
   },
   {
     "question": "The Ezhava Movement in Kerala was founded by:",
     "options": [
+      "Sree Narayana Guru Swamy",
       "Ayya Vaikundar",
       "E.V. Ramaswamy Periyar",
-      "Sree Narayana Guru Swamy",
       "K.P. Kesava"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state that the Ezhava Movement had its 'Founder: Sree Narayana Guru Swamy among Ezhava community of Kerala.'"
   },
   {
     "question": "The SNDP (Sree Narayana Dharma Paripalana Yogam) was formed to fight for which rights among others?",
     "options": [
       "Only political representation",
+      "Right to higher education only",
       "Right to admission in schools, recruitment in government jobs, access to roads, entry to temples, and political representation",
-      "Only temple entry rights",
-      "Right to higher education only"
+      "Only temple entry rights"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "According to the notes, SNDP worked for reforms like 'Right to admission in Schools, Recruitment in Govt. Jobs, Access to Roads and entry to temples, Political Representation.'"
   },
   {
     "question": "The Vaikom Satyagraha (1924) in Kerala was primarily aimed at:",
     "options": [
+      "Challenging the authority of the East India Company in Bengal",
+      "Opposing the partition of Bengal",
       "Abolition of child marriage",
-      "Demanding temple entry for Dalits",
-      "Promoting widow remarriage",
-      "Opposing the partition of Bengal"
+      "Demanding temple entry for Dalits"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state that the Vaikom Satyagraha 'Demanded temple entry for Dalits' and was 'Supported by Gandhi, it led to the opening of state-managed temples to all in 1936.'"
   },
   {
     "question": "B.R. Ambedkar led the Mahad Satyagraha (1927) which asserted civic rights to:",
     "options": [
-      "Public parks",
-      "Government offices",
       "Public water (Chavdar Tank)",
-      "Educational institutions"
+      "Educational institutions",
+      "Public parks",
+      "Government offices"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "According to the notes, 'Mahad Satyagraha (Chavdar Tank), 20 March 1927, led by B. R. Ambedkar (1891-1956), asserted civic rights to public water.'"
   },
   {
     "question": "B.R. Ambedkar's guiding principle was:",
     "options": [
-      "Satyagraha, Ahimsa, and Seva",
-      "Educate, Agitate and Organize",
       "Truth, Non-Violence, and Self-Reliance",
-      "Boycott, Swadeshi, and Non-Cooperation"
+      "Educate, Agitate and Organize",
+      "Boycott, Swadeshi, and Non-Cooperation",
+      "Satyagraha, Ahimsa, and Seva"
     ],
     "correct": 1,
     "explanation": "The notes mention that Ambedkar's 'Guiding Principle - Educate, Agitate and Organize.'"
@@ -366,31 +366,31 @@
     "question": "The Wahhabi Movement was founded by:",
     "options": [
       "Haji Shariatullah",
-      "Syed Ahmad Barelvi",
       "Shah Ismail",
+      "Syed Ahmad Barelvi",
       "Mirza Ghulam Ahmad"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "According to the notes, the Wahhabi Movement had 'Founder: Syed Ahmad Barelvi' and was primarily aimed against Sikh rule (defeated at Balakot, 1831)."
   },
   {
     "question": "The Faraizi Movement in eastern Bengal was started by:",
     "options": [
-      "Syed Ahmad Barelvi",
-      "Mirza Ghulam Ahmad",
       "Haji Shariatullah",
-      "Sir Syed Ahmad Khan"
+      "Sir Syed Ahmad Khan",
+      "Mirza Ghulam Ahmad",
+      "Syed Ahmad Barelvi"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes mention: 'Faraizi movement in eastern Bengal by Haji Shariatullah (1781-1840); stressed obligatory farz duties and peasant rights; led later by Dudu Miyan (1819-1862).'"
   },
   {
     "question": "The Muhammadan Anglo-Oriental College at Aligarh was founded in which year?",
     "options": [
-      "1857",
+      "1878",
       "1875",
-      "1880",
-      "1869"
+      "1872",
+      "1859"
     ],
     "correct": 1,
     "explanation": "The notes state that Sir Syed Ahmad Khan 'founded the Muhammadan Anglo-Oriental College at Aligarh (1875; became AMU in 1920).'"
@@ -398,45 +398,45 @@
   {
     "question": "The Nirankari Movement rejected idol worship and emphasized adherence to whose teachings?",
     "options": [
-      "Guru Gobind Singh",
       "Guru Nanak",
-      "Guru Arjun Dev",
-      "Guru Tegh Bahadur"
+      "Guru Gobind Singh",
+      "Guru Tegh Bahadur",
+      "Guru Arjun Dev"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "According to the notes, the Nirankari Movement 'Rejected idol worship and emphasized adherence to Guru Nanak's teachings.'"
   },
   {
     "question": "The Akali (Gurdwara Reform) Movement (1920-1925) resulted in which legislation?",
     "options": [
-      "Punjab Religious Places Act, 1922",
       "Sikh Gurdwara Act, 1925",
-      "Sikh Religious Institutions Act, 1924",
-      "Gurdwara Management Act, 1926"
+      "Gurdwara Management Act, 1928",
+      "Sikh Religious Institutions Act, 1927",
+      "Punjab Religious Places Act, 1924"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state that the Akali Movement 'Resulted in the Sikh Gurdwara Act (1925) for democratic management.'"
   },
   {
     "question": "The Revolt of 1857 began at which location and on what date?",
     "options": [
-      "Delhi, May 5, 1857",
+      "Delhi, May 5, 1854",
+      "Kanpur, May 15, 1854",
       "Meerut, May 10, 1857",
-      "Kanpur, May 15, 1857",
-      "Lucknow, May 10, 1857"
+      "Lucknow, May 10, 1855"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes clearly state: 'The revolt began at Meerut, 58 km from Delhi, on May 10, 1857.'"
   },
   {
     "question": "The immediate trigger for the Revolt of 1857 was:",
     "options": [
-      "The Doctrine of Lapse",
-      "High land revenue assessments",
       "The Enfield cartridge controversy",
-      "The General Service Enlistment Act of 1856"
+      "High land revenue assessments",
+      "The Doctrine of Lapse",
+      "The General Service Enlistment Act of 1854"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'The immediate spark – the Enfield cartridge controversy – ignited deeper political, economic, social, and military grievances that had been building for decades.'"
   },
   {
@@ -444,76 +444,76 @@
     "options": [
       "Nana Saheb",
       "Tantia Tope",
-      "Bahadur Shah Zafar",
-      "Kunwar Singh"
+      "Kunwar Singh",
+      "Bahadur Shah Zafar"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes mention: 'The aged and powerless Bahadur Shah Zafar was proclaimed the emperor of India. The long reign of Mughals had made them the traditional symbol of India's political unity.'"
   },
   {
     "question": "During the Revolt of 1857, who provided effective military command at Delhi after arriving in early July 1857?",
     "options": [
+      "Tantia Tope",
       "Bakht Khan",
       "Nana Saheb",
-      "Tantia Tope",
       "Azimullah Khan"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "According to the notes: 'effective command by Gen. Bakht Khan (artilleryman from Bareilly) who arrived in early July 1857 and organised a soldiers' council' at Delhi."
   },
   {
     "question": "Begum Hazrat Mahal proclaimed her son as Nawab during the Revolt of 1857 in Lucknow. What was her son's name?",
     "options": [
-      "Wajid Ali Shah",
-      "Birjis Qadr",
+      "Mirza Fakhru",
       "Faqir-Ud-Din",
-      "Mirza Fakhru"
+      "Birjis Qadr",
+      "Wajid Ali Shah"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state that 'Begum Hazrat Mahal took charge; proclaimed her son Birjis Qadr as Nawab' during the Lucknow/Awadh uprising."
   },
   {
     "question": "Rani Lakshmibai fell in battle at which location during the Revolt of 1857?",
     "options": [
-      "Jhansi",
       "Kalpi",
-      "Kotah-ki-Serai",
-      "Gwalior"
+      "Gwalior",
+      "Jhansi",
+      "Kotah-ki-Serai"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "According to the notes: 'Rani fell in battle at Kotah-ki-Serai (17 Jun 1858)' during the Jhansi and Central India theatre of the revolt."
   },
   {
     "question": "Nana Saheb, who led the revolt at Kanpur, was the adopted son of:",
     "options": [
-      "Wajid Ali Shah",
       "Bahadur Shah Zafar",
-      "Baji Rao II",
-      "Tipu Sultan"
+      "Wajid Ali Shah",
+      "Tipu Sultan",
+      "Baji Rao II"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Nana Saheb (adopted son of Baji Rao II) declared himself Peshwa, acknowledged Bahadur Shah' during the Kanpur uprising."
   },
   {
     "question": "Which British officer suppressed the revolts at both Delhi and Lucknow?",
     "options": [
       "Sir Hugh Rose",
+      "Lord Dalhousie",
       "Colonel Neil",
-      "Sir Colin Campbell",
-      "Lord Dalhousie"
+      "Sir Colin Campbell"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "According to the notes on 'British Officers who surpassed the Revolt': 'Delhi and Lucknow - Sir Colin Campbell.'"
   },
   {
     "question": "When was British authority fully reestablished over India after the Revolt of 1857?",
     "options": [
-      "1857",
-      "1858",
       "1859",
-      "1860"
+      "1855",
+      "1860",
+      "1862"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'By the end of 1859, British authority over India was fully reestablished.'"
   },
   {
@@ -530,65 +530,65 @@
   {
     "question": "The Queen's Proclamation of 1858 was announced by Lord Canning at a Durbar in:",
     "options": [
-      "Delhi",
-      "Calcutta",
+      "Banaras (Varanasi), Uttar Pradesh",
       "Allahabad",
-      "Bombay"
+      "Calcutta",
+      "Delhi"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "According to the notes: 'The assumption of the Government of India by the sovereign of Great Britain was announced by Lord Canning at a durbar at Allahabad in the Queen's Proclamation issued on November 1, 1858.'"
   },
   {
     "question": "After 1857, soldiers from which regions were declared 'non-martial' by the British?",
     "options": [
-      "Punjab, Gorkha and Pathans",
       "Awadh, Bihar and Central India",
+      "Punjab, Gorkha and Pathans",
       "Bengal, Madras and Bombay",
       "Rajputana, Gujarat and Maharashtra"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Soldiers from Awadh, Bihar and Central India were declared as non-martial while Punjabis, Gorkhas and Pathans (who had fought for the British) were declared as martial.'"
   },
   {
     "question": "The policy of 'divide and rule' started in earnest after which event?",
     "options": [
-      "The partition of Bengal, 1905",
-      "The Revolt of 1857",
-      "The formation of INC, 1885",
-      "The Morley-Minto Reforms, 1909"
+      "The Morley-Minto Reforms, 1911",
+      "The partition of Bengal, 1907",
+      "The formation of INC, 1883",
+      "The Revolt of 1857"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes mention: 'The policy of divide and rule started in earnest after the Revolt of 1857. The British used one class/community against another unscrupulously.'"
   },
   {
     "question": "The Landholders' Society (Zamindari Association) of 1838 was founded primarily to:",
     "options": [
-      "Promote education among Indians",
-      "Safeguard the interests of zamindars of the Bengal Presidency",
+      "Unite Hindus and Muslims politically",
       "Oppose British rule",
-      "Unite Hindus and Muslims politically"
+      "Promote education among Indians",
+      "Safeguard the interests of zamindars of the Bengal Presidency"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "According to the notes, the Zamindari Association was 'Founded by Dwarka Nath Tagore, Radhakanta Deb and others to safeguard the interests of zamindars of the Bengal Presidency.'"
   },
   {
     "question": "The British Indian Association (1851) was formed by the merger of which two organizations?",
     "options": [
-      "Bangabhasha Prakasika Sabha and Bengal British India Society",
       "Landholders' Society and Bengal British India Society",
-      "India League and Indian Association",
-      "Bombay Association and Madras Native Association"
+      "Bombay Association and Madras Native Association",
+      "Bangabhasha Prakasika Sabha and Bengal British India Society",
+      "India League and Indian Association"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'In 1851, both the Landholders' Society and the Bengal British India Society merged into the British Indian Association.'"
   },
   {
     "question": "The Indian Association of Calcutta (1876), the most important pre-Congress organization, was founded by:",
     "options": [
-      "Dadabhai Naoroji and Pherozeshah Mehta",
+      "Sisir Kumar Ghosh and Surendranath Banerjee",
       "Surendra Nath Banerjee and Ananda Mohan Bose",
       "Mahadev Govind Ranade and Bal Gangadhar Tilak",
-      "Sisir Kumar Ghosh and Surendranath Banerjee"
+      "Dadabhai Naoroji and Pherozeshah Mehta"
     ],
     "correct": 1,
     "explanation": "According to the notes, the Indian Association was 'founded in 1876 by younger nationalists of Bengal led by Surendra Nath Banerjee and Ananda Mohan Bose.'"
@@ -596,76 +596,76 @@
   {
     "question": "The East India Association was organized by Dadabhai Naoroji in which city and year?",
     "options": [
-      "Bombay, 1870",
-      "Calcutta, 1875",
+      "Madras, 1870",
       "London, 1866",
-      "Madras, 1872"
+      "Calcutta, 1877",
+      "Bombay, 1873"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'The East India Association was organised by Dadabhai Naoroji in 1866 in London to discuss the Indian question and influence public men in England to promote Indian welfare.'"
   },
   {
     "question": "The Poona Sarvajanik Sabha (1870) was considered a precursor to the Indian National Congress because:",
     "options": [
-      "It was founded by the same leaders who founded INC",
-      "Its first session was held where the first INC session was later held",
       "It served as a bridge between government and people and voiced political concerns",
-      "It merged into the INC during its first session"
+      "It merged into the INC during its first session",
+      "Its first session was held where the first INC session was later held",
+      "It was founded by the same leaders who founded INC"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state the Poona Sarvajanik Sabha 'provided a platform for voicing political concerns' and 'It is considered a precursor to the Indian National Congress, whose first session was held in Bombay in December 1885.'"
   },
   {
     "question": "The first session of the Indian National Congress in December 1885 was organized at which institution in Bombay?",
     "options": [
       "Wilson College",
-      "Elphinstone College",
       "Gokuldas Tejpal Sanskrit College",
+      "Elphinstone College",
       "St. Xavier's College"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Organized the first session of the Indian National Congress at Gokuldas Tejpal Sanskrit College in Bombay in December 1885.'"
   },
   {
     "question": "Who presided over the first session of the Indian National Congress?",
     "options": [
-      "Dadabhai Naoroji",
       "Pherozeshah Mehta",
-      "A.O. Hume",
-      "Womesh Chandra Bonnerjee"
+      "Dadabhai Naoroji",
+      "Womesh Chandra Bonnerjee",
+      "A.O. Hume"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "According to the notes: 'The first session of the Indian National Congress was attended by 72 delegates and presided over by Womesh Chandra Bonnerjee.'"
   },
   {
     "question": "Who was the Governor-General of India at the time of the first INC session in 1885?",
     "options": [
-      "Lord Ripon",
       "Lord Lytton",
       "Lord Dufferin",
-      "Lord Curzon"
+      "Lord Curzon",
+      "Lord Ripon"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes specify that the GG at the time of the first INC session was 'Lord Dufferin (1885 to 1906, Hume was the General Secretary of the Congress).'"
   },
   {
     "question": "The 'Moderate Phase' of the Indian National Congress (1885-1905) was also called:",
     "options": [
-      "The Age of Revolution",
-      "Tea-Party Politics or Political Mendicancy",
       "The Age of Extremism",
-      "The Era of Mass Mobilization"
+      "The Age of Revolution",
+      "The Era of Mass Mobilization",
+      "Tea-Party Politics or Political Mendicancy"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes describe the Moderate Phase as 'Period of Tea-Party Politics or Political Mendicancy' where Moderates relied mainly on prayers, petitions, meetings, and speeches."
   },
   {
     "question": "Dadabhai Naoroji became a British Member of Parliament during which years?",
     "options": [
-      "1885-1892",
+      "1893-1898",
       "1892-1895",
-      "1895-1900",
-      "1900-1906"
+      "1883-1890",
+      "1902-1908"
     ],
     "correct": 1,
     "explanation": "According to the notes: 'Dadabhai Naoroji became a British MP (1892-95) and spent a large part of his life working for Indian Interests.'"
@@ -673,10 +673,10 @@
   {
     "question": "The 'Drain of Wealth' theory was first mentioned by Dadabhai Naoroji in which book?",
     "options": [
+      "India's Misery and Its Causes",
       "Economic History of India",
-      "The Indian Problem",
       "Poverty and Un-British Rule in India",
-      "India's Misery and Its Causes"
+      "The Indian Problem"
     ],
     "correct": 2,
     "explanation": "The notes state: 'Naoroji first mentioned the drain theory in his book Poverty and Un-British Rule in India (1901).' He ascertained that per capita Income was Rs 20 in 1867-68."
@@ -684,63 +684,63 @@
   {
     "question": "In the Benaras Session of 1905, the Congress first demanded Swaraj (self-rule). Who first referred to this demand?",
     "options": [
-      "Dadabhai Naoroji",
-      "Bal Gangadhar Tilak",
       "G.K. Gokhale",
-      "Surendranath Banerjee"
+      "Surendranath Banerjee",
+      "Dadabhai Naoroji",
+      "Bal Gangadhar Tilak"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "According to the notes: 'In 1905, during the Benaras Session, the Congress first demanded Swaraj or Self Rule for Indians within the British Empire on the model of self governing colonies like Australia or Canada. (This demand was first referred to by GK Gokhale).'"
   },
   {
     "question": "The Indian Councils Act of 1892 introduced which significant change for the first time?",
     "options": [
-      "Direct elections to the legislature",
-      "Budget discussion and limited elections through recommendations by bodies",
+      "Dyarchy at the provincial level",
       "Complete legislative autonomy for provinces",
-      "Dyarchy at the provincial level"
+      "Budget discussion and limited elections through recommendations by bodies",
+      "Direct elections to the legislature"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state the Act introduced 'Budget discussion (1892)' allowing members to discuss the annual budget, and introduced 'indirect/limited election via recommendations by bodies (the law avoided the word election).'"
   },
   {
     "question": "The extremist leaders Tilak, Lajpat Rai, and Bipin Chandra Pal were collectively known as:",
     "options": [
+      "Pal-Lal-Bal",
       "Har-Bal-Pal",
-      "Lal-Bal-Pal",
       "Bal-Lal-Pal",
-      "Pal-Lal-Bal"
+      "Lal-Bal-Pal"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Extremists Group - They arose in three Geographical Regions...the Punjab Group led by Lala Lajpat Rai. (Lal - Bal - Pal).'"
   },
   {
     "question": "The famous slogan 'Swaraj is my Birth Right and I shall have it' was given by:",
     "options": [
-      "Bipin Chandra Pal",
-      "Lala Lajpat Rai",
+      "Barindra Kumar Ghosh",
       "Bal Gangadhar Tilak",
-      "Aurobindo Ghosh"
+      "Bipin Chandra Pal",
+      "Lala Lajpat Rai"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "According to the notes, Tilak 'gave the slogan - Swaraj is my Birth Right and I shall have it.'"
   },
   {
     "question": "Lord Curzon served as Viceroy of India from:",
     "options": [
-      "1895-1901",
-      "1897-1904",
+      "1894-1901",
       "1899-1905",
-      "1900-1907"
+      "1893-1899",
+      "1898-1905"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes clearly state: 'Curzonian Attack - GG and Viceroy of India (1899 - 1905).'"
   },
   {
     "question": "Curzon's Police Commission in 1902 was chaired by:",
     "options": [
-      "Sir Colin Scott Moncrieff",
       "Sir Anthony MacDonnell",
+      "Sir Colin Scott Moncrieff",
       "Sir Andrew Frazer",
       "Colonel Younghusband"
     ],
@@ -750,153 +750,153 @@
   {
     "question": "The Partition of Bengal was announced on which date and officially came into force on:",
     "options": [
-      "Announced December 1903, came into force October 16, 1905",
-      "Announced July 20, 1905, came into force October 16, 1905",
-      "Announced August 7, 1905, came into force November 1, 1905",
-      "Announced June 1903, came into force January 1, 1906"
+      "Announced December 1906, came into force October 16, 1908",
+      "Announced June 1901, came into force January 1, 1904",
+      "Announced August 7, 1903, came into force November 1, 1903",
+      "Announced July 20, 1905, came into force October 16, 1905"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'On 20 July 1905, Curzon issued the orders to divide Bengal into two parts., Partition came into force on 16 October 1905.'"
   },
   {
     "question": "On August 7, 1905, the formal proclamation of the Swadeshi Movement was made with passage of the Boycott Resolution in Calcutta Town Hall. The message was to boycott:",
     "options": [
+      "All imported goods from Europe",
       "All British goods",
       "Manchester cloth and Liverpool salt",
-      "All imported goods from Europe",
       "British educational institutions only"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'with the passage of the Boycott Resolution in a massive meeting held in the Calcutta Town hall, the formal proclamation of the Swadeshi Movement was made. The message was to boycott Manchester cloth and Liverpool salt.'"
   },
   {
     "question": "Rabindranath Tagore composed which song on the occasion of the partition of Bengal coming into force (October 16, 1905)?",
     "options": [
+      "Quit India — drive the British out immediately",
+      "Ekla Cholo Re",
       "Jana Gana Mana",
-      "Vande Mataram",
-      "Amar Sonar Bangla",
-      "Ekla Cholo Re"
+      "Amar Sonar Bangla"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes mention: 'Vande Matram song became the song of the National Movement and Rabindranath Tagore composed the song Amar Sonar Bangla for the occasion. (Later adopted by Bangladesh as its National Anthem in 1971).'"
   },
   {
     "question": "The four resolutions passed at the Congress session at Calcutta in 1906 were:",
     "options": [
-      "Swaraj, Swadeshi, Boycott and National Education",
-      "Non-Cooperation, Civil Disobedience, Boycott and Swadeshi",
+      "Boycott, Ahimsa, Education and Home Rule",
       "Swaraj, Partition Annulment, Press Freedom and Education",
-      "Boycott, Ahimsa, Education and Home Rule"
+      "Non-Cooperation, Civil Disobedience, Boycott and Swadeshi",
+      "Swaraj, Swadeshi, Boycott and National Education"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "According to the notes: 'Four Resolutions were passed in 1906 - Swaraj, Swadeshi, Boycott and National Education.'"
   },
   {
     "question": "The Surat Split of 1907 occurred because the Moderates and Extremists disagreed over the presidency of the 1907 session. The Extremists wanted which leader as president?",
     "options": [
+      "Barindra Kumar Ghosh",
+      "Dadabhai Naoroji",
       "Bipin Chandra Pal",
-      "Aurobindo Ghosh",
-      "Tilak or Lajpat Rai",
-      "Dadabhai Naoroji"
+      "Tilak or Lajpat Rai"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'The Extremists wanted the 1907 session to be held in Nagpur (Central Provinces) with Tilak or Lajpat Rai as the president.'"
   },
   {
     "question": "The Partition of Bengal was annulled at which occasion and in which year?",
     "options": [
-      "Delhi Durbar, 1910",
       "Delhi Durbar, 1911",
-      "Calcutta Durbar, 1912",
-      "Bombay Durbar, 1911"
+      "Delhi Durbar, 1907",
+      "Calcutta Durbar, 1915",
+      "Bombay Durbar, 1909"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'At the Delhi Durbar on 12 December 1911, King-Emperor George V announced that the 1905 partition of Bengal would be reversed.'"
   },
   {
     "question": "When the partition of Bengal was annulled in 1911, what other significant administrative change was announced?",
     "options": [
+      "Burma was separated from India",
       "Bengal was made a separate country",
       "The imperial capital was shifted from Calcutta to Delhi",
-      "Assam was merged with Bengal",
-      "Burma was separated from India"
+      "Assam was merged with Bengal"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "According to the notes: 'Assam was again administered separately under a chief commissioner, and the imperial capital was shifted from Calcutta to Delhi.'"
   },
   {
     "question": "Mahatma Gandhi was born on October 2, 1869, in:",
     "options": [
+      "Surat, Gujarat",
       "Rajkot, Gujarat",
-      "Porbandar, Kathiawar, Gujarat",
       "Ahmedabad, Gujarat",
-      "Surat, Gujarat"
+      "Porbandar, Kathiawar, Gujarat"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Born in Porbandar, Kathiawar, Gujarat on 2nd October, 1869, in a well to do Vaishya Family which was closely connected with the Jain sect.'"
   },
   {
     "question": "Gandhi went to South Africa for a legal contract for which client?",
     "options": [
-      "Abdullah Seth",
       "Dada Abdulla",
       "Rustomji",
+      "Abdullah Seth",
       "Pranjivan Mehta"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'In 1893, Gandhi went to South Africa (Durban, Natal) on a one-year legal contract for Dada Abdulla.'"
   },
   {
     "question": "The famous incident at Pietermaritzburg railway station where Gandhi was thrown out of a first-class compartment became:",
     "options": [
+      "The reason for his fight against apartheid",
       "The reason he returned to India",
-      "A turning point in his life",
       "The basis for his first satyagraha",
-      "The reason for his fight against apartheid"
+      "A turning point in his life"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes mention: 'On a journey to Pretoria, he was thrown out of a first-class compartment at Pietermaritzburg despite holding a valid ticket—an incident that became a turning point in his life.'"
   },
   {
     "question": "Gandhi organized the Phoenix Farm near Durban in 1904 after being influenced by which author's work?",
     "options": [
+      "Karl Marx",
       "Henry David Thoreau",
       "Leo Tolstoy",
-      "John Ruskin",
-      "Karl Marx"
+      "John Ruskin"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Influenced by John Ruskin's preaching of rustic life in his book Unto the Last, Gandhiji organized Phoenix Farm (1904) near Durban.'"
   },
   {
     "question": "The term 'Satyagraha' was coined by Gandhi during which struggle?",
     "options": [
-      "Champaran Satyagraha, 1917",
-      "Rowlatt Satyagraha, 1919",
+      "Kheda Satyagraha, 1915",
       "The struggle against the Asiatic Registration Act in South Africa, 1906",
-      "Kheda Satyagraha, 1918"
+      "Rowlatt Satyagraha, 1917",
+      "Champaran Satyagraha, 1920"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "According to the notes: 'From 1906, Gandhi led satyagraha (a term coined in South Africa in 1906) against the Asiatic Registration Act (Black Act) (1906).'"
   },
   {
     "question": "Gandhi returned to India on which date?",
     "options": [
-      "January 9, 1914",
       "January 9, 1915",
       "January 9, 1916",
-      "February 9, 1915"
+      "February 9, 1917",
+      "January 9, 1919"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes explicitly state: 'He finally returned to India on 9th January, 1915 at the age of 46.'"
   },
   {
     "question": "The Champaran Satyagraha (1917) was primarily against which system?",
     "options": [
-      "Ryotwari system",
       "Mahalwari system",
+      "Zamindari system",
       "Tinkathia system of indigo cultivation",
-      "Zamindari system"
+      "Ryotwari system"
     ],
     "correct": 2,
     "explanation": "According to the notes: 'The European planters had been forcing the peasants to grow indigo on 3/20 part of the total land (called tinkathia system).' Gandhi was able to get this abolished."
@@ -904,10 +904,10 @@
   {
     "question": "The Ahmedabad Mill Strike (1918) was Gandhi's first use of which tool?",
     "options": [
-      "Civil disobedience",
       "Non-cooperation",
+      "Mass protest march",
       "Fast unto death (hunger strike)",
-      "Mass protest march"
+      "Civil disobedience"
     ],
     "correct": 2,
     "explanation": "The notes describe it as 'First Hunger Strike - 1918' where 'he himself undertook a fast unto death (his first) to strengthen the workers' resolve.'"
@@ -916,44 +916,44 @@
     "question": "The Rowlatt Act Committee was set up to investigate 'Revolutionary crime' under the chairmanship of:",
     "options": [
       "Sir Andrew Frazer",
+      "Lord Hunter",
       "Justice Sydney Rowlatt",
-      "Sir John Simon",
-      "Lord Hunter"
+      "Sir John Simon"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'In 1917, The GOI had appointed a committee under the chairmanship of Justice Sydney Rowlatt to investigate Revolutionary crime in the country.'"
   },
   {
     "question": "The Jallianwala Bagh Massacre occurred on which date?",
     "options": [
-      "April 6, 1919",
-      "April 10, 1919",
       "April 13, 1919",
-      "April 18, 1919"
+      "April 18, 1922",
+      "April 6, 1921",
+      "April 10, 1922"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Jallianwala Bagh Massacre happened in Amritsar - 13 April 1919' where 'Brig.-Gen. R.E.H. Dyer entered with troops and, without warning, ordered sustained fire on the unarmed assembly.'"
   },
   {
     "question": "Rabindranath Tagore renounced his knighthood on which date to protest the Jallianwala Bagh massacre?",
     "options": [
-      "April 18, 1919",
-      "April 30, 1919",
       "May 30, 1919",
-      "June 13, 1919"
+      "April 18, 1917",
+      "June 13, 1917",
+      "April 30, 1917"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Rabindranath Tagore renounced his knighthood on 30th May 1919 to register his protest against the Jallianwala Bagh massacre.'"
   },
   {
     "question": "Gandhi described calling off the Rowlatt Satyagraha due to widespread violence as a:",
     "options": [
-      "Temporary retreat",
       "Himalayan Blunder",
+      "Temporary retreat",
       "Strategic withdrawal",
       "Constructive pause"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes mention: 'On 18th April, Gandhi called off the Satyagraha in view of the widespread violence and confessed it to be a Himalayan Blunder to have allowed insufficiently trained people to offer Satyagraha.'"
   },
   {
@@ -970,43 +970,43 @@
   {
     "question": "In Gandhi's Hind Swaraj (1909), he identified the real enemy as:",
     "options": [
-      "British colonialism",
       "The Indian capitalist class",
       "Modern western civilisation",
-      "The orthodox Hindu caste system"
+      "The orthodox Hindu caste system",
+      "British colonialism"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "According to the notes: 'In his book Hind Swara (1909) - He said that the real enemy was not the British rule but the modern western civilisation which was luring India into its stronghold.'"
   },
   {
     "question": "The term 'Sarvodaya' literally means:",
     "options": [
+      "Non-violence",
       "Self-rule",
       "Upliftment of all",
-      "Truth force",
-      "Non-violence"
+      "Truth force"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes clearly state: 'Sarvodaya - Literally it means upliftment of all.'"
   },
   {
     "question": "Gandhi proposed which educational scheme in 1937 that advocated 'learning by activity'?",
     "options": [
-      "Nai Talim (Wardha Scheme of Education)",
       "Macaulay's Education System",
       "Sergeant Plan of Education",
-      "Wood's Despatch Education System"
+      "Wood's Despatch Education System",
+      "Nai Talim (Wardha Scheme of Education)"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The notes state: 'Gandhi proposed the Wardha Scheme of Education in 1937 and was published in the Harijan. It was a scheme for basic education whose main aim was learning by activity.' This is also known as Nai Talim."
   },
   {
     "question": "The Non-Cooperation Movement officially started on which date?",
     "options": [
-      "September 4, 1920",
+      "December 28, 1923",
       "August 1, 1920",
-      "December 28, 1920",
-      "January 26, 1921"
+      "January 26, 1919",
+      "September 4, 1917"
     ],
     "correct": 1,
     "explanation": "The notes state: 'August 1st, 1920 - Fixed as the date to start the movement.' This is the date Gandhi set for the Non-Cooperation Movement to begin."
@@ -1027,8 +1027,8 @@
     "options": [
       "Allahabad, UP",
       "Gorakhpur, UP",
-      "Faizabad, UP",
-      "Azamgarh, UP"
+      "Azamgarh, UP",
+      "Faizabad, UP"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Chauri Chaura (4 Feb 1922, Gorakhpur, U.P.): After police fired on protesters, a mob torched the thana, killing 22 policemen.'"
@@ -1036,34 +1036,34 @@
   {
     "question": "After Chauri Chaura, Gandhi suspended the Non-Cooperation Movement on:",
     "options": [
-      "February 4, 1922",
-      "February 12, 1922",
-      "March 10, 1922",
-      "February 28, 1922"
+      "February 28, 1925",
+      "February 4, 1920",
+      "March 10, 1919",
+      "February 12, 1922"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Gandhi suspended the Non-Cooperation Movement on 12 Feb 1922, pivoting to the constructive programme and reaffirming strict non-violence as the movement's core.'"
   },
   {
     "question": "Which leader called the withdrawal of the Non-Cooperation Movement a 'national calamity'?",
     "options": [
+      "Lala Lajpat Rai",
       "C.R. Das",
       "Jawaharlal Nehru",
-      "Subhas Chandra Bose",
-      "Lala Lajpat Rai"
+      "Subhas Chandra Bose"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Subhas Chandra Bose: Called the withdrawal a national calamity—arguing public enthusiasm was at boiling point.'"
   },
   {
     "question": "The Swaraj Party was formed on January 1, 1923, by:",
     "options": [
-      "Jawaharlal Nehru and Subhas Chandra Bose",
-      "Lala Lajpat Rai and Bal Gangadhar Tilak",
       "C.R. Das and Motilal Nehru",
-      "Gandhi and Vallabhbhai Patel"
+      "Gandhi and Vallabhbhai Patel",
+      "Jawaharlal Nehru and Subhas Chandra Bose",
+      "Lala Lajpat Rai and Bal Gangadhar Tilak"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'On 1 January 1923, Das along with other leaders formed Congress-Khilafat Swaraj Party. C.R. Das - President with Motilal Nehru as one of the secretaries.'"
   },
   {
@@ -1080,10 +1080,10 @@
   {
     "question": "The Caliphate (Khilafat) issue arose because of which treaty that formalized Turkey's dismemberment after World War I?",
     "options": [
-      "Treaty of Versailles (1919)",
+      "Treaty of Lausanne (1926)",
       "Treaty of Sèvres (1920)",
-      "Treaty of Lausanne (1923)",
-      "Treaty of Berlin (1920)"
+      "Treaty of Berlin (1918)",
+      "Treaty of Versailles (1922)"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Post-World War I, the Treaty of Sèvres (1920) formalized Turkey's dismemberment, removing the Khalifa, sparking outrage among Muslims worldwide.'"
@@ -1091,23 +1091,23 @@
   {
     "question": "What ultimately ended the Khilafat issue and caused it to fizzle out?",
     "options": [
-      "The defeat of Turkey in World War I",
-      "The British announcement of reforms",
       "The abolition of the Caliphate by Mustafa Kemal on March 3, 1924",
-      "The withdrawal of the Non-Cooperation Movement"
+      "The defeat of Turkey in World War I",
+      "The withdrawal of the Non-Cooperation Movement",
+      "The British announcement of reforms"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Turkey's own revolution under Mustafa Kemal overturned the post-war order and the Caliphate itself was abolished on 3 March 1924.'"
   },
   {
     "question": "The Indian National Congress held its first session at Gokuldas Tejpal Sanskrit College in Bombay. How many delegates attended?",
     "options": [
-      "52",
       "72",
+      "120",
       "100",
-      "120"
+      "52"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'The first session of the Indian National Congress was attended by 72 delegates and presided over by Womesh Chandra Bonnerjee.'"
   },
   {
@@ -1124,65 +1124,65 @@
   {
     "question": "The Nehru Report (1928) proposed which type of electoral system for minorities?",
     "options": [
-      "Separate electorates for all minorities",
       "Joint electorates everywhere with reservation only where a community is in minority",
       "Proportional representation for all communities",
+      "Separate electorates for all minorities",
       "Communal representation based on population"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Minority Safeguards: Joint electorates everywhere; reservation only where a community is in a minority (thus rejecting separate electorates).'"
   },
   {
     "question": "The Purna Swaraj (Complete Independence) resolution was adopted at which Congress session?",
     "options": [
-      "Calcutta Session, 1928",
+      "Calcutta Session, 1926",
+      "Karachi Session, 1933",
       "Lahore Session, December 1929",
-      "Karachi Session, 1931",
-      "Nagpur Session, 1920"
+      "Nagpur Session, 1917"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Lahore Session (19-29 Dec 1929) under J. Nehru: Adopted Purna Swaraj as the goal.'"
   },
   {
     "question": "January 26, 1930 was observed as 'Independence Day (Purna Swaraj)' across India. When was it also called 'Swarajya Day'?",
     "options": [
-      "January 26, 1930 itself",
-      "The same day",
-      "January 26, 1931",
-      "It was only called Independence Day"
+      "January 26, 1928 itself",
+      "January 26, 1929",
+      "It was only called Independence Day",
+      "The same day"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Adopted at Lahore late night 31 Dec 1929; publicly taken nationwide on 26 Jan 1930 (Swarajya Day).'"
   },
   {
     "question": "The Dandi March began on which date from Sabarmati with how many satyagrahis?",
     "options": [
-      "March 6, 1930, with 60 satyagrahis",
+      "March 6, 1933, with 60 satyagrahis",
+      "April 6, 1927, with 100 satyagrahis",
       "March 12, 1930, with 78 satyagrahis",
-      "April 6, 1930, with 100 satyagrahis",
-      "March 12, 1930, with 100 satyagrahis"
+      "March 12, 1933, with 100 satyagrahis"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Dandi March (12 Mar-6 Apr 1930): Gandhi began with 78 satyagrahis from Sabarmati, walked ~240 miles to Dandi, and broke the salt law on 6 April.'"
   },
   {
     "question": "Who led the Dharasana Salt Works raid after Gandhi was arrested?",
     "options": [
       "Jawaharlal Nehru and Sardar Patel",
+      "Rajagopalachari and Subhas Chandra Bose",
       "Abbas Tyabji (arrested en route) and then Sarojini Naidu",
-      "C.R. Das and Motilal Nehru",
-      "Rajagopalachari and Subhas Chandra Bose"
+      "Gopal Krishna Gokhale and Pherozeshah Mehta"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Dharasana Salt Works (21 May 1930): after Gandhi's arrest, Abbas Tyabji (arrested en route) and then Sarojini Naidu led a non-violent raid met with brutal lathi-charges.'"
   },
   {
     "question": "The Gandhi-Irwin Pact was signed on:",
     "options": [
-      "January 25, 1931",
+      "January 25, 1929",
       "March 5, 1931",
-      "March 26, 1931",
-      "April 6, 1931"
+      "March 26, 1929",
+      "April 6, 1934"
     ],
     "correct": 1,
     "explanation": "The notes describe the 'Gandhi Irwin Pact (5 MARCH 1931)' as the agreement between Gandhi and the Viceroy."
@@ -1190,8 +1190,8 @@
   {
     "question": "The Karachi Congress Session (March 1931) was presided over by:",
     "options": [
-      "Jawaharlal Nehru",
       "Gandhi",
+      "Jawaharlal Nehru",
       "Sardar Vallabhai Patel",
       "C.R. Das"
     ],
@@ -1201,10 +1201,10 @@
   {
     "question": "The Communal Award was announced on August 16, 1932 by British PM Ramsay MacDonald and provided separate electorates for which communities?",
     "options": [
-      "Only Muslims and Sikhs",
+      "Muslims, Christians, and Depressed Classes only",
       "Muslims, Sikhs, Christians, Anglo-Indians, Europeans, and Depressed Classes",
       "Only Hindus, Muslims, and Sikhs",
-      "Muslims, Christians, and Depressed Classes only"
+      "Only Muslims and Sikhs"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Separate Electorates: Allocated for Muslims, Sikhs, Christians, Anglo-Indians, Europeans, and Depressed Classes.'"
@@ -1223,8 +1223,8 @@
   {
     "question": "The Congress Socialist Party (CSP) was founded in May 1934. Who was its first president?",
     "options": [
-      "Jayaprakash Narayan",
       "Jawaharlal Nehru",
+      "Jayaprakash Narayan",
       "Acharya Narendra Dev",
       "Subhas Chandra Bose"
     ],
@@ -1235,20 +1235,20 @@
     "question": "Gandhi resigned from Congress membership in October 1934 to focus on:",
     "options": [
       "Leading the revolutionary movement",
-      "Harijan upliftment and village uplift (constructive work)",
       "Negotiations with the British Government",
-      "Setting up educational institutions"
+      "Setting up educational institutions",
+      "Harijan upliftment and village uplift (constructive work)"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Gandhi resigned from Congress membership in October 1934 to focus on constructive work (Harijan, village uplift), while continuing to influence strategy from outside.'"
   },
   {
     "question": "After the 1936-37 provincial elections, Congress formed ministries in how many provinces initially?",
     "options": [
+      "8",
       "5",
-      "6",
       "7",
-      "8"
+      "6"
     ],
     "correct": 2,
     "explanation": "The notes state: 'After the 1936-37 provincial elections, Congress formed ministries in 7 provinces (Madras, Bombay, Central Provinces & Berar, United Provinces, Bihar, Orissa, and later NWFP).'"
@@ -1257,33 +1257,33 @@
     "question": "All seven Congress ministries resigned in 1939 because:",
     "options": [
       "The British refused to give Dominion Status to India",
-      "The Viceroy declared India at war with Germany without consulting Indian representatives",
+      "The 1937 Act was not properly implemented",
       "The Communal Award was not withdrawn",
-      "The 1935 Act was not properly implemented"
+      "The Viceroy declared India at war with Germany without consulting Indian representatives"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'On 3 September 1939 the Viceroy, Lord Linlithgow, declared India at war with Germany without consulting Indian representatives...When this was refused, the AICC asked its provincial ministries to resign.'"
   },
   {
     "question": "Subhas Chandra Bose defeated which candidate supported by Gandhi in the Congress presidential elections at Tripuri (1939)?",
     "options": [
-      "Rajendra Prasad",
-      "C. Rajagopalachari",
       "Pattabhi Sitaramayya",
-      "Jawaharlal Nehru"
+      "Jawaharlal Nehru",
+      "C. Rajagopalachari",
+      "Rajendra Prasad"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Despite Gandhi's opposition, Bose defeated Pattabhi Sitaramayya. Gandhi described Pattabhi defeat as his own defeat.'"
   },
   {
     "question": "Subhas Chandra Bose formed the Forward Bloc in:",
     "options": [
-      "April 1938",
-      "January 1939",
-      "May-June 1939",
-      "August 1940"
+      "April 1936",
+      "January 1937",
+      "August 1942",
+      "May-June 1939"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Bose formed the Forward Bloc in May-June 1939; after his call for an all-India protest, the Congress removed him as Bengal PCC president.'"
   },
   {
@@ -1291,8 +1291,8 @@
     "options": [
       "A complete rejection",
       "A post-dated cheque",
-      "An acceptable compromise",
-      "A retrograde measure"
+      "A retrograde measure",
+      "An acceptable compromise"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Gandhi dismissed the scheme as Post Dated Cheque, Nehru criticised it for preserving the existing autocratic powers.'"
@@ -1300,32 +1300,32 @@
   {
     "question": "The Quit India Movement was launched on August 8, 1942, with the famous call:",
     "options": [
+      "Purna Swaraj Now",
       "Swaraj or Death",
-      "Do or Die",
       "Dilli Chalo",
-      "Purna Swaraj Now"
+      "Do or Die"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state the Quit India Movement 'authorised Gandhi to start a mass struggle with the Do or Die resolve.'"
   },
   {
     "question": "Which of the following organizations opposed the Quit India Movement?",
     "options": [
-      "Muslim League, Communist Party of India, Hindu Mahasabha",
       "Sikh League, Muslim League, and Arya Samaj",
       "British Indian Association, Hindu Mahasabha, and Communist Party",
-      "Justice Party, Muslim League, and Congress Socialist Party"
+      "Justice Party, Muslim League, and Congress Socialist Party",
+      "Muslim League, Communist Party of India, Hindu Mahasabha"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The notes state that those who opposed the Quit India Movement included 'Muslim League, Communist Party of India, Hindu Mahasabha.'"
   },
   {
     "question": "Usha Mehta ran the Congress Radio during the Quit India Movement from Bombay between:",
     "options": [
-      "August 9 to October 9, 1942",
+      "September 1 to December 31, 1940",
       "August 27 to November 12, 1942",
-      "September 1 to December 31, 1942",
-      "August 9 to December 31, 1942"
+      "August 9 to October 9, 1945",
+      "August 9 to December 31, 1940"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Usha Mehta ran Congress Radio from Bombay, broadcasting 27 Aug - 12 Nov 1942, before arrest; it became the voice of underground QIM.'"
@@ -1333,32 +1333,32 @@
   {
     "question": "The Provisional Government of Free India (Azad Hind) was established by Subhas Chandra Bose in Singapore on:",
     "options": [
-      "August 15, 1943",
       "October 21, 1943",
-      "December 1, 1943",
-      "January 26, 1944"
+      "December 1, 1946",
+      "August 15, 1946",
+      "January 26, 1942"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Bose proclaimed the Provisional Government of Free India (Azad Hind) at Singapore on 21 Oct 1943, later declared war on Britain and the U.S.'"
   },
   {
     "question": "In December 1943, the Japanese handed over which islands to Subhas Chandra Bose?",
     "options": [
       "Lakshadweep and Minicoy",
+      "Maldives Islands",
       "Andaman and Nicobar Islands",
-      "Sri Lanka (Ceylon)",
-      "Maldives Islands"
+      "Sri Lanka (Ceylon)"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'In Dec 1943, Japanese handed over Andaman and Nicobar Island to Bose - Renaming Shaheed and Swaraj Dweep.'"
   },
   {
     "question": "The Cabinet Mission of 1946 comprised which three British officials?",
     "options": [
-      "Lord Mountbatten, Sir Stafford Cripps, A.V. Alexander",
-      "Lord Pethick-Lawrence, Sir Stafford Cripps, A.V. Alexander",
       "Lord Wavell, Lord Pethick-Lawrence, Sir Stafford Cripps",
-      "Lord Attlee, Sir Stafford Cripps, Lord Mountbatten"
+      "Lord Pethick-Lawrence, Sir Stafford Cripps, A.V. Alexander",
+      "Lord Attlee, Sir Stafford Cripps, Lord Mountbatten",
+      "Lord Mountbatten, Sir Stafford Cripps, A.V. Alexander"
     ],
     "correct": 1,
     "explanation": "The notes state: 'The mission comprised three British officials: Lord Pethick-Lawrence (Secretary of State for India), Sir Stafford Cripps, and A.V. Alexander (First Lord of the Admiralty).'"
@@ -1368,19 +1368,19 @@
     "options": [
       "300 members",
       "350 members",
-      "389 members",
-      "425 members"
+      "425 members",
+      "389 members"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Recommended the formation of a 389-member Constituent Assembly: 292 members from British provinces, 93 members from princely states, 4 members from chief commissioners' provinces.'"
   },
   {
     "question": "The Cabinet Mission Plan divided Indian provinces into three sections. Section B consisted of:",
     "options": [
-      "Hindu Majority Provinces",
-      "Muslim majority provinces of North West (Punjab, NWFP, Sindh)",
       "Bengal and Assam",
-      "Princely States"
+      "Muslim majority provinces of North West (Punjab, NWFP, Sindh)",
+      "Princely States",
+      "Hindu Majority Provinces"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Section B - Punjab, NWFP, Singh (Muslim majority provinces of North West).'"
@@ -1388,56 +1388,56 @@
   {
     "question": "The Muslim League called for Direct Action Day on August 16, 1946 to demand:",
     "options": [
-      "Separate constitution for Muslims",
-      "Creation of Pakistan",
       "Greater representation in the interim government",
-      "Abolition of separate electorates"
+      "Abolition of separate electorates",
+      "Creation of Pakistan",
+      "Separate constitution for Muslims"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state that the Muslim League 'Called for Direct Action Day (August 16, 1946) to press for the creation of Pakistan after Congress was invited by Wavell to form Interim Govt.'"
   },
   {
     "question": "Nehru hoisted the tricolour on the banks of which river at the Lahore Session on December 31, 1929?",
     "options": [
-      "Ganges",
-      "Yamuna",
       "Ravi",
-      "Sutlej"
+      "Yamuna",
+      "Sutlej",
+      "Ganges"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'On 31 Dec 1929, Nehru hoisted the tricolour on the banks of the Ravi.'"
   },
   {
     "question": "The Interim Government was formed on September 2, 1946, with Nehru as Vice-President of the Executive Council. When did the Muslim League join?",
     "options": [
-      "September 2, 1946",
-      "September 26, 1946",
+      "November 26, 1948",
       "October 26, 1946",
-      "November 26, 1946"
+      "September 2, 1948",
+      "September 26, 1943"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'The Muslim League joined on 26 Oct 1946; Liaquat Ali Khan became Finance Member.'"
   },
   {
     "question": "Attlee's Declaration of February 20, 1947 set which date as the deadline for British withdrawal from India?",
     "options": [
-      "August 15, 1947",
+      "August 15, 1949",
+      "January 26, 1946",
       "June 30, 1948",
-      "December 31, 1947",
-      "January 26, 1948"
+      "December 31, 1949"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'British Withdrawal Date: Scheduled for 30 June 1948, regardless of whether a constitution was finalized.'"
   },
   {
     "question": "The Mountbatten Plan (June 3, 1947) was initially known as the 'Balkan Plan' or 'Dickie Bird Plan.' It was opposed by:",
     "options": [
-      "Muhammad Ali Jinnah",
-      "Vallabhbhai Patel",
       "Jawaharlal Nehru",
+      "Vallabhbhai Patel",
+      "Muhammad Ali Jinnah",
       "Maulana Azad"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Jawaharlal Nehru strongly opposed the Balkan Plan, leading to its abandonment.'"
   },
   {
@@ -1455,55 +1455,55 @@
     "question": "The first Governor-General of independent India was:",
     "options": [
       "C. Rajagopalachari",
-      "Lord Mountbatten",
+      "Jawaharlal Nehru",
       "Rajendra Prasad",
-      "Jawaharlal Nehru"
+      "Lord Mountbatten"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'GGs: Mountbatten (15 Aug 1947-21 Jun 1948), then C. Rajagopalachari (21 Jun 1948-26 Jan 1950).'"
   },
   {
     "question": "India became a Republic on January 26, 1950, and the position of Governor-General was abolished. Who became the first President?",
     "options": [
-      "Jawaharlal Nehru",
       "C. Rajagopalachari",
-      "Rajendra Prasad",
-      "B.R. Ambedkar"
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru",
+      "Rajendra Prasad"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Republic: 26 Jan 1950—GG abolished; Rajendra Prasad became the first President.'"
   },
   {
     "question": "The GOI Act, 1858 transferred power from the Company to the Crown. Under this Act, the Governor-General received the additional title of:",
     "options": [
-      "Emperor",
       "Regent",
-      "Viceroy",
-      "High Commissioner"
+      "Emperor",
+      "High Commissioner",
+      "Viceroy"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'The Governor General received the title of Viceroy, as he was now the direct representative of the Crown' under the GOI Act, 1858."
   },
   {
     "question": "The Indian Councils Act of 1861 gave the GG power to issue ordinances without the concurrence of the Legislative Council in case of emergency. How long could these remain in force?",
     "options": [
-      "Three months",
-      "Six months",
+      "Until revoked",
       "One year",
-      "Until revoked"
+      "Six months",
+      "Three months"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'The GG was empowered to issue ordinances in case of emergency and without the concurrence of the Legislative Council, which could remain in force for a maximum period of six months.'"
   },
   {
     "question": "The portfolio system in India was introduced for the first time by:",
     "options": [
-      "Lord Hastings",
       "Lord Cornwallis",
       "Lord Canning",
-      "Lord Dalhousie"
+      "Lord Dalhousie",
+      "Lord Hastings"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'The Viceroy's Executive Council was enlarged and the portfolio system was introduced by Lord Canning (1861), distributing departments among members.'"
   },
   {
@@ -1511,19 +1511,19 @@
     "options": [
       "Gopal Krishna Gokhale",
       "Phirozeshah Mehta",
-      "Satyendra Prasanna Sinha",
-      "Surendranath Banerjee"
+      "Surendranath Banerjee",
+      "Satyendra Prasanna Sinha"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'In 1909, Satyendra Prasanna Sinha (later Lord Sinha) became the first Indian member of the Viceroy's Executive Council (Law Member).'"
   },
   {
     "question": "The Morley-Minto Reforms of 1909 provided separate electorates for Muslims based on the demands presented in the Shimla Deputation. Who led this deputation?",
     "options": [
-      "Sir Syed Ahmad Khan",
       "Muhammad Ali Jinnah",
+      "Maulana Azad",
       "Agha Khan",
-      "Maulana Azad"
+      "Sir Syed Ahmad Khan"
     ],
     "correct": 2,
     "explanation": "The notes state: '1906 - Shimla Deputation led by Agha Khan and other Muslim leaders presented Lord Minto with a proposal for separate Muslim electorates.'"
@@ -1531,45 +1531,45 @@
   {
     "question": "The Montagu-Chelmsford Reforms of 1919 introduced Dyarchy in provinces. Under Dyarchy, 'Reserved' subjects were administered by:",
     "options": [
-      "Indian Ministers accountable to the Legislative Council",
       "The Governor and his Executive Council without being accountable to Legislative Council",
+      "A Joint Committee of Indian Ministers and British Officials",
       "The Viceroy's Executive Council",
-      "A Joint Committee of Indian Ministers and British Officials"
+      "Indian Ministers accountable to the Legislative Council"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Reserved subjects (Administered by Governors and his Executive Council without being accountable to Legislative Council). This dual system is called Dyarchy.'"
   },
   {
     "question": "Which Act introduced direct elections for the first time in India?",
     "options": [
-      "Indian Councils Act, 1892",
-      "Morley-Minto Reforms, 1909",
       "Montagu-Chelmsford Reforms, 1919",
-      "Government of India Act, 1935"
+      "Government of India Act, 1937",
+      "Morley-Minto Reforms, 1911",
+      "Indian Councils Act, 1890"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state under the Montague Chelmsford Reforms 1919: 'Direct Elections introduced for the first time. People could vote for members in both Upper and Lower House.'"
   },
   {
     "question": "The GOI Act 1935 introduced Dyarchy at which level?",
     "options": [
       "At the provincial level only",
-      "At the central level only",
       "At both central and provincial levels",
-      "At the district level"
+      "At the district level",
+      "At the central level only"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'The Act abolished dyarchy in provinces and introduced dyarchy at the Centre (defence, external affairs etc. reserved for the GG; never operationalised as Federation never formed).'"
   },
   {
     "question": "The GOI Act 1935 introduced bicameral legislature in how many provinces?",
     "options": [
-      "4 provinces",
       "6 provinces",
-      "8 provinces",
-      "All provinces"
+      "4 provinces",
+      "All provinces",
+      "8 provinces"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Bicameral Legislature: Introduced in 6 provinces - Bengal, Madras, Bombay, United Provinces, Bihar and Assam.'"
   },
   {
@@ -1586,120 +1586,120 @@
   {
     "question": "Tilak's Home Rule League was set up in April 1916 and its scope was restricted to:",
     "options": [
-      "All of India",
+      "South India and Maharashtra",
       "Bengal and Eastern India",
-      "Maharashtra (excluding Bombay city), Karnataka, Central Provinces and Berar",
-      "South India and Maharashtra"
+      "All of India",
+      "Maharashtra (excluding Bombay city), Karnataka, Central Provinces and Berar"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Tilak's league was restricted to Maharashtra (excluding Bombay city), Karnataka, Central Provinces and Berar.'"
   },
   {
     "question": "The Lucknow Pact (1916) between Congress and Muslim League accepted which controversial provision?",
     "options": [
       "Separate electorates for all communities",
+      "Complete self-governance for Muslim majority provinces",
       "Separate electorates for Muslims, which Congress accepted",
-      "Joint electorates for all",
-      "Complete self-governance for Muslim majority provinces"
+      "Joint electorates for all"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'The League agreed to present joint constitutional demands with the Congress to the government, the Congress accepted the Muslim League's position on separate electorates.'"
   },
   {
     "question": "Khudiram Bose and Prafulla Chaki attempted to assassinate which British judge in the Muzaffarpur Murders (1908)?",
     "options": [
-      "Judge Ashe",
-      "Judge Rand",
+      "Judge Curzon Wyllie",
       "Judge Kingsford",
-      "Judge Curzon Wyllie"
+      "Judge Rand",
+      "Judge Ashe"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Muzaffarpur Murders (1908): A failed attempt in Muzaffarpur to assassinate Judge Kingsford (Judge in the case of Yugantar trails) by bomb throwers Khudiram Bose and Prafulla Chaki.'"
   },
   {
     "question": "The Ghadar Party was formed in 1913 with which leader as its elected president?",
     "options": [
       "Lala Hardyal",
-      "Baba Sohan Singh Bhakhna",
       "GD Kumar",
+      "Baba Sohan Singh Bhakhna",
       "Taraknath Das"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'In 1913, Ghadar Party was formed with Baba Sohan Singh Bhakhna as elected President, Lala Hardyal as General Secretary.'"
   },
   {
     "question": "India House in London was established in 1905 by:",
     "options": [
-      "V.D. Savarkar",
       "Madan Lal Dhingra",
       "Shyamji Krishna Varma",
+      "V.D. Savarkar",
       "Bipin Chandra Pal"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'India House (London) was Established by Shyamji Krishna Varma in 1905 to propagate revolutionary ideas through the publication Indian Sociologist.'"
   },
   {
     "question": "The Hindustan Republican Association (HRA) was later transformed into the Hindustan Socialist Republican Association (HSRA) after which incident?",
     "options": [
-      "Delhi Conspiracy Case, 1912",
       "Kakori Conspiracy, 1925",
-      "Chittagong Armoury Raid, 1929",
-      "Alipore Conspiracy Case, 1908"
+      "Delhi Conspiracy Case, 1910",
+      "Alipore Conspiracy Case, 1910",
+      "Chittagong Armoury Raid, 1932"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'After the Kakori incident, HSRA adopted socialism, led by Bhagat Singh and Chandrashekhar Azad, leading the transformation to Hindustan Socialist Republican Association (HSRA).'"
   },
   {
     "question": "The Chittagong Armoury Raid (1929) was led by:",
     "options": [
-      "Bina Das",
-      "Aurobindo Ghosh",
       "Surya Sen",
-      "Sachindra Nath Sanyal"
+      "Bina Das",
+      "Barindra Kumar Ghosh",
+      "Kalpana Dutta"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Chittagong Armoury Raid (1929): Surya Sen attempted to seize arms and inspire an uprising in Chittagong leading to British severe suppression.'"
   },
   {
     "question": "According to the notes, who was known as the 'Father of Armed Indian Rebellion'?",
     "options": [
-      "V.D. Savarkar",
       "Vasudev Phadke",
+      "Chandrashekhar Azad",
       "Bhagat Singh",
-      "Chandrashekhar Azad"
+      "V.D. Savarkar"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Vasudev Phadke: Known as the Father of Armed Indian Rebellion, He organised insurgent activities in response to the Deccan Famine (1876-77).'"
   },
   {
     "question": "The first Factory Act in India came in 1881. What was the minimum age requirement for child workers?",
     "options": [
       "Children under 5 were not allowed",
-      "Children under 7 were not allowed",
+      "Children under 12 were not allowed",
       "Children under 10 were not allowed",
-      "Children under 12 were not allowed"
+      "Children under 7 were not allowed"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'First Factory Act came in 1881 with provisions like - Children under 7 (No beta No).'"
   },
   {
     "question": "The All India Trade Union Congress (AITUC) was founded on October 31, 1920. Who was its founding President?",
     "options": [
-      "C.R. Das",
-      "N.M. Lokhande",
       "Lala Lajpat Rai",
+      "N.M. Lokhande",
+      "C.R. Das",
       "Sarojini Naidu"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'AITUC - 31 October, 1920. Founding President - Lala Lajpat Rai (First one to link capitalism with Imperialism).'"
   },
   {
     "question": "Cornwallis is regarded as the 'Father of Civil Services in India.' He tried to check corruption through:",
     "options": [
-      "Competitive examinations",
-      "Encouragement and discipline",
       "Higher salaries only",
-      "Transfer of civil servants frequently"
+      "Encouragement and discipline",
+      "Transfer of civil servants frequently",
+      "Competitive examinations"
     ],
     "correct": 1,
     "explanation": "The notes state: 'During this time came Cornwallis (Regarded as Father of Civil Services in India) - tried to check corruption in civil services through - encouragement and discipline.'"
@@ -1707,21 +1707,21 @@
   {
     "question": "In 1863, who became the first Indian to qualify for the Indian Civil Service?",
     "options": [
-      "Gopal Krishna Gokhale",
-      "Dadabhai Naoroji",
+      "Surendranath Banerjee",
       "Satyendra Nath Tagore",
-      "Surendranath Banerjee"
+      "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'In 1863, Satyendra Nath Tagore became the first Indian to qualify for the Indian Civil Service.'"
   },
   {
     "question": "The first competitive examination for the Indian Civil Service was started in which year?",
     "options": [
-      "1853",
-      "1854",
+      "1857",
+      "1856",
       "1855",
-      "1861"
+      "1858"
     ],
     "correct": 2,
     "explanation": "The notes state: 'For this purpose, a Civil Service Commission was setup in 1854 in London and competitive examinations were started in 1855.'"
@@ -1729,32 +1729,32 @@
   {
     "question": "James Augustus Hickey's 'Bengal Gazette,' the first newspaper of India, was started in which year?",
     "options": [
-      "1780",
-      "1785",
       "1790",
+      "1785",
+      "1780",
       "1795"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The notes clearly state: 'James Augustus Hickey - 1780 - The Bengal Gazette - First Newspaper of India - seized 1782.'"
   },
   {
     "question": "The Vernacular Press Act (1878) enacted by Lord Lytton was known as the 'Gagging Act' primarily because of:",
     "options": [
-      "The high fines it imposed on newspapers",
-      "Discrimination between English and Vernacular newspapers and no right to appeal",
+      "Its total ban on vernacular newspapers",
       "The requirement for all papers to submit content before publication",
-      "Its total ban on vernacular newspapers"
+      "The high fines it imposed on newspapers",
+      "Discrimination between English and Vernacular newspapers and no right to appeal"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'This Act came to be known as the Gagging Act because of Discrimination between the English and the Vernacular Newspapers and NO RIGHT TO APPEAL.'"
   },
   {
     "question": "The Amrita Bazar Patrika found an ingenious way to escape the Vernacular Press Act (1878) by:",
     "options": [
       "Moving its editorial office to another country",
-      "Stopping publication temporarily",
+      "Publishing only cultural content",
       "Turning into an overnight English Newspaper",
-      "Publishing only cultural content"
+      "Stopping publication temporarily"
     ],
     "correct": 2,
     "explanation": "The notes mention: 'Amrita Bazar Patrika - turned into an overnight English Newspaper to escape VPA.'"
@@ -1763,64 +1763,64 @@
     "question": "The Press Act of 1835 (Metcalfe's Act) is remembered as the 'Liberator of the Indian Press' because it:",
     "options": [
       "Gave complete freedom of the press",
-      "Scrapped the 1823 licensing regime and required only simple registration without pre-censorship",
       "Allowed Indians to criticize British rule",
+      "Scrapped the 1823 licensing regime and required only simple registration without pre-censorship",
       "Protected journalists from arrest"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'The Press Act scrapped the 1823 licensing regime and replaced it with simple registration...no prior permission or pre-censorship was required.' That's why it's remembered as the 'Liberator of the Indian Press.'"
   },
   {
     "question": "According to the notes, which newspaper published by Gandhi focused on Harijan welfare?",
     "options": [
-      "Young India",
-      "Nav Jivan",
+      "Indian Opinion",
       "Harijan",
-      "Indian Opinion"
+      "Young India",
+      "Nav Jivan"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes list: 'Mahatma Gandhi - Young India, Nav Jivan and Harijan' as the newspapers associated with him."
   },
   {
     "question": "Wood's Despatch (1854) is known as the 'Magna Carta of English Education in India.' It called for establishing universities at which three cities initially?",
     "options": [
-      "Delhi, Calcutta and Bombay",
-      "Calcutta, Bombay and Madras",
+      "Madras, Delhi and Bombay",
       "Calcutta, Bombay and Allahabad",
-      "Madras, Delhi and Bombay"
+      "Calcutta, Bombay and Madras",
+      "Delhi, Calcutta and Bombay"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state that Wood's Despatch recommended 'affiliating universities of Calcutta, Bombay and Madras' and this led to 'Universities set up in Bombay, Calcutta and Madras.'"
   },
   {
     "question": "Macaulay's Minute of 1835 decided that education in India should be:",
     "options": [
+      "Based on Sanskrit and Arabic traditions",
       "In vernacular languages with emphasis on traditional learning",
       "Modern Education through English Language only",
-      "A balance between Oriental and Western learning",
-      "Based on Sanskrit and Arabic traditions"
+      "A balance between Oriental and Western learning"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Macaulay's Minute of 1835 - Modern Education and through English Language only (Anglicist Won, Orientalist are sad).'"
   },
   {
     "question": "The first Hindi newspaper, Udant Martand, was launched in which year?",
     "options": [
-      "1818",
-      "1822",
-      "1826",
-      "1835"
+      "1816",
+      "1825",
+      "1838",
+      "1826"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: '1826 - Udant Martand - First Hindi Newspaper - 30 May - Hindi Journalism Day.'"
   },
   {
     "question": "The Indian Councils Act, 1892 was criticized by the Congress because it:",
     "options": [
-      "Reduced Indian representation in councils",
+      "Increased British control over Indian affairs",
       "Failed to introduce the system of direct elections in India",
-      "Abolished separate electorates for Muslims",
-      "Increased British control over Indian affairs"
+      "Reduced Indian representation in councils",
+      "Abolished separate electorates for Muslims"
     ],
     "correct": 1,
     "explanation": "The notes state: 'This Act was criticised by the Congress during its session in 1892 and 1893 because it failed to introduce the system of direct elections in India.'"
@@ -1828,78 +1828,78 @@
   {
     "question": "The Bharat Dharma Mahamandal was founded in 1902 in Varanasi to:",
     "options": [
-      "Promote modern education among Hindus",
       "Defend Hinduism against reformist movements like Arya Samaj and Theosophists",
-      "Establish temples across India",
-      "Promote widow remarriage and oppose caste discrimination"
+      "Promote modern education among Hindus",
+      "Promote widow remarriage and oppose caste discrimination",
+      "Establish temples across India"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Bharat Dharma Mahamandal - Founded: 1902 in Varanasi - Objective: Unified organizations like Sanatana Dharma Sabha and Dharma Maha Parishad to defend Hinduism against reformist movements like Arya Samaj and Theosophists.'"
   },
   {
     "question": "Raja Ram Mohan Roy supported which educational institution founded in 1817 in Calcutta?",
     "options": [
-      "Presidency College",
-      "Sanskrit College",
       "Hindu College",
-      "Calcutta Madrassa"
+      "Presidency College",
+      "Calcutta Madrassa",
+      "Sanskrit College"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state that Ram Mohan Roy 'Supported Hindu College (1817), Calcutta' as part of his education initiatives."
   },
   {
     "question": "The Servants of India Society (1905) focused on promoting which ideals?",
     "options": [
-      "Revolutionary activities and armed resistance",
-      "Selfless service to the masses, focusing on the underprivileged, rural communities, and tribal populations",
       "Electoral politics and council entry",
-      "Industrial development and economic nationalism"
+      "Revolutionary activities and armed resistance",
+      "Industrial development and economic nationalism",
+      "Selfless service to the masses, focusing on the underprivileged, rural communities, and tribal populations"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state the Servants of India Society 'Advocated for selfless service to the masses, focusing on the underprivileged, rural communities, and tribal populations' and 'Promoted reforms in education, sanitation, and health care.'"
   },
   {
     "question": "The Indian Social Conference was founded in 1887 by M.G. Ranade and was known as:",
     "options": [
-      "The political wing of the Indian National Congress",
       "The social reform cell of the Indian National Congress",
-      "The educational wing of the Indian National Congress",
-      "The economic wing of the Indian National Congress"
+      "The economic wing of the Indian National Congress",
+      "The political wing of the Indian National Congress",
+      "The educational wing of the Indian National Congress"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Indian Social Conference - Founded: 1887 by M.G. Ranade and Raghunath Rao - Known as the social reform cell of the Indian National Congress.'"
   },
   {
     "question": "The Bengal British India Society was founded in 1843. Its primary objective was:",
     "options": [
       "Political independence from Britain",
-      "Collect and disseminate information on the actual condition of people of British India and use peaceful means for their welfare",
+      "Promote English education",
       "Protect the interests of zamindars",
-      "Promote English education"
+      "Collect and disseminate information on the actual condition of people of British India and use peaceful means for their welfare"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'The Society aimed to collect and disseminate information on the actual condition of the people of British India and to use peaceful and lawful means to secure their welfare, extend just rights, and advance the interests of all classes of subjects.'"
   },
   {
     "question": "The Bombay Presidency Association (1885) was started by which leaders?",
     "options": [
+      "Jyotirao Phule, Gopal Hari Deshmukh and Gopal Ganesh Agarkar",
       "Mahadev Govind Ranade, S.H Chiplunkar and G.V. Joshi",
       "Badruddin Tyabji, Pherozshah Mehta and K.T. Telang",
-      "Dadabhai Naoroji, Gopal Krishna Gokhale and Bal Gangadhar Tilak",
-      "Jyotirao Phule, Gopal Hari Deshmukh and Gopal Ganesh Agarkar"
+      "Dadabhai Naoroji, Gopal Krishna Gokhale and Bal Gangadhar Tilak"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'The Bombay Presidency Association was started by Badruddin Tyabji, Pherozshah Mehta and K.T. Telang in 1885.'"
   },
   {
     "question": "Who was the first Indian woman to address a Congress session (in 1890)?",
     "options": [
       "Sarojini Naidu",
+      "Annie Besant",
       "Pandita Ramabai",
-      "Kadambini Ganguly",
-      "Annie Besant"
+      "Kadambini Ganguly"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'In 1890, Kadambini Ganguly, the first woman graduate of Calcutta University, addressed the Congress session.'"
   },
   {
@@ -1916,8 +1916,8 @@
   {
     "question": "Lord Lytton passed the Vernacular Press Act (1878) and the Arms Act (1878). His Delhi Durbar in 1877 was controversial because it was arranged while:",
     "options": [
+      "The Revolt of 1854 was being suppressed",
       "The First World War was ongoing",
-      "The Revolt of 1857 was being suppressed",
       "A large part of India was in the grip of famine (1876-78)",
       "The Non-Cooperation Movement was at its peak"
     ],
@@ -1927,10 +1927,10 @@
   {
     "question": "Bankim Chandra Chatterjee wrote the song 'Vande Mataram' which was published in his novel:",
     "options": [
+      "Kapalkundala",
       "Durgeshnandini",
-      "Rajmohan's Wife",
       "Anandmath (1882)",
-      "Kapalkundala"
+      "Rajmohan's Wife"
     ],
     "correct": 2,
     "explanation": "The notes state: 'Bankim Chandra Chatterjee (1838-1894) - He wrote the poem Vande Matram to counter the British attempt, and was later published in Bengali script in his Novel Anandmath (1882).'"
@@ -1938,21 +1938,21 @@
   {
     "question": "The poem 'Vande Mataram' was first sung at a Congress session in 1896 by:",
     "options": [
+      "Bankim Chandra Chatterjee",
       "Sarojini Naidu",
       "Rabindranath Tagore",
-      "Bankim Chandra Chatterjee",
       "Bal Gangadhar Tilak"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'During the Congress Session of 1896, the poem was first sung by Rabindranath Tagore.'"
   },
   {
     "question": "The Neel Darpan (1860), a Bengali play that reflected the plight of Indigo Farmers, was written by:",
     "options": [
+      "Ishwar Chandra Vidyasagar",
       "Bankim Chandra Chatterjee",
-      "Rabindranath Tagore",
       "Dinbandhu Mitra",
-      "Ishwar Chandra Vidyasagar"
+      "Rabindranath Tagore"
     ],
     "correct": 2,
     "explanation": "The notes state: 'In the 1860s, a Bengali play called Neel Darpan (Dinbandhu Mitra, 1860) became popular which reflected the plight of Indigo Farmers.'"
@@ -1960,54 +1960,54 @@
   {
     "question": "The Royal Indian Navy Mutiny (1946) erupted at which ship/establishment in Bombay?",
     "options": [
-      "HMIS Hindustan",
       "HMIS Talwar",
+      "HMIS Lawrence",
       "HMIS Cauvery",
-      "HMIS Lawrence"
+      "HMIS Hindustan"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'the Royal Indian Navy uprising erupted at HMIS Talwar, Bombay (18-23 Feb 1946) and spread to some 78 ships and 20+ shore establishments.'"
   },
   {
     "question": "The INA trials were held at which historic monument in 1945-46?",
     "options": [
-      "Qutub Minar, Delhi",
+      "Gateway of India, Bombay",
       "Victoria Memorial, Calcutta",
-      "Red Fort, Delhi",
-      "Gateway of India, Bombay"
+      "Qutub Minar, Delhi",
+      "Red Fort, Delhi"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Held at the Red Fort in 1945-46, the INA trials put Subhas Bose's captured officers in the dock for treason.'"
   },
   {
     "question": "The first session of the Constituent Assembly was held on December 9, 1946. The Muslim League boycotted it. Who served as the temporary chairman?",
     "options": [
-      "Rajendra Prasad",
       "B.R. Ambedkar",
-      "Sachchidanand Sinha",
-      "J.B. Kripalani"
+      "J.B. Kripalani",
+      "Rajendra Prasad",
+      "Sachchidanand Sinha"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'J.B. Kripalani invited Dr. Sachchidanand Sinha to act as the temporary chairman due to his seniority.'"
   },
   {
     "question": "The Objective Resolution, which later formed the basis of the Preamble to the Indian Constitution, was proposed by:",
     "options": [
       "Rajendra Prasad",
-      "B.R. Ambedkar",
       "Jawaharlal Nehru",
-      "Vallabhbhai Patel"
+      "Vallabhbhai Patel",
+      "B.R. Ambedkar"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Jawaharlal Nehru proposed the Objective Resolution (13 December 1946), which later formed the basis of the Preamble to the Indian Constitution.'"
   },
   {
     "question": "The Constituent Assembly held how many sessions over what time period to complete the Constitution?",
     "options": [
-      "9 sessions over 2 years",
+      "7 sessions over 1 year and 6 months",
       "11 sessions over 2 years and 11 months",
-      "13 sessions over 3 years",
-      "7 sessions over 1 year and 6 months"
+      "9 sessions over 2 years",
+      "13 sessions over 3 years"
     ],
     "correct": 1,
     "explanation": "The notes state: 'The Assembly held 11 sessions over 2 years and 11 months for a total of 166 days. It completed the Constitution of India in 1950.'"
@@ -2015,43 +2015,43 @@
   {
     "question": "Pandita Ramabai was the first Indian woman to receive which academic titles from the University of Calcutta?",
     "options": [
-      "Doctor and Scholar",
       "Pandita and Saraswati",
-      "Vidhushi and Acharya",
-      "Mahavidya and Parangat"
+      "Doctor and Scholar",
+      "Mahavidya and Parangat",
+      "Vidhushi and Acharya"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Pandita Ramabai - First Indian woman awarded the titles Pandita and Saraswati by the University of Calcutta for her knowledge and scholarship.'"
   },
   {
     "question": "The Arya Mahila Samaj (Arya Women Society) was founded by Pandita Ramabai in which year?",
     "options": [
-      "1875",
-      "1878",
-      "1882",
-      "1889"
+      "1872",
+      "1886",
+      "1881",
+      "1882"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Please Note - Arya Mahila Samaj, distinct from Arya Samaj, also known as Arya Women Society, was founded by Pandita Ramabai in 1882.'"
   },
   {
     "question": "Swami Dayanand Saraswati is known as the 'Martin Luther of India' and gave the slogan 'India for Indians' in:",
     "options": [
-      "1857",
-      "1866",
       "1876",
-      "1881"
+      "1859",
+      "1879",
+      "1869"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Gave Slogan - India for Indians in 1876. He is known as Martin Luther of India.'"
   },
   {
     "question": "The Satyashodhak Samaj (1873) was established by Jyotirao Phule. It promoted which practices?",
     "options": [
-      "Vedic rituals and caste hierarchy",
+      "Revivalism of ancient Hindu traditions",
       "Inter-caste marriages, child marriage elimination, and widow remarriage",
-      "English education and Western values",
-      "Revivalism of ancient Hindu traditions"
+      "Vedic rituals and caste hierarchy",
+      "English education and Western values"
     ],
     "correct": 1,
     "explanation": "The notes state that Satyashodhak Samaj 'Promoted inter-caste marriages, child marriage elimination, and widow remarriage' and 'Aimed at societal equality and education for marginalized sections.'"
@@ -2059,86 +2059,86 @@
   {
     "question": "The justice Party (South Indian Liberal Federation), Madras, was founded in 1916. Its key founders were:",
     "options": [
+      "Gopal Krishna Gokhale and Surendranath Banerjee",
       "E.V. Ramaswamy and C. Rajagopalachari",
       "P. Theagaraya Chetty, T.M. Nair, C. Natesa Mudaliar",
-      "Jawaharlal Nehru and Maulana Azad",
-      "Gopal Krishna Gokhale and Surendranath Banerjee"
+      "Jawaharlal Nehru and Maulana Azad"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Key founders: P. Theagaraya Chetty, T. M. Nair, C. Natesa Mudaliar.' The party's aim was to advance non-Brahmin representation."
   },
   {
     "question": "The Self-Respect Movement (1925) was launched by E.V. Ramaswamy Periyar and advocated:",
     "options": [
-      "Vedic education and Sanskrit revival",
       "Weddings without Brahmin priests and rejecting Manusmriti",
       "Cooperation with the British government",
+      "Vedic education and Sanskrit revival",
       "Formation of a separate Dravidian state"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state the Self-Respect Movement 'Advocated: Weddings without Brahmin priests. Forcible temple entry and rejecting Manusmriti.'"
   },
   {
     "question": "The Child Marriage Restraint (Sarda) Act of 1929 fixed the minimum ages at:",
     "options": [
+      "10 for girls and 14 for boys",
       "12 for girls and 16 for boys",
-      "14 for girls and 18 for boys",
       "16 for girls and 21 for boys",
-      "10 for girls and 14 for boys"
+      "14 for girls and 18 for boys"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Child Marriage Restraint (Sarda) Act - 1929: First all-India law to penalise child marriage, fixing minimum ages (then 14 for girls, 18 for boys).'"
   },
   {
     "question": "The Vithalbhai Patel was elected as President of the Central Legislative Assembly in March 1925. He was:",
     "options": [
-      "The first Indian to hold this post",
-      "The second Indian to hold this post",
       "The last President before Independence",
+      "The second Indian to hold this post",
+      "The first Indian to hold this post",
       "The first Swarajist to hold any position"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The notes state: 'Vithalbhai J. Patel (1925): Elected President (often called Speaker) of the Central Legislative Assembly—the first Indian to hold the post.'"
   },
   {
     "question": "After the Punjab Assembly voted to partition Punjab in June 1947, it resulted in:",
     "options": [
+      "All of Punjab going to India",
       "East Punjab going to Pakistan and West Punjab to India",
       "West Punjab going to Pakistan and East Punjab to India",
-      "All of Punjab going to India",
       "Punjab remaining undivided under a joint administration"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Punjab - June 23, 1947: Punjab Assembly voted to partition Punjab. West Punjab → Pakistan. East Punjab → India.'"
   },
   {
     "question": "The Indian Independence Act (1947) was given Royal Assent on:",
     "options": [
-      "June 3, 1947",
-      "June 15, 1947",
       "July 18, 1947",
-      "August 15, 1947"
+      "June 15, 1945",
+      "August 15, 1945",
+      "June 3, 1945"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'July 18, 1947: Indian Independence Act received Royal Assent → two Dominions: Pakistan (Aug 14), India (Aug 15).'"
   },
   {
     "question": "The Depressed Classes Mission was founded in 1906 by:",
     "options": [
-      "B.R. Ambedkar",
-      "V.R. Shinde",
       "Gopal Baba Walangkar",
-      "Kisan Faghu Bansode"
+      "Kisan Faghu Bansode",
+      "B.R. Ambedkar",
+      "V.R. Shinde"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Depressed Classes Mission (V.R. Shinde, 1906): schools/hostels for the marginalised, anti-untouchability outreach.'"
   },
   {
     "question": "In 1924, Ambedkar founded Bahishkrit Hitkarni Sabha with the aim of:",
     "options": [
-      "Organizing Dalit conferences",
-      "Voicing the challenges that Dalits faced",
       "Establishing separate Dalit schools",
+      "Voicing the challenges that Dalits faced",
+      "Organizing Dalit conferences",
       "Demanding separate political representation"
     ],
     "correct": 1,
@@ -2147,164 +2147,164 @@
   {
     "question": "Madan Lal Dhingra in 1909 became notable for:",
     "options": [
-      "Founding the India House",
-      "Assassinating Curzon Wyllie in London, becoming the first Indian revolutionary to be executed on foreign soil",
       "Organizing the Ghadar Movement",
-      "Leading the Alipore Bomb Case"
+      "Leading the Alipore Bomb Case",
+      "Assassinating Curzon Wyllie in London, becoming the first Indian revolutionary to be executed on foreign soil",
+      "Founding the India House"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Madan Lal Dhingra (1909): One of the associates of Indian House, Madan Lal Dhingra assassinated Curzon Wyllie in London, a British official, becoming the first Indian revolutionary to be executed on Foreign soil.'"
   },
   {
     "question": "The INA grew to how many members under Captain Mohan Singh?",
     "options": [
-      "About 10,000 members",
-      "About 20,000 members",
       "About 40,000 members",
-      "About 60,000 members"
+      "About 60,000 members",
+      "About 10,000 members",
+      "About 20,000 members"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'The INA grew to about 40,000 members, preparing to confront British forces in India.'"
   },
   {
     "question": "The 'Struggle-Truce-Struggle' (S-T-S) strategy of Gandhi is explained by Bipan Chandra in which book?",
     "options": [
-      "India's Struggle for Independence",
-      "The Making of Modern India",
       "History of the Indian National Movement",
-      "Colonialism and Indian Nationalism"
+      "India's Struggle for Independence",
+      "Colonialism and Indian Nationalism",
+      "The Making of Modern India"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Mains POV - Struggle Truce Struggle (S-T-S) Strategy of Gandhi as explained by Bipin Chandra in his book The Making of Modern India.'"
   },
   {
     "question": "The Radha Swami Satsang was founded in 1861 by:",
     "options": [
       "Baba Dayal Das",
-      "Shiv Narayan Agnihotri",
       "Shiv Dayal Singh (Soami Ji)",
-      "Baba Ram Singh"
+      "Baba Ram Singh",
+      "Shiv Narayan Agnihotri"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Radha Swami Satsang - Founded: 1861, by Shiv Dayal Singh (Soami Ji, 1818 - 1878)' with core teachings of belief in one supreme being and rejection of idol worship."
   },
   {
     "question": "Subhas Chandra Bose resigned from the Indian Civil Service in which year?",
     "options": [
-      "1919",
       "1921",
-      "1923",
-      "1925"
+      "1927",
+      "1917",
+      "1923"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Subhas Chandra Bose resigned from the ICS in April 1921 and soon became Principal of the (Bengal) National College/Calcutta Vidyapith associated with C.R. Das.'"
   },
   {
     "question": "The Haripura Congress (1938) with Bose as president initiated a National Planning Committee and passed resolutions including:",
     "options": [
-      "Complete Independence and dissolution of princely states",
-      "Establishment of a Socialist State, Abolition of Landlordism, Protection of Workers' Rights",
-      "Non-Cooperation with the British war effort",
-      "Demand for immediate Dominion Status"
+      "Immediate launch of civil disobedience to end colonial rule",
+      "Partition of India along religious lines before independence",
+      "Rejection of the Cripps Mission proposals outright",
+      "Establishment of a Socialist State, Abolition of Landlordism, Protection of Workers' Rights"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state the Haripura Session had resolutions like 'Establishment of a Socialist State in India, Abolition of Landlordism, Protection of Workers Right and welfare of Peasants and Farmers.'"
   },
   {
     "question": "The Individual Satyagraha (1940-1941) was launched to assert which principle?",
     "options": [
-      "Complete independence from British rule",
-      "Free speech and opposition to forced war participation",
+      "Demand for a constituent assembly",
       "Abolition of separate electorates",
-      "Demand for a constituent assembly"
+      "Free speech and opposition to forced war participation",
+      "Complete independence from British rule"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Individual Satyagraha (1940-1941) - Objectives: Assert free speech and oppose forced war participation through anti-war statements.'"
   },
   {
     "question": "Vinoba Bhave was the first satyagrahi in the Individual Satyagraha on:",
     "options": [
-      "October 1, 1940",
       "October 17, 1940",
-      "November 1, 1940",
-      "December 1, 1940"
+      "November 1, 1938",
+      "December 1, 1942",
+      "October 1, 1938"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Vinoba Bhave was first satyagrahi (17 Oct 1940), Nehru second; ~25,000 convicted by May 1941.'"
   },
   {
     "question": "The Wavell Plan (1945) proposed equal representation in the Executive Council for:",
     "options": [
       "All Indians regardless of religion",
+      "Hindus and Scheduled Castes",
       "Caste Hindus and Muslims",
-      "Hindus, Muslims, and Sikhs",
-      "Hindus and Scheduled Castes"
+      "Hindus, Muslims, and Sikhs"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Equal Representation - Equal representation was to be provided to caste Hindus and Muslims in the Executive Council.'"
   },
   {
     "question": "The C.R. Formula (1944) was proposed by C. Rajagopalachari. Its main objective was to:",
     "options": [
+      "Promote Hindu-Muslim unity without partition",
       "Immediately grant independence to India",
-      "Resolve the deadlock between Congress and Muslim League over Pakistan",
       "Establish a federal structure for India",
-      "Promote Hindu-Muslim unity without partition"
+      "Resolve the deadlock between Congress and Muslim League over Pakistan"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'C. R. Formula (1944) Objective: To resolve the deadlock between the Indian National Congress and the Muslim League over the demand for Pakistan.'"
   },
   {
     "question": "The Regulating Act of 1773 was significant for the Civil Services in India because it:",
     "options": [
-      "Introduced competitive examinations for civil servants",
-      "Forbade civil servants from accepting gifts and prohibited private trading by revenue/justice officials",
       "Established the age limit for civil servants",
-      "Created the Viceroy's Executive Council"
+      "Created the Viceroy's Executive Council",
+      "Forbade civil servants from accepting gifts and prohibited private trading by revenue/justice officials",
+      "Introduced competitive examinations for civil servants"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Regulating Act of 1773 - The Act forbade civil servants from accepting any gifts from the people. The Act prohibited private trading by all those civil servants responsible for collection of revenues or administration of justice.'"
   },
   {
     "question": "Gopal Hari Deshmukh (Lokhitwadi) supported the Swadeshi movement and criticized social evils through his journal:",
     "options": [
-      "Kesari",
-      "Mahratta",
       "Prabhakar",
-      "Deenbandhu"
+      "Deenbandhu",
+      "Mahratta",
+      "Kesari"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Gopal Hari Deshmukh - advocated for modern human values and criticized social evils through his journal Prabhakar (1848-1889).'"
   },
   {
     "question": "The Manav Dharma Sabha was founded in Surat in 1844 by:",
     "options": [
+      "Jyotirao Phule and Savitribai Phule",
       "Atmaram Pandurang",
       "Durgaram Manchharam and Dalpatram Bhagubai",
-      "Jyotirao Phule and Savitribai Phule",
       "Gopal Ganesh Agarkar"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Manav Dharma Sabha - Founded in Surat (1844) by Durgaram Manchharam, Dalpatram Bhagubai and others.'"
   },
   {
     "question": "The Indian League was started in 1875 by Sisir Kumar Ghosh. He was also the founder of which Bengali newspaper?",
     "options": [
-      "Bengalee",
       "Amrita Bazar Patrika",
       "Sanjibani",
+      "Bengalee",
       "Yugantar"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Ghosh himself was a noted journalist and a founder of Amrita Bazar Patrika. (A noted Bengali Newspaper).'"
   },
   {
     "question": "When did the Constituent Assembly of India begin its work, and who proposed the Objective Resolution?",
     "options": [
-      "December 9, 1946, proposed by B.R. Ambedkar",
+      "December 9, 1949, proposed by B.R. Ambedkar",
       "December 13, 1946, proposed by Jawaharlal Nehru",
-      "January 26, 1947, proposed by Rajendra Prasad",
-      "August 15, 1947, proposed by Gandhi"
+      "August 15, 1949, proposed by Gandhi",
+      "January 26, 1945, proposed by Rajendra Prasad"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Objective Resolution (13 December 1946): Jawaharlal Nehru proposed the Objective Resolution, which later formed the basis of the Preamble to the Indian Constitution.'"
@@ -2323,21 +2323,21 @@
   {
     "question": "The ancient monument preservation was strengthened by which Act passed during Curzon's reign?",
     "options": [
-      "Co-Operative Credit Societies Act, 1904",
-      "Indian Universities Act, 1904",
       "Ancient Monuments Act, 1904",
-      "Indian Press Act, 1910"
+      "Indian Press Act, 1913",
+      "Indian Universities Act, 1901",
+      "Co-Operative Credit Societies Act, 1907"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes mention: 'Ancient Monuments Act, 1904 - To protect and save the Historical Monuments in India - 1904' as one of Curzon's commissions and areas of work."
   },
   {
     "question": "The Paramahansa Mandali (1849) was established in Bombay by Ram Bal Krishna Jayakar and Dadoba Pandurang. It operated as a radical socio-religious group that primarily:",
     "options": [
-      "Advocated armed revolt against British rule",
+      "Focused on English education and Western values",
       "Advocated monotheism, morality over rituals, opposed caste discrimination and supported widow remarriage",
       "Promoted Vedic education and Sanskrit learning",
-      "Focused on English education and Western values"
+      "Advocated armed revolt against British rule"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Paramahansa Mandali Teachings: Advocated monotheism and morality over rituals. Opposed caste discrimination. Supported widow remarriage and women's education.'"
@@ -2345,86 +2345,86 @@
   {
     "question": "The 1937 provincial elections results showed that Congress won a majority everywhere except in which three provinces?",
     "options": [
+      "Baluchistan, Sindh, and Punjab",
       "Punjab, Bengal, and Madras",
       "Sindh, Punjab, and Bengal",
-      "NWFP, Punjab, and Assam",
-      "Baluchistan, Sindh, and Punjab"
+      "NWFP, Punjab, and Assam"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Congress formed ministries in 8 provinces (Majority everywhere except Sindh, Punjab and Bengal), while the Muslim League led in Sindh and Bengal.'"
   },
   {
     "question": "The Tilak Swaraj Fund was announced at which Congress session with a target of gathering 1 crore rupees?",
     "options": [
-      "Calcutta Session, 1920",
+      "Calcutta Session, 1923",
+      "Delhi Session, 1926",
       "Nagpur Congress Session, 1920",
-      "Ahmedabad Session, 1921",
-      "Delhi Session, 1923"
+      "Ahmedabad Session, 1923"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Tilak Swaraj Fund - Announced at Nagpur Congress Session of 1920 - All India Tilak Memorial Swaraj Fund Launched in early 1921. Goal to gather 1 crore rupees by June 1921.'"
   },
   {
     "question": "Bhagat Singh formed the Naujawan Bharat Sabha in which year?",
     "options": [
-      "1920",
-      "1924",
+      "1923",
       "1926",
+      "1921",
       "1929"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Bhagat Singh formed Naujawan Bharat Sabha in 1926, and while in Prison penned down Why I am an Atheist.'"
   },
   {
     "question": "The Workmen's Compensation Act (1923), passed during the Swarajist era, made employers:",
     "options": [
-      "Liable only when negligence was proven",
-      "Strictly liable (no need to prove negligence) for industrial injuries/death",
       "Responsible for providing insurance to all workers",
-      "Required to pay minimum wages to all workers"
+      "Liable only when negligence was proven",
+      "Required to pay minimum wages to all workers",
+      "Strictly liable (no need to prove negligence) for industrial injuries/death"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Workmen's Compensation Act, 1923: Made employers strictly liable (no need to prove negligence) to pay compensation for industrial injuries/death to workers.'"
   },
   {
     "question": "Which of the following was the PUSA Agricultural Institute established by Curzon in?",
     "options": [
-      "1901",
-      "1903",
       "1905",
-      "1907"
+      "1898",
+      "1902",
+      "1903"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'PUSA Agricultural Institute in 1903 established' as one of Curzon's commissions and areas of work."
   },
   {
     "question": "According to the notes, the Moplah (Mappila) Revolt of August 1921 in Malabar was primarily:",
     "options": [
-      "A purely political revolt against British rule",
       "An agrarian-cum-anti-colonial uprising of Mappila Muslims against British authority and landlord structures",
+      "A purely political revolt against British rule",
       "A religious uprising against Hinduism",
       "A protest against the partition of Bengal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes describe the Moplah Revolt as 'An agrarian-cum-anti-colonial uprising of Mappila Muslims against British authority and oppressive jenmi (landlord) structures.'"
   },
   {
     "question": "The first All India Khilafat Conference was held in November 1919. Who urged for the boycott of British goods at this conference?",
     "options": [
+      "Hasrat Mohani",
       "Muhammad Ali Jinnah",
       "Maulana Azad",
-      "Hasrat Mohani",
       "Shaukat Ali"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Nov 1919 - All India Khilafat Conference - Call for non-cooperation - Hasrat Mohani urged for boycott of British Goods.'"
   },
   {
     "question": "The Lucknow Session of 1916, which readmitted the Extremists to Congress, was presided over by:",
     "options": [
       "Bal Gangadhar Tilak",
-      "Dadabhai Naoroji",
       "Annie Besant",
+      "Dadabhai Naoroji",
       "Ambica Charan Mazumdar"
     ],
     "correct": 3,
@@ -2434,20 +2434,20 @@
     "question": "The Lee Commission (1924) recommended a specific ratio for recruitment to the Indian Civil Service. The recommendation was:",
     "options": [
       "75% Indians and 25% Europeans",
-      "50:50 parity between Europeans and Indians to be reached in 15 years",
       "60% Indians and 40% Europeans",
-      "25% Indians and 75% Europeans"
+      "25% Indians and 75% Europeans",
+      "50:50 parity between Europeans and Indians to be reached in 15 years"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Direct recruitment to Indian Civil Service on the basis of 50.50 recruitment to Indian Civil Service on the basis of 50:50 parity between the Europeans and the Indians be reached in 15 years.'"
   },
   {
     "question": "The British policy of 'Ring Fence' (1765-1813) was primarily aimed at:",
     "options": [
-      "Annexing Indian territories rapidly",
+      "Promoting trade between India and Britain",
       "Protecting British territorial interests especially Bengal by creating buffer states",
-      "Establishing direct control over princely states",
-      "Promoting trade between India and Britain"
+      "Annexing Indian territories rapidly",
+      "Establishing direct control over princely states"
     ],
     "correct": 1,
     "explanation": "The notes state: 'The Ring Fence policy was defensive in nature, aimed at protecting British interests without directly annexing Indian territories.'"
@@ -2455,10 +2455,10 @@
   {
     "question": "The Chamber of Princes/Narendar Mandal was established in February 1921. It divided princely states into three categories. Which had full legislative and jurisdictional powers?",
     "options": [
-      "326 states",
+      "All 562 states",
       "127 states",
       "109 states",
-      "All 562 states"
+      "326 states"
     ],
     "correct": 2,
     "explanation": "The notes state: 'The princely states were divided into three categories: 109 states with full legislative and jurisdictional powers, 127 states with limited powers, 326 states classified as jagirs or estates.'"
@@ -2466,21 +2466,21 @@
   {
     "question": "The Indian States Committee/Butler Committee (1927) concluded that regarding British Paramountcy over princely states:",
     "options": [
-      "Paramountcy should be clearly defined and limited",
       "Paramountcy must remain undefined to allow the British to adapt to changing circumstances",
-      "Paramountcy should be abolished",
-      "Paramountcy should be transferred to the Indian Government"
+      "Paramountcy should be transferred to the Indian Government",
+      "Paramountcy should be clearly defined and limited",
+      "Paramountcy should be abolished"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'The committee concluded that Paramountcy must remain undefined to allow the British to adapt to changing circumstances.'"
   },
   {
     "question": "The first All India States People's Conference was organized in:",
     "options": [
-      "1919",
-      "1923",
+      "1921",
+      "1929",
       "1927",
-      "1932"
+      "1920"
     ],
     "correct": 2,
     "explanation": "The notes state: 'The first All India States People's Conference (AISPC) was organised in 1927. This conference brought together representatives from various princely states.'"
@@ -2488,32 +2488,32 @@
   {
     "question": "The Aitchison Commission (1886) on Public Services was set up by which Viceroy?",
     "options": [
+      "Lord Curzon",
       "Lord Ripon",
       "Lord Lytton",
-      "Lord Dufferin",
-      "Lord Curzon"
+      "Lord Dufferin"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Aitchison commission was set up by Dufferin' in response to INC demands for lowering of age limit for recruitment and simultaneous examinations."
   },
   {
     "question": "The Rahnomae Mazdayasanan Sabha (1851), a Parsi reform organization, was led by which famous figure who later played a role in Indian politics?",
     "options": [
-      "Phirozeshah Mehta",
       "Dadabhai Naoroji",
-      "Behramji Malabari",
-      "Sir Jamshedjee Jeejeebhoy"
+      "Phirozeshah Mehta",
+      "Sir Jamshedjee Jeejeebhoy",
+      "Behramji Malabari"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state the Rahnomae Mazdayasanan Sabha was 'Led by Naoroji Furdunji (1817-1885), Dadabhai Naoroji (1825-1917) and S. S. Bengalee. Dadabhai launched the Gujarati weekly Rast Goftar (1851).'"
   },
   {
     "question": "Behramji Malabari was a Parsi social reformer who co-founded the Seva Sadan in 1908. He also advocated for which legislation?",
     "options": [
-      "Hindu Widows' Remarriage Act, 1856",
-      "Child Marriage Restraint Act, 1929",
+      "Caste Disabilities Removal Act, 1853",
+      "Child Marriage Restraint Act, 1932",
       "Age of Consent Act, 1891",
-      "Caste Disabilities Removal Act, 1850"
+      "Hindu Widows' Remarriage Act, 1859"
     ],
     "correct": 2,
     "explanation": "The notes state: 'Behramji Malabari - Advocated for Age of Consent Act (1891), raising the marriageable age for girls.'"
@@ -2521,23 +2521,23 @@
   {
     "question": "The Sadharan Brahmo Samaj focused on which original Brahmo ideals?",
     "options": [
-      "Vedic authority and Sanskrit education",
       "Faith in a singular supreme being, emphasis on reason and morality, opposition to orthodox practices",
+      "Promotion of Western education and social reform through law",
       "Integration of Hinduism, Islam, and Christianity",
-      "Promotion of Western education and social reform through law"
+      "Vedic authority and Sanskrit education"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Sadharan Brahmo Samaj Focused on the original Brahmo ideals: Faith in a singular supreme being, Emphasis on reason and morality, Opposition to orthodox practices.'"
   },
   {
     "question": "The Lahore Resolution (March 1940) of the Muslim League demanded:",
     "options": [
       "Complete autonomy within the Indian federation",
+      "A federal India with separate Muslim provinces",
       "Separate Muslim-majority regions as autonomous and sovereign states (Pakistan)",
-      "Greater Muslim representation in government",
-      "A federal India with separate Muslim provinces"
+      "Greater Muslim representation in government"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "According to the notes, the Muslim League 'kept pressing its Pakistan demand per the Lahore Resolution (March 1940)' and the League 'Emphasized Pakistan as the solution to India's constitutional problem.'"
   },
   {
@@ -2545,8 +2545,8 @@
     "options": [
       "Deccan College and Ferguson College",
       "New English School (1880), Deccan Education Society (1884), Fergusson College (1885)",
-      "Hindu College and Calcutta University",
-      "Poona Sanskrit College and New English School"
+      "Poona Sanskrit College and New English School",
+      "Hindu College and Calcutta University"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Gopal Ganesh Agarkar - Co-founder of several significant educational institutions: New English School (1880) in Poona, Deccan Education Society (1884), Fergusson College (1885).'"
@@ -2554,54 +2554,54 @@
   {
     "question": "The Singh Sabha Movement (1873) established which institution in Amritsar in 1892?",
     "options": [
-      "Gurukul College",
-      "Khalsa College",
       "Sikh National College",
-      "Dayanand Anglo-Vedic College"
+      "Gurukul College",
+      "Dayanand Anglo-Vedic College",
+      "Khalsa College"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state the Singh Sabha Movement 'Established Khalsa College (1892) in Amritsar' as part of its objectives to counter Christian and Muslim conversion efforts and promote Gurumukhi and Punjabi literature."
   },
   {
     "question": "During the Revolt of 1857, Kunwar Singh was a leader from which region?",
     "options": [
-      "Kanpur",
       "Lucknow",
-      "Bihar (Arrah-Jagdishpur)",
-      "Bareilly"
+      "Kanpur",
+      "Bareilly",
+      "Bihar (Arrah-Jagdishpur)"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Bihar (Arrah-Jagdishpur) - Leadership: Kunwar Singh, a septuagenarian zamindar dispossessed by colonial policies.'"
   },
   {
     "question": "The Azamgarh Proclamation of 1857 was authored mostly by:",
     "options": [
-      "Bahadur Shah Zafar himself",
-      "Firoz Shah, the grandson of Mughal Emperor Bahadur Shah II",
       "Tantia Tope",
-      "Nana Saheb"
+      "Nana Saheb",
+      "Firoz Shah, the grandson of Mughal Emperor Bahadur Shah II",
+      "Bahadur Shah Zafar himself"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'The Azamgarh Proclamation of 1857 - It was authored mostly by Firoz Shah, the grandson of Mughal Emperor Bahadur Shah II.'"
   },
   {
     "question": "The Home Rule League Movement was one major Indian response to World War I. Two parallel Home Rule Leagues were formed. Annie Besant's League was set up in:",
     "options": [
-      "April 1916, Belgaum",
+      "April 1913, Belgaum",
+      "January 1920, Bombay",
       "September 1916, Madras/Adyar",
-      "January 1917, Bombay",
-      "June 1916, Calcutta"
+      "June 1913, Calcutta"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Two parallel Home Rule Leagues were formed—Tilak's in April 1916 (Belgaum/Belagavi) and Annie Besant's in September 1916 (Madras/Adyar).'"
   },
   {
     "question": "The Widow Remarriage Association was founded by Maharshi Dhondo Keshav Karve in 1893. What notable personal action did he take to set an example for society?",
     "options": [
+      "He founded a school specifically for widows",
       "He gave up all his wealth to support widows",
-      "He adopted a widow as his daughter",
       "He married a widow after his first wife's death",
-      "He founded a school specifically for widows"
+      "He adopted a widow as his daughter"
     ],
     "correct": 2,
     "explanation": "The notes state: 'Married a widow after his first wife's death to set an example for society' as one of Karve's key achievements."
@@ -2631,56 +2631,56 @@
   {
     "question": "The Alluri Sitaram Raju organized tribals in Andhra and combined their demands with those of the Non-Cooperation Movement. This is also known as:",
     "options": [
-      "Moplah Rebellion",
       "Rampa Rebellion",
-      "Berar Uprising",
-      "Deccan Riots"
+      "Deccan Riots",
+      "Moplah Rebellion",
+      "Berar Uprising"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'In Andhra, Alluri Sitaram Raju organized the tribals and combined their demands with those of the NCM.(Rampa Rebellion).'"
   },
   {
     "question": "The First INC session in 1885 was originally to be held in Poona but was shifted to Bombay because of:",
     "options": [
-      "Government objections",
-      "Lack of venue",
+      "Opposition from Tilak",
       "Outbreak of Cholera",
-      "Opposition from Tilak"
+      "Lack of venue",
+      "Government objections"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Earlier the INC was to be known by the name of Indian National Union whose first session was to be convened in Poona but due to outbreak of Cholera, the venue was shifted to Bombay.'"
   },
   {
     "question": "The three phases of the Indian National Congress are correctly matched as:",
     "options": [
-      "1885-1905 Moderate, 1905-1918 Extremist, 1919-1947 Mass Mobilization under Gandhi",
-      "1885-1900 Moderate, 1900-1920 Extremist, 1920-1947 Revolutionary",
-      "1885-1907 Moderate, 1907-1920 Extremist, 1920-1947 Mass Mobilization",
-      "1885-1905 Moderate, 1905-1920 Extremist, 1920-1947 Constitutional"
+      "1883-1903 Moderate, 1903-1918 Extremist, 1918-1945 Constitutional",
+      "1882-1904 Moderate, 1904-1917 Extremist, 1917-1944 Mass Mobilization",
+      "1883-1898 Moderate, 1898-1918 Extremist, 1918-1945 Revolutionary",
+      "1885-1905 Moderate, 1905-1918 Extremist, 1919-1947 Mass Mobilization under Gandhi"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The notes state: 'First Phase (1885-1905) - Moderate Phase. Second Phase (1905-1918) - Extremist phase. Third Phase (1919-1947) - phase of Mass Mobilisation under Mahatma Gandhi.'"
   },
   {
     "question": "The National Council of Education (August 15, 1906) was established during the Swadeshi Movement. Bengal National College was set up under it with whom as its first Principal?",
     "options": [
-      "Rabindranath Tagore",
       "Aurobindo Ghosh",
       "Surendranath Banerjee",
+      "Rabindranath Tagore",
       "Bipin Chandra Pal"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Bengal National College (Aurobindo Ghosh as first Principal) and a Bengal Institute of Technology were set up under its aegis.'"
   },
   {
     "question": "Chittaranjan Das (1870-1925), known as 'Deshbandhu,' was elected as the first Indian Mayor of Calcutta in which year?",
     "options": [
       "1922",
-      "1923",
       "1924",
-      "1925"
+      "1927",
+      "1920"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Elected first Indian Mayor of Calcutta (1924); brought in Subhas Chandra Bose as Chief Executive Officer, pioneering assertive civic governance.'"
   },
   {
@@ -2688,8 +2688,8 @@
     "options": [
       "He accepted it fully",
       "He proposed amendments that were rejected, and then presented his 14 Points in 1929",
-      "He walked out of the session",
-      "He proposed a counter-report"
+      "He proposed a counter-report",
+      "He walked out of the session"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Jinnah's amendments were rejected, prompting his 14 Points (1929) and deepening communal-constitutional rifts.'"
@@ -2697,32 +2697,32 @@
   {
     "question": "The Swarajists defeated which bill in 1928 that targeted Socialist and Communist activities?",
     "options": [
-      "Public Safety Bill",
       "Trade Disputes Bill",
-      "Criminal Law Amendment Bill",
-      "Seditious Meetings Bill"
+      "Seditious Meetings Bill",
+      "Public Safety Bill",
+      "Criminal Law Amendment Bill"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The notes state: 'Swarajists 1928, defeated Public Safety Bill, targeting Socialist and Communist activities by allowing detention and deportation without trial.'"
   },
   {
     "question": "The Hunter Education Commission of 1882 recommended that secondary education should have two divisions. What were they?",
     "options": [
-      "Modern and Traditional",
       "Literary (leading to university) and Vocational (for commercial careers)",
-      "Science and Humanities",
-      "English medium and Vernacular medium"
+      "Modern and Traditional",
+      "English medium and Vernacular medium",
+      "Science and Humanities"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Secondary education should have two divisions - Literary - Leading up to university; Vocational - for commercial careers.'"
   },
   {
     "question": "The first Indian to contest the election for the British House of Commons was:",
     "options": [
       "Dadabhai Naoroji (who won the election)",
-      "Surendranath Banerjee",
+      "Pherozeshah Mehta",
       "Womesh Chandra Bonnerjee (who lost the elections)",
-      "Pherozeshah Mehta"
+      "Surendranath Banerjee"
     ],
     "correct": 2,
     "explanation": "The notes state: 'Womesh Chandra Bonnerjee (He was a Barrister and also the first Indian to contest the election for the British House of Commons, although he lost the elections).'"
@@ -2730,21 +2730,21 @@
   {
     "question": "Subhas Chandra Bose died in an air crash on August 18, 1945 in:",
     "options": [
-      "Singapore",
-      "Tokyo, Japan",
       "Taipei, Taiwan",
-      "Rangoon, Burma"
+      "Rangoon, Burma",
+      "Singapore",
+      "Tokyo, Japan"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'INA Army was arrested by Allied Forces in 1945 meanwhile Subash Bose died in an air crash on August 18, 1945 in Taipei, Taiwan.'"
   },
   {
     "question": "The Kheda Satyagraha (1918) in Gujarat was organized because of crop failure due to drought. According to the Revenue Code, remission was entitled if the yield was less than:",
     "options": [
-      "Half the normal produce",
       "One-third the normal produce",
+      "Three-fourths the normal produce",
       "One-fourth the normal produce",
-      "Three-fourths the normal produce"
+      "Half the normal produce"
     ],
     "correct": 2,
     "explanation": "The notes state: 'According to the Revenue Code, if the yield was less than one-fourth the normal produce, the farmers were entitled to remission.'"
@@ -2752,10 +2752,10 @@
   {
     "question": "The Delhi Proposals (December 1927) aimed to unite Congress and Muslim League. One of the key demands was Muslim representation at the Centre of:",
     "options": [
-      "One-fourth",
+      "Three-fifths",
       "One-third",
-      "One-half",
-      "Two-thirds"
+      "Two-fifths",
+      "Three-fourths"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Key demands by Muslim leaders, with Jinnah presiding: One-third Muslim representation at the Centre.'"
@@ -2763,23 +2763,23 @@
   {
     "question": "The Calcutta Congress Session (September 1920), which approved the non-cooperation programme, was presided over by:",
     "options": [
-      "Gandhi",
       "Maulana Azad",
-      "Lala Lajpat Rai",
-      "C.R. Das"
+      "Gandhi",
+      "C.R. Das",
+      "Lala Lajpat Rai"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Special Session, Calcutta, Sept 1920, presided by Lala Lajpat Rai; Congress approved the non-cooperation programme here.'"
   },
   {
     "question": "The Boycott Resolution in Calcutta's Swadeshi Movement on August 7, 1905 was first suggested in which journal?",
     "options": [
-      "Amrita Bazar Patrika",
       "Bengalee",
       "Sanjibani by Krishna Kumar Mitra",
-      "Kesari by Tilak"
+      "Kesari by Tilak",
+      "Amrita Bazar Patrika"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Boycott was first suggested in Krishna Kumar Mitra's journal - Sanjibani (13 July 1905).'"
   },
   {
@@ -2798,8 +2798,8 @@
     "options": [
       "Badruddin Tyabji, Pherozshah Mehta and K.T. Telang",
       "Jagannath Shankarseth, Sir Jamshedjee Jeejeebhoy, Dadabhai Naoroji",
-      "Mahadev Govind Ranade, S.H Chiplunkar and G.V. Joshi",
-      "Bal Gangadhar Tilak and Bipin Chandra Pal"
+      "Bal Gangadhar Tilak and Bipin Chandra Pal",
+      "Mahadev Govind Ranade, S.H Chiplunkar and G.V. Joshi"
     ],
     "correct": 1,
     "explanation": "The notes (Quick Revision Table) state: 'Bombay Association (1852) Bombay; Jagannath Shankarseth, Sir Jamshedjee Jeejeebhoy, Dadabhai Naoroji.'"
@@ -2807,43 +2807,43 @@
   {
     "question": "The Madras Mahajan Sabha was founded in 1884 by which leaders?",
     "options": [
-      "Subramania Aiyar, P. Anandacharlu and others",
-      "M. Viraraghavachari, B. Subramanya Aiyar and P. Anandacharlu",
       "Gazulu Lakshminarasu Chetty and others",
-      "C.N. Mudaliar, T.M. Nair and P. Tyagaraja Chetti"
+      "C.N. Mudaliar, T.M. Nair and P. Tyagaraja Chetti",
+      "Subramania Aiyar, P. Anandacharlu and others",
+      "M. Viraraghavachari, B. Subramanya Aiyar and P. Anandacharlu"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'The Madras Mahajan Sabha was founded in 1884 by M. Viraraghavachari, B. Subramanya Aiyar and P. Anandacharlu to coordinate the activities of the Local Associations.'"
   },
   {
     "question": "Lord Wellesley established the college at Fort Williams (Calcutta) in 1800 for the training of civil servants. Why was it closed in 1802?",
     "options": [
-      "Due to the Revolt of 1857",
+      "Due to student protests",
+      "Due to the Revolt of 1855",
       "Due to lack of funds",
-      "The British Government (Court of Directors) did not support it",
-      "Due to student protests"
+      "The British Government (Court of Directors) did not support it"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Fort William College - Lord Wellesley - 1800 Training of Civil Servants of the Company in Languages and Customs of India (1802-Closed, British Government did not support it).'"
   },
   {
     "question": "The first vernacular newspaper in India was 'Samachar Darpan,' launched in Bengali language in which year?",
     "options": [
-      "1813",
+      "1828",
+      "1811",
       "1818",
-      "1822",
-      "1826"
+      "1820"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: '1st Vernacular Newspaper - Samachar Darpan was launched in Bengali Language. (1818)' during the Censorship of Press Act 1799 period."
   },
   {
     "question": "Mumbai Samachar is historically significant because it is:",
     "options": [
-      "The first English newspaper of India",
+      "The first Marathi newspaper of India",
       "The oldest Indian newspaper still being published",
-      "The first Hindi newspaper of India",
-      "The first Marathi newspaper of India"
+      "The first English newspaper of India",
+      "The first Hindi newspaper of India"
     ],
     "correct": 1,
     "explanation": "The notes state: '1822 - Bombay Samachar - Mumbai Samachar - Oldest Indian Newspaper which is published till date.'"
@@ -2851,9 +2851,9 @@
   {
     "question": "According to the notes, the Aruvippuram Kshetra Yogam (1889) was led by Sree Narayana Guru to fight for:",
     "options": [
-      "The rights of all Kerala communities",
-      "Temple entry for Ezhavas and education and representation in government services",
       "The abolition of landlord-tenant relations",
+      "Temple entry for Ezhavas and education and representation in government services",
+      "The rights of all Kerala communities",
       "Separate electorates for Ezhavas"
     ],
     "correct": 1,
@@ -2862,34 +2862,34 @@
   {
     "question": "The Meerut Conspiracy Case (1929) resulted in the arrest of how many labour leaders?",
     "options": [
+      "51 Labour Leaders",
       "21 Labour Leaders",
-      "31 Labour Leaders",
       "41 Labour Leaders",
-      "51 Labour Leaders"
+      "31 Labour Leaders"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Special Thanks - Meerut Conspiracy Case (1929) - Government arrested 31 Labour Leaders.'"
   },
   {
     "question": "What was the 'Statutory Civil Service' introduced by Viceroy Lytton in 1878-79?",
     "options": [
-      "A system where 1/6th of covenant posts would be filled by Indians of high families through nominations by local government",
-      "A competitive examination system for Indians in India",
+      "A system where ICS examination would be held simultaneously in India and England",
       "A system where all civil service posts would be open to Indians",
-      "A system where ICS examination would be held simultaneously in India and England"
+      "A system where 1/6th of covenant posts would be filled by Indians of high families through nominations by local government",
+      "A competitive examination system for Indians in India"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The notes state: 'In 1878-79, Lytton introduced the Statutory Civil Services consisting of 1/6th of covenant posts to be filled by Indians of high families through nominations by Local Government subject to approval by SOS and the viceroy. But the system failed and was abolished.'"
   },
   {
     "question": "The Shivram Janba Kamble (Maharashtra) is known for organizing which historic event?",
     "options": [
-      "The first Dalit conference",
-      "The first Dalit school",
       "The first Dalit march",
-      "The first Dalit newspaper"
+      "The first Dalit school",
+      "The first Dalit newspaper",
+      "The first Dalit conference"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "The notes state: 'Shivram Janba Kamble (Maharashtra) - Edited Somvanshiya Mitra, focusing on the Dalit cause. Organized India's first Dalit conference.'"
   },
   {
@@ -2906,43 +2906,43 @@
   {
     "question": "The Calcutta Unitarian Committee (1823) was established by Raja Ram Mohan Roy along with:",
     "options": [
-      "Debendranath Tagore",
-      "Keshab Chandra Sen",
       "Dwarka Nath Tagore",
-      "Ishwar Chandra Vidyasagar"
+      "Keshab Chandra Sen",
+      "Ishwar Chandra Vidyasagar",
+      "Debendranath Tagore"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Calcutta Unitarian Committee (1823): RRMR along with Dwarka Nath Tagore established this committee to bring together prominent Brahmins and European residents to promote social reforms among Hindus.'"
   },
   {
     "question": "The Namdhari Movement in Sikhism faced severe British reprisals including mass executions at Malerkotla in:",
     "options": [
-      "1857",
-      "1868",
+      "1855",
       "1872",
-      "1881"
+      "1870",
+      "1878"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Namdhari/Kuka (Baba Ram Singh, 1816-1885): revived Khalsa discipline (white homespun, boycott, social reform) and agitated against cow-slaughter; severe British reprisals followed (mass executions at Malerkotla, 1872).'"
   },
   {
     "question": "According to the notes, who was described as the 'Indian Burke'?",
     "options": [
       "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale",
       "Pherozeshah Mehta",
-      "Surendranath Banerjee",
-      "Gopal Krishna Gokhale"
+      "Surendranath Banerjee"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "The notes state: 'Surendranath Banerjee was called the Indian Burke.'"
   },
   {
     "question": "The Ahmedabad Textile Labour Association was organized with the help of Gandhi and is associated with which satyagraha?",
     "options": [
-      "Champaran Satyagraha, 1917",
+      "Champaran Satyagraha, 1919",
       "Ahmedabad Mill Strike, 1918",
-      "Kheda Satyagraha, 1918",
-      "Bardoli Satyagraha, 1928"
+      "Bardoli Satyagraha, 1925",
+      "Kheda Satyagraha, 1916"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Gandhi helped organise the Ahmedabad Textile Labour Association' and the Ahmedabad Mill Strike of 1918 was about the discontinuation of the plague bonus and was the 'First Hunger Strike - 1918.'"
@@ -2950,54 +2950,54 @@
   {
     "question": "The Vokkaliga Sangha was founded in 1905 in the Mysore region as:",
     "options": [
-      "A religious organization",
-      "An anti-Brahmin movement promoting educational upliftment of the Vokkaliga community",
       "A political party",
-      "A literary organization"
+      "A literary organization",
+      "An anti-Brahmin movement promoting educational upliftment of the Vokkaliga community",
+      "A religious organization"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The notes state: 'Vokkaliga Sangha (Mysore Region) - Founded in 1905 as an anti-Brahmin movement. Promoted social, cultural, and educational upliftment of the Vokkaliga community.'"
   },
   {
     "question": "Boycott was first suggested in Krishna Kumar Mitra's journal Sanjibani on:",
     "options": [
-      "August 7, 1905",
-      "October 16, 1905",
+      "August 7, 1908",
       "July 13, 1905",
-      "September 1, 1905"
+      "September 1, 1903",
+      "October 16, 1902"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Boycott was first suggested in Krishna Kumar Mitra's journal - Sanjibani (13 July 1905).'"
   },
   {
     "question": "Annie Besant was elected President of which organization in 1907 and later became Congress President in 1917?",
     "options": [
-      "Brahmo Samaj",
       "Theosophical Society",
       "Prarthana Samaj",
-      "Arya Samaj"
+      "Arya Samaj",
+      "Brahmo Samaj"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Annie Besant moved to India in 1893, later becoming President of the Theosophical Society in 1907' and 'She was elected as President of INC 1917.'"
   },
   {
     "question": "The Provisional Indian Government set up in Kabul in 1915 was led by which key figures?",
     "options": [
       "V.D. Savarkar and Lala Hardyal",
-      "Raja Mahendra Pratap Singh and Barkatullah",
-      "Rash Behari Bose and Bagha Jatin",
-      "Virendranath Chattopadhyay and Bipin Chandra Pal"
+      "M.P.T. Acharya and Shyamji Krishna Varma",
+      "Lala Hardayal and Sohan Singh Bhakna",
+      "Raja Mahendra Pratap Singh and Barkatullah"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Provisional Indian Government (Kabul) - Led by Raja Mahendra Pratap Singh, Barkatullah, and others, aiming to recruit Indian soldiers and rally support from abroad in 1915.'"
   },
   {
     "question": "The Silk Letter Movement (Reshami Rumal Andolan) was a collaboration between:",
     "options": [
-      "Revolutionary leaders in India and the Irish nationalists",
+      "The Ghadar Party in USA and revolutionary groups in Bengal",
       "Deoband leaders, the Ottoman Empire, Afghanistan, and Germany",
-      "The Indian National Congress and international socialist movements",
-      "Revolutionaries from Bengal and German agents in Kabul"
+      "Bal Gangadhar Tilak and Austro-Hungarian sympathisers in Vienna",
+      "Pan-Islamic leaders in Egypt and Indian moderates in London"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Reshami Rumal Andolan was a collaboration between Deoband leaders, the Ottoman Empire, Afghanistan, and Germany to destabilize British rule in India.'"
@@ -3006,108 +3006,108 @@
     "question": "Subhas Chandra Bose wrote which influential book about the Indian struggle for independence, which labeled some Congress leaders as 'Rightist'?",
     "options": [
       "The Discovery of India",
-      "India Wins Freedom",
       "The Indian Struggle",
-      "India of My Dreams"
+      "Hind Swaraj — Gandhi's vision of non-violent resistance",
+      "India Divided — Rajendra Prasad's critique of partition"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes state: 'Bose criticized prominent leaders in his book - The Indian Struggle where he labelled them as Rightist and accused them of compromising with the British.'"
   },
   {
     "question": "According to the notes, Dayanand Saraswati is called the 'Grandfather of Indian Nation' because he was the first man to give a call for Swaraj in 1876 with which slogan?",
     "options": [
-      "Go Back to the Vedas",
       "India for Indians",
-      "Swaraj is my Birth Right",
-      "Vande Mataram"
+      "Arya Samaj's call for reconversion of Muslims (Shuddhi)",
+      "Tilak's call for home rule within the British Empire",
+      "Quit India — drive the British out immediately"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Dayanand Sarawasti was the first man to give a call for Swaraj (India for Indians in 1876), Some Historians call him Grandfather of Indian Nation.'"
   },
   {
     "question": "The Calcutta Congress Session (December 1928) set a deadline of one year for the British to grant Dominion Status, under pressure from which younger leaders?",
     "options": [
-      "Gandhi and Patel",
       "J.L. Nehru and S.C. Bose",
-      "C.R. Das and Motilal Nehru",
-      "Lala Lajpat Rai and Bipin Chandra Pal"
+      "Gopal Krishna Gokhale and Pherozeshah Mehta",
+      "Bal Gangadhar Tilak and Annie Besant",
+      "Motilal Nehru and C.R. Das"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'The Calcutta Session (Dec 1928), President: Motilal Nehru, adopted the Report, and — under pressure from younger leaders (J.L. Nehru, S.C. Bose) — set a one-year ultimatum for Dominion Status.'"
   },
   {
     "question": "The first session of the Indian National Conference, a precursor to the INC, took place in Calcutta on:",
     "options": [
-      "December 28-30, 1882",
       "December 28-30, 1883",
-      "December 28-30, 1884",
-      "December 28-30, 1885"
+      "December 28-30, 1887",
+      "December 28-30, 1881",
+      "December 28-30, 1880"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'It sponsored an all India conference which first took place in Calcutta on December 28 to 30, 1883. More than hundred delegates from different parts of the country attended.'"
   },
   {
     "question": "The Moplah Revolt (1921) saw which tragic incident during British suppression?",
     "options": [
-      "Jallianwala Bagh style massacre",
-      "Wagon Tragedy (Nov 1921)",
-      "Dharasana Salt Works raid",
-      "Chauri Chaura type violence"
+      "Chauri Chaura arson and police killing incident",
+      "Dharasana salt works lathi charge incident",
+      "Peshawar uprising against martial law restrictions",
+      "Wagon Tragedy (Nov 1921)"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes mention the Moplah Revolt and British suppression 'including summary shootings and the Wagon Tragedy (Nov 1921).'"
   },
   {
     "question": "The Swadesh Bandhab Samiti of Ashwini Kumar Dutta (in Barisal) emerged as:",
     "options": [
-      "A political organization",
       "A very popular and powerful method of mass mobilisation during the Swadeshi Movement",
-      "A revolutionary organization",
-      "A religious reform organization"
+      "A mass mobilisation unit for the Congress extremist faction",
+      "A secret society planning armed resistance to British rule",
+      "A social reform body working within orthodox Hindu traditions"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Corps of volunteers or samitis: Samitis such as the Swadesh Bandhab Samiti of Ashwini Kumar Dutta (in Barisal) emerged as a very popular and powerful method of mass mobilisation.'"
   },
   {
     "question": "The Acharya PC Ray set up which factory during the Swadeshi Movement?",
     "options": [
-      "Tata Steel Factory",
-      "Bengal Chemical Factory",
-      "Ahmedabad Textile Mill",
-      "Bengal Jute Mill"
+      "Bombay Spinning and Weaving Company",
+      "Indian Chemical and Pharmaceutical Works, Calcutta",
+      "Bengal National College, Calcutta",
+      "Bengal Chemical Factory"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The notes state: 'Acharya PC Ray set up the famous Bengal Chemicals Factory' as an example of swadeshi or indigenous enterprises during the Swadeshi Movement."
   },
   {
     "question": "The First World War (1914-1918) benefited Indian industrialists because:",
     "options": [
-      "They received direct British subsidies",
       "Wartime shortages in Britain opened market space for Indian industry",
-      "The British removed all tariffs on Indian goods",
-      "Indian goods became popular in international markets"
+      "The British Crown nationalised all private Indian enterprises",
+      "Indian industrialists were recruited into the British war planning councils",
+      "Indian merchants gained preferential access to British colonies abroad"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'For the Rich Industrialists, the war was an opportunity to make fortunes - Wartime shortages in Britain opened market space for Indian industry, which expanded behind shortages and contracts.'"
   },
   {
     "question": "The Ramgarh Session of 1940 was held in Jharkhand, presided by Maulana Abul Kalam Azad. Congress declared that Indian freedom:",
     "options": [
-      "Would come only after the Second World War",
       "Cannot be in the form of dominion or any other status within the Imperial Structure; sovereignty must rest with people",
-      "Would be granted by the British voluntarily",
-      "Required a negotiated settlement with the Muslim League first"
+      "Required a negotiated settlement with the Muslim League first",
+      "Would come only after the Second World War",
+      "Would be granted by the British voluntarily"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The notes state: 'Congress declared - Indian Freedom cannot be in the form of dominion or any other status within the Imperial Structure. Sovereignty must rest with the people of India.'"
   },
   {
     "question": "The INA under Subhas Chandra Bose marched towards Delhi under the slogan:",
     "options": [
-      "Purna Swaraj",
+      "Purna Swaraj — complete independence from Britain",
       "Dilli Chalo",
-      "Do or Die",
-      "Jai Hind"
+      "Dilli Chalo — march to the capital of India",
+      "Inqilab Zindabad — socialist revolution against colonial rule"
     ],
     "correct": 1,
     "explanation": "The notes state: 'INA HQ's shifted from Singapore to Rangoon in January 1944 and army prepared to march towards Delhi (Dilli Chalo).'"
@@ -3115,21 +3115,21 @@
   {
     "question": "According to the notes, the 'Doctrine of Lapse' was one of the political causes of the Revolt of 1857. It was associated with which Governor-General's policy?",
     "options": [
-      "Lord Cornwallis",
       "Lord Wellesley",
       "Lord Dalhousie",
-      "Lord Bentinck"
+      "Lord Bentinck",
+      "Lord Cornwallis"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The notes mention 'Doctrine of Lapse' as a policy that caused alarm among Indian chiefs. Lord Dalhousie is well-known for this policy, and Rani Lakshmibai was 'denied adoption claim under the Doctrine of Lapse' per the notes."
   },
   {
     "question": "The Ahmadiyya Movement in Punjab was founded by Mirza Ghulam Ahmad in 1889 and promoted:",
     "options": [
-      "Islamic revivalism and return to orthodox practices",
+      "Opposition to Western liberal education among Muslim youth",
       "Universal brotherhood, Western liberal education, and religious tolerance",
-      "Armed struggle against British rule",
-      "Strict adherence to Sharia law"
+      "Islamic revivalism and return to orthodox practices",
+      "Pan-Islamic solidarity and rejection of Western interference"
     ],
     "correct": 1,
     "explanation": "The notes state: 'Ahmadiyya Movement (Punjab) (Reformist) - Founder: Mirza Ghulam Ahmad (1889) - Promoted universal brotherhood, Western liberal education, and religious tolerance.'"
@@ -3137,23 +3137,23 @@
   {
     "question": "The Vasudev Phadke organized insurgent activities in response to the Deccan Famine of 1876-77. He formed a band of how many people?",
     "options": [
-      "20 people",
-      "30 people",
       "40 people",
-      "50 people"
+      "35 people",
+      "45 people",
+      "25 people"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Vasudev Phadke - Forming a band of 40 people, he conducted raids and robberies to fund a rebellion' in response to the Deccan Famine."
   },
   {
     "question": "The Nadar Movement in Tamil Nadu focused on which community achieving Kshatriya status?",
     "options": [
-      "Vellalar community",
-      "Ezhava community",
       "Toddy-tappers (Nadar community)",
-      "Pallar community"
+      "Vokkaliga community",
+      "Mudaliar community",
+      "Nair community"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The notes state: 'Nadar Movement (Tamil Nadu) - Focused on toddy-tappers achieving Kshatriya status. Established Nadar Mahajana Sangam (1910).'"
   }
 ]

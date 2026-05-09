@@ -1,0 +1,2378 @@
+[
+  {
+    "question": "According to the World Bank's definition, poverty is a pronounced deprivation in well-being that includes which of the following dimensions?",
+    "options": [
+      "Low levels of health and education, poor access to clean water, and lack of voice",
+      "The inability to pay professional and income taxes",
+      "Exclusively the inability to acquire basic goods for survival",
+      "Only low levels of income and wealth"
+    ],
+    "correct": 0,
+    "explanation": "The World Bank defines poverty as pronounced deprivation in well-being, comprising dimensions like low levels of health and education, poor access to clean water and sanitation, and lack of voice."
+  },
+  {
+    "question": "In the context of poverty measurement, consider the following statements:\n1. Selection of dimensions such as health, education, and money involves subjective judgement in deciding what standard to apply.\n2. Consumption/expenditure is preferred over income because income is volatile and prone to incorrect reporting, whereas expenditure is more stable.\n3. Poverty Line is determined by constructing a basket of basic goods and services and assigning prices to it.\n4. Headcount Ratio measures only the number of people below the poverty line.\n5. Squared Poverty Gap measures the extra effort required to bring individuals to the poverty line, and by squaring the gap, it becomes distributionally sensitive and gives higher weight to those far below the poverty line.\n\nWhich of the statements given above is/are correct?",
+    "options": [
+      "2, 3, 4 and 5 only",
+      "1, 3 and 5 only",
+      "1, 2, 3, 4 and 5",
+      "1, 2 and 3 only"
+    ],
+    "correct": 2,
+    "explanation": "Statement 1 is correct: Choosing dimensions (health, education, money) and setting standards is subjective and based on expert judgement.\n\nStatement 2 is correct: Income is volatile and often incorrectly reported, whereas consumption/expenditure is more stable and reliable.\n\nStatement 3 is correct: Poverty Line is constructed by defining a basket of essential goods and services and assigning prices to it.\n\nStatement 4 is correct: Headcount Ratio only counts how many people are below the poverty line and does not capture how poor they are.\n\nStatement 5 is correct: Poverty Gap represents the extra effort (income/expenditure required) to bring a person up to the poverty line. Squaring this gap makes the measure distributionally sensitive, assigning greater weight to those far below the poverty line, thus better capturing severity of poverty."
+  },
+  {
+    "question": "Match the following committees/persons with their key contributions to poverty estimation in India:\n\nList I (Committee/Person)                List II (Contribution)\nA. Dada Bhai Naoroji                    1. Introduced Mixed Recall Period based on Angus Deaton's work\nB. Y.K. Alagh Committee (1979)          2. Defined poor as those unable to afford 'prison meals'\nC. Lakdawala Committee (1993-94)        3. Expanded PLB to include clothing, shelter, and transport\nD. Suresh Tendulkar Committee (2005)    4. Introduced separate rural and urban poverty lines using food-based basket\nE. Rangarajan Committee (2011)          5. Defined non-food components using behavioral consumption including entertainment\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "A-2, B-4, C-3, D-1, E-5",
+      "A-1, B-4, C-3, D-2, E-5",
+      "A-2, B-3, C-4, D-1, E-5",
+      "A-2, B-4, C-5, D-1, E-3"
+    ],
+    "correct": 0,
+    "explanation": "Correct matching is:\nA → 2: Dada Bhai Naoroji defined poverty in terms of inability to afford basic subsistence such as prison meals.\nB → 4: Alagh Committee introduced separate rural and urban poverty lines based on calorie/food basket.\nC → 3: Lakdawala Committee expanded the Poverty Line Basket to include non-food essentials like clothing, shelter, and transport.\nD → 1: Tendulkar Committee introduced Mixed Recall Period drawing on Angus Deaton’s methodology and shifted to a consumption-based approach.\nE → 5: Rangarajan Committee defined a broader non-food basket based on actual consumption including clothing, shelter, transport, and entertainment."
+  },
+  {
+    "question": "Match the following with reference to Socio-Economic and Caste Census (SECC) 2011:\n\nList I (Aspect)                          List II (Description)\nA. Purpose of SECC                        1. Ministry of Housing and Urban Affairs\nB. Urban data responsibility              2. Identification of beneficiaries for government schemes\nC. Automatic Inclusion criterion          3. Manual scavenger families\nD. Automatic Exclusion criterion          4. Household member earning more than Rs. 10,000 per month\nE. Deprivation criterion (D1-D7)          5. Landless households dependent on manual labor\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "A-2, B-1, C-4, D-3, E-5",
+      "A-2, B-1, C-3, D-4, E-5",
+      "A-2, B-1, C-3, D-5, E-4",
+      "A-1, B-2, C-3, D-4, E-5"
+    ],
+    "correct": 1,
+    "explanation": "Correct matching is:\nA → 2: SECC is used for identifying beneficiaries for government schemes.\nB → 1: Urban SECC data is handled by the Ministry of Housing and Urban Affairs.\nC → 3: Manual scavenger families fall under automatic inclusion.\nD → 4: Households with any member earning more than Rs. 10,000/month are automatically excluded.\nE → 5: Landless households dependent on manual labor are classified under deprivation criteria."
+  },
+  {
+    "question": "The World Bank classifies countries based on GNI per capita. For the FY26 update, what is the GNI per capita range for 'Lower-middle income' countries?",
+    "options": [
+      "4,496 - 13,935",
+      "≤ 1,135",
+      "1,136 - 4,495",
+      "> 13,935"
+    ],
+    "correct": 2,
+    "explanation": "For the FY26 update, the World Bank defines Lower-middle income as a GNI per capita between 1,136 and 4,495."
+  },
+  {
+    "question": "The Millennium Development Goals (MDGs), approved by the UN General Assembly in 2000, consisted of how many specific goals to be achieved by 2015?",
+    "options": [
+      "8",
+      "12",
+      "17",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "According to the PDF, the UN General Assembly approved 8 MDGs in 2000 with a target to achieve them by 2015."
+  },
+  {
+    "question": "Which international organization originally prepared the Millennium Development Goals (MDGs) as mentioned in the text?",
+    "options": [
+      "WTO",
+      "World Bank",
+      "IMF",
+      "UNDP"
+    ],
+    "correct": 1,
+    "explanation": "The document states that the 8 MDGs approved by the UNGA were 'prepared by world Bank'."
+  },
+  {
+    "question": "Sustainable Development Goal (SDG) 1 specifically targets the complete elimination of which of the following by 2030?",
+    "options": [
+      "Urban poverty",
+      "Educational deprivation",
+      "Extreme poverty",
+      "Relative poverty"
+    ],
+    "correct": 2,
+    "explanation": "Under the section for SDG Goal 1, the text mentions the target is to 'completely eliminate extreme poverty' by 2030."
+  },
+  {
+    "question": "The Sustainable Development Goals (SDGs) were formulated during which of the following conferences?",
+    "options": [
+      "UN Conference on Sustainable Development (Rio+20)",
+      "Rio de Janeiro Earth Summit (1992)",
+      "Paris Agreement (2015)",
+      "UN Millennium Summit (2000)"
+    ],
+    "correct": 0,
+    "explanation": "The PDF notes the formulation of SDGs took place at the 'UN conference on Sustainable Development (Rio+20)'."
+  },
+  {
+    "question": "In the Global Multidimensional Poverty Index (MPI), what is the combined weight assigned to the 'Health' dimension?",
+    "options": [
+      "1/4",
+      "1/2",
+      "1/6",
+      "1/3"
+    ],
+    "correct": 3,
+    "explanation": "The table for Global MPI shows that the Health dimension consists of two indicators (Nutrition and Child Mortality) each weighted 1/6, totaling 1/3."
+  },
+  {
+    "question": "According to the Global MPI indicators, a household is considered deprived in 'Years of Schooling' if no member has completed at least how many years of schooling?",
+    "options": [
+      "5 years",
+      "8 years",
+      "6 years",
+      "10 years"
+    ],
+    "correct": 2,
+    "explanation": "The indicator for 'Years of Schooling' defines deprivation if no household member aged 'school entrance age + six years' or older has completed at least six years of schooling."
+  },
+  {
+    "question": "India's National MPI, calculated by NITI Aayog, includes which two additional indicators compared to the Global MPI?",
+    "options": [
+      "Antenatal Care and School Attendance",
+      "Electricity and Bank Account",
+      "Nutrition and Maternal Health",
+      "Maternal Health and Bank Account"
+    ],
+    "correct": 3,
+    "explanation": "The document highlights '2 additional indicators' for India's MPI: 'Maternal Health' (specifically Antenatal Care) and 'Bank account'."
+  },
+  {
+    "question": "A person is considered 'MPI poor' if they are deprived in at least what fraction of the weighted indicators?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/10",
+      "1/4"
+    ],
+    "correct": 1,
+    "explanation": "The text states: 'if deprived on 3/10 (or 33.3%) -> considered MPI poor'."
+  },
+  {
+    "question": "Which of the following are the four pillars of Human Development as mentioned in the document?",
+    "options": [
+      "Growth, Equality, Stability, Security",
+      "Capability, Welfare, Income, Basic Needs",
+      "Income, Health, Education, Housing",
+      "Equity, Sustainability, Productivity, Empowerment"
+    ],
+    "correct": 3,
+    "explanation": "The document lists the 4 pillars of Human Development as: Equity, sustainability, productivity, and empowerment."
+  },
+  {
+    "question": "The 'Basic Needs' approach to human development was specifically proposed by which organization?",
+    "options": [
+      "UNDP",
+      "International Labour Organization (ILO)",
+      "World Bank",
+      "UNESCO"
+    ],
+    "correct": 1,
+    "explanation": "The text on approaches to human development links 'Basic Needs' directly to the 'ILO'."
+  },
+  {
+    "question": "Who is associated with the 'Capability' approach to human development mentioned in the text?",
+    "options": [
+      "Amartya Sen",
+      "Mehboob ul Haq",
+      "C. Rangarajan",
+      "Suresh Tendulkar"
+    ],
+    "correct": 0,
+    "explanation": "The PDF explicitly links the 'Capability' approach, where the government must focus on building human capabilities, to 'Amartya Sen'."
+  },
+  {
+    "question": "The Human Development Index (HDI) value is calculated using which statistical method of its three dimensions?",
+    "options": [
+      "Arithmetic Mean",
+      "Geometric Mean",
+      "Median",
+      "Weighted Average"
+    ],
+    "correct": 1,
+    "explanation": "The document notes: 'Take a geometric mean' for the HDI value, represented by the formula involving the cube root of the product of the dimensions."
+  },
+  {
+    "question": "In the Gender Inequality Index (GII), what are the three dimensions used for measurement?",
+    "options": [
+      "Health, Empowerment, Labour Market",
+      "Reproductive Health, Schooling, GNI",
+      "Health, Education, Income",
+      "Maternal Mortality, Education, Seats in Parliament"
+    ],
+    "correct": 0,
+    "explanation": "The GII dimensions listed in the table are Health, Empowerment, and Labour market."
+  },
+  {
+    "question": "Regarding the Gender Inequality Index (GII), which of the following statements is true based on the PDF?",
+    "options": [
+      "India's GII rank is always better than its HDI rank",
+      "Higher the GII value, better the performance",
+      "GII does not consider labour force participation",
+      "Lower the GII value, better the performance"
+    ],
+    "correct": 3,
+    "explanation": "The PDF explicitly states: 'Lower the GII value, better the performance'."
+  },
+  {
+    "question": "In the context of the Global MPI, what is the weight assigned to 'Drinking Water'?",
+    "options": [
+      "1/21",
+      "1/12",
+      "1/6",
+      "1/18"
+    ],
+    "correct": 3,
+    "explanation": "The table for Global MPI lists 'Drinking Water' under 'Standard of living' with a weight of 1/18."
+  },
+  {
+    "question": "Which of the following is NOT an indicator under the 'Standard of Living' dimension in India's National MPI?",
+    "options": [
+      "Child Mortality",
+      "Cooking Fuel",
+      "Housing",
+      "Assets"
+    ],
+    "correct": 0,
+    "explanation": "Child Mortality is listed under the 'Health' dimension, not 'Standard of Living' according to the MPI indicators table."
+  },
+  {
+    "question": "Which of the following best describes the 'Inclusive Growth Model' as contrasted with the 'Trickle Down' model in the provided text?",
+    "options": [
+      "It treats the population at the bottom of the pyramid as passive recipients of aid.",
+      "It prioritizes the reinvestment of profits by capital owners to drive efficiency.",
+      "It aims to make people active contributors to development through jobs and skill development.",
+      "It focuses on high-growth sectors to maximize tax collection for later redistribution."
+    ],
+    "correct": 2,
+    "explanation": "The document defines the Inclusive Growth Model as making people active contributors at the bottom of the pyramid via opportunities and skills, rather than just focusing on redistribution from high-growth sectors."
+  },
+  {
+    "question": "In the context of the Lorenz Curve and the Gini Coefficient, what does the 'Line of Absolute Equality' represent?",
+    "options": [
+      "The area where the rate of return on capital equals the rate of return on labor.",
+      "The gap between rural and urban poverty levels in a developing economy.",
+      "The point where 50% of the population owns 100% of the wealth.",
+      "A theoretical state where the cumulative percentage of income matches the cumulative percentage of the population."
+    ],
+    "correct": 3,
+    "explanation": "The diagonal line on the Lorenz Curve represents perfect distribution, where any given percentage of the population holds an equal percentage of the total income."
+  },
+  {
+    "question": "According to the Marxist theory of inequality discussed in the PDF, what is the fundamental cause of the 'class struggle'?",
+    "options": [
+      "The transition of a society from a Low Middle Income to an Upper Middle Income status.",
+      "The inability of the government to collect sufficient tax revenue from high-growth sectors.",
+      "The lack of natural resource endowments in certain geographic regions.",
+      "The ownership of the means of production and coercion by the Bourgeoise class."
+    ],
+    "correct": 3,
+    "explanation": "Marxism argues that the Bourgeoise own the means of production (land, capital) and coercion (legal system), creating a conflict with the Proletariat who only own their labor."
+  },
+  {
+    "question": "The 'Resource Curse' phenomenon suggests that areas with abundant natural resources often fail to develop well primarily because of:",
+    "options": [
+      "The natural tendency of resource-rich areas to have lower GNI per capita.",
+      "A lack of global demand for the specific resources found in those areas.",
+      "The physical depletion of resources over a short period.",
+      "Internal factors such as misgovernance and a fractured society."
+    ],
+    "correct": 3,
+    "explanation": "The document identifies 'Misgovernance' and a 'fractured society' as the reasons why resource-rich areas (like parts of Africa or eastern India) fail to develop effectively."
+  },
+  {
+    "question": "How does the 'Modern Theory of Inequality' explain the long-term difference in wealth between entities, according to the document?",
+    "options": [
+      "Through the survival of firms with better products and the impact of unfair practices.",
+      "By the successful implementation of self-governing communes.",
+      "Due to the inherent difference between the rate of return on capital and labor.",
+      "As a result of profits growing exponentially while wages remain stagnant."
+    ],
+    "correct": 0,
+    "explanation": "The modern theory suggests that long-term inequality stems from the success of firms (better products) and unfair market manipulations (raids, fake cases) rather than just the capital-labor wage gap."
+  },
+  {
+    "question": "Why does the document characterize a large portion of the population at the $3/day line as 'highly vulnerable'?",
+    "options": [
+      "Because they reside primarily in urban areas where the Gini index is higher.",
+      "Because they are excluded from the GNI per capita calculations.",
+      "Because external shocks like health expenditures can easily push them back into poverty.",
+      "Because they lack the skills required for the telecom industry."
+    ],
+    "correct": 2,
+    "explanation": "The text explains that 53% of the population is vulnerable because single events, such as a health crisis, can negate their progress and lead them back into poverty."
+  },
+  {
+    "question": "What is the Marxist definition of 'Profit' as presented in the text's section on inequality?",
+    "options": [
+      "The unpaid labour of the working class appropriated by owners.",
+      "The tax revenue redistributed by the government to the poor.",
+      "The interest earned on capital reinvested into the state.",
+      "The surplus value generated by technological innovation."
+    ],
+    "correct": 0,
+    "explanation": "Under the Marxist Inequality heading, the text explicitly equates 'Profit' with the 'unpaid labour of the working class'."
+  },
+  {
+    "question": "In the 'Trickle Down' model, what is the specific assumption regarding the government’s role in managing wealth?",
+    "options": [
+      "The government must ensure that wages grow faster than profits at all times.",
+      "The government focuses on high growth to collect revenue, then chooses whether to redistribute it.",
+      "The government must abolish private ownership of the means of production.",
+      "The government acts as the primary owner of land to prevent a fractured society."
+    ],
+    "correct": 1,
+    "explanation": "The model assumes that high growth generates tax revenue, which the government then 'chooses' to redistribute rather than necessarily reinvesting it."
+  },
+  {
+    "question": "According to the modern reasoning for inequality, what happens to wages and profits over the long term in a functioning economy?",
+    "options": [
+      "Profits grow at a rate four times higher than wages.",
+      "Wages eventually decline to zero as automation increases.",
+      "Wages and profits grow at a similar pace.",
+      "Wages grow significantly faster than profits to bridge the gap."
+    ],
+    "correct": 2,
+    "explanation": "The text states that in the modern theory, wages and profits tend to grow at a similar pace over the long term, unlike the Marxist view of exponential profit growth."
+  },
+  {
+    "question": "Which of the following represents 'Perfect Inequality' on the Gini Coefficient scale?",
+    "options": [
+      "A Gini value of 0.5, where the Lorenz curve is halfway to the diagonal.",
+      "A Gini value of 100, representing the cumulative percentage of the population.",
+      "A Gini value of 0, where everyone has the same income.",
+      "A Gini value of 1, where a single individual holds all the income."
+    ],
+    "correct": 3,
+    "explanation": "The document defines 'Perfect inequality' as a Gini value of 1, indicating maximum possible concentration of wealth."
+  },
+  {
+    "question": "What solution did Karl Marx propose to end the conflict between the Bourgeoise and the Proletariat?",
+    "options": [
+      "The creation of small, self-governing communes.",
+      "The shift of the population from rural to urban areas.",
+      "The expansion of the telecom industry to provide more jobs.",
+      "The implementation of a progressive income tax for redistribution."
+    ],
+    "correct": 0,
+    "explanation": "The text states that Marx's solution was the establishment of 'small communes that are self governing' to replace the existing class structure."
+  },
+  {
+    "question": "In the analysis of geographic inequality, why is eastern India mentioned alongside Africa?",
+    "options": [
+      "Both are examples of the 'Resource Curse' where resource wealth has not led to proportional development.",
+      "Both have successfully implemented the Inclusive Growth Model.",
+      "Both regions have completely eliminated extreme poverty at the $2.15 line.",
+      "Both regions have the lowest Gini index values globally."
+    ],
+    "correct": 0,
+    "explanation": "The document cites both as examples of the 'Resource Curse'—regions with abundant resources that still fail to develop well due to misgovernance."
+  },
+  {
+    "question": "What does a lower consumption-based Gini Index indicate for a society like India?",
+    "options": [
+      "A decline in the overall Gross National Income per capita.",
+      "A greater concentration of wealth in the hands of the Bourgeoise.",
+      "A movement toward greater income equality among the population.",
+      "An increase in the total number of people living below the poverty line."
+    ],
+    "correct": 2,
+    "explanation": "As noted in the chart title 'India Achieves Greater Income Equality,' a lower Gini index (moving from 28.8 to 25.5) signifies a more equal distribution of consumption/income."
+  },
+  {
+    "question": "Which factor is described as a 'means of coercion' used by the ruling class to maintain inequality in Marxist thought?",
+    "options": [
+      "The legal system and armed forces.",
+      "The physical means of production like land and capital.",
+      "The redistribution of tax revenue by the state.",
+      "Technological innovation and patents."
+    ],
+    "correct": 0,
+    "explanation": "The text explicitly categorizes the 'Legal system' and 'Armed forces' as the 'Means of coercion' controlled by the Bourgeoise."
+  },
+  {
+    "question": "According to the modern theory of firm survival, what is a primary non-market reason for the 'demise of firms'?",
+    "options": [
+      "The excessive focus on skill development for the bottom of the pyramid.",
+      "A lack of consumer demand for the firm's products.",
+      "The natural cycle of economic recession.",
+      "The use of unfair practices like raids and fake legal cases."
+    ],
+    "correct": 3,
+    "explanation": "The document lists 'Unfair practices (Raids, Fake cases, Manipulation)' as reasons for the demise of firms in the modern theory of inequality."
+  },
+  {
+    "question": "In the diagram of the Gini Coefficient, what does 'area a' represent?",
+    "options": [
+      "The total area under the line of absolute equality.",
+      "The area where the rate of return on capital is highest.",
+      "The cumulative percentage of the total population.",
+      "The area between the line of absolute equality and the Lorenz curve."
+    ],
+    "correct": 3,
+    "explanation": "The diagram labels '(a)' as the area between the line of equality and the Lorenz curve, which is used as the numerator in the Gini formula."
+  },
+  {
+    "question": "The document suggests that for India to truly 'plug its vulnerabilities,' it must focus on which of the following?",
+    "options": [
+      "Reaching a GNI per capita of exactly $2,650.",
+      "Abandoning the Inclusive Growth model in favor of the Trickle Down model.",
+      "Preventing people from falling back into poverty due to single events like health expenses.",
+      "Moving all rural populations to urban centers to reduce the poverty gap."
+    ],
+    "correct": 2,
+    "explanation": "The text states 'India still needs to plug its vulnerabilities,' highlighting that people can 'easily fall back into poverty' due to costs like health expenditures."
+  },
+  {
+    "question": "What is the core difference between the 'Proletariat' and the 'Bourgeoise' regarding labor?",
+    "options": [
+      "The Proletariat own the means of production, while the Bourgeoise provide the labor.",
+      "The Proletariat sell their labor, while the Bourgeoise own the capital and appropriate the profit.",
+      "There is no difference; both classes grow at the same pace in Marxist theory.",
+      "The Proletariat are passive recipients of aid, while the Bourgeoise are active contributors."
+    ],
+    "correct": 1,
+    "explanation": "The document describes the Bourgeoise as owning the means of production and the Proletariat as the working class whose 'unpaid labour' constitutes profit for the owners."
+  },
+  {
+    "question": "How does the document define a 'Low Middle Income country' classification for India?",
+    "options": [
+      "Based on a specific projected Gross National Income (GNI) per capita range.",
+      "Based on the country's ranking as the 4th most equal society.",
+      "Based on the annual decline rate of rural poverty.",
+      "Based on the percentage of the population living below the $2.15 line."
+    ],
+    "correct": 0,
+    "explanation": "The text links the classification of 'Low Middle Income country' directly to the GNI per capita projection of $2,650."
+  },
+  {
+    "question": "In the context of the growth models discussed, what is the role of 'efficiency of redistribution'?",
+    "options": [
+      "It represents the speed at which a society transitions to a stateless commune.",
+      "It measures the rate at which the telecom industry produces new products.",
+      "It determines how effectively tax revenue reaches the bottom of the pyramid in the Trickle Down model.",
+      "It is a formula used to calculate the Gini coefficient for urban areas."
+    ],
+    "correct": 2,
+    "explanation": "The Trickle Down model section mentions 'efficiency of redistribution' as a factor in how the government handles the tax revenue collected from growth."
+  },
+  {
+    "question": "Match the following economic concepts with their correct definitions:\n\nList I (Concept)                     List II (Definition)\nA. Unemployment                      1. Ratio of non-working age population to working age population\nB. Dependency Ratio                  2. People capable of working, seeking work but unable to find it\nC. Labour Force                      3. Workers divided by total population\nD. Worker Population Ratio           4. Includes employed and those actively seeking work\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-4, B-1, C-2, D-3",
+      "A-1, B-2, C-4, D-3"
+    ],
+    "correct": 1,
+    "explanation": "A → 2: Unemployment refers to people capable of working, actively seeking work but unable to find it.\nB → 1: Dependency ratio is non-working age population divided by working age population.\nC → 4: Labour force includes both employed and those actively seeking work.\nD → 3: Worker Population Ratio = workers / total population."
+  },
+  {
+    "question": "Match the following indicators with their correct expressions/meanings:\n\nList I (Indicator)                         List II (Meaning/Formula)\nA. Labour Force Participation Rate (LFPR)  1. Unemployed divided by labour force\nB. Unemployment Rate                       2. Labour force divided by total population\nC. Demography                              3. Analysis of population structure\nD. Demographic Dividend                    4. Arises due to young and healthy working-age population\n\nSelect the correct answer using the code given below:",
+    "options": [
+      "A-1, B-2, C-3, D-4",
+      "A-2, B-1, C-4, D-3",
+      "A-2, B-1, C-3, D-4",
+      "A-2, B-3, C-1, D-4"
+    ],
+    "correct": 2,
+    "explanation": "A → 2: LFPR = Labour force / total population.\nB → 1: Unemployment rate = unemployed / labour force.\nC → 3: Demography refers to analysis of population structure.\nD → 4: Demographic dividend arises from a young and healthy working-age population."
+  },
+  {
+    "question": "Measurement of unemployment in India is primarily done by:",
+    "options": [
+      "MOSPI",
+      "SEBI",
+      "NITI Aayog",
+      "RBI"
+    ],
+    "correct": 0,
+    "explanation": "MOSPI measures unemployment using surveys."
+  },
+  {
+    "question": "NSSO collects unemployment data through:",
+    "options": [
+      "Online databases",
+      "Administrative records",
+      "Company filings",
+      "Household sample surveys"
+    ],
+    "correct": 3,
+    "explanation": "NSSO conducts sample surveys by visiting households."
+  },
+  {
+    "question": "Randomized Control Trials (RCTs) are used to:",
+    "options": [
+      "Reduce bias in sampling",
+      "Improve GDP growth",
+      "Increase employment",
+      "Measure inflation"
+    ],
+    "correct": 0,
+    "explanation": "RCTs are used to reduce bias in sampling by varying one variable."
+  },
+  {
+    "question": "PLFS replaced earlier surveys to:",
+    "options": [
+      "Improve accuracy with shorter recall period",
+      "Increase recall period",
+      "Eliminate surveys",
+      "Reduce sample size"
+    ],
+    "correct": 0,
+    "explanation": "PLFS introduced shorter recall periods and larger samples for accuracy."
+  },
+  {
+    "question": "Usual Status approach is based on:",
+    "options": [
+      "Majority time criteria",
+      "Weekly employment",
+      "Income level",
+      "Daily work hours"
+    ],
+    "correct": 0,
+    "explanation": "Usual status uses majority time criterion."
+  },
+  {
+    "question": "Subsidiary status includes:",
+    "options": [
+      "Only daily wage workers",
+      "Only fully employed individuals",
+      "Individuals unemployed but worked for some days",
+      "Only seasonal workers"
+    ],
+    "correct": 2,
+    "explanation": "Subsidiary status includes those mainly unemployed but worked for some period."
+  },
+  {
+    "question": "Current Weekly Status (CWS) considers:",
+    "options": [
+      "Last one month",
+      "Majority of year",
+      "Last one week",
+      "Entire lifetime"
+    ],
+    "correct": 2,
+    "explanation": "CWS evaluates employment status in the last one week."
+  },
+  {
+    "question": "CWS does NOT use:",
+    "options": [
+      "Weekly measurement",
+      "Majority time criteria",
+      "Short recall period",
+      "Labour force classification"
+    ],
+    "correct": 1,
+    "explanation": "CWS does not use majority time criteria."
+  },
+  {
+    "question": "Current Daily Status measures:",
+    "options": [
+      "Monthly income",
+      "Weekly employment",
+      "Intensity of work engagement",
+      "Annual employment"
+    ],
+    "correct": 2,
+    "explanation": "CDS measures intensity of engagement at work daily."
+  },
+  {
+    "question": "Structural unemployment occurs due to:",
+    "options": [
+      "Seasonal changes",
+      "Temporary job search",
+      "Voluntary decisions",
+      "Changes in economic structure"
+    ],
+    "correct": 3,
+    "explanation": "Structural unemployment arises from changes in economy or industry."
+  },
+  {
+    "question": "Which is a cause of structural unemployment?",
+    "options": [
+      "Short-term job switching",
+      "Technological changes",
+      "Better job offers",
+      "Weekly work variation"
+    ],
+    "correct": 1,
+    "explanation": "Technology changes can make skills obsolete causing structural unemployment."
+  },
+  {
+    "question": "Occupational immobility refers to:",
+    "options": [
+      "Geographical relocation",
+      "Voluntary unemployment",
+      "Seasonal job loss",
+      "Skill mismatch or obsolete skills"
+    ],
+    "correct": 3,
+    "explanation": "Occupational immobility occurs when skills become obsolete."
+  },
+  {
+    "question": "Seasonal unemployment is common in:",
+    "options": [
+      "Healthcare",
+      "Agriculture and construction",
+      "IT sector",
+      "Banking"
+    ],
+    "correct": 1,
+    "explanation": "Seasonal unemployment arises in industries like agriculture and construction."
+  },
+  {
+    "question": "Frictional unemployment occurs due to:",
+    "options": [
+      "Technological changes",
+      "Market inefficiencies and information gaps",
+      "Seasonal work",
+      "Policy failures"
+    ],
+    "correct": 1,
+    "explanation": "Frictional unemployment arises from inefficiency in labour market and lack of information."
+  },
+  {
+    "question": "Voluntary unemployment occurs when:",
+    "options": [
+      "People choose not to work despite job offers",
+      "Government policies restrict jobs",
+      "People are unable to work",
+      "Jobs are unavailable"
+    ],
+    "correct": 0,
+    "explanation": "Voluntary unemployment occurs when individuals choose not to work."
+  },
+  {
+    "question": "Underemployment means:",
+    "options": [
+      "Working full-time jobs",
+      "Not fully utilizing skills or time",
+      "No work at all",
+      "Working beyond capacity"
+    ],
+    "correct": 1,
+    "explanation": "Underemployment refers to not fully utilizing skills or available work time."
+  },
+  {
+    "question": "Technological unemployment is caused by:",
+    "options": [
+      "Seasonal demand",
+      "Migration",
+      "Low wages",
+      "Machines replacing human labour"
+    ],
+    "correct": 3,
+    "explanation": "Technological unemployment occurs when machines outperform human labour."
+  },
+  {
+    "question": "Disguised unemployment is characterized by:",
+    "options": [
+      "High productivity",
+      "Skilled labour shortage",
+      "Zero marginal productivity",
+      "High wages"
+    ],
+    "correct": 2,
+    "explanation": "Disguised unemployment occurs when marginal productivity of workers is zero."
+  },
+  {
+    "question": "Employment elasticity measures:",
+    "options": [
+      "Change in unemployment rate",
+      "Responsiveness of employment to GDP growth",
+      "Population growth",
+      "Change in wages"
+    ],
+    "correct": 1,
+    "explanation": "Employment elasticity measures responsiveness of employment to GDP growth."
+  },
+  {
+    "question": "High employment elasticity indicates:",
+    "options": [
+      "Labour intensive growth",
+      "High inflation",
+      "Capital intensive growth",
+      "Low GDP growth"
+    ],
+    "correct": 0,
+    "explanation": "High elasticity implies labour-intensive growth."
+  },
+  {
+    "question": "Jobless growth occurs when:",
+    "options": [
+      "Employment grows faster than GDP",
+      "Population declines",
+      "GDP falls",
+      "GDP grows but employment does not increase proportionately"
+    ],
+    "correct": 3,
+    "explanation": "Jobless growth refers to GDP growth without adequate employment growth."
+  },
+  {
+    "question": "India’s unemployment rate is noted to be around:",
+    "options": [
+      "1-2%",
+      "6-8%",
+      "3-4%",
+      "10-12%"
+    ],
+    "correct": 2,
+    "explanation": "The document mentions unemployment rate stagnating around 3-4%."
+  },
+  {
+    "question": "Sector with high employment elasticity in India is:",
+    "options": [
+      "IT sector",
+      "Services",
+      "Agriculture",
+      "Industry"
+    ],
+    "correct": 3,
+    "explanation": "Industry has high employment elasticity."
+  },
+  {
+    "question": "Sector with low employment elasticity is:",
+    "options": [
+      "Services",
+      "Agriculture",
+      "Manufacturing",
+      "Industry"
+    ],
+    "correct": 0,
+    "explanation": "Services sector has low employment elasticity."
+  },
+  {
+    "question": "National Skill Development Mission (NSDM) consists of:",
+    "options": [
+      "3 missions",
+      "7 sub-missions",
+      "10 programs",
+      "5 missions"
+    ],
+    "correct": 1,
+    "explanation": "NSDM includes 7 sub-missions."
+  },
+  {
+    "question": "PMKVY is implemented by:",
+    "options": [
+      "SEBI",
+      "NITI Aayog",
+      "NSDC",
+      "RBI"
+    ],
+    "correct": 2,
+    "explanation": "PMKVY is implemented by NSDC."
+  },
+  {
+    "question": "Recognition of Prior Learning (RPL) focuses on:",
+    "options": [
+      "Formal education only",
+      "Government jobs",
+      "Informal skills recognition",
+      "Exports"
+    ],
+    "correct": 2,
+    "explanation": "RPL recognizes informal and prior learning."
+  },
+  {
+    "question": "NSQF levels range from:",
+    "options": [
+      "1 to 10",
+      "1 to 8",
+      "1 to 5",
+      "0 to 12"
+    ],
+    "correct": 1,
+    "explanation": "NSQF levels range from 1 to 8."
+  },
+  {
+    "question": "National Career Service provides:",
+    "options": [
+      "Loans",
+      "Tax benefits",
+      "Exports data",
+      "Employment-related online services"
+    ],
+    "correct": 3,
+    "explanation": "It provides employment services online."
+  },
+  {
+    "question": "Formal employment is characterized by:",
+    "options": [
+      "No labour laws",
+      "No contracts",
+      "Temporary work",
+      "Well-defined employer-employee relationship"
+    ],
+    "correct": 3,
+    "explanation": "Formal employment has well-defined relationships and labour laws."
+  },
+  {
+    "question": "Labour laws govern:",
+    "options": [
+      "Imports",
+      "Exports",
+      "GDP growth",
+      "Employer-employee relationship"
+    ],
+    "correct": 3,
+    "explanation": "Labour laws regulate employer-employee relationships."
+  },
+  {
+    "question": "Which is used to estimate informal employment?",
+    "options": [
+      "PF accounts and TDS",
+      "Exports data",
+      "Inflation rate",
+      "GDP data"
+    ],
+    "correct": 0,
+    "explanation": "PF accounts and TDS are used for estimation."
+  },
+  {
+    "question": "Post demonetisation trend observed was:",
+    "options": [
+      "No change",
+      "Decrease in PF accounts",
+      "Decrease in employment",
+      "Increase in PF accounts"
+    ],
+    "correct": 3,
+    "explanation": "There was an increase in PF accounts."
+  },
+  {
+    "question": "Firms avoid compliance by:",
+    "options": [
+      "Hiring permanent employees",
+      "Expanding workforce",
+      "Increasing wages",
+      "Hiring contractual workers"
+    ],
+    "correct": 3,
+    "explanation": "Firms hire contractual workers to avoid compliance."
+  },
+  {
+    "question": "Voluntary dwarfism refers to:",
+    "options": [
+      "Increasing productivity",
+      "Firms staying small to avoid regulations",
+      "Expansion of firms",
+      "Automation"
+    ],
+    "correct": 1,
+    "explanation": "Firms remain small to avoid compliance burden."
+  },
+  {
+    "question": "As firms grow larger, compliance burden:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Disappears"
+    ],
+    "correct": 0,
+    "explanation": "Larger firms face higher compliance burden."
+  },
+  {
+    "question": "Task contract employment means:",
+    "options": [
+      "Fixed salary jobs",
+      "Government jobs",
+      "Payment per task without employee status",
+      "Permanent employment"
+    ],
+    "correct": 2,
+    "explanation": "Workers are paid per task and not treated as employees."
+  },
+  {
+    "question": "India needs to ‘nourish its dwarfs to become giants’ implies:",
+    "options": [
+      "Reduce firms",
+      "Encourage firms to remain small",
+      "Help firms grow larger",
+      "Close industries"
+    ],
+    "correct": 2,
+    "explanation": "It implies encouraging firms to grow and expand."
+  },
+  {
+    "question": "Key issue in India’s labour market is:",
+    "options": [
+      "Excess exports",
+      "Skill mismatch",
+      "High wages",
+      "Low population"
+    ],
+    "correct": 1,
+    "explanation": "Mismatch between jobs and skills is highlighted as a major issue."
+  },
+  {
+    "question": "Which of the following correctly describes informal employment as per the document?",
+    "options": [
+      "Has fixed wages mandated by law",
+      "Always includes social security benefits",
+      "Dependent on provability as employee",
+      "Recognized with enforceable contracts"
+    ],
+    "correct": 2,
+    "explanation": "The document states that informal employment lacks recognition and enforceability, and depends on provability as an employee. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "What is a key impact of contractualisation of the workforce mentioned in the document?",
+    "options": [
+      "Ensures job security",
+      "Increases labour compliance burden",
+      "Reduces labour compliance burden",
+      "Eliminates informal sector"
+    ],
+    "correct": 2,
+    "explanation": "Contractualisation reduces labour compliance burden, though it may not be beneficial at low skill levels. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Which scheme provides one month wage support up to a limit through DBT?",
+    "options": [
+      "Industrial Relations Code",
+      "Employment Linked Incentives",
+      "National Floor Wage Scheme",
+      "EPFO Scheme"
+    ],
+    "correct": 1,
+    "explanation": "Employment Linked Incentives include one month wage support via DBT up to a specified limit. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Why do firms remain small according to the document?",
+    "options": [
+      "Perverse incentives and compliance costs",
+      "Technological backwardness",
+      "Low demand",
+      "Lack of capital"
+    ],
+    "correct": 0,
+    "explanation": "Firms avoid growing due to perverse incentives and high compliance costs leading to voluntary dwarfism. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Which type of firms contribute disproportionately more to employment?",
+    "options": [
+      "Informal firms",
+      "Medium firms",
+      "Large firms",
+      "Small firms"
+    ],
+    "correct": 2,
+    "explanation": "Large firms contribute a much higher share of employment compared to their numbers. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "Labor law deregulation in India resulted in consolidation into how many broad codes?",
+    "options": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "correct": 3,
+    "explanation": "Labor laws were reorganized into four broad codes: wages, social security, industrial relations, and safety. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Fixed Term Employment (FTE) is best described as:",
+    "options": [
+      "Pure contractual employment",
+      "Permanent employment",
+      "Informal employment",
+      "Mix of contractual and formal employment"
+    ],
+    "correct": 3,
+    "explanation": "FTE is described as a mix between contractual and formal employment for a fixed duration. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "Gig workers are characterized by which of the following?",
+    "options": [
+      "Government employment",
+      "Only full-time work",
+      "Work outside traditional employment relationships",
+      "Permanent employer-employee relationship"
+    ],
+    "correct": 2,
+    "explanation": "Gig workers operate outside traditional employer-employee relationships, often as freelancers or part-time workers. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "According to the Census definition, a cultivator is someone who:",
+    "options": [
+      "Works in industries",
+      "Engages in cultivation of owned or supervised land",
+      "Works only on others' land",
+      "Is unemployed"
+    ],
+    "correct": 1,
+    "explanation": "A cultivator is defined as someone engaged in cultivation of owned or supervised land. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "Agricultural labourers differ from cultivators because they:",
+    "options": [
+      "Work on their own land",
+      "Work on others' land for wages",
+      "Own land",
+      "Operate industries"
+    ],
+    "correct": 1,
+    "explanation": "Agricultural labourers work on others' land for wages without ownership rights. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "Time wage system emphasizes:",
+    "options": [
+      "Profit sharing",
+      "Output quantity",
+      "Worker efficiency differences",
+      "Fixed pay based on time"
+    ],
+    "correct": 3,
+    "explanation": "Time wage system pays workers based on time spent working with predetermined wages. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "question": "Piece wage system leads to:",
+    "options": [
+      "Higher pay for efficient workers",
+      "No productivity link",
+      "Uniform wages",
+      "Fixed monthly salary"
+    ],
+    "correct": 0,
+    "explanation": "Piece wage system rewards workers based on output, leading to higher earnings for efficient workers. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "question": "Self-employed workers include which of the following?",
+    "options": [
+      "Only informal workers",
+      "Only agricultural workers",
+      "Own-account workers and employers",
+      "Only salaried employees"
+    ],
+    "correct": 2,
+    "explanation": "Self-employed workers include own-account workers, employers, and helpers in household enterprises. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "question": "What is a major driver of informalisation due to globalization?",
+    "options": [
+      "Rise in wages",
+      "Increase in tariffs",
+      "Outsourcing and competition",
+      "Reduction in competition"
+    ],
+    "correct": 2,
+    "explanation": "Globalization increases competition and outsourcing, pushing firms toward informal employment. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "question": "Skill-biased technological change results in:",
+    "options": [
+      "Uniform wage growth",
+      "Decrease in demand for low-skilled labour",
+      "Increase in low-skilled jobs",
+      "Elimination of informal sector"
+    ],
+    "correct": 1,
+    "explanation": "Technological advancement reduces demand for low-skilled labour, pushing workers toward informal employment. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "question": "What proportion of workers were informal as per Economic Survey 2018-19?",
+    "options": [
+      "70%",
+      "50%",
+      "93%",
+      "100%"
+    ],
+    "correct": 2,
+    "explanation": "The document states that 93% of workers were in the informal sector. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "question": "A major issue with the Indian minimum wage system is:",
+    "options": [
+      "Simplicity",
+      "Complexity and lack of uniform criteria",
+      "Uniform coverage",
+      "High enforcement"
+    ],
+    "correct": 1,
+    "explanation": "The system is complex with lack of uniform criteria and incomplete coverage. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "question": "What is the lighthouse effect of wages?",
+    "options": [
+      "Reduction in wages",
+      "Elimination of poverty",
+      "Wage signaling effect benefiting others",
+      "Increase in inequality"
+    ],
+    "correct": 2,
+    "explanation": "The lighthouse effect refers to wages influencing other wage levels in the economy. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "question": "Which of the following is suggested for improving wage policy?",
+    "options": [
+      "Reduce coverage",
+      "Increase complexity",
+      "Rationalise and simplify",
+      "Eliminate adjustments"
+    ],
+    "correct": 2,
+    "explanation": "The document suggests rationalisation and simplification of wage systems. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "question": "Social security schemes are broadly classified into how many types?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "2"
+    ],
+    "correct": 2,
+    "explanation": "They are classified into three types: contribution-based, state-funded, and employer liability. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "question": "Which organization manages employee provident fund?",
+    "options": [
+      "Industrial Tribunal",
+      "Central Board of Trustees",
+      "Labour Bureau",
+      "ESI Corporation"
+    ],
+    "correct": 1,
+    "explanation": "The Central Board of Trustees manages EPF, EPS, and EDLI. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "question": "Trade unions require what minimum membership?",
+    "options": [
+      "20%",
+      "50%",
+      "10%",
+      "5%"
+    ],
+    "correct": 2,
+    "explanation": "Trade unions require at least 10% membership or 100 workers. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "question": "Layoff is defined as:",
+    "options": [
+      "Termination due to discipline",
+      "Voluntary resignation",
+      "Removal due to business cycle issues",
+      "Permanent closure"
+    ],
+    "correct": 2,
+    "explanation": "Layoff refers to removal due to business cycle factors like demand or power shortage. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "question": "Industrial disputes are resolved through:",
+    "options": [
+      "Conciliation and tribunals",
+      "Only government orders",
+      "Only courts",
+      "Only arbitration"
+    ],
+    "correct": 0,
+    "explanation": "Disputes are resolved through conciliation and industrial tribunals including national tribunals. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "question": "Under Occupational Safety Code, inter-state migrant workers include:",
+    "options": [
+      "Only agricultural workers",
+      "Only those recruited by contractors",
+      "Those moving on their own for employment also",
+      "Only government workers"
+    ],
+    "correct": 2,
+    "explanation": "The definition includes workers who move on their own to another state for employment. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "question": "What is the primary reason for the emergence of Economics as a discipline?",
+    "options": [
+      "Technological advancement",
+      "Unlimited resources",
+      "Government policies",
+      "Infinite wants and limited resources"
+    ],
+    "correct": 3,
+    "explanation": "Economics emerged due to the conflict between infinite human wants and limited resources."
+  },
+  {
+    "question": "Economics is classified as which type of science?",
+    "options": [
+      "Biological science",
+      "Social science",
+      "Natural science",
+      "Physical science"
+    ],
+    "correct": 1,
+    "explanation": "The PDF defines Economics as a social science studying human behavior through scientific methods."
+  },
+  {
+    "question": "Which of the following best describes Microeconomics?",
+    "options": [
+      "Study of global trade",
+      "Study of overall economy",
+      "Study of government policies",
+      "Study of individual economic units"
+    ],
+    "correct": 3,
+    "explanation": "Microeconomics focuses on individual perspective, like consumers and producers."
+  },
+  {
+    "question": "Positive economics is characterized by which of the following?",
+    "options": [
+      "Normative statements",
+      "Verifiable facts",
+      "Opinions",
+      "Value judgments"
+    ],
+    "correct": 1,
+    "explanation": "Positive economics deals with statements of fact that are verifiable."
+  },
+  {
+    "question": "Normative economics involves:",
+    "options": [
+      "Facts only",
+      "Scientific laws",
+      "Statements of opinion",
+      "Data analysis"
+    ],
+    "correct": 2,
+    "explanation": "Normative economics deals with opinions and what ought to be."
+  },
+  {
+    "question": "What is the primary goal of consumers in microeconomics?",
+    "options": [
+      "Maximize profits",
+      "Minimize cost only",
+      "Maximize utility",
+      "Maximize production"
+    ],
+    "correct": 2,
+    "explanation": "Consumers aim to maximize utility at the lowest cost."
+  },
+  {
+    "question": "Producers are assumed to be rational in order to:",
+    "options": [
+      "Minimize demand",
+      "Control prices",
+      "Maximize profits",
+      "Maximize utility"
+    ],
+    "correct": 2,
+    "explanation": "Producers aim to maximize profits as rational economic agents."
+  },
+  {
+    "question": "Scarcity in economics refers to:",
+    "options": [
+      "Abundance of goods",
+      "High demand",
+      "Unlimited wants",
+      "Limited resources"
+    ],
+    "correct": 3,
+    "explanation": "Scarcity arises because resources are limited while wants are unlimited."
+  },
+  {
+    "question": "Opportunity cost is defined as:",
+    "options": [
+      "Fixed cost",
+      "Total cost of production",
+      "Value of next best alternative",
+      "Cost of labor"
+    ],
+    "correct": 2,
+    "explanation": "Opportunity cost refers to the next best alternative forgone."
+  },
+  {
+    "question": "Which type of efficiency ensures no wastage of resources?",
+    "options": [
+      "Allocative efficiency",
+      "Productive efficiency",
+      "Dynamic efficiency",
+      "Technical efficiency"
+    ],
+    "correct": 1,
+    "explanation": "Productive efficiency ensures no wastage of resources."
+  },
+  {
+    "question": "Free goods are characterized by:",
+    "options": [
+      "High cost",
+      "Scarcity",
+      "Government supply",
+      "Zero opportunity cost"
+    ],
+    "correct": 3,
+    "explanation": "Free goods have zero opportunity cost and are not scarce."
+  },
+  {
+    "question": "Economic goods differ from free goods because they:",
+    "options": [
+      "Have opportunity cost",
+      "Are unlimited",
+      "Are free of cost",
+      "Are natural"
+    ],
+    "correct": 0,
+    "explanation": "Economic goods are scarce and involve opportunity cost."
+  },
+  {
+    "question": "Utility refers to:",
+    "options": [
+      "Market price",
+      "Income level",
+      "Cost of production",
+      "Satisfaction from consumption"
+    ],
+    "correct": 3,
+    "explanation": "Utility is satisfaction gained after consuming a product."
+  },
+  {
+    "question": "Marginal utility is:",
+    "options": [
+      "Extra satisfaction from one more unit",
+      "Minimum satisfaction",
+      "Total satisfaction",
+      "Average satisfaction"
+    ],
+    "correct": 0,
+    "explanation": "Marginal utility is additional satisfaction from consuming one more unit."
+  },
+  {
+    "question": "The law of diminishing marginal utility states that:",
+    "options": [
+      "Utility decreases with each additional unit",
+      "Utility increases continuously",
+      "Utility remains constant",
+      "Utility becomes zero immediately"
+    ],
+    "correct": 0,
+    "explanation": "Each additional unit gives less satisfaction than the previous one."
+  },
+  {
+    "question": "Average utility is calculated as:",
+    "options": [
+      "Marginal utility × units",
+      "Marginal utility ÷ units",
+      "Total utility × units",
+      "Total utility ÷ number of units"
+    ],
+    "correct": 3,
+    "explanation": "Average utility = total utility divided by number of units consumed."
+  },
+  {
+    "question": "Which of the following is NOT a basic economic problem?",
+    "options": [
+      "What to produce",
+      "Where to produce",
+      "How to produce",
+      "For whom to produce"
+    ],
+    "correct": 1,
+    "explanation": "The basic problems are what, how, and for whom to produce."
+  },
+  {
+    "question": "In a market economy, decisions are primarily based on:",
+    "options": [
+      "Market forces",
+      "Government commands",
+      "Traditions",
+      "Social norms"
+    ],
+    "correct": 0,
+    "explanation": "Market economy decisions are based on market forces."
+  },
+  {
+    "question": "In a planned economy, who makes economic decisions?",
+    "options": [
+      "Markets",
+      "Government",
+      "Consumers",
+      "Producers"
+    ],
+    "correct": 1,
+    "explanation": "Government controls production and decision-making in planned economy."
+  },
+  {
+    "question": "Which system uses price as a rationing mechanism?",
+    "options": [
+      "Market economy",
+      "Command economy",
+      "Planned economy",
+      "Mixed economy"
+    ],
+    "correct": 0,
+    "explanation": "Market economy uses price to allocate resources."
+  },
+  {
+    "question": "Which of the following is a factor of production?",
+    "options": [
+      "Labor",
+      "Price",
+      "Demand",
+      "Supply"
+    ],
+    "correct": 0,
+    "explanation": "Labor is one of the four factors of production."
+  },
+  {
+    "question": "Entrepreneurship involves:",
+    "options": [
+      "Consumption",
+      "Risk-taking and innovation",
+      "Saving",
+      "Taxation"
+    ],
+    "correct": 1,
+    "explanation": "Entrepreneurs organize factors and take risks."
+  },
+  {
+    "question": "Capital in economics refers to:",
+    "options": [
+      "Labor skills",
+      "Natural resources",
+      "Money only",
+      "Machinery and tools"
+    ],
+    "correct": 3,
+    "explanation": "Capital includes tools, machinery, and equipment."
+  },
+  {
+    "question": "Production Possibility Curve (PPC) shows:",
+    "options": [
+      "Demand and supply",
+      "Maximum possible output combinations",
+      "Price levels",
+      "Market equilibrium"
+    ],
+    "correct": 1,
+    "explanation": "PPC represents maximum combinations of goods with given resources."
+  },
+  {
+    "question": "Points on the PPC represent:",
+    "options": [
+      "Excess supply",
+      "Unemployment",
+      "Efficient utilization of resources",
+      "Inefficiency"
+    ],
+    "correct": 2,
+    "explanation": "Points on PPC indicate full and efficient use of resources."
+  },
+  {
+    "question": "Points inside PPC indicate:",
+    "options": [
+      "Efficiency",
+      "Full employment",
+      "Underutilization of resources",
+      "Maximum production"
+    ],
+    "correct": 2,
+    "explanation": "Inside PPC shows resources are not fully utilized."
+  },
+  {
+    "question": "Opportunity cost on PPC is represented by:",
+    "options": [
+      "Area under curve",
+      "Intercept",
+      "Slope of curve",
+      "Origin"
+    ],
+    "correct": 2,
+    "explanation": "Slope of PPC shows opportunity cost."
+  },
+  {
+    "question": "Outward shift of PPC indicates:",
+    "options": [
+      "Decrease in resources",
+      "Inflation",
+      "Demand fall",
+      "Increase in resources or technology"
+    ],
+    "correct": 3,
+    "explanation": "Outward shift occurs due to increase in quantity/quality of factors or technology."
+  },
+  {
+    "question": "GDP refers to:",
+    "options": [
+      "Total output of economy",
+      "Total income",
+      "Government spending",
+      "Exports"
+    ],
+    "correct": 0,
+    "explanation": "GDP is total output of an economy."
+  },
+  {
+    "question": "Potential GDP represents:",
+    "options": [
+      "Maximum possible output",
+      "Actual output",
+      "Minimum output",
+      "Export output"
+    ],
+    "correct": 0,
+    "explanation": "Potential GDP is maximum output at full capacity."
+  },
+  {
+    "question": "Economic growth focuses on:",
+    "options": [
+      "Quality of life",
+      "Increase in GDP",
+      "Education",
+      "Social welfare"
+    ],
+    "correct": 1,
+    "explanation": "Growth refers to increase in GDP/output."
+  },
+  {
+    "question": "Economic development includes:",
+    "options": [
+      "Education and welfare",
+      "Only GDP growth",
+      "Only production",
+      "Only exports"
+    ],
+    "correct": 0,
+    "explanation": "Development includes social indicators like education and health."
+  },
+  {
+    "question": "Demand is defined as:",
+    "options": [
+      "Willingness only",
+      "Willingness and ability to buy",
+      "Desire only",
+      "Supply of goods"
+    ],
+    "correct": 1,
+    "explanation": "Demand requires both willingness and ability."
+  },
+  {
+    "question": "Law of demand states that:",
+    "options": [
+      "Demand is constant",
+      "Inverse relation between price and demand",
+      "Price and demand are unrelated",
+      "Price and demand move together"
+    ],
+    "correct": 1,
+    "explanation": "Quantity demanded varies inversely with price."
+  },
+  {
+    "question": "A downward sloping demand curve indicates:",
+    "options": [
+      "Inverse relationship",
+      "Direct relationship",
+      "No relationship",
+      "Constant demand"
+    ],
+    "correct": 0,
+    "explanation": "Downward slope shows inverse relation between price and quantity."
+  },
+  {
+    "question": "Movement along demand curve is caused by:",
+    "options": [
+      "Population change",
+      "Price change",
+      "Income change",
+      "Technology change"
+    ],
+    "correct": 1,
+    "explanation": "Price change causes movement along the curve."
+  },
+  {
+    "question": "Increase in income leads to higher demand for:",
+    "options": [
+      "Inferior goods",
+      "Free goods",
+      "Normal goods",
+      "Public goods"
+    ],
+    "correct": 2,
+    "explanation": "Normal goods demand rises with income."
+  },
+  {
+    "question": "Inferior goods are those whose demand:",
+    "options": [
+      "Is unrelated",
+      "Increases with income",
+      "Remains constant",
+      "Decreases with income"
+    ],
+    "correct": 3,
+    "explanation": "Demand for inferior goods falls when income rises."
+  },
+  {
+    "question": "Substitute goods are:",
+    "options": [
+      "Consumed together",
+      "Public goods",
+      "Luxury goods",
+      "Replacements of each other"
+    ],
+    "correct": 3,
+    "explanation": "Substitutes replace each other (e.g., Coke and Pepsi)."
+  },
+  {
+    "question": "If price of a substitute rises, demand for the good:",
+    "options": [
+      "Rises",
+      "Becomes zero",
+      "Remains constant",
+      "Falls"
+    ],
+    "correct": 0,
+    "explanation": "Demand increases when substitute price rises."
+  },
+  {
+    "question": "Complementary goods are:",
+    "options": [
+      "Substitutes",
+      "Luxury goods",
+      "Free goods",
+      "Consumed together"
+    ],
+    "correct": 3,
+    "explanation": "Complements are used together like rackets and shuttlecocks."
+  },
+  {
+    "question": "If price of a complement rises, demand for the good:",
+    "options": [
+      "Increases",
+      "Doubles",
+      "Decreases",
+      "Remains constant"
+    ],
+    "correct": 2,
+    "explanation": "Demand falls when complement price rises."
+  },
+  {
+    "question": "Change in taste and preferences causes:",
+    "options": [
+      "Price change",
+      "Shift in demand curve",
+      "Movement along curve",
+      "Supply change"
+    ],
+    "correct": 1,
+    "explanation": "Preferences shift the demand curve."
+  },
+  {
+    "question": "Expectation of future price increase leads to:",
+    "options": [
+      "Decrease in demand",
+      "Increase in current demand",
+      "No change",
+      "Supply increase"
+    ],
+    "correct": 1,
+    "explanation": "Consumers buy more now expecting higher prices later."
+  },
+  {
+    "question": "Increase in number of consumers leads to:",
+    "options": [
+      "Price fall",
+      "Demand decrease",
+      "Supply increase",
+      "Demand increase"
+    ],
+    "correct": 3,
+    "explanation": "Larger market size increases demand."
+  },
+  {
+    "question": "Seasonal changes affect demand under:",
+    "options": [
+      "Special circumstances",
+      "Price factor",
+      "Income factor",
+      "Technology"
+    ],
+    "correct": 0,
+    "explanation": "Weather and seasons are special circumstances affecting demand."
+  },
+  {
+    "question": "Which of the following is an example of special circumstances?",
+    "options": [
+      "Natural disaster",
+      "Income rise",
+      "Substitute goods",
+      "Price fall"
+    ],
+    "correct": 0,
+    "explanation": "Natural disasters are special circumstances affecting demand."
+  },
+  {
+    "question": "Economic growth must be sustainable because:",
+    "options": [
+      "Technology is constant",
+      "Demand decreases",
+      "Future production should not decline",
+      "Resources are unlimited"
+    ],
+    "correct": 2,
+    "explanation": "Growth must ensure no decline in quality and quantity of resources over time."
+  },
+  {
+    "question": "Which factor increases potential GDP?",
+    "options": [
+      "Decrease in employment",
+      "Increase in quality and quantity of factors",
+      "Increase in efficiency only",
+      "Decrease in demand"
+    ],
+    "correct": 1,
+    "explanation": "Potential GDP rises with better and more factors of production."
+  },
+  {
+    "question": "Which condition is necessary for maximum output on PPC?",
+    "options": [
+      "Resource wastage",
+      "Full employment and efficiency",
+      "Price rise",
+      "Unemployment"
+    ],
+    "correct": 1,
+    "explanation": "Maximum output requires full employment and productive efficiency."
+  },
+  {
+    "question": "An increase in the number of consumers in a market will most likely lead to which of the following changes?",
+    "options": [
+      "Movement along demand curve",
+      "No change in demand",
+      "Rightward shift of demand curve",
+      "Leftward shift of demand curve"
+    ],
+    "correct": 2,
+    "explanation": "As shown on page 1, an increase in number of consumers leads to an outward (rightward) shift of the demand curve."
+  },
+  {
+    "question": "Which of the following situations best represents a special circumstance affecting demand?",
+    "options": [
+      "Change in season",
+      "Change in cost of production",
+      "Change in taxation",
+      "Change in technology"
+    ],
+    "correct": 0,
+    "explanation": "Page 1 states that change in season, weather, and natural disasters are special circumstances affecting demand."
+  },
+  {
+    "question": "Demand for ice cream decreases in winter primarily due to:",
+    "options": [
+      "Government intervention",
+      "Seasonal variation",
+      "Increase in income",
+      "Change in tastes"
+    ],
+    "correct": 1,
+    "explanation": "Page 2 shows that demand decreases due to special circumstances like seasonal changes."
+  },
+  {
+    "question": "Normal goods are those goods whose demand:",
+    "options": [
+      "Increases with increase in income",
+      "Decreases with increase in income",
+      "Is unrelated to income",
+      "Remains constant with income"
+    ],
+    "correct": 0,
+    "explanation": "Page 2 explains normal goods have demand that increases with income."
+  },
+  {
+    "question": "Which of the following goods can replace each other?",
+    "options": [
+      "Unrelated goods",
+      "Complementary goods",
+      "Substitute goods",
+      "Inferior goods"
+    ],
+    "correct": 2,
+    "explanation": "Page 2 defines substitute goods as goods that can replace each other."
+  },
+  {
+    "question": "Goods used together are called:",
+    "options": [
+      "Substitute goods",
+      "Inferior goods",
+      "Complementary goods",
+      "Normal goods"
+    ],
+    "correct": 2,
+    "explanation": "Page 2 states complementary goods are used together."
+  },
+  {
+    "question": "A good showing small change in quantity demanded despite large price change is classified as:",
+    "options": [
+      "Necessary good",
+      "Luxury good",
+      "Substitute good",
+      "Inferior good"
+    ],
+    "correct": 0,
+    "explanation": "Page 3 describes necessary goods as having small change in demand despite large price changes."
+  },
+  {
+    "question": "A sudden large increase in demand due to small price reduction is typical of:",
+    "options": [
+      "Inferior goods",
+      "Luxury goods",
+      "Complementary goods",
+      "Necessary goods"
+    ],
+    "correct": 1,
+    "explanation": "Page 3 explains luxury goods have large demand response to small price changes."
+  },
+  {
+    "question": "Veblen goods are characterized by:",
+    "options": [
+      "No relation with price",
+      "Demand decreases with price increase",
+      "Constant demand",
+      "Demand increases with price"
+    ],
+    "correct": 3,
+    "explanation": "Page 4 shows Veblen goods have upward sloping demand where demand increases with price."
+  },
+  {
+    "question": "Veblen goods are typically:",
+    "options": [
+      "Intermediate goods",
+      "Luxury status symbols",
+      "Inferior goods",
+      "Basic necessities"
+    ],
+    "correct": 1,
+    "explanation": "Page 4 defines Veblen goods as luxury items serving as status symbols."
+  },
+  {
+    "question": "Giffen goods are:",
+    "options": [
+      "Luxury goods",
+      "Inferior goods with upward demand curve",
+      "Substitute goods",
+      "Normal goods"
+    ],
+    "correct": 1,
+    "explanation": "Page 5 states Giffen goods are inferior goods where demand increases as price increases."
+  },
+  {
+    "question": "Giffen goods are considered an exception to:",
+    "options": [
+      "Law of demand",
+      "Law of supply",
+      "Law of utility",
+      "Law of production"
+    ],
+    "correct": 0,
+    "explanation": "Page 5 clearly states Giffen goods are an exception to the law of demand."
+  },
+  {
+    "question": "Intermediate goods are those which:",
+    "options": [
+      "Have no use in production",
+      "Undergo further economic modification",
+      "Are luxury goods",
+      "Are consumed directly"
+    ],
+    "correct": 1,
+    "explanation": "Page 7 defines intermediate goods as those undergoing further economic modification."
+  },
+  {
+    "question": "Final goods are those which:",
+    "options": [
+      "Are inferior goods",
+      "Require further modification",
+      "Are used in production",
+      "Are consumed as such"
+    ],
+    "correct": 3,
+    "explanation": "Page 7 states final goods are consumed as such without further modification."
+  },
+  {
+    "question": "Elasticity in economics refers to:",
+    "options": [
+      "Constant supply",
+      "Fixed demand",
+      "Rigidity of demand",
+      "Responsiveness of demand"
+    ],
+    "correct": 3,
+    "explanation": "Page 9 defines elasticity as responsiveness to changes."
+  },
+  {
+    "question": "Price elasticity of demand measures response of demand to:",
+    "options": [
+      "Income change",
+      "Price change",
+      "Technology change",
+      "Taxation"
+    ],
+    "correct": 1,
+    "explanation": "Page 9 states price elasticity measures response of demand to price changes."
+  },
+  {
+    "question": "Cross elasticity of demand relates to:",
+    "options": [
+      "Income changes",
+      "Government policy",
+      "Price of same good",
+      "Price of other goods"
+    ],
+    "correct": 3,
+    "explanation": "Page 9 explains cross elasticity relates to price of other goods."
+  },
+  {
+    "question": "Income elasticity of demand measures response of demand to:",
+    "options": [
+      "Income change",
+      "Price change",
+      "Supply change",
+      "Taxation"
+    ],
+    "correct": 0,
+    "explanation": "Page 9 defines income elasticity as response to income changes."
+  },
+  {
+    "question": "Luxury goods generally have price elasticity of demand:",
+    "options": [
+      "Zero",
+      "Equal to 1",
+      "Less than 1",
+      "Greater than 1"
+    ],
+    "correct": 3,
+    "explanation": "Page 10 shows luxury goods have PED greater than 1."
+  },
+  {
+    "question": "Necessary goods typically have price elasticity:",
+    "options": [
+      "Greater than 1",
+      "Less than 1",
+      "Infinite",
+      "Equal to 1"
+    ],
+    "correct": 1,
+    "explanation": "Page 10 explains necessary goods are inelastic (PED < 1)."
+  },
+  {
+    "question": "Perfectly inelastic demand implies:",
+    "options": [
+      "Negative response",
+      "Partial response",
+      "Infinite response",
+      "No response to price change"
+    ],
+    "correct": 3,
+    "explanation": "Page 11 shows quantity demanded does not change at all with price."
+  },
+  {
+    "question": "Perfectly elastic demand implies:",
+    "options": [
+      "No change in quantity",
+      "Negative slope",
+      "Zero demand",
+      "Infinite responsiveness"
+    ],
+    "correct": 3,
+    "explanation": "Page 12 describes perfectly elastic demand as perfectly responsive."
+  },
+  {
+    "question": "Income elasticity for inferior goods is:",
+    "options": [
+      "Negative",
+      "Zero",
+      "Positive",
+      "Infinite"
+    ],
+    "correct": 0,
+    "explanation": "Page 14 shows inferior goods have negative income elasticity."
+  },
+  {
+    "question": "Income elasticity for necessity goods is:",
+    "options": [
+      "Positive but less than 1",
+      "Negative",
+      "Infinite",
+      "Greater than 1"
+    ],
+    "correct": 0,
+    "explanation": "Page 14 states necessity goods have positive but low elasticity (<1)."
+  },
+  {
+    "question": "Law of supply states that:",
+    "options": [
+      "Demand falls with income",
+      "Supply rises with price",
+      "Supply falls with price",
+      "Demand rises with price"
+    ],
+    "correct": 1,
+    "explanation": "Page 15 explains supply increases with price, ceteris paribus."
+  },
+  {
+    "question": "Ceteris paribus means:",
+    "options": [
+      "Only supply changes",
+      "Only price changes",
+      "All other things constant",
+      "All variables change"
+    ],
+    "correct": 2,
+    "explanation": "Page 15 defines ceteris paribus as all other things constant."
+  },
+  {
+    "question": "An increase in price leads to:",
+    "options": [
+      "Decrease in supply",
+      "Decrease in demand",
+      "Increase in supply",
+      "No change"
+    ],
+    "correct": 2,
+    "explanation": "Page 16 shows producers supply more as price increases."
+  },
+  {
+    "question": "Which is a determinant of supply?",
+    "options": [
+      "Population growth",
+      "Cost of factors of production",
+      "Consumer preferences",
+      "Weather only"
+    ],
+    "correct": 1,
+    "explanation": "Page 17 lists cost of factors as determinant of supply."
+  },
+  {
+    "question": "Increase in cost of production leads to:",
+    "options": [
+      "No change",
+      "Decrease in supply",
+      "Increase in demand",
+      "Increase in supply"
+    ],
+    "correct": 1,
+    "explanation": "Page 18 shows higher cost leads to decrease in supply."
+  },
+  {
+    "question": "If price of substitute in production rises, supply of other good:",
+    "options": [
+      "Becomes elastic",
+      "Remains constant",
+      "Increases",
+      "Decreases"
+    ],
+    "correct": 3,
+    "explanation": "Page 19 explains firms shift production, reducing supply of other goods."
+  },
+  {
+    "question": "Expectations of higher future prices will:",
+    "options": [
+      "No change",
+      "Decrease supply",
+      "Reduce demand",
+      "Increase supply"
+    ],
+    "correct": 3,
+    "explanation": "Page 20 shows producers increase supply expecting higher prices."
+  },
+  {
+    "question": "Taxes generally cause:",
+    "options": [
+      "No change",
+      "Increase in supply",
+      "Increase in demand",
+      "Decrease in supply"
+    ],
+    "correct": 3,
+    "explanation": "Page 21 shows taxes lead to inward shift of supply."
+  },
+  {
+    "question": "Subsidies generally cause:",
+    "options": [
+      "Decrease demand",
+      "No change",
+      "Decrease supply",
+      "Increase supply"
+    ],
+    "correct": 3,
+    "explanation": "Page 21 shows subsidies increase supply."
+  },
+  {
+    "question": "Increase in number of firms in market leads to:",
+    "options": [
+      "Increase in supply",
+      "Decrease in supply",
+      "Decrease in demand",
+      "No change"
+    ],
+    "correct": 0,
+    "explanation": "Page 21 explains increase in firms increases supply."
+  },
+  {
+    "question": "Price elasticity of supply measures:",
+    "options": [
+      "Demand responsiveness",
+      "Income change",
+      "Supply responsiveness to price",
+      "Utility"
+    ],
+    "correct": 2,
+    "explanation": "Page 22 defines PES as responsiveness of supply to price."
+  },
+  {
+    "question": "Perfectly inelastic supply means:",
+    "options": [
+      "Supply increases",
+      "Supply changes infinitely",
+      "Supply decreases",
+      "Supply does not change with price"
+    ],
+    "correct": 3,
+    "explanation": "Page 23 shows supply does not respond to price change."
+  },
+  {
+    "question": "Perfectly elastic supply implies:",
+    "options": [
+      "Negative supply",
+      "Constant supply",
+      "Infinite responsiveness",
+      "No supply"
+    ],
+    "correct": 2,
+    "explanation": "Page 24 shows supply responds perfectly to price changes."
+  },
+  {
+    "question": "Unit elastic supply implies:",
+    "options": [
+      "ΔQ = 0",
+      "ΔQ > ΔP",
+      "ΔQ = ΔP",
+      "ΔQ < ΔP"
+    ],
+    "correct": 2,
+    "explanation": "Page 25 shows unit elasticity where change in quantity equals change in price."
+  },
+  {
+    "question": "Unused capacity increases elasticity of supply because:",
+    "options": [
+      "It reduces production",
+      "It increases responsiveness",
+      "It increases cost",
+      "It reduces demand"
+    ],
+    "correct": 1,
+    "explanation": "Page 26 shows more unused capacity makes supply more elastic."
+  },
+  {
+    "question": "Longer time period makes supply:",
+    "options": [
+      "Constant",
+      "More elastic",
+      "Less elastic",
+      "Perfectly inelastic"
+    ],
+    "correct": 1,
+    "explanation": "Page 26 shows more time increases elasticity."
+  },
+  {
+    "question": "Ability to store goods affects supply elasticity by:",
+    "options": [
+      "Increasing elasticity",
+      "Reducing elasticity",
+      "Eliminating supply",
+      "No effect"
+    ],
+    "correct": 0,
+    "explanation": "Page 26 states better storage increases elasticity."
+  },
+  {
+    "question": "Demand represents:",
+    "options": [
+      "Consumer willingness and ability",
+      "Producer willingness",
+      "Supply only",
+      "Government policy"
+    ],
+    "correct": 0,
+    "explanation": "Page 27 shows demand is consumer willingness and ability."
+  },
+  {
+    "question": "Supply represents:",
+    "options": [
+      "Producer willingness and ability",
+      "Utility only",
+      "Consumer demand",
+      "Price only"
+    ],
+    "correct": 0,
+    "explanation": "Page 27 defines supply as producer willingness and ability."
+  },
+  {
+    "question": "At price above equilibrium, market experiences:",
+    "options": [
+      "No change",
+      "Shortage",
+      "Surplus",
+      "Equilibrium"
+    ],
+    "correct": 2,
+    "explanation": "Page 28 shows QS > QD leading to excess supply."
+  },
+  {
+    "question": "At price below equilibrium, market experiences:",
+    "options": [
+      "Surplus",
+      "Excess supply",
+      "Shortage",
+      "Equilibrium"
+    ],
+    "correct": 2,
+    "explanation": "Page 28 shows QD > QS leading to shortage."
+  },
+  {
+    "question": "Movement along supply curve occurs due to change in:",
+    "options": [
+      "Price",
+      "Expectations",
+      "Technology",
+      "Income"
+    ],
+    "correct": 0,
+    "explanation": "Page 17 indicates price causes movement along curve."
+  },
+  {
+    "question": "Shift in supply curve occurs due to change in:",
+    "options": [
+      "Price only",
+      "Income only",
+      "Determinants other than price",
+      "Demand only"
+    ],
+    "correct": 2,
+    "explanation": "Page 17 explains non-price factors shift supply."
+  },
+  {
+    "question": "Which good shows upward sloping demand curve?",
+    "options": [
+      "Normal goods",
+      "Inferior goods",
+      "Complementary goods",
+      "Veblen goods"
+    ],
+    "correct": 3,
+    "explanation": "Page 4 shows Veblen goods have upward sloping demand."
+  },
+  {
+    "question": "Which elasticity relates demand to income?",
+    "options": [
+      "PES",
+      "PED",
+      "CED",
+      "YED"
+    ],
+    "correct": 3,
+    "explanation": "Page 13 defines YED as income elasticity of demand."
+  },
+  {
+    "question": "Which goods have negative income elasticity?",
+    "options": [
+      "Inferior goods",
+      "Final goods",
+      "Luxury goods",
+      "Normal goods"
+    ],
+    "correct": 0,
+    "explanation": "Page 14 shows inferior goods have negative elasticity."
+  },
+  {
+    "question": "Increase in technology leads to:",
+    "options": [
+      "Decrease in demand",
+      "Decrease in supply",
+      "No change",
+      "Increase in supply"
+    ],
+    "correct": 3,
+    "explanation": "Page 22 lists technology improvement increases supply."
+  },
+  {
+    "question": "Which of the following best explains the 'Missing Middle' problem in India's labour laws?",
+    "options": [
+      "Over-regulation discouraging growth of mid-sized firms",
+      "Low wages in informal sectors",
+      "Lack of skilled workers in the economy",
+      "Absence of labour unions in medium industries"
+    ],
+    "correct": 0,
+    "explanation": "The PDF states that labour laws impose burdens on mid-sized firms, discouraging their growth and leading to a lack of medium-sized firms."
+  },
+  {
+    "question": "What is a major consequence of labour laws being placed under the Concurrent List?",
+    "options": [
+      "Central government has exclusive control",
+      "Creation of multiple central and state laws causing complexity",
+      "Reduction in number of labour laws",
+      "Uniform implementation across states"
+    ],
+    "correct": 1,
+    "explanation": "The PDF highlights that labour laws in the concurrent list have resulted in 44 central and over 100 state laws, creating complexity."
+  },
+  {
+    "question": "Which of the following is NOT a key objective of the new labour codes?",
+    "options": [
+      "Ease of doing business",
+      "Privatization of labour enforcement",
+      "Worker welfare",
+      "Simplification and rationalization"
+    ],
+    "correct": 1,
+    "explanation": "The PDF lists simplification, worker welfare, ease of doing business, technological integration, and decriminalisation as objectives, not privatization."
+  },
+  {
+    "question": "Under the Industrial Relations Code, what is the minimum notice period required for strikes?",
+    "options": [
+      "10 days",
+      "14 days",
+      "30 days",
+      "7 days"
+    ],
+    "correct": 1,
+    "explanation": "The PDF specifies that strikes and lockouts require a 14-day notice period."
+  },
+  {
+    "question": "What is a key concern regarding fixed-term employment under the Industrial Relations Code?",
+    "options": [
+      "Higher wages for workers",
+      "Mandatory unionization",
+      "Reduced working hours",
+      "Potential job insecurity and replacement of permanent jobs"
+    ],
+    "correct": 3,
+    "explanation": "The PDF mentions concerns such as unequal bargaining power and possible replacement of permanent jobs with fixed-term contracts."
+  },
+  {
+    "question": "What change was made in the threshold for requiring government permission for layoffs under the IR Code?",
+    "options": [
+      "Increased from 100 to 300 workers",
+      "Fixed at 200 workers",
+      "Reduced from 300 to 100 workers",
+      "Removed completely"
+    ],
+    "correct": 0,
+    "explanation": "The PDF clearly states that the threshold was increased from 100 to 300 workers."
+  },
+  {
+    "question": "Which category of workers is newly included under the Code on Social Security, 2020?",
+    "options": [
+      "Gig and platform workers",
+      "Only permanent employees",
+      "Only agricultural labourers",
+      "Only government workers"
+    ],
+    "correct": 0,
+    "explanation": "The PDF mentions inclusion of gig and platform workers along with other categories."
+  },
+  {
+    "question": "What is the purpose of the National Social Security Board?",
+    "options": [
+      "Fix minimum wages",
+      "Monitor labour courts",
+      "Resolve industrial disputes",
+      "Develop schemes for unorganised and gig workers"
+    ],
+    "correct": 3,
+    "explanation": "The PDF states that the board is created to develop schemes for unorganised, gig, and platform workers."
+  }
+]

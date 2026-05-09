@@ -1,0 +1,1612 @@
+[
+  {
+    "question": "Under the Occupational Safety Code, what is the maximum daily working hour limit?",
+    "options": [
+      "6 hours",
+      "8 hours",
+      "10 hours",
+      "12 hours"
+    ],
+    "correct": 1,
+    "explanation": "The PDF specifies that daily work hours are limited to a maximum of eight hours."
+  },
+  {
+    "question": "Which of the following is a benefit provided under the Occupational Safety Code?",
+    "options": [
+      "Free annual health examinations for certain workers",
+      "Guaranteed employment",
+      "Universal pension",
+      "Free housing"
+    ],
+    "correct": 0,
+    "explanation": "The PDF states that free annual health examinations are mandated for certain classes of employees."
+  },
+  {
+    "question": "What is the 'Lighthouse Effect' associated with minimum wages?",
+    "options": [
+      "Reduction in employment",
+      "Benchmark effect raising wages in informal sectors",
+      "Increase in industrial disputes",
+      "Migration of workers"
+    ],
+    "correct": 1,
+    "explanation": "The PDF explains that minimum wages act as a benchmark, indirectly raising wages in informal sectors."
+  },
+  {
+    "question": "According to the Economic Survey, how has wage inequality changed among casual workers?",
+    "options": [
+      "Increased significantly",
+      "Remained constant",
+      "Decreased",
+      "Eliminated completely"
+    ],
+    "correct": 2,
+    "explanation": "The PDF notes that inequality among casual workers has decreased."
+  },
+  {
+    "question": "What is a major issue with India's minimum wage system?",
+    "options": [
+      "Too few job categories",
+      "Uniform wages across states",
+      "Large variations due to multiple categories and employments",
+      "Lack of legal backing"
+    ],
+    "correct": 2,
+    "explanation": "The PDF highlights 429 scheduled employments and 1,915 job categories causing wide variations."
+  },
+  {
+    "question": "Which component contributes to disparity in wage rates across states?",
+    "options": [
+      "Uniform tax system",
+      "Variable Dearness Allowance (VDA)",
+      "Centralized wage fixation",
+      "Digital payments"
+    ],
+    "correct": 1,
+    "explanation": "The PDF mentions inconsistency in inclusion of VDA as a cause of disparity."
+  },
+  {
+    "question": "What proportion of wage workers in India is not protected under the Minimum Wages Act according to ILO (2018)?",
+    "options": [
+      "1 in 5",
+      "1 in 3",
+      "1 in 2",
+      "2 in 3"
+    ],
+    "correct": 1,
+    "explanation": "The PDF states that 1 in every 3 wage workers is not protected."
+  },
+  {
+    "question": "What is a key reform introduced by the Code on Wages, 2019?",
+    "options": [
+      "Removal of minimum wages",
+      "Universalisation of minimum wages",
+      "Only state-level wage fixing",
+      "Elimination of advisory boards"
+    ],
+    "correct": 1,
+    "explanation": "The PDF emphasizes universal application of minimum wages as a major reform."
+  },
+  {
+    "question": "What is the statutory floor wage under the Code on Wages?",
+    "options": [
+      "Minimum wage fixed by states",
+      "Baseline wage set by central government",
+      "Average wage across sectors",
+      "Market-determined wage"
+    ],
+    "correct": 1,
+    "explanation": "The PDF defines statutory floor wage as a baseline set by the central government."
+  },
+  {
+    "question": "What is the overtime wage rate under the Code on Wages?",
+    "options": [
+      "Equal to regular wage",
+      "1.5 times regular wage",
+      "Twice the regular wage",
+      "Triple the regular wage"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states overtime is payable at twice the regular wage."
+  },
+  {
+    "question": "What is a major limitation of the Code on Wages regarding coverage?",
+    "options": [
+      "Excludes all formal workers",
+      "Excludes workers without employer-employee relationship",
+      "Applies only to government jobs",
+      "Covers only rural areas"
+    ],
+    "correct": 1,
+    "explanation": "The PDF notes exclusion of workers without a clear employer-employee relationship."
+  },
+  {
+    "question": "What ambiguity arises in the Code on Wages terminology?",
+    "options": [
+      "Confusion between wage and salary",
+      "Interchangeable use of 'employee' and 'worker'",
+      "Unclear definition of minimum wage",
+      "Ambiguity in penalties"
+    ],
+    "correct": 1,
+    "explanation": "The PDF highlights inconsistent use of 'employee' and 'worker'."
+  },
+  {
+    "question": "What is a criticism of calorie-based wage determination?",
+    "options": [
+      "Too expensive",
+      "Outdated family structure assumptions",
+      "Ignores food costs",
+      "Applies only to urban areas"
+    ],
+    "correct": 1,
+    "explanation": "The PDF mentions outdated assumptions like 3 consumption units as a flaw."
+  },
+  {
+    "question": "What issue arises due to fragmented dispute resolution under the Code on Wages?",
+    "options": [
+      "Faster resolution",
+      "Simplified procedures",
+      "Delays and inconsistent outcomes",
+      "Elimination of disputes"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states fragmentation leads to delays and inconsistent outcomes."
+  },
+  {
+    "question": "What is a concern regarding penalties under the Code on Wages?",
+    "options": [
+      "Too harsh on corporations",
+      "Equal penalties for all",
+      "Unequal penalties between individuals and corporations",
+      "No penalties exist"
+    ],
+    "correct": 2,
+    "explanation": "The PDF highlights disparity where corporations face fewer consequences."
+  },
+  {
+    "question": "What is the recommended National Minimum Wage by the Anoop Satpathy Committee?",
+    "options": [
+      "INR 250 per day",
+      "INR 300 per day",
+      "INR 375 per day",
+      "INR 500 per day"
+    ],
+    "correct": 2,
+    "explanation": "The PDF states INR 375 per day as the recommended national minimum wage."
+  },
+  {
+    "question": "What additional allowance is recommended for urban workers by the committee?",
+    "options": [
+      "Transport allowance",
+      "City compensatory allowance",
+      "Food subsidy",
+      "Education allowance"
+    ],
+    "correct": 1,
+    "explanation": "The PDF specifies an additional house rent allowance termed City Compensatory Allowance."
+  },
+  {
+    "question": "What is meant by equilibrium price in a market?",
+    "options": ["Price where supply exceeds demand", "Price where demand exceeds supply", "Price where quantity supplied equals quantity demanded", "Price fixed by government"],
+    "correct": 2,
+    "explanation": "Equilibrium price is defined as the price at which quantity supplied equals quantity demanded, leading to market clearing. :contentReference[oaicite:0]{index=0}"
+  },
+  {
+    "question": "At equilibrium price, which of the following conditions holds true?",
+    "options": ["Some goods remain unsold", "Demand is partially satisfied", "All goods produced are sold", "Only producers benefit"],
+    "correct": 2,
+    "explanation": "At equilibrium, all goods produced are sold and all consumer demand is satisfied. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "A situation where quantity supplied exceeds quantity demanded is known as:",
+    "options": ["Shortage", "Surplus", "Equilibrium", "Deficit"],
+    "correct": 1,
+    "explanation": "When quantity supplied is greater than quantity demanded, it results in excess supply or surplus. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "When market price is above equilibrium price, what pressure is exerted on price?",
+    "options": ["Upward pressure", "Downward pressure", "No pressure", "Constant pressure"],
+    "correct": 1,
+    "explanation": "Above equilibrium price, surplus exists, creating downward pressure on price. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Why do producers lower prices during surplus?",
+    "options": ["To increase costs", "To clear unsold stock", "Due to government regulation", "To reduce production"],
+    "correct": 1,
+    "explanation": "Producers lower prices because goods remain unsold when supply exceeds demand. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "A shortage occurs when:",
+    "options": ["Supply equals demand", "Supply exceeds demand", "Demand exceeds supply", "Price is zero"],
+    "correct": 2,
+    "explanation": "Shortage arises when demand is greater than supply in the market. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Below equilibrium price, what happens to price over time?",
+    "options": ["Falls further", "Remains constant", "Rises due to upward pressure", "Becomes zero"],
+    "correct": 2,
+    "explanation": "Shortage leads to upward pressure on price, causing it to rise towards equilibrium. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "What ensures that price returns to equilibrium in a free market?",
+    "options": ["Government intervention", "Invisible hand of the market", "Taxation", "Subsidies"],
+    "correct": 1,
+    "explanation": "The invisible hand of the market ensures adjustment of prices back to equilibrium. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "Equilibrium price is achieved when:",
+    "options": ["Consumers dominate", "Producers dominate", "Complete information is available", "Taxes are zero"],
+    "correct": 2,
+    "explanation": "The notes mention equilibrium is achieved when all consumers and producers have complete information. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "An increase in income for a normal good causes:",
+    "options": ["Inward shift of demand", "Outward shift of demand", "No shift", "Decrease in supply"],
+    "correct": 1,
+    "explanation": "Higher income increases demand for normal goods, shifting demand outward. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "When a product becomes less preferred, demand curve shifts:",
+    "options": ["Outward", "Inward", "Upward only", "Remains unchanged"],
+    "correct": 1,
+    "explanation": "Change in tastes reducing preference leads to inward shift of demand. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "question": "Advancement in technology leads to:",
+    "options": ["Inward shift of supply", "Outward shift of supply", "No change", "Demand shift"],
+    "correct": 1,
+    "explanation": "Technological improvements increase supply, shifting supply curve outward. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "question": "Increase in cost of production results in:",
+    "options": ["Outward supply shift", "Inward supply shift", "Demand shift outward", "Price fall"],
+    "correct": 1,
+    "explanation": "Higher production costs reduce supply, shifting supply inward. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "question": "Indirect tax is defined as:",
+    "options": ["Tax on income", "Tax on wealth", "Tax on expenditure", "Tax on savings"],
+    "correct": 2,
+    "explanation": "Indirect taxes are taxes placed on expenditure such as GST or customs duty. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "question": "Effect of indirect tax on supply curve is:",
+    "options": ["Outward shift", "Inward shift", "No shift", "Demand shift"],
+    "correct": 1,
+    "explanation": "Indirect taxes increase cost of production and shift supply inward. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "question": "After imposition of indirect tax, consumers:",
+    "options": ["Pay less", "Pay more", "Pay same", "Receive subsidy"],
+    "correct": 1,
+    "explanation": "Tax increases prices, so consumers pay more. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "question": "Specific tax refers to:",
+    "options": ["Tax as percentage", "Fixed amount tax", "Income tax", "Wealth tax"],
+    "correct": 1,
+    "explanation": "Specific tax is a fixed amount per unit of product. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "question": "Percentage tax is levied:",
+    "options": ["Per unit", "As fixed fee", "As percentage of price", "On income only"],
+    "correct": 2,
+    "explanation": "Percentage tax is applied as a percentage of selling price. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "question": "Subsidies cause supply curve to:",
+    "options": ["Shift inward", "Shift outward", "Remain unchanged", "Disappear"],
+    "correct": 1,
+    "explanation": "Subsidies reduce costs and shift supply outward. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "question": "With subsidy, consumers:",
+    "options": ["Pay more", "Pay less", "Pay same", "Stop consumption"],
+    "correct": 1,
+    "explanation": "Subsidy lowers prices, so consumers pay less. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "question": "Price ceiling is:",
+    "options": ["Minimum price", "Maximum price set by government", "Market price", "Average price"],
+    "correct": 1,
+    "explanation": "Price ceiling is a maximum price set below equilibrium. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "question": "Price ceiling generally leads to:",
+    "options": ["Surplus", "Shortage", "Equilibrium", "Profit rise"],
+    "correct": 1,
+    "explanation": "Price ceiling below equilibrium causes shortage. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "question": "Price floor is set:",
+    "options": ["Below equilibrium", "Above equilibrium", "At equilibrium", "At zero"],
+    "correct": 1,
+    "explanation": "Price floor is a minimum price set above equilibrium. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "question": "Price floor results in:",
+    "options": ["Shortage", "Surplus", "Equilibrium", "Demand rise"],
+    "correct": 1,
+    "explanation": "Price floor leads to surplus as supply exceeds demand. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "question": "Allocative efficiency occurs when:",
+    "options": ["Supply exceeds demand", "Demand exceeds supply", "Supply equals demand", "Prices are fixed"],
+    "correct": 2,
+    "explanation": "Allocative efficiency occurs when quantity demanded equals quantity supplied. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "question": "Externalities are:",
+    "options": ["Private costs", "Market profits", "Spillover effects on third parties", "Government taxes"],
+    "correct": 2,
+    "explanation": "Externalities are spillover benefits or costs affecting third parties. :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "question": "Positive externalities lead to:",
+    "options": ["Negative spillovers", "Favourable spillovers", "No effect", "Market failure always"],
+    "correct": 1,
+    "explanation": "Positive externalities create favourable spillover effects. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "question": "Smoking is an example of:",
+    "options": ["Positive externality", "Negative externality", "Public good", "Capital good"],
+    "correct": 1,
+    "explanation": "Smoking creates negative spillovers like passive smoking. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "question": "In case of negative consumption externality, market output is:",
+    "options": ["Less than optimal", "Equal to optimal", "More than optimal", "Zero"],
+    "correct": 2,
+    "explanation": "Market overproduces compared to socially optimal level. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "question": "Government corrects negative externalities through:",
+    "options": ["Subsidies", "Taxation", "Price floor", "Exports"],
+    "correct": 1,
+    "explanation": "Taxation reduces overconsumption and aligns with social optimum. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "question": "Healthcare generates:",
+    "options": ["Negative externalities", "Positive externalities", "No externalities", "Only private benefits"],
+    "correct": 1,
+    "explanation": "Healthcare creates positive spillovers like reduced infections. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "question": "For positive externalities, government intervention is usually:",
+    "options": ["Taxation", "Subsidy", "Price ceiling", "Ban"],
+    "correct": 1,
+    "explanation": "Subsidies increase consumption closer to socially optimal level. :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "question": "Pigouvian tax is used to:",
+    "options": ["Increase profits", "Correct externalities", "Promote exports", "Reduce wages"],
+    "correct": 1,
+    "explanation": "Pigouvian tax internalizes social costs and corrects externalities. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "question": "Market power refers to:",
+    "options": ["Ability to reduce cost", "Ability to control supply", "Ability to raise price", "Ability to increase wages"],
+    "correct": 2,
+    "explanation": "Market power is the ability of firms to raise prices. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "question": "In perfect competition, firms are:",
+    "options": ["Price makers", "Price takers", "Monopolists", "Cartels"],
+    "correct": 1,
+    "explanation": "Firms in perfect competition are price takers with no market power. :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "question": "Perfect competition is characterized by:",
+    "options": ["Few firms", "Identical products", "High barriers", "Product differentiation"],
+    "correct": 1,
+    "explanation": "Perfect competition involves identical products and many firms. :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "question": "Imperfect competition involves:",
+    "options": ["Identical goods only", "No firms", "Product differentiation", "No competition"],
+    "correct": 2,
+    "explanation": "Imperfect competition includes differentiated products and some market power. :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "question": "Monopoly is characterized by:",
+    "options": ["Many firms", "No barriers", "Single firm", "Perfect competition"],
+    "correct": 2,
+    "explanation": "Monopoly has one firm producing entire output. :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "question": "Oligopoly is defined as:",
+    "options": ["Single firm", "Few firms dominating market", "Many small firms", "No firms"],
+    "correct": 1,
+    "explanation": "Oligopoly consists of few firms dominating the market. :contentReference[oaicite:38]{index=38}"
+  },
+  {
+    "question": "Collusion in oligopoly refers to:",
+    "options": ["Competition", "Cooperation among firms", "Taxation", "Production increase"],
+    "correct": 1,
+    "explanation": "Collusion involves firms cooperating, sometimes forming cartels. :contentReference[oaicite:39]{index=39}"
+  },
+  {
+    "question": "Public goods suffer from:",
+    "options": ["High cost", "Free rider problem", "Excess demand", "Monopoly"],
+    "correct": 1,
+    "explanation": "Public goods face free rider problem due to non-excludability. :contentReference[oaicite:40]{index=40}"
+  },
+  {
+    "question": "Free rider problem arises because goods are:",
+    "options": ["Excludable", "Rival", "Non-excludable", "Private"],
+    "correct": 2,
+    "explanation": "Public goods are non-excludable, leading to free rider issue. :contentReference[oaicite:41]{index=41}"
+  },
+  {
+    "question": "Intermediate goods are:",
+    "options": ["Consumed directly", "Used in production", "Final consumption goods", "Public goods"],
+    "correct": 1,
+    "explanation": "Intermediate goods are used as inputs in production process. :contentReference[oaicite:42]{index=42}"
+  },
+  {
+    "question": "Final goods are those which:",
+    "options": ["Require further processing", "Are used as inputs", "Are consumed directly", "Are exported only"],
+    "correct": 2,
+    "explanation": "Final goods are consumed directly without further economic modification. :contentReference[oaicite:43]{index=43}"
+  },
+  {
+    "question": "In the context of macroeconomics as described in the document, which of the following best defines 'Aggregate'?",
+    "options": ["The average price level of goods", "The total amount of a variable", "The marginal utility of consumers", "The net profit of firms"],
+    "correct": 1,
+    "explanation": "According to the document, 'Aggregate' means 'Total' in the macroeconomic language."
+  },
+  {
+    "question": "The document identifies two 'children of the economy'. Who are they?",
+    "options": ["Government and Banks", "Imports and Exports", "Consumers and Producers", "Investors and Savers"],
+    "correct": 2,
+    "explanation": "The PDF explicitly states that there are '2 children of the economy: consumers (utility) and producers (profits)'."
+  },
+  {
+    "question": "Which tool is classified under 'Fiscal Policy' according to the provided text?",
+    "options": ["Interest Rates", "Money Supply", "Taxation", "Open Market Operations"],
+    "correct": 2,
+    "explanation": "The document lists 'Taxation' and 'govt spending' as tools available under Fiscal policy."
+  },
+  {
+    "question": "In the circular flow of income, what does 'RED' represent?",
+    "options": ["Leakages from the economy", "Injections into the economy", "Flow of income in the economy", "Flow of goods and services"],
+    "correct": 2,
+    "explanation": "The text states: 'RED = flow of income in the economy'."
+  },
+  {
+    "question": "A '2-factor model' of the circular flow of income primarily includes which two sectors?",
+    "options": ["Firms and Government", "Households and Banks", "Households and Firms", "Firms and Foreign Sector"],
+    "correct": 2,
+    "explanation": "The document mentions: 'This is a 2 factor Model: Households and Firms'."
+  },
+  {
+    "question": "According to the document, what is considered a 'leakage' in the circular flow of money?",
+    "options": ["Exports", "Investment", "Savings", "Government Spending"],
+    "correct": 2,
+    "explanation": "The circular flow diagrams and text identify 'savings', 'taxes', and 'imports' as leakages."
+  },
+  {
+    "question": "Which of the following is classified as an 'injection' into the circular flow?",
+    "options": ["Taxes", "Imports", "Investment", "Factor payments"],
+    "correct": 2,
+    "explanation": "The text lists 'Exports', 'Govt spending', and 'Investment' as injections."
+  },
+  {
+    "question": "Which method is NOT mentioned in the PDF as a way to measure total National Income?",
+    "options": ["Income Method", "Value Added Method", "Output Method", "Savings Method"],
+    "correct": 3,
+    "explanation": "The document lists Income Method, Output Method, and Expenditure Method (and later mentions Value Added as part of the production/output method), but does not list a 'Savings Method' for calculating National Income."
+  },
+  {
+    "question": "The 'Care Economy' refers to which type of work according to the text?",
+    "options": ["Formal work like teachers and bankers", "Monetized services in the market", "Unpaid work such as looking after the sick or elderly", "Government-funded public health services"],
+    "correct": 2,
+    "explanation": "The document defines 'care economy' as 'unpaid work' like 'looking after the sick', 'caring for the elderly', and 'managing households'."
+  },
+  {
+    "question": "Why is the preoccupation with GDP growth criticized in the 'Embedded Economy' model?",
+    "options": ["It ignores the role of financial institutions", "It does not account for externalities and environmental challenges", "It focuses too much on the foreign sector", "It overvalues the care economy"],
+    "correct": 1,
+    "explanation": "The text notes that problems with the standard model include 'Externalities' and 'Environmental Challenges' because it 'Does NOT incorporate energy and Natural Materials'."
+  },
+  {
+    "question": "According to the document, what is 'Aggregate Demand' (AD)?",
+    "options": ["The total production of a single firm", "Total spending on all goods and services at a given price level", "The sum of all individual savings", "The total tax revenue collected by the government"],
+    "correct": 1,
+    "explanation": "Aggregate Demand is defined as 'Total spending on all goods and services in a period of time at a given price level'."
+  },
+  {
+    "question": "Which of the following is a component of Aggregate Demand?",
+    "options": ["(X + M)", "C + I + G + (X - M)", "Wages + Rent + Interest", "GDP - Depreciation"],
+    "correct": 1,
+    "explanation": "The components of AD are listed as private consumption (C), Investment (I), Govt spending (G), and Net exports (X - M)."
+  },
+  {
+    "question": "In the Aggregate Demand components, what does 'Investment' refer to for firms?",
+    "options": ["Buying stocks and shares", "Spending money on new capital", "Paying interest to banks", "Increasing worker wages"],
+    "correct": 1,
+    "explanation": "The text defines Investment as 'Money spent on New capital' by firms."
+  },
+  {
+    "question": "How do 'Income Taxes' typically affect Consumption in the AD model?",
+    "options": ["Higher taxes increase disposable income", "Higher taxes decrease disposable income and spending", "Lower taxes decrease consumption", "Taxes have no impact on consumption"],
+    "correct": 1,
+    "explanation": "The document states that 'Income taxes' affect 'disposable incomes' which in turn impacts 'spending'."
+  },
+  {
+    "question": "Which factor would cause a 'shift' in the Short Run Aggregate Supply (SRAS) curve rather than a movement along it?",
+    "options": ["Change in the average price level", "Change in the cost of raw materials", "Change in the quantity of output", "Change in consumer demand"],
+    "correct": 1,
+    "explanation": "The text mentions: 'Price levels - along the curve movement; other factors - shift of curve'. Cost of raw materials is listed as a factor that causes a change (shift) in AS."
+  },
+  {
+    "question": "What is the effect of an increase in wages on Aggregate Supply?",
+    "options": ["AS increases because workers have more money", "AS decreases because the cost of production for firms increases", "AS remains constant as prices adjust", "AS shifts to the right"],
+    "correct": 1,
+    "explanation": "The text states: 'Change in wages - More wages -> More cost for firm -> less supply'."
+  },
+  {
+    "question": "According to the PDF, what is a 'Supply Shock'?",
+    "options": ["A slow change in consumer preferences", "Sudden events with a strong impact, like war or weather", "The gradual increase in national income", "A predictable change in tax rates"],
+    "correct": 1,
+    "explanation": "The document defines Supply Shocks as 'sudden events with strong impact' such as 'war, unfavourable weather, favourable weather'."
+  },
+  {
+    "question": "In the Short Run, how are the prices of resources characterized?",
+    "options": ["Completely flexible and easy to change", "Constant and inflexible despite changes in price level", "Based solely on consumer utility", "Determined by international markets only"],
+    "correct": 1,
+    "explanation": "The text states: 'In the short run, prices of resources are constant and inflexible, in spite of changes in the price level'."
+  },
+  {
+    "question": "What happens to the Long Run Aggregate Supply (LRAS) curve if there is a change in the price level?",
+    "options": ["It shifts to the right", "It shifts to the left", "There is no change as it is perfectly inelastic", "It becomes more elastic"],
+    "correct": 2,
+    "explanation": "The document shows the LRAS curve is 'perfectly inelastic' at Potential GDP, meaning a change in price does not change the long-run output."
+  },
+  {
+    "question": "What determines the output of a country in the Long Run?",
+    "options": ["The current price level in the market", "Full employment and efficiency in the use of factors of production", "The total amount of imports", "The number of banks in the economy"],
+    "correct": 1,
+    "explanation": "The PDF states: 'In the Long Run, what determines the output of a country? -> Full employment and efficiency in use of factors of production'."
+  },
+  {
+    "question": "Which of the following would cause the LRAS curve to shift?",
+    "options": ["A temporary change in weather", "A change in the quality or quantity of factors of production", "A decrease in the current price level", "An increase in aggregate demand"],
+    "correct": 1,
+    "explanation": "Shifts in the LRAS curve are caused by 'change in quality of FoP', 'change in Quantity of FoP', or 'change in state of technology'."
+  },
+  {
+    "question": "What is a 'Recessionary Gap' as defined in the text?",
+    "options": ["When potential output is less than aggregate demand", "When the amount consumers want to buy is less than potential output", "When full employment is reached", "When inflation exceeds 10%"],
+    "correct": 1,
+    "explanation": "The text defines a Recessionary Gap as when 'amount of output that components of AD want to buy are less than potential output'."
+  },
+  {
+    "question": "An 'Inflationary Gap' occurs when:",
+    "options": ["AD is equal to potential output", "AD is less than potential output", "AD is more than potential output", "The government reduces spending"],
+    "correct": 2,
+    "explanation": "According to the PDF, an Inflationary Gap is when 'amount of output that components of AD want to buy are more than potential output'."
+  },
+  {
+    "question": "In National Income Accounting, 'National Income' is defined as the total market value of:",
+    "options": ["All intermediate goods produced", "All final goods and services produced in a given year", "Total savings of households", "Total exports minus imports"],
+    "correct": 1,
+    "explanation": "National Income is defined as the 'Total Market value of all final goods and services produced in the economy in a given year'."
+  },
+  {
+    "question": "Why are unemployment benefits not included in National Income?",
+    "options": ["They are too small to count", "They are considered transfers, not incomes in return for production", "They are paid by the government", "They are not monetized"],
+    "correct": 1,
+    "explanation": "The text notes: 'Govt gives unemployment benefits... These are merely transfers Not Incomes'."
+  },
+  {
+    "question": "What are the four factors of production mentioned in the PDF?",
+    "options": ["Money, Banks, Firms, Government", "Land, Labour, Capital, Entrepreneurship", "Exports, Imports, Savings, Investment", "Raw materials, Energy, Technology, Workers"],
+    "correct": 1,
+    "explanation": "The document lists 'Factors of Production: Land, Labour, Capital, Entrepreneurship'."
+  },
+  {
+    "question": "In a closed economy with no government and no savings, what is the relationship between income, expenditure, and production?",
+    "options": ["Income > Expenditure", "Production > Income", "Total incomes = Total expenditure = Total value of goods", "Expenditure > Production"],
+    "correct": 2,
+    "explanation": "The text states: 'Total incomes earned = total expenditure = Total value of goods and services'."
+  },
+  {
+    "question": "According to the 'Income Method', National Income is calculated as the sum of:",
+    "options": ["C + I + G", "Rent + Wages + Interest + Profit", "GDP - Depreciation", "Exports - Imports"],
+    "correct": 1,
+    "explanation": "The Income Method measures 'Incomes of all Households: Rent + wages + Interest + Profit'."
+  },
+  {
+    "question": "What is the relationship between Savings (S) and Investment (I) in the derived macroeconomic identity?",
+    "options": ["S + I = G", "S - I = (X - M) + (G - T)", "S = I always", "S + T = I + G"],
+    "correct": 1,
+    "explanation": "The document derives the identity: 'S - I = (X - M) + (G - T)'."
+  },
+  {
+    "question": "The 'Value Added Method' is used to:",
+    "options": ["Calculate only the value of raw materials", "Avoid double counting by checking value added at each stage", "Measure the total amount of taxes collected", "Estimate the value of the care economy"],
+    "correct": 1,
+    "explanation": "The text explains: 'instead of trying to differentiate Intermediate and final goods, we can check value added at each stage... No need to differentiate intermediate and final goods'."
+  },
+  {
+    "question": "What is 'Depreciation' in the context of investment?",
+    "options": ["The increase in value of capital over time", "An accounting exercise representing the wear and tear of capital", "The profit made from selling old machinery", "The interest paid on borrowed capital"],
+    "correct": 1,
+    "explanation": "The document defines Depreciation as an 'annual allowance of wear and tear' and an 'accounting exercise'."
+  },
+  {
+    "question": "How is 'Net Investment' calculated?",
+    "options": ["Gross Investment + Depreciation", "Gross Investment - Depreciation", "Total Savings - Taxes", "Exports - Imports"],
+    "correct": 1,
+    "explanation": "The formula provided is: 'Net investment = Gross Investment - Depreciation'."
+  },
+  {
+    "question": "What is the difference between 'Nominal GDP' and 'Real GDP'?",
+    "options": ["Nominal GDP uses base year prices; Real GDP uses current prices", "Nominal GDP includes only services; Real GDP includes only goods", "Nominal GDP uses current year prices; Real GDP uses base year prices", "Nominal GDP excludes taxes; Real GDP includes them"],
+    "correct": 2,
+    "explanation": "Nominal GDP is 'at this year Price Level [Current Price]' while Real GDP is 'at last year price level [constant price]' (using a base year)."
+  },
+  {
+    "question": "The 'GDP Deflator' is used as a measure of:",
+    "options": ["Economic growth", "Income inequality", "Inflation", "Tax efficiency"],
+    "correct": 2,
+    "explanation": "The text explicitly links 'GDP deflator' to the 'Measure of Inflation'."
+  },
+  {
+    "question": "Which of the following is a criterion for selecting a 'Base Year' for GDP calculation?",
+    "options": ["It should be a year of high economic volatility", "It should be a 'normal year' without structural shocks like a pandemic", "It must be the most recent year, regardless of stability", "It should be a year with high inflation"],
+    "correct": 1,
+    "explanation": "The PDF notes that a base year should be a 'NORMAL Year' and 'should NOT be volatile'."
+  },
+  {
+    "question": "What is the relationship between Market Price (MP) and Factor Cost (FC)?",
+    "options": ["MP = FC + Indirect Taxes - Subsidies", "MP = FC - Indirect Taxes + Subsidies", "MP = FC + Savings", "MP = FC / Depreciation"],
+    "correct": 0,
+    "explanation": "The text states: 'GDPmp = GDPfc + taxes - subsidies'."
+  },
+  {
+    "question": "According to the PDF, 'Basic Prices' include which of the following?",
+    "options": ["Product taxes", "Production taxes minus production subsidies", "Only consumer subsidies", "Only transportation costs"],
+    "correct": 1,
+    "explanation": "The document explains that 'Basic' price includes 'Production tax - production subsidy' but excludes product taxes/subsidies."
+  },
+  {
+    "question": "Which organization in India is responsible for the actual estimation of GDP?",
+    "options": ["Reserve Bank of India (RBI)", "Ministry of Finance", "National Statistical Office (NSO) under MOSPI", "Securities and Exchange Board of India (SEBI)"],
+    "correct": 2,
+    "explanation": "The text identifies 'Ministry of Statistics and Programme Implementation (MOSPI)' and the 'NSO' (National Statistical Office) as the bodies involved in GDP estimation."
+  },
+  {
+    "question": "What major change occurred in India's GDP calculation after 2015?",
+    "options": ["The base year was changed to 2004-05", "The sample source changed from ASI to the MCA-21 database", "GDP started being calculated using only the income method", "The government stopped accounting for the manufacturing sector"],
+    "correct": 1,
+    "explanation": "The text states: 'After 2015: Sample changed from ASI to MCA-21 database'."
+  },
+  {
+    "question": "What is 'Headline Growth' currently based on in India according to the document?",
+    "options": ["GDP at Factor Cost (Constant prices)", "GDP at Market Price (Constant prices)", "GNP at Factor Cost", "Net National Product"],
+    "correct": 1,
+    "explanation": "After 2015, the headline growth is 'GDPmp (constant)', whereas earlier it was 'GDPfc (constant)'."
+  },
+  {
+    "question": "Compliance with 'SNA' (System of National Accounts) is necessary for:",
+    "options": ["Reducing domestic taxes", "International comparison and credibility", "Increasing the interest rate", "Managing the care economy"],
+    "correct": 1,
+    "explanation": "The PDF states: 'SNA... for International comparison and credibility, compliance is necessary'."
+  },
+  {
+    "question": "Why is GDP considered an imperfect indicator of wellbeing in the text?",
+    "options": ["It measures too many non-marketed services", "It does not account for income inequality or externalities", "It includes too much data from the informal sector", "It ignores the value of exports"],
+    "correct": 1,
+    "explanation": "The document mentions 'No measure of inequality' and 'Externalities - Not accounted for' as issues with GDP as an indicator of wellbeing."
+  },
+  {
+    "question": "What does 'Green GDP' take into account?",
+    "options": ["The total value of agricultural output", "Environmental costs of national product (pollution/depletion)", "The growth of the renewable energy sector only", "The income of forest-dwelling communities"],
+    "correct": 1,
+    "explanation": "Green GDP is defined as 'GDP - environmental cost of national product (Pollution ~ Depletion of natural resources)'."
+  },
+  {
+    "question": "Which of the following is NOT an alternative to GDP mentioned in the PDF?",
+    "options": ["HDI (Human Development Index)", "Gross National Happiness", "Consumer Price Index (CPI)", "Green GDP"],
+    "correct": 2,
+    "explanation": "The document lists HDI, i-HDI, Green GDP, and Gross National Happiness as alternatives, but not CPI."
+  },
+  {
+    "question": "How is 'Net Domestic Product' (NDP) calculated from GDP?",
+    "options": ["GDP + Net Factor Income from Abroad", "GDP at Market Price - Depreciation", "GDP + Subsidies", "GDP - Indirect Taxes"],
+    "correct": 1,
+    "explanation": "The formula provided is: 'NDP = Net domestic product = GDPmp - Depreciation'."
+  },
+  {
+    "question": "What is the definition of 'National Income' in terms of Net National Product (NNP)?",
+    "options": ["NNP at Market Price", "NNP at Factor Cost", "NNP + Depreciation", "NNP - Subsidies"],
+    "correct": 1,
+    "explanation": "The document explicitly states: 'National Income = NNP at factor cost'."
+  },
+  {
+    "question": "How is 'Personal Income' (PI) derived from National Income (NI)?",
+    "options": ["NI + Corporate Tax", "NI - (Undistributed profits + Net Interest Payments by Households + Corporate tax) + Transfers", "NI + Savings", "NI - Personal Taxes"],
+    "correct": 1,
+    "explanation": "The formula in the text is: 'PI = NI - (undistributed profits + NIH + Ct) + Transfers'."
+  },
+  {
+    "question": "What is 'Personal Disposable Income'?",
+    "options": ["The total income earned by a household before taxes", "Money available with households to spend or save after personal taxes", "The sum of all wages in the economy", "The portion of income spent only on luxury goods"],
+    "correct": 1,
+    "explanation": "Personal Disposable Income is 'Money available with HH to spend/save' and is 'PI - Personal taxes - Misc payments'."
+  },
+  {
+    "question": "What does the 'Incremental Capital Output Ratio' (ICOR) measure?",
+    "options": ["The ratio of labor to capital in production", "How much investment is needed to increase output by one unit", "The total amount of capital available in the economy", "The interest rate charged on capital"],
+    "correct": 1,
+    "explanation": "ICOR is defined as 'How much investment is needed to increase output by one unit'."
+  },
+  {
+    "question": "A 'High ICOR' is generally considered:",
+    "options": ["Good for the economy as it shows high investment", "Bad for the economy as it means more investment is needed for less output", "Neutral", "A sign of high efficiency"],
+    "correct": 1,
+    "explanation": "The PDF states: 'High ICOR -- more investment -> Bad for economy'."
+  },
+  {
+    "question": "In the macroeconomic language, 'Quantity' refers to:",
+    "options": ["Individual consumer demand", "National Output", "The number of firms in a sector", "The amount of money in banks"],
+    "correct": 1,
+    "explanation": "The document maps 'Quantity' to 'National Output' in its macroeconomic language section."
+  },
+  {
+    "question": "What is the result of an 'Increase in Demand' in the macro economy?",
+    "options": ["Recession", "Inflation", "Supply Shock", "Equitable distribution"],
+    "correct": 1,
+    "explanation": "The text states: 'increase in demand -> inflation'."
+  },
+  {
+    "question": "A 'Decrease in Demand' leads to:",
+    "options": ["Inflation", "Economic growth", "Recession", "Supply shock"],
+    "correct": 2,
+    "explanation": "The text states: 'decrease in demand -> recession'."
+  },
+  {
+    "question": "Which sector is responsible for providing 'factors of production' in the 2-factor model?",
+    "options": ["Firms", "Government", "Households", "Foreign Sector"],
+    "correct": 2,
+    "explanation": "The circular flow diagram shows Households providing 'factors of production' to Firms."
+  },
+  {
+    "question": "What do Households receive in return for providing 'Labour'?",
+    "options": ["Rent", "Interest", "Wages", "Profit"],
+    "correct": 2,
+    "explanation": "The document lists 'wages' as the payment in return for 'Labour'."
+  },
+  {
+    "question": "What do Households receive for providing 'Entrepreneurship'?",
+    "options": ["Rent", "Wages", "Interest", "Profit"],
+    "correct": 3,
+    "explanation": "The document associates 'Profit' with the factor of production 'Entrepreneurship' (or Enterprises)."
+  },
+  {
+    "question": "According to the PDF, 'Public Goods' are typically provided by:",
+    "options": ["Private Firms", "The International Market", "The Government (Gout)", "Financial Institutions"],
+    "correct": 2,
+    "explanation": "The circular flow model shows the 'Gout' (Government) providing 'PUBLIC GOODS'."
+  },
+  {
+    "question": "In the expanded model, where do 'Imports' and 'Exports' flow from/to?",
+    "options": ["Financial Institutions", "Foreign Sector", "Government", "Households"],
+    "correct": 1,
+    "explanation": "The model includes the 'Foreign Sector' to account for 'Export' and 'Imports'."
+  },
+  {
+    "question": "What is the 'Monetized Economy'?",
+    "options": ["Unpaid care work", "Formal work that is paid for in formal markets", "Only government spending", "The exchange of goods via barter"],
+    "correct": 1,
+    "explanation": "The text defines 'Monetized economy' as 'formal work (teachers, workers, Bankers)' and 'incomes that are paid for... in formal Markets'."
+  },
+  {
+    "question": "In Kate Raworth's 'Doughnut Economics', the economy is described as:",
+    "options": ["Independent of society", "Embedded within society and the living world", "Purely a circular flow of money", "A system that ignores the household sector"],
+    "correct": 1,
+    "explanation": "The document states: 'Economy nests in society and the living world' and labels it 'Embedded economy'."
+  },
+  {
+    "question": "What does the text say about the traditional roles in the 'Care Economy'?",
+    "options": ["They are only the responsibility of women", "They have been traditionally done by women but are equally the responsibility of men", "They are fully accounted for in GDP", "They have no economic value"],
+    "correct": 1,
+    "explanation": "The PDF notes: 'these roles have traditionally been done by women, but they are equally the responsibility of Men'."
+  },
+  {
+    "question": "Investment by 'Households' is specifically mentioned to include:",
+    "options": ["New capital for firms", "Real estate and Homes", "Savings in bank accounts", "Payment of income taxes"],
+    "correct": 1,
+    "explanation": "The text states: 'Investment... Made by Households on Real estate and Homes'."
+  },
+  {
+    "question": "What is the 'Price Level' in the Aggregate Demand Curve?",
+    "options": ["The price of a single good like an iPhone", "The average price level of all goods and services", "The cost of labor", "The interest rate set by the bank"],
+    "correct": 1,
+    "explanation": "The AD curve uses the 'Average Price Level'."
+  },
+  {
+    "question": "What effect does a 'Booming economy' typically have on consumer confidence?",
+    "options": ["Decreases it", "Increases it, leading to more consumption", "No effect", "Makes expectations more negative"],
+    "correct": 1,
+    "explanation": "The text lists 'Consumer confidence' and 'expectations' under consumption, with 'Booming economy' as a factor."
+  },
+  {
+    "question": "Business confidence and expectations primarily impact which component of AD?",
+    "options": ["Consumption", "Investment", "Government Spending", "Net Exports"],
+    "correct": 1,
+    "explanation": "Under the 'Investment' section of changes in AD, 'Business confidence' and 'Business expectations' are listed."
+  },
+  {
+    "question": "What is the 'Long Run Aggregate Supply' (LRAS) curve also known as?",
+    "options": ["Short-run supply", "Potential GDP", "Nominal Output", "Variable supply"],
+    "correct": 1,
+    "explanation": "The document uses 'LRAS (at potential GDP)' and 'Potential GDP' interchangeably when describing the vertical curve."
+  },
+  {
+    "question": "Which of the following is considered a 'Factor of Production' payment for Land?",
+    "options": ["Wages", "Interest", "Rent", "Profit"],
+    "correct": 2,
+    "explanation": "The document lists 'Rent' as the payment for 'Land'."
+  },
+  {
+    "question": "In the formula GDP = GVA + taxes - subsidies, which specific taxes are referred to?",
+    "options": ["Production taxes", "Income taxes", "Product taxes", "Corporate taxes"],
+    "correct": 2,
+    "explanation": "The standard notation provided is: 'GDP = GVA + taxes (product) - product subsidies'."
+  },
+  {
+    "question": "What is the 'Natural Rate of Unemployment'?",
+    "options": ["Zero unemployment", "The level of employment when the economy functions at full employment/efficiency", "10% unemployment", "Unemployment caused by high taxes"],
+    "correct": 1,
+    "explanation": "The text states: 'FULL employment... means that the economy functions at Natural Rate of Unemployment. There is still some level of employment'."
+  },
+  {
+    "question": "According to the PDF, what does 'Net Factor Income from Abroad' (NFIA) adjust?",
+    "options": ["GDP to GNP", "GDP to NDP", "GNP to NNP", "Nominal GDP to Real GDP"],
+    "correct": 0,
+    "explanation": "The formula given is: 'GNP = GDP + Net factor Income from abroad'."
+  },
+  {
+    "question": "According to classical economists, what is the primary reason for unemployment in the economy?",
+    "options": [
+      "Lack of aggregate demand in the market.",
+      "Minimum wage legislations and strong labour unions.",
+      "Excessive government spending during a recession.",
+      "Technological advancements replacing manual labor."
+    ],
+    "correct": 1,
+    "explanation": "Classical economists believe unemployment (UE) is due to factors like minimum wage laws and strong labour unions that prevent wages from reaching the equilibrium level[cite: 44, 47, 48, 49]."
+  },
+  {
+    "question": "In the context of the Labor Market Diagram provided, what does 'L2 - L1' represent when a Minimum Wage (MW) is fixed above the equilibrium wage (WLe)?",
+    "options": [
+      "The total number of people employed.",
+      "The equilibrium quantity of labor.",
+      "Excess supply of labor leading to unemployment.",
+      "The increase in demand for labor by companies."
+    ],
+    "correct": 2,
+    "explanation": "At the Minimum Wage (MW) level, L2 represents labor supply and L1 represents labor demand; the difference (L2 - L1) is identified as excess supply, which leads to unemployment[cite: 30, 37]."
+  },
+  {
+    "question": "What is the 'Classical Solution' to unemployment as mentioned in the text?",
+    "options": [
+      "Increasing government intervention in the market.",
+      "Fixing higher minimum wages to increase spending power.",
+      "Laissez-faire, or allowing businesses to operate without regulations.",
+      "Implementing counter-cyclical policies."
+    ],
+    "correct": 2,
+    "explanation": "The classical solution to unemployment is to 'Cut regulations' and allow businesses to do business without interference, known as 'Laissez-faire'[cite: 53, 54, 55]."
+  },
+  {
+    "question": "How does the Keynesian perspective on unemployment differ from the Classical perspective?",
+    "options": [
+      "Keynesian theory suggests UE is only due to high wages.",
+      "Keynesian theory argues UE is due to a deficit in aggregate demand.",
+      "Keynesian theory supports long-run market self-correction.",
+      "Keynesian theory ignores the role of firms in hiring."
+    ],
+    "correct": 1,
+    "explanation": "Keynesian theory states that unemployment is not merely due to high wages but is a 'demand deficit' issue, where low aggregate demand prevents firms from employing workers[cite: 88, 89, 97, 99]."
+  },
+  {
+    "question": "According to the business cycle diagrams, what happens to unemployment during an 'expansion' phase?",
+    "options": [
+      "Unemployment increases as GDP rises.",
+      "Unemployment remains equal to the natural rate.",
+      "Unemployment falls as actual GDP moves toward potential GDP.",
+      "Unemployment remains constant while inflation falls."
+    ],
+    "correct": 2,
+    "explanation": "In the business cycle, the expansion phase is characterized by falling unemployment[cite: 127, 151]."
+  },
+  {
+    "question": "What does 'Potential GDP' represent in the business cycle model provided?",
+    "options": [
+      "The highest possible GDP during a recovery phase.",
+      "The level where unemployment is at its natural rate and there is full employment.",
+      "The level of GDP when aggregate demand is at its lowest.",
+      "The GDP level achieved only during a 'V-shaped' recovery."
+    ],
+    "correct": 1,
+    "explanation": "Potential GDP is defined as the long-term growth trend where the economy reaches full employment and unemployment equals the natural rate[cite: 139, 162]."
+  },
+  {
+    "question": "Which of the following describes a 'K-shaped' economic recovery?",
+    "options": [
+      "The economy quickly rises back to its previous state after a crash.",
+      "The entire economy recovers all lost ground simultaneously.",
+      "Some sectors of the economy recover while others do not.",
+      "The economy enters a long-term recession without recovery."
+    ],
+    "correct": 2,
+    "explanation": "A K-shaped recovery occurs when some sectors of the economy recover while some do not[cite: 243, 244, 247]."
+  },
+  {
+    "explanation": "The 'Counter-cyclical policy' suggests that during a recession, the government should increase spending, often by borrowing, to stimulate demand[cite: 264, 266, 275].",
+    "question": "What is the recommended government action during a recession according to the 'Counter-cyclical policy'?",
+    "options": [
+      "Increase taxes to reduce the national debt.",
+      "Decrease government spending to match lower demand.",
+      "Increase government spending, which may require borrowing.",
+      "Fix minimum wages at a higher level to stop the recession."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "According to the Keynesian view, what is necessary for employment to fall (meaning UE to decrease) during a recovery?",
+    "options": [
+      "Wages must be cut immediately.",
+      "Aggregate demand must increase beyond a set threshold of capacity.",
+      "The government must stop all borrowing.",
+      "Strong labor unions must be dismantled."
+    ],
+    "correct": 1,
+    "explanation": "The text notes that simply increasing aggregate demand is not enough; demand has to increase beyond a set threshold or capacity in the economy for employment to rise/unemployment to fall[cite: 210, 211, 213, 217]."
+  },
+  {
+    "question": "Which types of unemployment are grouped together to constitute the 'Natural rate of unemployment'?",
+    "options": [
+      "Cyclical, Structural, and Demand-deficit unemployment.",
+      "Seasonal, Structural, Voluntary, and Frictional unemployment.",
+      "Minimum wage-induced and Union-induced unemployment.",
+      "Only Recession-based and Boom-based unemployment."
+    ],
+    "correct": 1,
+    "explanation": "The document lists Seasonal, Structural, Voluntary, and Frictional unemployment as the four types that make up the Natural rate of unemployment[cite: 274, 277, 278]."
+  },
+  {
+    "question": "Which of the following best describes the concept of 'Shrinkflation' as per the provided text?",
+    "options": [
+      "A situation where the price of a good increases while the quantity remains constant.",
+      "A situation where the price of a good remains the same, but the quantity of the good has shrunk.",
+      "A simultaneous rise in both unemployment and inflation rates.",
+      "A rapid increase in prices up to double or triple digits."
+    ],
+    "correct": 1,
+    "explanation": "Shrinkflation is defined as a situation where the price of a good is same, but the quantity of the good has shrunk, thereby exploiting consumer behavior without an explicit price increase[cite: 50]."
+  },
+  {
+    "question": "What is the primary reason for proposing 'Refined Core Inflation' according to the Economic Survey 2021-22?",
+    "options": [
+      "To include volatile food and energy components that were previously excluded.",
+      "To address the anomaly where volatile fuel components like petrol and diesel for vehicles are included in the 'miscellaneous' group of Core Inflation.",
+      "To replace the Consumer Price Index (CPI) with a Producer Price Index (PPI).",
+      "To measure the impact of indirect taxes on the wholesale market."
+    ],
+    "correct": 1,
+    "explanation": "Refined Core Inflation was proposed because components like petrol and diesel for vehicles are included in 'transport and communication' under the miscellaneous group, making Core Inflation unstable. Refined core inflation addresses this anomaly[cite: 41]."
+  },
+  {
+    "question": "According to the document, which organization is responsible for compiling the Consumer Price Index (Combined)?",
+    "options": [
+      "Office of Economic Adviser",
+      "Labour Bureau",
+      "CSO, MoSPI",
+      "Niti Aayog"
+    ],
+    "correct": 2,
+    "explanation": "The Consumer Price Index (Combined), along with CPI-Urban and CPI-Rural, is compiled by the CSO, MoSPI[cite: 27, 28]."
+  },
+  {
+    "question": "In the context of the Wholesale Price Index (WPI), which of the following is TRUE regarding its composition?",
+    "options": [
+      "It includes both goods and services in its basket.",
+      "Manufacturing goods have the highest weightage at approximately 64.23%.",
+      "Indirect taxes are included in the final calculation of WPI.",
+      "The current base year for WPI is 2012."
+    ],
+    "correct": 1,
+    "explanation": "WPI focuses primarily on goods and excludes services. Within its components, Manufacturing Goods have a weight of 64.23%, Primary Articles 22.62%, and Fuel & Power 13.15%[cite: 43, 44]."
+  },
+  {
+    "question": "What is 'Fiscal Drag' as described in the text?",
+    "options": [
+      "A decrease in government revenue due to falling prices.",
+      "The process where inflation pushes taxpayers into higher tax brackets, increasing government revenue and reducing aggregate demand.",
+      "A situation where taxes increase at a slower rate than the rise in wages.",
+      "The structural nature of an economy that prevents immediate inflation control."
+    ],
+    "correct": 1,
+    "explanation": "Fiscal Drag occurs when inflation and higher wages lead to higher tax payments (due to progressive taxation), reducing disposable income and consumption, which acts as an automatic stabilizer by dragging the economy down[cite: 61, 62, 63]."
+  },
+  {
+    "question": "Which of the following components is EXCLUDED from the Consumer Food Price Index (CFPI)?",
+    "options": [
+      "Cereals and products",
+      "Milk and products",
+      "Non-alcoholic beverages",
+      "Vegetables"
+    ],
+    "correct": 2,
+    "explanation": "The CFPI tracks 10 out of 12 food items from the CPI basket, specifically excluding 'Non-alcoholic beverages' and 'Prepared meals, snacks, sweets etc'[cite: 42]."
+  },
+  {
+    "question": "In UPSC terminology and based on the PDF, 'Skewflation' refers to:",
+    "options": [
+      "Inflation that is rising only due to a rise in prices of a few specific goods/services.",
+      "A sustained increase in the money supply leading to general price rises.",
+      "Inflation caused by firms using market power to increase prices.",
+      "Inflation that is lower than the target set by the central bank."
+    ],
+    "correct": 0,
+    "explanation": "Skewflation is defined as inflation that is rising only due to a rise in some goods' or services' prices, meaning inflation is skewed due to rapid price increases of a few goods[cite: 15, 16, 49]."
+  },
+  {
+    "question": "What is the acceptable inflation target for India mentioned in the document?",
+    "options": [
+      "1-2%",
+      "4 \u00b1 2%",
+      "Above 10%",
+      "Exactly 0%"
+    ],
+    "correct": 1,
+    "explanation": "The document states that for India, an inflation rate of 4 \u00b1 2% is considered acceptable[cite: 11]."
+  },
+  {
+    "question": "Which index is used to revise the wages of industrial workers and is compiled by the Labour Bureau?",
+    "options": [
+      "CPI-Combined",
+      "CPI-UNME",
+      "CPI-Industrial Workers (IW)",
+      "Wholesale Price Index (WPI)"
+    ],
+    "correct": 2,
+    "explanation": "CPI-Industrial Workers (IW), CPI-Rural Labourers (RL), and CPI-Agricultural Labourers (AL) are used for wage revisions and are compiled by the Labour Bureau[cite: 24]."
+  },
+  {
+    "question": "How does inflation affect lenders and borrowers according to the text?",
+    "options": [
+      "Lenders benefit due to higher nominal interest rates.",
+      "Borrowers are worse off as they repay loans with more valuable currency.",
+      "Lenders suffer a loss in real returns as they receive depreciated currency.",
+      "Both lenders and borrowers remain unaffected in the long run."
+    ],
+    "correct": 2,
+    "explanation": "Lenders receive reduced real returns because the real rate is Nominal interest minus Inflation. Borrowers benefit by repaying loans with depreciated currency, reducing the real cost of loans[cite: 60]."
+  },
+  {
+    "question": "Which of the following best defines 'Stagflation'?",
+    "options": [
+      "High growth accompanied by high inflation.",
+      "Slow rise in inflation around 4% that encourages spending.",
+      "Simultaneous rise in both unemployment and inflation, often representing an extraordinary situation.",
+      "A fall in the general price level of the economy."
+    ],
+    "correct": 2,
+    "explanation": "Stagflation is an extraordinary situation where both unemployment (stagnation) and inflation are rising simultaneously, which usually does not happen as there is typically a growth-inflation tradeoff[cite: 51, 52]."
+  },
+  {
+    "question": "The 'Wholesale Food Price Index' (WFPI) is calculated by combining which components of the WPI?",
+    "options": [
+      "Primary Food Articles and Manufactured Food Products",
+      "Fuel and Power and Primary Food Articles",
+      "Manufacturing Goods and Services",
+      "Agricultural Labourer and Rural Labourer indices"
+    ],
+    "correct": 0,
+    "explanation": "The WFPI represents the combination of 'Food articles' from the Primary group and 'Food Products' from the Manufacturing group, together representing 24.38% of the WPI[cite: 44]."
+  },
+  {
+    "question": "Which of the following is a characteristic of 'Core Inflation'?",
+    "options": [
+      "It includes all items in the CPI-C basket.",
+      "It removes volatile components like food and fuel from the headline inflation.",
+      "It measures inflation specifically at the farm gate.",
+      "It is primarily used to track the prices of seasonal vegetables."
+    ],
+    "correct": 1,
+    "explanation": "Core Inflation excludes volatile items such as food and energy from the Headline CPI to focus on stable components[cite: 12, 13, 39, 40]."
+  },
+  {
+    "question": "What change in calculation methodology was introduced for the Wholesale Price Index (WPI) in its recent revision?",
+    "options": [
+      "Switching from Geometric Mean to Arithmetic Mean",
+      "Switching from Arithmetic Mean to Geometric Mean",
+      "Inclusion of Indirect Taxes in price measurement",
+      "Inclusion of the services sector in the basket"
+    ],
+    "correct": 1,
+    "explanation": "Recent revisions in WPI included the exclusion of indirect taxes and the use of the Geometric Mean rather than the Arithmetic Mean[cite: 44]."
+  },
+  {
+    "question": "According to the PDF, what is 'Repressed Inflation'?",
+    "options": [
+      "Inflation that occurs due to implementation of new taxes.",
+      "A situation where price and wage increases are restrained by controls.",
+      "Inflation rising by over 1000% per year.",
+      "Inflation caused by excessive credit lending by commercial banks."
+    ],
+    "correct": 1,
+    "explanation": "Repressed inflation is a situation in which price and wage increases are restrained; when these controls are relaxed, inflation increases[cite: 54]."
+  },
+  {
+    "question": "Which term describes 'Inflation due to structural reasons' or the 'Nature of the economy' that cannot be addressed in the immediate term?",
+    "options": [
+      "Demand-pull Inflation",
+      "Structural Inflation",
+      "Cost-push Inflation",
+      "Monetary Inflation"
+    ],
+    "correct": 1,
+    "explanation": "Structural Inflation is caused by structural reasons and the nature of the economy, which cannot be addressed in the immediate or medium term[cite: 14, 49]."
+  },
+  {
+    "question": "As per the weights in CPI-Combined (Base 2012), which group has the highest weightage?",
+    "options": [
+      "Housing",
+      "Fuel and light",
+      "Food and beverages",
+      "Miscellaneous"
+    ],
+    "correct": 2,
+    "explanation": "In the CPI-Combined basket, Food and beverages hold the highest weight at 45.86%[cite: 25]."
+  },
+  {
+    "question": "What is the 'Growth-Inflation Tradeoff' mentioned in the context of demand-side inflation?",
+    "options": [
+      "Higher inflation always leads to higher growth without limits.",
+      "The balance between managing inflation (through monetary/fiscal policy) and maintaining economic growth.",
+      "The shift from wholesale to consumer price indexing.",
+      "The reduction of taxes to stimulate supply-side factors."
+    ],
+    "correct": 1,
+    "explanation": "The document mentions the 'Inflation Growth tradeoff' in the context of countering demand-side inflation through Monetary and Fiscal policies[cite: 9, 10, 52]."
+  },
+  {
+    "question": "Which type of inflation is also known as 'Greed Inflation'?",
+    "options": [
+      "Taxflation",
+      "Profit-Push Inflation",
+      "Credit Inflation",
+      "Hyperinflation"
+    ],
+    "correct": 1,
+    "explanation": "Profit-Push Inflation, where firms use market power to increase prices (a form of cost-push inflation), is also known as 'Greed Inflation'[cite: 53]."
+  },
+  {
+    "question": "According to the Economic Survey, what is the proposed new base year for the Consumer Price Index (CPI)?",
+    "options": [
+      "2011-12",
+      "2016",
+      "2024",
+      "2026"
+    ],
+    "correct": 2,
+    "explanation": "The Economic Survey indicates that an exercise to change the base year of CPI from 2012 to 2024 has been initiated[cite: 29, 32]."
+  },
+  {
+    "question": "In the categorization of inflation by speed, 'Galloping Inflation' is characterized by:",
+    "options": [
+      "Inflation around 4% that stimulates investment.",
+      "Steady price rises between 3% and 10%.",
+      "Rapid increase in prices up to double or triple digits.",
+      "Prices increasing by over 1000% per year."
+    ],
+    "correct": 2,
+    "explanation": "Galloping Inflation is defined as a rapid increase in prices up to double or triple digits, which can destabilize economies[cite: 46]."
+  },
+  {
+    "question": "What is 'Credit Inflation' as per the document?",
+    "options": [
+      "Inflation caused by the government printing more currency.",
+      "When commercial banks lend more money to the public than the economy needs.",
+      "A situation where taxes increase faster than wages.",
+      "Inflation caused by a rise in the cost of raw materials."
+    ],
+    "correct": 1,
+    "explanation": "Credit Inflation occurs when commercial banks lend more money to the public than the economy needs, leading to an increase in prices[cite: 57]."
+  },
+  {
+    "question": "Which index was replaced in 2008 and was formerly compiled by the CSO for urban employees?",
+    "options": [
+      "CPI-IW",
+      "CPI-AL",
+      "CPI-UNME",
+      "WPI"
+    ],
+    "correct": 2,
+    "explanation": "CPI-UNME (Urban Non-Manual Employees) was compiled by the CSO but has been discontinued/replaced since 2008[cite: 23, 24]."
+  },
+  {
+    "question": "Which of the following is NOT one of the steps in measuring inflation as outlined in the PDF?",
+    "options": [
+      "Identify the target group.",
+      "Construct a basket relevant to the target group.",
+      "Adjust prices based on the international exchange rate.",
+      "Measure the change year-on-year in the same month."
+    ],
+    "correct": 2,
+    "explanation": "The steps provided are: 1) Identify target group, 2) Construct relevant basket, 3) Measure prices from relevant markets, 4) Index value using a Base year, and 5) Measure change year-on-year. International exchange rate adjustment is not mentioned[cite: 22]."
+  },
+  {
+    "question": "Under whose chairmanship was the Working Group for Revision of the Wholesale Price Index set up in 2019?",
+    "options": [
+      "Shri Ramesh Chand",
+      "Shri Urjit Patel",
+      "Shri Raghuram Rajan",
+      "Shri Arvind Subramanian"
+    ],
+    "correct": 0,
+    "explanation": "The Working Group for Revision of the Wholesale Price Index was set up in 2019 under the Chairmanship of Shri Ramesh Chand, Member of Niti Aayog[cite: 45]."
+  },
+  {
+    "question": "Which of the following problems is NOT associated with the barter system as discussed in the document?",
+    "options": ["Double coincidence of wants", "Lack of standard unit of account", "Perfect divisibility of goods", "Difficulty in storing wealth"],
+    "correct": 2,
+    "explanation": "The document lists issues like double coincidence of wants, lack of standard unit, lack of subdivision, and storage problems. Perfect divisibility is not a problem."
+  },
+  {
+    "question": "The need for money primarily arose to overcome which core limitation of the barter system?",
+    "options": ["Inflation", "Double coincidence of wants", "Excess liquidity", "High transaction costs due to banks"],
+    "correct": 1,
+    "explanation": "The document highlights that barter required double coincidence of wants, which money eliminates."
+  },
+  {
+    "question": "Which characteristic ensures that money can be divided into smaller units without loss of value?",
+    "options": ["Storability", "Fungibility", "Scarcity", "Non-counterfeitability"],
+    "correct": 1,
+    "explanation": "Fungibility means money can be divided into smaller units without losing value."
+  },
+  {
+    "question": "Why must money be scarce according to the document?",
+    "options": ["To reduce inflation", "To ensure demand for it", "To increase production", "To avoid storage costs"],
+    "correct": 1,
+    "explanation": "Scarcity ensures people are willing to exchange goods for it, maintaining its value."
+  },
+  {
+    "question": "Which of the following is a feature of good money?",
+    "options": ["High perishability", "Easy replicability", "Non-counterfeitability", "Limited acceptance"],
+    "correct": 2,
+    "explanation": "Money should not be easily replicated; hence non-counterfeitability is essential."
+  },
+  {
+    "question": "What limitation of gold led to the emergence of paper money?",
+    "options": ["High inflation", "Limited supply and divisibility", "Lack of demand", "High storage costs"],
+    "correct": 1,
+    "explanation": "Gold had limited supply and could not be divided infinitely, leading to paper money."
+  },
+  {
+    "question": "In the gold standard system, the value of paper money depended on:",
+    "options": ["Government expenditure", "Intrinsic value of paper", "Promise backed by gold", "Interest rates"],
+    "correct": 2,
+    "explanation": "Paper money had value due to the promise that it could be exchanged for gold."
+  },
+  {
+    "question": "Under the proportional reserve system, banks are required to hold:",
+    "options": ["100% reserves", "No reserves", "A fraction of liabilities as reserves", "Only gold reserves"],
+    "correct": 2,
+    "explanation": "The document states banks need only a fraction (e.g., 33%) of liabilities as reserves."
+  },
+  {
+    "question": "Which system replaced the gold standard to allow greater money creation?",
+    "options": ["Barter system", "Fractional reserve system", "Commodity money system", "Metallic money system"],
+    "correct": 1,
+    "explanation": "The fractional reserve system allowed more money creation beyond gold reserves."
+  },
+  {
+    "question": "Modern money is described as:",
+    "options": ["Convertible into gold", "Backed fully by commodities", "Inconvertible fiat money", "Limited supply money"],
+    "correct": 2,
+    "explanation": "Modern money is fiat and inconvertible, not backed by gold."
+  },
+  {
+    "question": "Legal tender implies that:",
+    "options": ["Money must be backed by gold", "Money can be refused in transactions", "Money cannot be denied for debt settlement", "Money has intrinsic value"],
+    "correct": 2,
+    "explanation": "Legal tender means it must be accepted in settlement of debts."
+  },
+  {
+    "question": "Unlimited legal tender refers to:",
+    "options": ["Restricted payments", "No restriction on extinguishing debt", "Limited currency usage", "Gold-backed money"],
+    "correct": 1,
+    "explanation": "Unlimited legal tender has no restriction on settling debts."
+  },
+  {
+    "question": "Which of the following is NOT a component of demand for money?",
+    "options": ["Transaction demand", "Speculative demand", "Precautionary demand", "Production demand"],
+    "correct": 3,
+    "explanation": "Demand for money includes transaction, speculative, and precautionary demand, not production demand."
+  },
+  {
+    "question": "Transaction demand for money depends on:",
+    "options": ["Interest rates", "Total value of transactions", "Gold reserves", "Exchange rates"],
+    "correct": 1,
+    "explanation": "Transaction demand is based on total value of transactions (PL × Y)."
+  },
+  {
+    "question": "The total value of transactions in an economy is given by:",
+    "options": ["M × V", "PL × Y", "C + I", "R × T"],
+    "correct": 1,
+    "explanation": "The document states total value of transactions equals price level multiplied by real output."
+  },
+  {
+    "question": "Velocity of money refers to:",
+    "options": ["Speed of currency printing", "Number of times money changes hands", "Interest rate changes", "Bank lending rate"],
+    "correct": 1,
+    "explanation": "Velocity measures how often money circulates in transactions."
+  },
+  {
+    "question": "Speculative demand for money arises due to:",
+    "options": ["Consumption needs", "Future expectations of interest rates", "Government policy", "Production requirements"],
+    "correct": 1,
+    "explanation": "Speculative demand depends on expectations about future interest rates."
+  },
+  {
+    "question": "When interest rates rise, asset prices generally:",
+    "options": ["Increase", "Remain constant", "Decrease", "Become zero"],
+    "correct": 2,
+    "explanation": "Higher interest rates reduce asset prices as shown in the document."
+  },
+  {
+    "question": "Yield of an asset is defined as:",
+    "options": ["Interest rate minus inflation", "Nominal return minus premium", "Price minus cost", "Return on capital"],
+    "correct": 1,
+    "explanation": "Yield equals nominal return minus premium."
+  },
+  {
+    "question": "An increase in asset price leads to:",
+    "options": ["Increase in yield", "Decrease in yield", "No change in yield", "Infinite yield"],
+    "correct": 1,
+    "explanation": "Higher asset price reduces yield as per inverse relationship."
+  },
+  {
+    "question": "Speculative demand decreases when:",
+    "options": ["Interest rates are low", "Interest rates are high", "Income rises", "Prices fall"],
+    "correct": 1,
+    "explanation": "At high interest rates, people expect rates to fall, reducing speculative demand."
+  },
+  {
+    "question": "Total demand for money is the sum of:",
+    "options": ["Consumption and investment", "Transaction and speculative demand", "Savings and investment", "Exports and imports"],
+    "correct": 1,
+    "explanation": "Total demand includes transaction and speculative demand."
+  },
+  {
+    "question": "Money supply is determined primarily by:",
+    "options": ["Consumers", "Central bank", "Private firms", "Households"],
+    "correct": 1,
+    "explanation": "The central bank decides the amount of money supply."
+  },
+  {
+    "question": "Price elasticity of money supply is:",
+    "options": ["1", "Greater than 1", "Zero", "Infinite"],
+    "correct": 2,
+    "explanation": "Money supply is independent of price, so elasticity is zero."
+  },
+  {
+    "question": "An increase in money supply generally leads to:",
+    "options": ["Increase in interest rates", "Decrease in interest rates", "No change in output", "Decrease in investment"],
+    "correct": 1,
+    "explanation": "Higher money supply reduces interest rates."
+  },
+  {
+    "question": "High-powered money is created by:",
+    "options": ["Commercial banks", "Households", "RBI", "Firms"],
+    "correct": 2,
+    "explanation": "RBI creates initial money known as high-powered money."
+  },
+  {
+    "question": "M1 includes:",
+    "options": ["Currency and demand deposits", "Only currency", "Time deposits", "Government bonds"],
+    "correct": 0,
+    "explanation": "M1 consists of currency in circulation and demand deposits."
+  },
+  {
+    "question": "Which measure of money includes time deposits?",
+    "options": ["M1", "M2", "M3", "M0"],
+    "correct": 2,
+    "explanation": "M3 includes M1 plus time deposits of banks."
+  },
+  {
+    "question": "Broad money refers to:",
+    "options": ["M1", "M2", "M3", "Only currency"],
+    "correct": 2,
+    "explanation": "M3 is considered broad money."
+  },
+  {
+    "question": "Liquidity decreases as we move from:",
+    "options": ["M3 to M1", "M1 to M3", "M2 to M1", "M0 to M1"],
+    "correct": 1,
+    "explanation": "Liquidity decreases from M1 to M3 as coverage increases."
+  },
+  {
+    "question": "RBI creates money by purchasing:",
+    "options": ["Consumer goods", "Gold and government bonds", "Labor services", "Exports"],
+    "correct": 1,
+    "explanation": "RBI creates money by buying assets like gold and government bonds."
+  },
+  {
+    "question": "Currency notes are considered:",
+    "options": ["Assets of RBI", "Liabilities of RBI", "Assets of banks", "Liabilities of government only"],
+    "correct": 1,
+    "explanation": "Currency notes are liabilities of RBI."
+  },
+  {
+    "question": "Seigniorage refers to:",
+    "options": ["Tax revenue", "Profit from issuing currency", "Interest income", "Government expenditure"],
+    "correct": 1,
+    "explanation": "Seigniorage is profit earned by RBI from issuing currency."
+  },
+  {
+    "question": "Why do people trust RBI-issued money?",
+    "options": ["It is backed by foreign exchange", "RBI has assets to fulfill its promise", "It is scarce", "It is divisible"],
+    "correct": 1,
+    "explanation": "Trust exists because RBI has assets backing its liabilities."
+  },
+  {
+    "question": "Currency-deposit ratio (CDR) is influenced by:",
+    "options": ["Government policy only", "Behavioral factors", "Gold reserves", "Exports"],
+    "correct": 1,
+    "explanation": "CDR depends on behavioral factors like technology and preferences."
+  },
+  {
+    "question": "Reserve-deposit ratio (RDR) is controlled by:",
+    "options": ["Households", "Banks independently", "RBI regulation", "Firms"],
+    "correct": 2,
+    "explanation": "RBI regulates RDR through CRR and SLR."
+  },
+  {
+    "question": "Higher CDR leads to:",
+    "options": ["More bank lending", "Less bank lending", "No effect", "Higher inflation always"],
+    "correct": 1,
+    "explanation": "Higher CDR means more cash held, reducing bank lending."
+  },
+  {
+    "question": "Money multiplier depends on:",
+    "options": ["GDP and inflation", "CDR and RDR", "Exports and imports", "Interest rate only"],
+    "correct": 1,
+    "explanation": "Money multiplier is determined by CDR and RDR."
+  },
+  {
+    "question": "Bank runs occur due to:",
+    "options": ["High interest rates", "Loss of trust", "Low inflation", "High reserves"],
+    "correct": 1,
+    "explanation": "Loss of trust causes people to withdraw deposits, leading to bank runs."
+  },
+  {
+    "question": "Money creation by banks is based on:",
+    "options": ["Full reserve system", "Fractional reserve system", "Gold standard", "Barter system"],
+    "correct": 1,
+    "explanation": "Banks create money through fractional reserve banking."
+  },
+  {
+    "question": "Which factor does NOT influence banking habits?",
+    "options": ["Technology", "Seasonality", "Interest rates on deposits", "Gold reserves"],
+    "correct": 3,
+    "explanation": "Banking habits depend on behavior, technology, and interest rates, not gold reserves."
+  },
+  {
+    "question": "RBI controls money supply primarily by:",
+    "options": ["Taxation", "Controlling bank lending ability", "Export policy", "Wage control"],
+    "correct": 1,
+    "explanation": "RBI controls money supply through banking regulations."
+  },
+  {
+    "question": "Inflation targeting framework in India focuses on:",
+    "options": ["GDP growth", "Exchange rates", "CPI-based inflation", "Gold prices"],
+    "correct": 2,
+    "explanation": "Inflation targeting uses CPI as the measure."
+  },
+  {
+    "question": "The inflation target mentioned is:",
+    "options": ["2%", "4% ± 2%", "6%", "8%"],
+    "correct": 1,
+    "explanation": "Target is 4% with a tolerance band of ±2%."
+  },
+  {
+    "question": "Growth-inflation tradeoff implies:",
+    "options": ["Growth and inflation move independently", "Higher money always reduces inflation", "Balancing growth and inflation is necessary", "Inflation has no effect on growth"],
+    "correct": 2,
+    "explanation": "There is a tradeoff between promoting growth and controlling inflation."
+  },
+  {
+    "question": "Excess money supply relative to output leads to:",
+    "options": ["Deflation", "Inflation", "Stagnation", "Depression"],
+    "correct": 1,
+    "explanation": "Too much money chasing same goods leads to inflation."
+  },
+  {
+    "question": "Optimal money supply should:",
+    "options": ["Maximize inflation", "Minimize growth", "Balance growth and inflation", "Eliminate interest rates"],
+    "correct": 2,
+    "explanation": "Optimal supply ensures growth without causing inflation."
+  },
+  {
+    "question": "Central bank’s broad objective is to:",
+    "options": ["Maximize profits", "Maintain trust in currency system", "Control exports", "Increase gold reserves"],
+    "correct": 1,
+    "explanation": "Maintaining trust in the monetary system is the key objective."
+  },
+  {
+    "question": "In the present scenario described, the economy faces:",
+    "options": ["High growth and low inflation", "Low growth and high inflation", "High growth and high inflation", "Low growth and low inflation"],
+    "correct": 1,
+    "explanation": "The document mentions slow growth and high inflation."
+  },
+  {
+    "question": "In a situation of high growth and high inflation, what is the appropriate monetary policy response by the RBI?",
+    "options": ["Increase money supply", "Decrease money supply", "Maintain status quo", "Adopt fiscal expansion"],
+    "correct": 1,
+    "explanation": "The document states that in high growth and high inflation, RBI should decrease money supply, which is termed contractionary monetary policy."
+  },
+  {
+    "question": "What is the primary objective of contractionary monetary policy?",
+    "options": ["Increase employment rapidly", "Boost exports", "Reduce inflation without severely affecting growth", "Increase fiscal deficit"],
+    "correct": 2,
+    "explanation": "The text explains that money supply should be reduced to control prices while ensuring growth does not suffer excessively."
+  },
+  {
+    "question": "What monetary stance is adopted in a situation of high growth and low inflation?",
+    "options": ["Expansionary policy", "Contractionary policy", "Neutral policy", "Quantitative easing"],
+    "correct": 2,
+    "explanation": "The document describes this as a favourable situation where RBI maintains status quo, called a neutral monetary policy."
+  },
+  {
+    "question": "What is stagflation?",
+    "options": ["High growth with low inflation", "Low growth with low inflation", "High growth with high inflation", "Low growth with high inflation"],
+    "correct": 3,
+    "explanation": "The document defines stagflation as a situation of low growth and high inflation."
+  },
+  {
+    "question": "During stagflation, why is monetary policy difficult to implement?",
+    "options": ["Because inflation is absent", "Because growth and inflation require opposite policy actions", "Because fiscal policy is ineffective", "Because banks stop lending"],
+    "correct": 1,
+    "explanation": "The text explains that high inflation and low growth require conflicting policy responses, making decisions difficult."
+  },
+  {
+    "question": "After 2015, what became the primary responsibility of RBI under the inflation targeting framework?",
+    "options": ["Maintaining exchange rate stability", "Ensuring inflation remains within 2–6%", "Maximizing employment", "Controlling fiscal deficit"],
+    "correct": 1,
+    "explanation": "The document states RBI must maintain inflation between 2–6% and facilitate growth within this range."
+  },
+  {
+    "question": "What does 'monetary policy stance' indicate?",
+    "options": ["Past decisions of RBI", "Expected future decisions communicated by RBI", "Fiscal deficit trends", "Bank lending rates only"],
+    "correct": 1,
+    "explanation": "The text defines stance as the expected future decision communicated by RBI."
+  },
+  {
+    "question": "A hawkish stance by RBI indicates:",
+    "options": ["Future expansionary policy", "No change in policy", "Future contractionary policy", "Increase in fiscal spending"],
+    "correct": 2,
+    "explanation": "The document links hawkish stance with contractionary policy in future."
+  },
+  {
+    "question": "Quantitative easing refers to:",
+    "options": ["Reduction in fiscal deficit", "Increase in taxes", "Unconventional increase in money supply", "Reduction in bank reserves"],
+    "correct": 2,
+    "explanation": "The document defines quantitative easing as an unconventional increase in money supply."
+  },
+  {
+    "question": "What is the opposite of quantitative easing?",
+    "options": ["Fiscal expansion", "Federal tapering", "Open market operations", "Credit rationing"],
+    "correct": 1,
+    "explanation": "The text explicitly states federal tapering is the opposite of quantitative easing."
+  }
+]

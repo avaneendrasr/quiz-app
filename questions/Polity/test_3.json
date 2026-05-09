@@ -1,0 +1,1208 @@
+[
+  {
+    "question": "Which Articles of the Indian Constitution deal with the parliamentary system at the Centre?",
+    "options": ["Articles 72 and 73", "Articles 74 and 75", "Articles 163 and 164", "Articles 80 and 81"],
+    "correct": 1,
+    "explanation": "Articles 74 and 75 deal with the parliamentary system at the Centre, while Articles 163 and 164 deal with it in the states."
+  },
+  {
+    "question": "The parliamentary system of government is also known as which of the following?",
+    "options": ["Fixed executive system", "Non-responsible government", "Westminster model of government", "Separation of powers model"],
+    "correct": 2,
+    "explanation": "The parliamentary government is known as cabinet government, responsible government, or Westminster model of government, named after the location of the British Parliament."
+  },
+  {
+    "question": "Who described the parliamentary system as 'cabinet system'?",
+    "options": ["Crossman", "Mackintosh", "Ivor Jennings", "Bagehot"],
+    "correct": 2,
+    "explanation": "Ivor Jennings called the parliamentary system as 'cabinet system' because the cabinet is the nucleus of power in a parliamentary system."
+  },
+  {
+    "question": "In India's parliamentary system, which of the following is the nominal executive?",
+    "options": ["Prime Minister", "Speaker of Lok Sabha", "President", "Vice President"],
+    "correct": 2,
+    "explanation": "The President is the nominal executive (de jure executive or titular executive) while the Prime Minister is the real executive (de facto executive)."
+  },
+  {
+    "question": "The principle of collective responsibility in India's parliamentary system means that the Lok Sabha can remove the ministry by passing:",
+    "options": ["A special resolution", "A vote of no confidence", "A censure motion", "An adjournment motion"],
+    "correct": 1,
+    "explanation": "The principle of collective responsibility implies that the Lok Sabha can remove the ministry (council of ministers headed by the Prime Minister) from office by passing a vote of no confidence."
+  },
+  {
+    "question": "Which Constitutional Article provides for collective responsibility of ministers to Parliament?",
+    "options": ["Article 73", "Article 74", "Article 75", "Article 76"],
+    "correct": 2,
+    "explanation": "Article 75 provides that ministers are collectively responsible to the Parliament in general and to the Lok Sabha in particular."
+  },
+  {
+    "question": "A minister who is not a member of Parliament for a period of how many consecutive months ceases to be a minister?",
+    "options": ["Three months", "Four months", "Six months", "One year"],
+    "correct": 2,
+    "explanation": "The Constitution stipulates that a minister who is not a member of the Parliament for a period of six consecutive months ceases to be a minister."
+  },
+  {
+    "question": "Which of the following is a feature of the Presidential system of government?",
+    "options": ["Collective responsibility", "Double membership", "Fusion of powers", "Separation of powers"],
+    "correct": 3,
+    "explanation": "The doctrine of separation of powers is the basis of the American presidential system, where legislative, executive and judicial powers are separated."
+  },
+  {
+    "question": "In the American presidential system, what is the smaller advisory body called?",
+    "options": ["Shadow Cabinet", "Kitchen Cabinet", "Inner Cabinet", "War Cabinet"],
+    "correct": 1,
+    "explanation": "The President governs with the help of a cabinet or a smaller body called 'Kitchen Cabinet'. It is only an advisory body and consists of non-elected departmental secretaries."
+  },
+  {
+    "question": "Which of the following is a demerit of the parliamentary system?",
+    "options": ["Harmony between legislature and executive", "Wide representation", "Government by amateurs", "Prevents despotism"],
+    "correct": 2,
+    "explanation": "Government by amateurs is a demerit of the parliamentary system as ministers are not experts in their fields and the Prime Minister's choice is restricted to members of Parliament alone."
+  },
+  {
+    "question": "Which of the following is a merit of the presidential system?",
+    "options": ["Responsible government", "Harmony between legislature and executive", "Wide representation", "Stable government"],
+    "correct": 3,
+    "explanation": "Stable government is a merit of the presidential system, as the executive has a fixed term and does not depend on the legislature's confidence."
+  },
+  {
+    "question": "The Constituent Assembly preferred the British parliamentary system over the US presidential system primarily because of preference for:",
+    "options": ["More stability over responsibility", "More responsibility over stability", "Equal stability and responsibility", "Neither stability nor responsibility"],
+    "correct": 1,
+    "explanation": "Dr. B.R. Ambedkar pointed out that the Draft Constitution preferred the parliamentary system as it gives more responsibility but less stability, prioritizing responsibility over stability."
+  },
+  {
+    "question": "Which committee was appointed in 1975 to consider whether the parliamentary system should be replaced by the presidential system?",
+    "options": ["Rajamannar Committee", "Sarkaria Commission", "Swaran Singh Committee", "Administrative Reforms Commission"],
+    "correct": 2,
+    "explanation": "The Swaran Singh Committee appointed by the Congress government in 1975 considered this matter in detail and opined that the parliamentary system has been doing well and need not be replaced."
+  },
+  {
+    "question": "Which of the following is a unique feature of the British cabinet system not found in India?",
+    "options": ["Collective responsibility", "Double membership", "Shadow cabinet", "Leadership of Prime Minister"],
+    "correct": 2,
+    "explanation": "'Shadow cabinet' is a unique institution of the British cabinet system formed by the opposition party to balance the ruling cabinet and prepare members for future ministerial office. There is no such institution in India."
+  },
+  {
+    "question": "In Britain, the Prime Minister must be a member of which House?",
+    "options": ["House of Lords", "House of Commons", "Either House", "No requirement of Parliamentary membership"],
+    "correct": 1,
+    "explanation": "In Britain, the Prime Minister should be a member of the Lower House (House of Commons) of the Parliament. In India, the Prime Minister may be a member of any of the two Houses of Parliament."
+  },
+  {
+    "question": "The term 'federation' is derived from the Latin word 'foedus' which means:",
+    "options": ["Unity", "Treaty or agreement", "Power", "Constitution"],
+    "correct": 1,
+    "explanation": "The term 'federation' is derived from a Latin word 'foedus' which means 'treaty' or 'agreement'. Thus, a federation is a new state formed through a treaty or an agreement between various units."
+  },
+  {
+    "question": "Which is the first and oldest federation in the world?",
+    "options": ["Canada", "Australia", "Switzerland", "United States of America"],
+    "correct": 3,
+    "explanation": "The US is the first and the oldest federation in the world. It was formed in 1787 following the American Revolution (1775-83). It comprises 50 states (originally 13 states)."
+  },
+  {
+    "question": "Article 1 of the Indian Constitution describes India as:",
+    "options": ["A Federal State", "A Federation of States", "A Union of States", "A Confederation of States"],
+    "correct": 2,
+    "explanation": "Article 1 of the Constitution describes India as a 'Union of States'. The term 'federation' has nowhere been used in the Constitution."
+  },
+  {
+    "question": "The Indian federal system is based on which model?",
+    "options": ["American model", "Australian model", "Canadian model", "Swiss model"],
+    "correct": 2,
+    "explanation": "The Indian federal system is based on the 'Canadian model' and not on the 'American model'. The 'Canadian model' differs fundamentally in that it establishes a very strong centre."
+  },
+  {
+    "question": "How many subjects does the Union List currently contain?",
+    "options": ["97", "98", "66", "52"],
+    "correct": 1,
+    "explanation": "The Union List consists of 98 subjects (originally 97). The Parliament has exclusive powers to make laws with respect to any of the matters enumerated in the Union List."
+  },
+  {
+    "question": "How many subjects are currently in the State List?",
+    "options": ["66", "62", "59", "47"],
+    "correct": 2,
+    "explanation": "The State List has at present 59 subjects (originally 66 subjects) like public order, police, public health and sanitation, agriculture, prisons, local government, etc."
+  },
+  {
+    "question": "How many subjects does the Concurrent List currently contain?",
+    "options": ["47", "49", "52", "55"],
+    "correct": 2,
+    "explanation": "The Concurrent List has at present 52 subjects (originally 47 subjects) like criminal law and procedure, civil procedure, marriage and divorce, population control and family planning, etc."
+  },
+  {
+    "question": "Which Amendment Act transferred five subjects from State List to Concurrent List?",
+    "options": ["38th Amendment Act of 1975", "42nd Amendment Act of 1976", "44th Amendment Act of 1978", "46th Amendment Act of 1982"],
+    "correct": 1,
+    "explanation": "The 42nd Amendment Act of 1976 transferred five subjects to Concurrent List from State List: education, forests, weights and measures, protection of wild animals and birds, and administration of justice."
+  },
+  {
+    "question": "Which of the following is a unitary feature of the Indian Constitution?",
+    "options": ["Written Constitution", "Independent Judiciary", "Division of Powers", "Single Citizenship"],
+    "correct": 3,
+    "explanation": "Single citizenship is a unitary feature of the Indian Constitution. There is only Indian Citizenship and no separate state citizenship, unlike federal states like US and Australia which have dual citizenship."
+  },
+  {
+    "question": "KC Wheare described the Constitution of India as:",
+    "options": ["Cooperative federalism", "Quasi-federal", "Bargaining federalism", "Extremely federal"],
+    "correct": 1,
+    "explanation": "KC Wheare described the Constitution of India as 'quasi-federal', remarking that 'Indian Union is a unitary state with subsidiary federal features rather than a federal state with subsidiary unitary features.'"
+  },
+  {
+    "question": "In the Bommai case (1994), the Supreme Court characterized federalism as:",
+    "options": ["A basic feature of the Constitution", "A procedural requirement", "A policy matter", "An administrative convenience"],
+    "correct": 0,
+    "explanation": "In the Bommai case (1994), the Supreme Court laid down that the Constitution is federal and characterized federalism as its 'basic feature'."
+  },
+  {
+    "question": "Granville Austin called the Indian federalism as:",
+    "options": ["Quasi-federal", "Bargaining federalism", "Cooperative federalism", "Centralized federalism"],
+    "correct": 2,
+    "explanation": "Granville Austin called the Indian federalism as a 'cooperative federalism', saying it described the Indian federation as 'a new kind of federation to meet India's peculiar needs'."
+  },
+  {
+    "question": "Centre-State relations under the Constitution can be studied under how many heads?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correct": 1,
+    "explanation": "The Centre-state relations can be studied under three heads: Legislative relations, Administrative relations, and Financial relations."
+  },
+  {
+    "question": "Articles 245 to 255 in Part XI of the Constitution deal with:",
+    "options": ["Administrative relations between Centre and States", "Financial relations between Centre and States", "Legislative relations between Centre and States", "Emergency provisions"],
+    "correct": 2,
+    "explanation": "Articles 245 to 255 in Part XI of the Constitution deal with the legislative relations between the Centre and the states."
+  },
+  {
+    "question": "Under which extraordinary circumstance can Parliament legislate on State List subjects when the Rajya Sabha passes a resolution?",
+    "options": ["When a state makes a request", "When it is necessary in national interest", "During financial emergency", "During President's Rule"],
+    "correct": 1,
+    "explanation": "If the Rajya Sabha declares that it is necessary in the national interest that Parliament should make laws with respect to a matter in the State List, Parliament becomes competent. Such a resolution must be supported by two-thirds of members present and voting."
+  },
+  {
+    "question": "A Rajya Sabha resolution enabling Parliament to legislate on State List subjects remains in force for:",
+    "options": ["Six months", "One year", "Two years", "Three years"],
+    "correct": 1,
+    "explanation": "The Rajya Sabha resolution remains in force for one year; it can be renewed any number of times but not exceeding one year at a time. The laws cease to have effect six months after the resolution ceases to be in force."
+  },
+  {
+    "question": "The Sarkaria Commission on Centre-State Relations was set up in:",
+    "options": ["1969", "1975", "1983", "1990"],
+    "correct": 2,
+    "explanation": "In 1983, the Central government appointed a three-member Commission on Centre-state relations under the chairmanship of R.S. Sarkaria, a retired judge of the Supreme Court."
+  },
+  {
+    "question": "How many recommendations did the Sarkaria Commission make?",
+    "options": ["180", "200", "247", "310"],
+    "correct": 2,
+    "explanation": "The Sarkaria Commission made 247 recommendations to improve Centre-state relations. The Central government has implemented 180 (out of 247) recommendations."
+  },
+  {
+    "question": "The Inter-State Council was established in:",
+    "options": ["1988", "1989", "1990", "1991"],
+    "correct": 2,
+    "explanation": "In pursuance of the recommendations of the Sarkaria Commission, the Janata Dal Government headed by V.P. Singh established the Inter-State Council in 1990."
+  },
+  {
+    "question": "Who chairs the Inter-State Council?",
+    "options": ["President of India", "Vice President", "Prime Minister", "Home Minister"],
+    "correct": 2,
+    "explanation": "The Inter-State Council consists of the Prime Minister as the Chairman, Chief Ministers of all the states, and other members."
+  },
+  {
+    "question": "The Standing Committee of the Inter-State Council was set up in:",
+    "options": ["1990", "1991", "1994", "1996"],
+    "correct": 3,
+    "explanation": "There is also a Standing Committee of the Council. It was set up in 1996 for continuous consultation and processing of matters for the consideration of the Council."
+  },
+  {
+    "question": "The Inter-State Council Secretariat was set up in:",
+    "options": ["1990", "1991", "1993", "1996"],
+    "correct": 1,
+    "explanation": "The Council is assisted by a secretariat called the Inter-State Council Secretariat. This secretariat was set up in 1991 and is headed by a secretary to the Government of India."
+  },
+  {
+    "question": "Article 262 of the Constitution provides for:",
+    "options": ["Inter-State Councils", "Adjudication of inter-state water disputes", "Full faith and credit clause", "Freedom of inter-state trade"],
+    "correct": 1,
+    "explanation": "Article 262 of the Constitution provides for the adjudication of inter-state water disputes. Parliament may provide for adjudication of disputes regarding use, distribution and control of waters of any inter-state river."
+  },
+  {
+    "question": "Which of the following is NOT a member of the Zonal Council?",
+    "options": ["Home Minister of Central government", "Chief Ministers of states in the zone", "Chief Justice of India", "Administrators of union territories in the zone"],
+    "correct": 2,
+    "explanation": "Each zonal council consists of the home minister of Central government, chief ministers of all the States in the zone, two other ministers from each state, and administrator of each union territory in the zone. The Chief Justice of India is not a member."
+  },
+  {
+    "question": "The Zonal Councils are established by:",
+    "options": ["Constitutional provisions", "An Act of Parliament (States Reorganisation Act, 1956)", "Presidential Order", "Sarkaria Commission recommendations"],
+    "correct": 1,
+    "explanation": "The Zonal Councils are the statutory (and not the constitutional) bodies. They are established by an Act of Parliament, that is, States Reorganisation Act of 1956."
+  },
+  {
+    "question": "How many Zonal Councils were created under the States Reorganisation Act, 1956?",
+    "options": ["Four", "Five", "Six", "Seven"],
+    "correct": 1,
+    "explanation": "The States Reorganisation Act of 1956 divided the country into five zones (Northern, Central, Eastern, Western and Southern) and provided a zonal council for each zone."
+  },
+  {
+    "question": "Who is the common chairman of all five Zonal Councils?",
+    "options": ["Prime Minister", "President", "Home Minister of Central Government", "Vice President"],
+    "correct": 2,
+    "explanation": "The home minister of Central government is the common chairman of the five zonal councils."
+  },
+  {
+    "question": "The North-Eastern Council was created by:",
+    "options": ["States Reorganisation Act, 1956", "North-Eastern Council Act of 1971", "Constitutional Amendment", "Presidential Order"],
+    "correct": 1,
+    "explanation": "The North-Eastern Council was created by a separate Act of Parliament—the North-Eastern Council Act of 1971. It came into existence on August 8, 1972."
+  },
+  {
+    "question": "Article 301 of the Constitution declares that:",
+    "options": ["Trade within states shall be regulated by Centre", "Trade, commerce and intercourse throughout the territory of India shall be free", "States can impose duties on interstate trade", "Parliament can restrict interstate trade"],
+    "correct": 1,
+    "explanation": "Article 301 declares that trade, commerce and intercourse throughout the territory of India shall be free. The object is to break down border barriers between states and create one unit."
+  },
+  {
+    "question": "The Emergency provisions are contained in Part XVIII of the Constitution, from Articles:",
+    "options": ["350 to 358", "352 to 360", "350 to 360", "352 to 365"],
+    "correct": 1,
+    "explanation": "The Emergency provisions are contained in Part XVIII of the Constitution, from Articles 352 to 360."
+  },
+  {
+    "question": "The Constitution stipulates how many types of emergencies?",
+    "options": ["Two", "Three", "Four", "Five"],
+    "correct": 1,
+    "explanation": "The Constitution stipulates three types of emergencies: National Emergency (Article 352), President's Rule (Article 356), and Financial Emergency (Article 360)."
+  },
+  {
+    "question": "Under Article 352, the President can declare a National Emergency on which grounds?",
+    "options": ["War, external aggression, or internal disturbance", "War, external aggression, or armed rebellion", "Armed rebellion or financial instability", "External aggression or failure of constitutional machinery"],
+    "correct": 1,
+    "explanation": "Under Article 352, the President can declare a National Emergency when the security of India or a part of it is threatened by war or external aggression or armed rebellion."
+  },
+  {
+    "question": "The phrase 'armed rebellion' was inserted by which Amendment Act, replacing 'internal disturbance'?",
+    "options": ["38th Amendment Act of 1975", "42nd Amendment Act of 1976", "44th Amendment Act of 1978", "46th Amendment Act of 1982"],
+    "correct": 2,
+    "explanation": "The phrase 'armed rebellion' was inserted by the 44th Amendment Act of 1978, replacing the original phrase 'internal disturbance'."
+  },
+  {
+    "question": "The President can proclaim a National Emergency only after receiving a written recommendation from:",
+    "options": ["The Prime Minister alone", "The Cabinet", "The Parliament", "The Vice President"],
+    "correct": 1,
+    "explanation": "The President can proclaim a National Emergency only after receiving a written recommendation from the cabinet. This means the emergency can be declared only on the concurrence of the cabinet and not merely on the advice of the Prime Minister."
+  },
+  {
+    "question": "A proclamation of National Emergency must be approved by Parliament within:",
+    "options": ["Two weeks", "One month", "Two months", "Six months"],
+    "correct": 1,
+    "explanation": "The proclamation of Emergency must be approved by both the Houses of Parliament within one month from the date of its issue. Originally, the period allowed was two months, but was reduced by the 44th Amendment Act of 1978."
+  },
+  {
+    "question": "Every resolution approving the proclamation of National Emergency must be passed by a:",
+    "options": ["Simple majority", "Absolute majority", "Special majority (majority of total membership and two-thirds of members present and voting)", "Three-fourths majority"],
+    "correct": 2,
+    "explanation": "Every resolution approving the proclamation of emergency or its continuance must be passed by either House of Parliament by a special majority: (a) a majority of total membership of that house, and (b) a majority of not less than two-thirds of members present and voting."
+  },
+  {
+    "question": "The National Emergency has been proclaimed how many times so far?",
+    "options": ["Once", "Twice", "Three times", "Four times"],
+    "correct": 2,
+    "explanation": "This type of Emergency has been proclaimed three times so far—in 1962, 1971 and 1975."
+  },
+  {
+    "question": "The first proclamation of National Emergency was issued in October 1962 due to:",
+    "options": ["Pakistani aggression", "Chinese aggression in NEFA", "Internal disturbance", "Financial crisis"],
+    "correct": 1,
+    "explanation": "The first proclamation of National Emergency was issued in October 1962 on account of Chinese aggression in the NEFA (North-East Frontier Agency—now Arunachal Pradesh), and was in force till January 1968."
+  },
+  {
+    "question": "The Emergency declared in 1975 was on the ground of:",
+    "options": ["External aggression", "Armed rebellion", "Internal disturbance", "Financial crisis"],
+    "correct": 2,
+    "explanation": "The third proclamation (1975) was made on the ground of 'internal disturbance'—certain persons have been inciting the police and the armed forces against the discharge of their duties and their normal functioning."
+  },
+  {
+    "question": "Article 358 deals with the suspension of Fundamental Rights guaranteed by:",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+    "correct": 1,
+    "explanation": "Article 358 deals with the suspension of the Fundamental Rights guaranteed by Article 19, while Article 359 deals with the suspension of other Fundamental Rights (except those guaranteed by Articles 20 and 21)."
+  },
+  {
+    "question": "Under Article 358, the six Fundamental Rights under Article 19 are suspended:",
+    "options": ["Only when the President issues a separate order", "Automatically as soon as the emergency is declared", "Only after Parliament approves", "Only when National Emergency is declared on the ground of armed rebellion"],
+    "correct": 1,
+    "explanation": "According to Article 358, when a proclamation of national emergency is made, the six Fundamental Rights under Article 19 are automatically suspended. No separate order for their suspension is required."
+  },
+  {
+    "question": "The 44th Amendment Act restricted Article 358 to apply only when National Emergency is declared on the ground of:",
+    "options": ["Armed rebellion only", "War or external aggression only", "Internal disturbance only", "Any of the three grounds"],
+    "correct": 1,
+    "explanation": "The 44th Amendment Act of 1978 restricted the scope of Article 358—the six Fundamental Rights under Article 19 stand suspended only when the National Emergency is declared on the ground of war or external aggression and not on the ground of armed rebellion."
+  },
+  {
+    "question": "Under Article 359, which Fundamental Rights CANNOT be suspended even during emergency?",
+    "options": ["Articles 19 and 20", "Articles 20 and 21", "Articles 21 and 22", "Articles 14 and 19"],
+    "correct": 1,
+    "explanation": "The 44th Amendment Act of 1978 restricted the scope of Article 359—the President cannot suspend the right to move the Court for enforcement of fundamental rights guaranteed by Articles 20 and 21."
+  },
+  {
+    "question": "President's Rule is imposed in a state under which Article?",
+    "options": ["Article 352", "Article 354", "Article 356", "Article 360"],
+    "correct": 2,
+    "explanation": "President's Rule is imposed in a state under Article 356. It is also known as 'State Emergency' or 'Constitutional Emergency'."
+  },
+  {
+    "question": "A proclamation imposing President's Rule must be approved by Parliament within:",
+    "options": ["One month", "Two months", "Three months", "Six months"],
+    "correct": 1,
+    "explanation": "A proclamation imposing President's Rule must be approved by both the Houses of Parliament within two months from the date of its issue."
+  },
+  {
+    "question": "Every resolution approving President's Rule can be passed by either House of Parliament by:",
+    "options": ["Special majority", "Absolute majority", "Simple majority", "Two-thirds majority"],
+    "correct": 2,
+    "explanation": "Every resolution approving the proclamation of President's Rule or its continuation can be passed by either House of Parliament only by a simple majority, that is, a majority of the members of that House present and voting."
+  },
+  {
+    "question": "President's Rule can be extended for a maximum period of:",
+    "options": ["One year", "Two years", "Three years", "Five years"],
+    "correct": 2,
+    "explanation": "President's Rule continues for six months if approved by Parliament. It can be extended for a maximum period of three years with the approval of the Parliament, every six months."
+  },
+  {
+    "question": "For the first time, President's Rule was imposed in which state?",
+    "options": ["Uttar Pradesh", "PEPSU", "Punjab", "Bihar"],
+    "correct": 2,
+    "explanation": "For the first time, the President's Rule was imposed in Punjab in 1951."
+  },
+  {
+    "question": "Financial Emergency can be declared by the President under which Article?",
+    "options": ["Article 352", "Article 356", "Article 358", "Article 360"],
+    "correct": 3,
+    "explanation": "Article 360 empowers the President to proclaim a Financial Emergency if he/she is satisfied that a situation has arisen due to which the financial stability or credit of India or any part of its territory is threatened."
+  },
+  {
+    "question": "How many times has a Financial Emergency been declared in India so far?",
+    "options": ["Once", "Twice", "Three times", "Never"],
+    "correct": 3,
+    "explanation": "No Financial Emergency has been declared so far, though there was a financial crisis in 1991."
+  },
+  {
+    "question": "Once approved by Parliament, how long does Financial Emergency continue?",
+    "options": ["Six months", "One year", "Three years", "Indefinitely till revoked"],
+    "correct": 3,
+    "explanation": "Once approved by both the Houses of Parliament, the Financial Emergency continues indefinitely till it is revoked. There is no maximum period prescribed and repeated parliamentary approval is not required."
+  },
+  {
+    "question": "The 42nd and 44th Amendment Acts made the ministerial advice binding on the President. What were the respective years of these acts?",
+    "options": ["1974 and 1976", "1976 and 1978", "1975 and 1977", "1977 and 1979"],
+    "correct": 1,
+    "explanation": "The 42nd and 44th Amendment Acts of 1976 and 1978 respectively have made the ministerial advice binding on the President."
+  },
+  {
+    "question": "Which of the following states have a common High Court?",
+    "options": ["Maharashtra and Karnataka", "Maharashtra and Goa", "Punjab and Himachal Pradesh", "Gujarat and Rajasthan"],
+    "correct": 1,
+    "explanation": "The Parliament can establish a common high court for two or more states. For example, Maharashtra and Goa or Punjab and Haryana have a common high court."
+  },
+  {
+    "question": "The All-India Services were recognized by the Constitution. The Indian Civil Service (ICS) was replaced by:",
+    "options": ["IPS", "IAS", "IFoS", "IRS"],
+    "correct": 1,
+    "explanation": "In 1947, Indian Civil Service (ICS) was replaced by IAS and the Indian Police (IP) was replaced by IPS and were recognised by the Constitution as All-India Services."
+  },
+  {
+    "question": "The Indian Forest Service (IFoS) was created as the third All-India Service in:",
+    "options": ["1947", "1950", "1966", "1972"],
+    "correct": 2,
+    "explanation": "In 1966, the Indian Forest Service (IFoS) was created as the third All-India Service."
+  },
+  {
+    "question": "Which Article of the Constitution authorizes Parliament to create new All-India Services?",
+    "options": ["Article 308", "Article 310", "Article 312", "Article 315"],
+    "correct": 2,
+    "explanation": "Article 312 of the Constitution authorises the Parliament to create new All-India Services on the basis of a Rajya Sabha resolution to that effect."
+  },
+  {
+    "question": "The Finance Commission is constituted by the President every:",
+    "options": ["Third year", "Fourth year", "Fifth year", "Sixth year"],
+    "correct": 2,
+    "explanation": "Article 280 provides for a Finance Commission as a quasi-judicial body. It is constituted by the President every fifth year or even earlier."
+  },
+  {
+    "question": "What does Article 280 provide for?",
+    "options": ["Inter-State Council", "Finance Commission", "Planning Commission", "Goods and Services Tax Council"],
+    "correct": 1,
+    "explanation": "Article 280 provides for a Finance Commission as a quasi-judicial body. It is required to make recommendations to the President on distribution of taxes and grants-in-aid."
+  },
+  {
+    "question": "The 80th Amendment Act of 2000 was enacted to give effect to recommendations of which Finance Commission?",
+    "options": ["8th Finance Commission", "9th Finance Commission", "10th Finance Commission", "11th Finance Commission"],
+    "correct": 2,
+    "explanation": "The 80th Amendment was enacted to give effect to the recommendations of the 10th Finance Commission. The Commission recommended that out of the total income obtained from certain central taxes and duties, 29% should go to the states."
+  },
+  {
+    "question": "The Goods and Services Tax Council was established by which Constitutional Amendment?",
+    "options": ["88th Amendment Act of 2003", "96th Amendment Act of 2011", "100th Amendment Act of 2015", "101st Amendment Act of 2016"],
+    "correct": 3,
+    "explanation": "The 101st Amendment Act of 2016 provided for the establishment of a Goods and Services Tax Council or the GST Council. Article 279-A empowered the President to constitute a GST Council."
+  },
+  {
+    "question": "The GST Council is a joint forum of:",
+    "options": ["Centre and States", "Centre and Union Territories", "States only", "Centre, States and Local Bodies"],
+    "correct": 0,
+    "explanation": "The GST Council is a joint forum of the Centre and the States. It is required to make recommendations to the Centre and the States on various GST-related matters."
+  },
+  {
+    "question": "Under Article 275, the Parliament can make grants to states that are in need of financial assistance. These are known as:",
+    "options": ["Discretionary grants", "Statutory grants", "Block grants", "Tied grants"],
+    "correct": 1,
+    "explanation": "Article 275 empowers the Parliament to make grants to the states which are in need of financial assistance. The statutory grants under Article 275 are given to the states on the recommendation of the Finance Commission."
+  },
+  {
+    "question": "Which Article empowers both Centre and States to make grants for any public purpose?",
+    "options": ["Article 275", "Article 280", "Article 282", "Article 293"],
+    "correct": 2,
+    "explanation": "Article 282 empowers both the Centre and the states to make any grants for any public purpose, even if it is not within their respective legislative competence. These are known as discretionary grants."
+  },
+  {
+    "question": "The Rajamannar Committee was appointed in 1969 by which state government?",
+    "options": ["West Bengal", "Tamil Nadu", "Kerala", "Andhra Pradesh"],
+    "correct": 1,
+    "explanation": "In 1969, the Tamil Nadu Government (DMK) appointed a three-member committee under the chairmanship of Dr. P.V. Rajamannar to examine the entire question of Centre-state relations."
+  },
+  {
+    "question": "The Punchhi Commission on Centre-State Relations was set up in:",
+    "options": ["2001", "2005", "2007", "2010"],
+    "correct": 2,
+    "explanation": "The Second Commission on Centre-State Relations was set up by the Government of India in 2007 under the Chairmanship of Madan Mohan Punchhi, former Chief Justice of India."
+  },
+  {
+    "question": "The Punchhi Commission submitted its report in:",
+    "options": ["2008", "2009", "2010", "2011"],
+    "correct": 2,
+    "explanation": "The Commission submitted its report to the government in 2010. In finalising the 1,456 page report, in seven volumes, the Commission took extensive help from the Sarkaria Commission report."
+  },
+  {
+    "question": "What conclusion did the Punchhi Commission arrive at regarding India's governance?",
+    "options": ["Competitive federalism will be the key", "Fiscal federalism will be the key", "Cooperative federalism will be the key", "Centralized governance will be the key"],
+    "correct": 2,
+    "explanation": "The Punchhi Commission came to the conclusion that 'cooperative federalism' will be the key for sustaining India's unity, integrity and social and economic development in future."
+  },
+  {
+    "question": "The Anandpur Sahib Resolution was adopted in:",
+    "options": ["1969", "1973", "1977", "1983"],
+    "correct": 1,
+    "explanation": "In 1973, the Akali Dal adopted a resolution containing both political and religious demands in a meeting held at Anandpur Sahib in Punjab."
+  },
+  {
+    "question": "The West Bengal Memorandum on Centre-state relations was published in:",
+    "options": ["1969", "1973", "1975", "1977"],
+    "correct": 3,
+    "explanation": "In 1977, the West Bengal Government (led by the Communists) published a memorandum on Centre-state relations and sent it to the Central government."
+  },
+  {
+    "question": "Which of the following is NOT a tension area in Centre-State relations as mentioned in the document?",
+    "options": ["Mode of appointment and dismissal of governor", "Imposition of President's Rule for partisan interests", "Management of All-India Services", "Appointment of judges to Supreme Court"],
+    "correct": 3,
+    "explanation": "The document lists tension areas including mode of appointment and dismissal of governor, discriminatory role of governors, imposition of President's Rule, deployment of Central forces, management of All-India Services, etc. Appointment of judges to Supreme Court is not listed."
+  },
+  {
+    "question": "The Administrative Reforms Commission (ARC) of India was set up in 1966 under the chairmanship of:",
+    "options": ["K Hanumanthayya", "Morarji Desai", "MC Setalvad", "Swaran Singh"],
+    "correct": 1,
+    "explanation": "The Central government appointed a six-member First Administrative Reforms Commission (ARC) of India in 1966 under the chairmanship of Morarji Desai (followed by K Hanumanthayya)."
+  },
+  {
+    "question": "How many recommendations did the ARC make for improving Centre-State relations?",
+    "options": ["10", "15", "22", "30"],
+    "correct": 2,
+    "explanation": "The ARC finalized its own report and submitted it to the Central government in 1969. It made 22 recommendations for improving the Centre-state relations."
+  },
+  {
+    "question": "Which of the following is the headquarters of the Northern Zonal Council?",
+    "options": ["Chandigarh", "New Delhi", "Lucknow", "Jaipur"],
+    "correct": 1,
+    "explanation": "The Northern Zonal Council has its headquarters at New Delhi. Its members include Himachal Pradesh, Haryana, Punjab, Rajasthan, Delhi, Chandigarh, Jammu and Kashmir and Ladakh."
+  },
+  {
+    "question": "Which states are members of the Eastern Zonal Council?",
+    "options": ["Bihar, Jharkhand, West Bengal and Odisha", "Bihar, West Bengal, Assam and Odisha", "Jharkhand, West Bengal, Odisha and Chhattisgarh", "Bihar, Jharkhand, West Bengal and Sikkim"],
+    "correct": 0,
+    "explanation": "The Eastern Zonal Council's members include Bihar, Jharkhand, West Bengal and Odisha, with headquarters at Kolkata."
+  },
+  {
+    "question": "Sikkim was added as a member of the North-Eastern Council in:",
+    "options": ["1990", "1995", "2000", "2002"],
+    "correct": 3,
+    "explanation": "In 2002, Sikkim was added as the eighth member of the North-Eastern Council."
+  },
+  {
+    "question": "Which of the following inter-state water dispute tribunals was set up most recently as per the document?",
+    "options": ["Vansadhara Water Disputes Tribunal", "Mahadayi Water Disputes Tribunal", "Mahanadi Water Disputes Tribunal", "Krishna Water Disputes Tribunal-II"],
+    "correct": 2,
+    "explanation": "According to the document, the Mahanadi Water Disputes Tribunal was set up in 2018 involving Odisha and Chhattisgarh, which is the most recently set up tribunal listed."
+  },
+  {
+    "question": "The Cauvery Water Disputes Tribunal involves which states?",
+    "options": ["Karnataka, Kerala, Tamil Nadu and Andhra Pradesh", "Karnataka, Kerala, Tamil Nadu and Puducherry", "Karnataka, Tamil Nadu, Andhra Pradesh and Puducherry", "Karnataka, Kerala, Andhra Pradesh and Puducherry"],
+    "correct": 1,
+    "explanation": "The Cauvery Water Disputes Tribunal (set up in 1990) involves Karnataka, Kerala, Tamil Nadu and Puducherry."
+  },
+  {
+    "question": "Under the Indian Constitution, states are given representation in Rajya Sabha on the basis of:",
+    "options": ["Equality (equal seats to each state)", "Area of the state", "Population", "Revenue contribution"],
+    "correct": 2,
+    "explanation": "The states are given representation in the Rajya Sabha on the basis of population. Hence, the membership varies from 1 to 31. This is unlike the US Senate where every state gets two seats."
+  },
+  {
+    "question": "Which of the following describes the Indian Federation correctly?",
+    "options": ["An indestructible Union of indestructible states", "A destructible Union of indestructible states", "An indestructible Union of destructible states", "A destructible Union of destructible states"],
+    "correct": 2,
+    "explanation": "The Indian Federation is 'an indestructible Union of destructible states'. The American Federation, on the other hand, is described as 'an indestructible Union of indestructible states'."
+  },
+  {
+    "question": "Which Article of the Constitution empowers Parliament to make laws on State List subjects when two or more states make a request?",
+    "options": ["Article 249", "Article 250", "Article 252", "Article 253"],
+    "correct": 2,
+    "explanation": "Article 252 (Power of Parliament to legislate for two or more states by consent) allows Parliament to make laws for states that have passed resolutions requesting Parliament to enact laws on a matter in the State List."
+  },
+  {
+    "question": "Parliament can make laws on State List subjects to implement international treaties under which Article?",
+    "options": ["Article 249", "Article 250", "Article 252", "Article 253"],
+    "correct": 3,
+    "explanation": "Article 253 (Legislation for giving effect to international agreements) enables Parliament to make laws on any matter in the State List for implementing the international treaties, agreements or conventions."
+  },
+  {
+    "question": "The Sarkaria Commission recommended that Article 356 (President's Rule) should be used:",
+    "options": ["As a routine administrative tool", "Very sparingly, in extreme cases as a last resort", "Only with the consent of the state", "Freely whenever the Centre deems necessary"],
+    "correct": 1,
+    "explanation": "The Sarkaria Commission recommended that Article 356 (President's Rule) should be used very sparingly, in extreme cases as a last resort when all the available alternatives fail."
+  },
+  {
+    "question": "According to the document, which amendment made the declaration of National Emergency immune from judicial review (though later deleted)?",
+    "options": ["42nd Amendment Act of 1976", "38th Amendment Act of 1975", "44th Amendment Act of 1978", "46th Amendment Act of 1982"],
+    "correct": 1,
+    "explanation": "The 38th Amendment Act of 1975 made the declaration of a National emergency immune from the judicial review. But, this provision was subsequently deleted by the 44th Amendment Act of 1978."
+  },
+  {
+    "question": "In the Minerva Mills case (1980), the Supreme Court held that:",
+    "options": ["National emergency cannot be challenged in court", "Proclamation of national emergency can be challenged on ground of malafide", "Financial emergency is beyond judicial review", "President's satisfaction is final in declaring emergency"],
+    "correct": 1,
+    "explanation": "In the Minerva Mills case (1980), the Supreme Court held that the proclamation of a national emergency can be challenged in a court on the ground of malafide or that the declaration was based on wholly extraneous and irrelevant facts or is absurd or perverse."
+  },
+  {
+    "question": "Which of the following subjects was NOT transferred from State List to Concurrent List by the 42nd Amendment Act of 1976?",
+    "options": ["Education", "Forests", "Agriculture", "Weights and measures"],
+    "correct": 2,
+    "explanation": "The 42nd Amendment Act of 1976 transferred education, forests, weights and measures, protection of wild animals and birds, and administration of justice from State List to Concurrent List. Agriculture was not transferred."
+  },
+  {
+    "question": "According to Article 263, which duties can be assigned to an Inter-State Council?",
+    "options": ["Only adjudication of interstate disputes", "Only investigating subjects of common interest", "Enquiring into disputes, investigating common interest subjects, and making recommendations", "Only making recommendations on policy coordination"],
+    "correct": 2,
+    "explanation": "Article 263 specifies duties including: enquiring into and advising upon disputes which may arise between states; investigating and discussing subjects of common interest; and making recommendations upon any such subject for better co-ordination of policy and action."
+  },
+  {
+    "question": "The residuary powers of legislation in India are vested in:",
+    "options": ["States", "Parliament", "Concurrent List", "Constitutional Courts"],
+    "correct": 1,
+    "explanation": "The power to make laws with respect to residuary subjects (matters not enumerated in any of the three lists) is vested in the Parliament. This is unlike the US where residuary powers are with states."
+  },
+  {
+    "question": "Morris Jones termed the Indian federal system as:",
+    "options": ["Quasi-federal", "Cooperative federalism", "Bargaining federalism", "Competitive federalism"],
+    "correct": 2,
+    "explanation": "Morris Jones termed it as a 'bargaining federalism'."
+  },
+  {
+    "question": "According to the Bommai case (1994), the state legislative assembly should be dissolved only after:",
+    "options": ["The Governor recommends dissolution", "The Parliament has approved the presidential proclamation", "The Supreme Court gives permission", "The Chief Minister resigns"],
+    "correct": 1,
+    "explanation": "According to the Bommai case, the state legislative assembly should be dissolved only after the Parliament has approved the presidential proclamation. Until such approval is given, the President can only suspend the assembly."
+  },
+  {
+    "question": "Under which Article can the Governor reserve a bill passed by the state legislature for consideration of the President?",
+    "options": ["Article 198", "Article 200", "Article 202", "Article 210"],
+    "correct": 1,
+    "explanation": "The Governor can reserve a bill passed by the state legislature for the consideration of the President. It must be noted that the President enjoys absolute veto over such a bill (Articles 200 and 201)."
+  },
+  {
+    "question": "The 'Full Faith and Credit' clause in the Constitution ensures:",
+    "options": ["Free trade between states", "Recognition of public acts, records and judicial proceedings across states", "Equal representation in Rajya Sabha", "Uniform taxation across India"],
+    "correct": 1,
+    "explanation": "The 'Full Faith and Credit' clause provides that full faith and credit is to be given throughout the territory of India to public acts, records and judicial proceedings of the Centre and every state."
+  },
+  {
+    "question": "The Lok Sabha can pass a resolution for revocation of National Emergency if how many members give written notice?",
+    "options": ["One-fifth of total members", "One-fourth of total members", "One-tenth of total members", "One-third of total members"],
+    "correct": 2,
+    "explanation": "The 44th Amendment Act of 1978 provided that where one-tenth of the total number of members of the Lok Sabha give a written notice to the Speaker (or to the President if the House is not in session), a special sitting should be held within 14 days."
+  },
+  {
+    "question": "Who described the British system of government as 'prime ministerial government'?",
+    "options": ["Ivor Jennings", "Bagehot", "Crossman and Mackintosh", "K.M. Munshi"],
+    "correct": 2,
+    "explanation": "Later political analysts, like Crossman, Mackintosh and others described the British system of government as 'prime ministerial government', as the Prime Minister's power, influence and position have increased significantly."
+  },
+  {
+    "question": "Which article provides for an Inter-State Council?",
+    "options": ["Article 261", "Article 262", "Article 263", "Article 264"],
+    "correct": 2,
+    "explanation": "Article 263 contemplates the establishment of an Inter-State Council to effect coordination between the states and between Centre and states."
+  },
+  {
+    "question": "The property of Centre is exempted from state taxation under which principle?",
+    "options": ["Doctrine of immunity from mutual taxation", "Federal supremacy doctrine", "Non-discrimination doctrine", "Comity of governments doctrine"],
+    "correct": 0,
+    "explanation": "Like any other federal Constitution, the Indian Constitution also contains the rule of 'immunity from mutual taxation'. The property of Centre is exempted from all taxes imposed by a state or any authority within a state."
+  },
+  {
+    "question": "During a financial emergency, which of the following directions CAN be given by the Centre to states?",
+    "options": ["Dissolution of state legislature", "Dismissal of state government", "Reduction of salaries of persons serving in the state", "Suspension of fundamental rights"],
+    "correct": 2,
+    "explanation": "During the operation of financial emergency (under Article 360), the Centre can direct the states to observe canons of financial propriety and give other necessary directions including the reduction of salaries of persons serving in the state."
+  },
+  {
+    "question": "The doctrine of separation of powers was propounded by which political thinker?",
+    "options": ["John Locke", "Jean-Jacques Rousseau", "Montesquieu", "Thomas Hobbes"],
+    "correct": 2,
+    "explanation": "The theory of separation of powers was propounded by Montesquieu, a French political thinker, in his book The Spirit of Laws (1748) to promote individual liberty."
+  },
+  {
+    "question": "Which of the following is NOT a merit of the parliamentary system according to the document?",
+    "options": ["Harmony between legislature and executive", "Responsible government", "Stable government", "Wide representation"],
+    "correct": 2,
+    "explanation": "Stable government is listed as a merit of the presidential system and unstable government is listed as a demerit of the parliamentary system."
+  },
+  {
+    "question": "Which of the following best describes a unitary government?",
+    "options": ["Powers are divided between national and regional governments by constitution", "All powers are vested in the national government", "Both national and regional governments are co-equal", "Regional governments have more powers than national government"],
+    "correct": 1,
+    "explanation": "A unitary government is one in which all the powers are vested in the national government and the regional governments, if at all exist, derive their authority from the national government."
+  },
+  {
+    "question": "The Rajya Sabha represents which entities in the Indian federal system?",
+    "options": ["The people of India as a whole", "The states of Indian Federation", "Both people and states equally", "The Union Territories"],
+    "correct": 1,
+    "explanation": "The Rajya Sabha represents the states of Indian Federation, while the Lok Sabha represents the people of India as a whole. The Rajya Sabha is required to maintain the federal equilibrium by protecting the interests of the states."
+  },
+  {
+    "question": "A Constitutional provision concerned with the federal structure can be amended only by:",
+    "options": ["Simple majority of Parliament", "Special majority of Parliament alone", "Special majority of Parliament and approval of half of state legislatures", "Unanimous consent of all state legislatures"],
+    "correct": 2,
+    "explanation": "Those provisions which are concerned with the federal structure can be amended only by the joint action of the Central and state governments. Such provisions require a special majority of the Parliament and also an approval of half of the state legislatures."
+  },
+  {
+    "question": "The Cauvery water dispute involves which states as per the document?",
+    "options": ["Karnataka and Tamil Nadu only", "Karnataka, Kerala, Tamil Nadu and Puducherry", "Karnataka, Tamil Nadu and Andhra Pradesh", "Karnataka, Kerala and Tamil Nadu"],
+    "correct": 1,
+    "explanation": "The Cauvery Water Disputes Tribunal (set up in 1990) involves Karnataka, Kerala, Tamil Nadu and Puducherry."
+  },
+  {
+    "question": "Which commission was established by Tamil Nadu Government (DMK) in 1969?",
+    "options": ["Sarkaria Commission", "Rajamannar Committee", "Administrative Reforms Commission", "Punchhi Commission"],
+    "correct": 1,
+    "explanation": "In 1969, the Tamil Nadu Government (DMK) appointed a three-member committee under the chairmanship of Dr. P.V. Rajamannar to examine the entire question of Centre-state relations."
+  },
+  {
+    "question": "Under the Bommai case judgment, which was declared as a 'basic feature' of the Constitution?",
+    "options": ["Federalism only", "Secularism only", "Both federalism and secularism", "Parliamentary democracy"],
+    "correct": 2,
+    "explanation": "In the Bommai case (1994), the Supreme Court laid down that the Constitution is federal and characterized federalism as its 'basic feature'. The court also upheld that secularism is one of the 'basic features' of the Constitution."
+  },
+  {
+    "question": "The Canadian federation was formed in:",
+    "options": ["1787", "1867", "1901", "1947"],
+    "correct": 1,
+    "explanation": "The Canadian Federation, comprising 10 provinces (originally 4 provinces) is also quite old—formed in 1867."
+  },
+  {
+    "question": "Which of the following best describes the 'primus inter pares' concept?",
+    "options": ["Last among unequals", "First among equals", "Above all others", "Equal among superiors"],
+    "correct": 1,
+    "explanation": "In the past, the British constitutional and political experts described the Prime Minister as 'primus inter pares' (first among equals) in relation to the cabinet."
+  },
+  {
+    "question": "The Indian Constitution's original form contained how many Articles?",
+    "options": ["275", "350", "395", "450"],
+    "correct": 2,
+    "explanation": "Originally, the Constitution contained a Preamble, 395 Articles (divided into 22 Parts) and 8 Schedules."
+  },
+  {
+    "question": "Currently, the Indian Constitution consists of approximately how many Articles?",
+    "options": ["395", "420", "450", "470"],
+    "correct": 3,
+    "explanation": "At present, the Constitution consists of a Preamble, about 470 Articles (divided into 25 Parts) and 12 Schedules."
+  },
+  {
+    "question": "During National Emergency, the laws made by Parliament on state subjects become inoperative after how long from when the emergency ceases?",
+    "options": ["Three months", "Six months", "One year", "Two years"],
+    "correct": 1,
+    "explanation": "The laws made by Parliament on the state subjects during a National Emergency become inoperative six months after the emergency has ceased to operate."
+  },
+  {
+    "question": "K.M. Munshi's argument for adopting parliamentary system was based on India's experience of:",
+    "options": ["Economic development", "Thirty to forty years of parliamentary tradition during British rule", "Successful federal experiments", "Strong central leadership"],
+    "correct": 1,
+    "explanation": "K.M. Munshi argued that 'For the last thirty or forty years, some kind of responsibility has been introduced in the governance of this country. Our constitutional traditions have become Parliamentary.'"
+  },
+  {
+    "question": "Which feature ensures that the Constitution of India can function as both federal and unitary according to Dr. B.R. Ambedkar?",
+    "options": ["Division of powers", "Emergency provisions", "Fundamental rights", "Directive Principles"],
+    "correct": 1,
+    "explanation": "Dr. B.R. Ambedkar observed that 'the Constitution of India can be both unitary as well as federal according to the requirements of time and circumstances.' This flexibility is largely due to the emergency provisions."
+  },
+  {
+    "question": "According to Article 365, if a state fails to comply with Central directions, which provision can be invoked?",
+    "options": ["Article 352 (National Emergency)", "Article 356 (President's Rule)", "Article 360 (Financial Emergency)", "Article 370 (Special Status)"],
+    "correct": 1,
+    "explanation": "Article 365 says that whenever a state fails to comply with or to give effect to any direction from the Centre, it will be lawful for the President to hold that a situation has arisen in which the government of the state cannot be carried on in accordance with the Constitution, enabling imposition of President's Rule under Article 356."
+  },
+  {
+    "question": "Under the Indian Constitution, which body conducts elections for both Central and state legislatures?",
+    "options": ["Central Election Commission constituted by Parliament", "Election Commission constituted by President", "Joint Election Commission of Centre and States", "Independent Election Commission of each state"],
+    "correct": 1,
+    "explanation": "The Election Commission conducts elections not only to the Central legislature but also to the state legislatures. But, this body is constituted by the President and the states have no say in this matter."
+  },
+  {
+    "question": "The 101st Amendment Act of 2016 inserted which new Article in the Constitution regarding goods and services tax?",
+    "options": ["Article 245A", "Article 246A", "Article 248A", "Article 269A"],
+    "correct": 1,
+    "explanation": "The 101st Amendment Act of 2016 inserted Article 246-A in the Constitution, conferring concurrent power upon the Parliament and State Legislatures to make laws governing goods and services tax."
+  },
+  {
+    "question": "In which year was the first Inter-State Council established under the Indian Constitution?",
+    "options": ["1987", "1988", "1989", "1990"],
+    "correct": 3,
+    "explanation": "In pursuance of the recommendations of the Sarkaria Commission, the Janata Dal Government headed by V. P. Singh established the Inter-State Council in 1990."
+  },
+  {
+    "question": "Under Article 359, Fundamental Rights are NOT suspended during emergency but only their:",
+    "options": ["Application", "Enforcement", "Definition", "Scope"],
+    "correct": 1,
+    "explanation": "Under Article 359, the Fundamental Rights as such are not suspended, but only their enforcement. The said rights are theoretically alive but the right to seek remedy is suspended."
+  },
+  {
+    "question": "Which of the following is described as the 'bedrock principle' of parliamentary government?",
+    "options": ["Majority party rule", "Collective responsibility", "Leadership of Prime Minister", "Double membership"],
+    "correct": 1,
+    "explanation": "Collective Responsibility is described as the bedrock principle of parliamentary government. The ministers are collectively responsible to the Parliament in general and to the Lok Sabha in particular."
+  },
+  {
+    "question": "In the presidential system, the President cannot dissolve which house?",
+    "options": ["Senate", "House of Representatives", "Both Houses", "Neither House"],
+    "correct": 1,
+    "explanation": "In the American presidential system, the President cannot dissolve the House of Representatives—the lower house of the Congress."
+  },
+  {
+    "question": "Under the presidential system, the President and his secretaries:",
+    "options": ["Are responsible to Congress", "Are members of Congress", "Attend sessions of Congress", "Are not responsible to Congress for their acts"],
+    "correct": 3,
+    "explanation": "The President and his/her secretaries are not responsible to the Congress for their acts. They neither possess membership in the Congress nor attend its sessions."
+  },
+  {
+    "question": "K. Santhanam's observation that India has 'practically functioned as a unitary state' was attributed to which two factors?",
+    "options": ["Emergency provisions and strong judiciary", "Dominance of Centre in financial sphere and powerful planning commission", "Single citizenship and integrated judiciary", "All-India Services and Election Commission"],
+    "correct": 1,
+    "explanation": "According to K. Santhanam, two factors have been responsible for increasing unitary bias: (i) the dominance of the Centre in the financial sphere and dependence of states upon Central grants; and (ii) the emergence of a powerful erstwhile planning commission."
+  },
+  {
+    "question": "The 60th Amendment Act of 1988 raised the limit of professional tax payable per person to:",
+    "options": ["₹250 per annum", "₹1,000 per annum", "₹2,500 per annum", "₹5,000 per annum"],
+    "correct": 2,
+    "explanation": "Originally, the limit was only ₹250 per annum. The 60th Amendment Act of 1988 raised it to ₹2,500 per annum."
+  },
+  {
+    "question": "The Planning Commission was replaced by NITI Aayog in:",
+    "options": ["2013", "2014", "2015", "2016"],
+    "correct": 2,
+    "explanation": "In 2015, the Planning Commission was replaced by a new body called the NITI Aayog (National Institution for Transforming India)."
+  },
+  {
+    "question": "Which statement about the Indian federal system is correct according to Paul Appleby?",
+    "options": ["Quasi-federal", "Extremely federal", "Bargaining federalism", "Cooperative federalism"],
+    "correct": 1,
+    "explanation": "Paul Appleby characterises the Indian system as 'extremely federal'."
+  },
+  {
+    "question": "The Comptroller and Auditor-General of India audits accounts of:",
+    "options": ["Central government only", "State governments only", "Both Central government and state governments", "Local bodies only"],
+    "correct": 2,
+    "explanation": "The Comptroller and Auditor-General of India audits the accounts of not only the Central government but also those of the states. But his/her appointment and removal is done by the President without consulting the states."
+  },
+  {
+    "question": "Which of the following best describes the 'double membership' feature of parliamentary system?",
+    "options": ["Citizens can be members of both national and state parliaments", "Ministers are members of both the legislature and the executive", "Individuals can vote in both national and state elections", "Judges can serve both Supreme Court and High Courts"],
+    "correct": 1,
+    "explanation": "Double Membership means ministers are members of both the legislature and the executive. This means that a person cannot be a minister without being a member of the Parliament."
+  },
+  {
+    "question": "The Ravi and Beas Water Disputes Tribunal was set up in:",
+    "options": ["1969", "1978", "1982", "1986"],
+    "correct": 3,
+    "explanation": "The Ravi and Beas Water Disputes Tribunal was set up in 1986. It involves Punjab, Haryana and Rajasthan."
+  },
+  {
+    "question": "According to the Sarkaria Commission, over-centralisation leads to:",
+    "options": ["Economic development", "Blood pressure at the centre and anaemia at the periphery", "Stronger national unity", "Better administrative efficiency"],
+    "correct": 1,
+    "explanation": "The Sarkaria Commission observed that over-centralisation leads to blood pressure at the centre and anaemia at the periphery. However, it did not equate strong Centre with centralisation of powers."
+  },
+  {
+    "question": "The 42nd Amendment Act extended the period of President's Rule from six months to one year, but the 44th Amendment Act:",
+    "options": ["Extended it further to two years", "Reduced it back to six months", "Abolished the provision entirely", "Made it subject to Supreme Court review"],
+    "correct": 1,
+    "explanation": "The 42nd Amendment Act of 1976 had raised the period of six months to one year. But, the 44th Amendment Act of 1978 again reduced the period to six months."
+  },
+  {
+    "question": "The President's Rule imposed in Punjab in May 1987 was allowed to continue for how long under the 68th Amendment Act?",
+    "options": ["Three years", "Four years", "Five years", "Six years"],
+    "correct": 2,
+    "explanation": "The President's Rule imposed in May, 1987 in Punjab was allowed to continue for five years under the 68th Amendment Act of 1991."
+  },
+  {
+    "question": "Under Article 355, the Centre has a duty to protect every state against:",
+    "options": ["Financial instability only", "External aggression only", "External aggression and internal disturbance", "Natural calamities"],
+    "correct": 2,
+    "explanation": "Article 355 imposes two duties on the Centre: (a) to protect every state against external aggression and internal disturbance; and (b) to ensure that the government of every state is carried on in accordance with the provisions of the Constitution."
+  },
+  {
+    "question": "Which of the following is true about the All-India Services?",
+    "options": ["They are controlled exclusively by state governments", "Ultimate control lies with state governments while immediate control with Centre", "Ultimate control lies with Centre while immediate control with state governments", "They are controlled exclusively by the Central government"],
+    "correct": 2,
+    "explanation": "The All-India Services are controlled jointly by the Centre and the states. The ultimate control lies with the Central government while the immediate control vests with the state governments."
+  },
+  {
+    "question": "Under the parliamentary system, the Lok Sabha can be dissolved by the President on recommendation of:",
+    "options": ["The Speaker", "The Cabinet", "The Prime Minister", "The Chief Justice"],
+    "correct": 2,
+    "explanation": "The lower house of the Parliament (Lok Sabha) can be dissolved by the President on recommendation of the Prime Minister. The Prime Minister can advise the President to dissolve the Lok Sabha before the expiry of its term."
+  },
+  {
+    "question": "The 38th Amendment Act of 1975 made the President's satisfaction in invoking Article 356 final and conclusive. This provision was later deleted by:",
+    "options": ["42nd Amendment Act", "44th Amendment Act", "46th Amendment Act", "52nd Amendment Act"],
+    "correct": 1,
+    "explanation": "The 38th Amendment Act of 1975 made the satisfaction of the President in invoking Article 356 final and conclusive which could not be challenged in any court on any ground. But, this provision was subsequently deleted by the 44th Amendment Act of 1978."
+  },
+  {
+    "question": "Which of the following examples of laws was passed under Parliament's power to implement international agreements?",
+    "options": ["Wild Life (Protection) Act, 1972", "Water (Prevention and Control of Pollution) Act, 1974", "Anti-Hijacking Act, 1982", "Urban Land (Ceiling and Regulation) Act, 1976"],
+    "correct": 2,
+    "explanation": "Anti-Hijacking Act, 1982 is an example of law enacted under Parliament's power to implement international treaties. Other examples include United Nations (Privileges and Immunities) Act, 1947 and Geneva Convention Act, 1960."
+  },
+  {
+    "question": "Which of the following was an example of law passed when states made a request to Parliament?",
+    "options": ["Anti-Hijacking Act, 1982", "Wild Life (Protection) Act, 1972", "Geneva Convention Act, 1960", "United Nations (Privileges and Immunities) Act, 1947"],
+    "correct": 1,
+    "explanation": "Examples of laws passed under the provision when states make a request include Prize Competition Act, 1955; Wild Life (Protection) Act, 1972; Water (Prevention and Control of Pollution) Act, 1974; Urban Land (Ceiling and Regulation) Act, 1976; and Transplantation of Human Organs Act, 1994."
+  },
+  {
+    "question": "The Godavari Water Disputes Tribunal was set up in which year?",
+    "options": ["1965", "1969", "1972", "1975"],
+    "correct": 1,
+    "explanation": "The Godavari Water Disputes Tribunal was set up in 1969. It involves Maharashtra, Karnataka, Andhra Pradesh, Madhya Pradesh and Odisha."
+  },
+  {
+    "question": "A resolution for disapproval of National Emergency needs to be passed by:",
+    "options": ["Lok Sabha by simple majority", "Rajya Sabha by simple majority", "Both Houses by simple majority", "Both Houses by special majority"],
+    "correct": 0,
+    "explanation": "A resolution of disapproval is required to be passed by the Lok Sabha only (not both Houses), and it is to be adopted by a simple majority only (not special majority)."
+  },
+  {
+    "question": "The 44th Amendment Act introduced the requirement for special sitting of Lok Sabha within how many days when one-tenth members give notice to disapprove emergency?",
+    "options": ["7 days", "10 days", "14 days", "21 days"],
+    "correct": 2,
+    "explanation": "The 44th Amendment Act of 1978 provided that where one-tenth of the total number of members of the Lok Sabha give a written notice to the Speaker, a special sitting of the House should be held within 14 days for the purpose of considering a resolution disapproving the continuation of the proclamation."
+  },
+  {
+    "question": "Who described the British system of government as 'responsible government'?",
+    "options": ["Ivor Jennings", "Bagehot", "This is stated as a general description in the document", "Crossman"],
+    "correct": 2,
+    "explanation": "The parliamentary government is also known as 'responsible government' as the cabinet (the real executive) is accountable to the Parliament and stays in office so long as it enjoys the latter's confidence. This is a general description, not attributed to a specific person."
+  },
+  {
+    "question": "According to Ivor Jennings, the Indian Constitution is:",
+    "options": ["Mainly unitary with federal features", "Quasi-federal", "Mainly federal with unique safeguards for enforcing national unity and growth", "A pure federation"],
+    "correct": 2,
+    "explanation": "Ivor Jennings described it as a 'federation with a strong centralising tendency'. He observed that 'the Indian Constitution is mainly federal with unique safeguards for enforcing national unity and growth'."
+  },
+  {
+    "question": "The Inter-State River Water Disputes Act was enacted in which year?",
+    "options": ["1947", "1950", "1956", "1966"],
+    "correct": 2,
+    "explanation": "Under Article 262, the Parliament has enacted two laws—the River Boards Act (1956) and the Inter-State River Water Disputes Act (1956)."
+  },
+  {
+    "question": "When 'External Emergency' is declared (on grounds of war or external aggression), which Fundamental Rights are automatically suspended?",
+    "options": ["Rights under Article 14", "Rights under Article 19", "Rights under Article 21", "Rights under Article 32"],
+    "correct": 1,
+    "explanation": "When a proclamation of national emergency is made (on grounds of war or external aggression—External Emergency), the six Fundamental Rights under Article 19 are automatically suspended under Article 358."
+  },
+  {
+    "question": "The Mahadayi Water Disputes Tribunal was set up in 2010 involving which states?",
+    "options": ["Odisha and Andhra Pradesh", "Goa, Karnataka and Maharashtra", "Maharashtra, Karnataka and Andhra Pradesh", "Odisha and Chhattisgarh"],
+    "correct": 1,
+    "explanation": "The Mahadayi Water Disputes Tribunal was set up in 2010. It involves Goa, Karnataka and Maharashtra."
+  },
+  {
+    "question": "According to the document, three Prime Ministers were members of the Rajya Sabha. Which of the following were they?",
+    "options": ["Jawaharlal Nehru, Indira Gandhi, Rajiv Gandhi", "Indira Gandhi (1966), Deve Gowda (1996), Manmohan Singh (2004)", "H.D. Deve Gowda, I.K. Gujral, Manmohan Singh", "Morarji Desai, Charan Singh, V.P. Singh"],
+    "correct": 1,
+    "explanation": "Three Prime Ministers—Indira Gandhi (1966), Deve Gowda (1996), and Manmohan Singh (2004)—were members of the Rajya Sabha."
+  },
+  {
+    "question": "The Narmada Water Disputes Tribunal involves which states?",
+    "options": ["Gujarat and Madhya Pradesh", "Rajasthan, Gujarat and Madhya Pradesh", "Rajasthan, Gujarat, Madhya Pradesh and Maharashtra", "Gujarat, Madhya Pradesh and Maharashtra"],
+    "correct": 2,
+    "explanation": "The Narmada Water Disputes Tribunal (set up in 1969) involves Rajasthan, Gujarat, Madhya Pradesh and Maharashtra."
+  },
+  {
+    "question": "Which of the following statements about President's Rule is CORRECT?",
+    "options": ["The President can assume powers of state High Court", "The President can suspend Constitutional provisions relating to state High Court", "The powers of state High Court remain the same even during President's Rule", "State High Court is dissolved during President's Rule"],
+    "correct": 2,
+    "explanation": "The President cannot assume to himself the powers vested in the concerned state high court or suspend the provisions of the Constitution relating to it. The constitutional position, status, powers and functions of the concerned state high court remain the same even during the President's Rule."
+  },
+  {
+    "question": "The Vansadhara Water Disputes Tribunal was set up in 2010 involving:",
+    "options": ["Goa, Karnataka and Maharashtra", "Odisha and Andhra Pradesh", "Maharashtra, Karnataka and Andhra Pradesh", "Odisha and Chhattisgarh"],
+    "correct": 1,
+    "explanation": "The Vansadhara Water Disputes Tribunal was set up in 2010 and involves Odisha and Andhra Pradesh."
+  },
+  {
+    "question": "The Krishna Water Disputes Tribunal-II was set up in:",
+    "options": ["1999", "2002", "2004", "2007"],
+    "correct": 2,
+    "explanation": "The Krishna Water Disputes Tribunal-II was set up in 2004. It involves Maharashtra, Karnataka and Andhra Pradesh."
+  },
+  {
+    "question": "Under the Constitution, which of the following can a state legislature NOT do regarding inter-state trade?",
+    "options": ["Impose reasonable restrictions in public interest", "Give preference to one state over another in trade", "Tax goods imported from other states if similar local goods are taxed", "Impose restrictions with previous sanction of President"],
+    "correct": 1,
+    "explanation": "The state legislature cannot give preference to one state over another or discriminate between the states in matters of trade, commerce and intercourse."
+  },
+  {
+    "question": "The Indian Constitution's concept of 'single citizenship' is similar to which country's model?",
+    "options": ["United States", "Australia", "Canada", "Switzerland"],
+    "correct": 2,
+    "explanation": "In spite of a dual polity, the Constitution of India, like that of Canada, adopted the system of single citizenship. There is only Indian Citizenship and no separate state citizenship."
+  },
+  {
+    "question": "According to the document, what does Bagehot describe the cabinet as?",
+    "options": ["The nucleus of power", "A hyphen that joins the buckle that binds the executive and legislative departments together", "The bedrock of parliamentary democracy", "The leader of the nation"],
+    "correct": 1,
+    "explanation": "As Bagehot points out, 'the cabinet is a hyphen that joins the buckle that binds the executive and legislative departments together.' Hence, the whole system goes against the theory of separation of powers."
+  },
+  {
+    "question": "Alexandrowicz stated about India that it is:",
+    "options": ["A case of cooperative federalism", "A quasi-federal state", "A case sui generis (unique in character)", "An extremely federal state"],
+    "correct": 2,
+    "explanation": "Alexandrowicz stated that 'India is a case sui generis' (i.e., unique in character)."
+  },
+  {
+    "question": "The Krishna Water Disputes Tribunal-I was set up in 1969 involving:",
+    "options": ["Maharashtra, Karnataka and Andhra Pradesh", "Maharashtra, Karnataka, Andhra Pradesh and Tamil Nadu", "Karnataka, Andhra Pradesh and Tamil Nadu", "Maharashtra, Andhra Pradesh and Tamil Nadu"],
+    "correct": 0,
+    "explanation": "The Krishna Water Disputes Tribunal-I was set up in 1969. It involves Maharashtra, Karnataka and Andhra Pradesh."
+  },
+  {
+    "question": "Under the Punchhi Commission recommendation, what should be done with the convention of Governors acting as Chancellors of Universities?",
+    "options": ["It should be constitutionally mandated", "It should be done away with", "It should be extended to more institutions", "It should remain as is"],
+    "correct": 1,
+    "explanation": "The Punchhi Commission recommended that the convention of Governors acting as Chancellors of Universities and holding other statutory positions should be done away with. His/her role should be confined to the Constitutional provisions only."
+  },
+  {
+    "question": "The emergency declared in 1975 (internal emergency) resulted in the appointment of which commission after the Janata Party came to power?",
+    "options": ["Sarkaria Commission", "Shah Commission", "Rajamannar Committee", "Administrative Reforms Commission"],
+    "correct": 1,
+    "explanation": "The Janata Party government, which came to power after the Emergency, appointed the Shah Commission to investigate the circumstances that warranted the declaration of an Emergency in 1975. The commission did not justify the declaration."
+  },
+  {
+    "question": "The Mahanadi Water Disputes Tribunal was set up in:",
+    "options": ["2010", "2014", "2016", "2018"],
+    "correct": 3,
+    "explanation": "The Mahanadi Water Disputes Tribunal was set up in 2018. It involves Odisha and Chhattisgarh."
+  },
+  {
+    "question": "According to the document, in which year did the Congress party lose elections in nine states, marking a turning point in Centre-State relations?",
+    "options": ["1962", "1965", "1967", "1971"],
+    "correct": 2,
+    "explanation": "In 1967 elections, the Congress party was defeated in nine states and its position at the Centre became weak. This changed political scenario heralded a new era in the Centre-state relations."
+  },
+  {
+    "question": "For imposing President's Rule beyond one year, which TWO conditions must be fulfilled?",
+    "options": ["National Emergency must be in operation AND Election Commission must certify general elections cannot be held", "Financial Emergency must be in operation AND Parliament must pass special resolution", "Supreme Court must approve AND Governor must recommend", "State must request AND Parliament must approve by two-thirds majority"],
+    "correct": 0,
+    "explanation": "Beyond one year, President's Rule can be extended only when: (1) A proclamation of National Emergency should be in operation in the whole of India, or in the whole or any part of the state; and (2) The Election Commission must certify that general elections to the legislative assembly of the concerned state cannot be held."
+  },
+  {
+    "question": "H.V. Kamath, commenting on Dr. Ambedkar's hope that Article 356 would remain a 'dead letter', said:",
+    "options": ["Ambedkar was right and the article has never been misused", "Dr. Ambedkar is dead and the Articles are very much alive", "The articles have indeed remained dead letters", "Parliament has used the article wisely"],
+    "correct": 1,
+    "explanation": "H.V. Kamath, a member of the Constituent Assembly commented: 'Dr. Ambedkar is dead and the Articles are very much alive', commenting on how the provision intended to remain a 'dead-letter' had turned into a 'deadly-weapon'."
+  },
+  {
+    "question": "What did the Sarkaria Commission recommend regarding the National Development Council (NDC)?",
+    "options": ["It should be abolished", "It should be given constitutional status", "It should be renamed as National Economic and Development Council (NEDC)", "It should be merged with the Inter-State Council"],
+    "correct": 2,
+    "explanation": "The Sarkaria Commission recommended that the National Development Council (NDC) should be renamed and reconstituted as the National Economic and Development Council (NEDC)."
+  },
+  {
+    "question": "The Punchhi Commission made over how many recommendations?",
+    "options": ["200", "247", "310", "400"],
+    "correct": 2,
+    "explanation": "In all, the Punchhi Commission made over 310 recommendations, touching upon several significant areas in the working of Centre-state relations."
+  },
+  {
+    "question": "Which of the following correctly describes the difference between Articles 358 and 359 regarding Article 19?",
+    "options": ["Article 358 suspends enforcement of Article 19, Article 359 suspends the right itself", "Article 358 automatically suspends Article 19, Article 359 requires a Presidential Order", "Article 358 applies during internal emergency, Article 359 during external emergency", "There is no difference between the two articles"],
+    "correct": 1,
+    "explanation": "Article 358 automatically suspends the fundamental rights under Article 19 as soon as the emergency is declared. On the other hand, Article 359 does not automatically suspend any Fundamental Right—it only empowers the President to suspend the enforcement of the specified Fundamental Rights through a Presidential Order."
+  },
+  {
+    "question": "Under which article does the President establish the GST Council?",
+    "options": ["Article 270", "Article 275", "Article 279-A", "Article 280"],
+    "correct": 2,
+    "explanation": "Article 279-A empowered the President to constitute a GST Council by an order. The Council is a joint forum of the Centre and the States."
+  },
+  {
+    "question": "According to the document, India adopted the parliamentary system partly because of the 'nature of Indian society'. Which characteristic was cited?",
+    "options": ["India's large geographical size", "India's economic diversity", "India being one of the most heterogeneous states and most complex plural societies", "India's multilingual character"],
+    "correct": 2,
+    "explanation": "India is one of the most heterogeneous States and most complex plural societies in the world. Hence, the Constitution-makers adopted the parliamentary system as it offers greater scope for giving representation to various sections, interests and regions in the government."
+  },
+  {
+    "question": "The Southern Zonal Council has its headquarters at:",
+    "options": ["Hyderabad", "Bengaluru", "Chennai", "Thiruvananthapuram"],
+    "correct": 2,
+    "explanation": "The Southern Zonal Council, whose members include Andhra Pradesh, Telangana, Karnataka, Tamil Nadu, Kerala and Puducherry, has its headquarters at Chennai."
+  },
+  {
+    "question": "The Western Zonal Council has its headquarters at:",
+    "options": ["Ahmedabad", "Pune", "Mumbai", "Panaji"],
+    "correct": 2,
+    "explanation": "The Western Zonal Council, whose members include Gujarat, Maharashtra, Goa and Dadra and Nagar Haveli and Daman and Diu, has its headquarters at Mumbai."
+  },
+  {
+    "question": "The Central Zonal Council has its headquarters at:",
+    "options": ["Bhopal", "Nagpur", "Allahabad", "Lucknow"],
+    "correct": 2,
+    "explanation": "The Central Zonal Council, whose members include Uttar Pradesh, Uttarakhand, Chhattisgarh, and Madhya Pradesh, has its headquarters at Allahabad."
+  },
+  {
+    "question": "What was the 'Alternative Scheme of Devolution' that came into effect from April 1, 1996?",
+    "options": ["50% of central taxes to be shared with states", "29% of total income from certain central taxes to go to states", "75% of revenues to be allocated to states", "Equal distribution of taxes between Centre and States"],
+    "correct": 1,
+    "explanation": "The 80th Amendment Act was enacted based on the 10th Finance Commission's recommendation that out of the total income from certain central taxes and duties, 29% should go to the states. This is known as the 'Alternative Scheme of Devolution' and came into effect from April 1, 1996."
+  },
+  {
+    "question": "What does Article 279-A(1) specify about the timeline for constituting the GST Council?",
+    "options": ["Within 30 days of the commencement of the 101st Amendment Act", "Within 60 days of the commencement of the 101st Amendment Act", "Within 90 days of the commencement of the 101st Amendment Act", "Within six months of the commencement of the 101st Amendment Act"],
+    "correct": 1,
+    "explanation": "Article 279-A(1) says that the President shall, within sixty days from the commencement of the Constitution (One Hundred and First Amendment) Act, 2016, by order, constitute a Council to be called the Goods and Services Tax Council."
+  },
+  {
+    "question": "According to the document, during which period did Centre-state relations remain largely smooth due to one-party rule?",
+    "options": ["Till 1957", "Till 1962", "Till 1967", "Till 1971"],
+    "correct": 2,
+    "explanation": "Till 1967, the Centre-state relations by and large were smooth due to one-party rule at the Centre and in most of the states."
+  },
+  {
+    "question": "The Punchhi Commission recommended a 'localised emergency' framework under which articles?",
+    "options": ["Article 352 and 356", "Article 355 with Entry 2A of List I and Entry 1 of List II", "Article 360 and 365", "Article 356 and 357"],
+    "correct": 1,
+    "explanation": "The Punchhi Commission stated that the imposition of local emergency is fully justified under the mandate of Article 355 read with Entry 2A of List I and Entry 1 of List II of the Seventh Schedule."
+  },
+  {
+    "question": "What was the major criticism of the presidential system regarding legislative-executive relations that made the Constitution-makers avoid it?",
+    "options": ["Too much executive power", "Conflicts between legislature and executive were bound to occur", "Lack of representation", "Instability of government"],
+    "correct": 1,
+    "explanation": "The framers of the Constitution wanted to avoid the conflicts between the legislature and the executive which are bound to occur in the presidential system prevalent in USA. They thought that an infant democracy could not afford the risk of perpetual cleavage between these two organs."
+  },
+  {
+    "question": "Under which provision can Parliament delegate power to make laws for a state to the President during President's Rule?",
+    "options": ["Article 352", "Article 356", "Article 357", "Article 360"],
+    "correct": 2,
+    "explanation": "Article 357 covers Exercise of legislative powers under proclamation issued under Article 356. Under this, the Parliament can delegate the power to make laws for the state to the President or to any other authority specified by him/her."
+  },
+  {
+    "question": "According to the Punchhi Commission, the period prescribed in Article 201 for state legislature to act when a bill is returned by the President is:",
+    "options": ["One month", "Three months", "Six months", "One year"],
+    "correct": 2,
+    "explanation": "The Punchhi Commission stated that the period of six months prescribed in Article 201 for State Legislature to act when the bill is returned by the President can be made applicable for the President also to decide on assenting or withholding assent to a state bill."
+  },
+  {
+    "question": "Which of the following accurately describes the Rajya Sabha's role in maintaining federal equilibrium?",
+    "options": ["It has more legislative power than Lok Sabha", "It represents states and protects their interests against undue interference by Centre", "It can veto any legislation passed by Lok Sabha", "It directly controls state administration"],
+    "correct": 1,
+    "explanation": "The Rajya Sabha represents the states of Indian Federation. The Rajya Sabha (even though a less powerful chamber) is required to maintain the federal equilibrium by protecting the interests of the states against the undue interference of the Centre."
+  },
+  {
+    "question": "According to the document, what is the frequency of meetings of the Inter-State Council?",
+    "options": ["At least once a year", "At least twice a year", "At least thrice a year", "Monthly meetings"],
+    "correct": 2,
+    "explanation": "The Council may meet at least thrice in a year. Its meetings are held in camera and all questions are decided by consensus."
+  },
+  {
+    "question": "What does 'primus inter pares' mean in the context of the British Prime Minister?",
+    "options": ["Supreme ruler", "First among equals", "Leader of the nation", "Chief executive"],
+    "correct": 1,
+    "explanation": "In the past, the British constitutional and political experts described the Prime Minister as 'primus inter pares' (first among equals) in relation to the cabinet."
+  },
+  {
+    "question": "The Standing Committee of the Inter-State Council consists of which members?",
+    "options": ["Prime Minister, all Chief Ministers, and Home Minister", "Union Home Minister, Five Union Cabinet Ministers, and Nine Chief Ministers", "Prime Minister, Six Cabinet Ministers, and Five Chief Ministers", "President, Prime Minister, and all Chief Ministers"],
+    "correct": 1,
+    "explanation": "The Standing Committee of the Inter-State Council consists of: (i) Union Home Minister as the Chairman; (ii) Five Union Cabinet Ministers; (iii) Nine Chief Ministers."
+  },
+  {
+    "question": "According to the document, which of the following is NOT mentioned as an issue creating tension in Centre-State relations?",
+    "options": ["Use of electronic media for political purposes", "Role of Planning Commission in approving state projects", "Appointment of enquiry commissions against chief ministers", "Representation in international forums"],
+    "correct": 3,
+    "explanation": "The document lists 14 tension areas in Centre-State relations, and representation in international forums is not among them. The listed issues include mode of appointment of governor, President's Rule, deployment of Central forces, management of All-India Services, etc."
+  },
+  {
+    "question": "In which year was the Inter-State Council Secretariat also made to function as the secretariat of Zonal Councils?",
+    "options": ["1991", "1996", "2001", "2011"],
+    "correct": 3,
+    "explanation": "The Inter-State Council Secretariat was set up in 1991. Since 2011, it is also functioning as the secretariat of the Zonal Councils."
+  },
+  {
+    "question": "Under the GST framework, the Parliament has exclusive power to make laws for inter-state supply of goods or services regarding:",
+    "options": ["All GST matters", "Goods and services tax where supply takes place in the course of inter-state trade or commerce", "Goods only, not services", "Services only, not goods"],
+    "correct": 1,
+    "explanation": "The Parliament has exclusive power to make laws with respect to goods and services tax where the supply of goods or services or both takes place in the course of inter-state trade or commerce."
+  },
+  {
+    "question": "According to the document, in the American presidential system, the President is elected by an electoral college for a fixed tenure of:",
+    "options": ["Two years", "Three years", "Four years", "Six years"],
+    "correct": 2,
+    "explanation": "In the American presidential system, the President is elected by an electoral college for a fixed tenure of four years. He/she cannot be removed by the Congress except by impeachment for a grave unconstitutional act."
+  },
+  {
+    "question": "The North-Eastern Council Act was passed in which year?",
+    "options": ["1969", "1970", "1971", "1972"],
+    "correct": 2,
+    "explanation": "The North-Eastern Council was created by a separate Act of Parliament—the North-Eastern Council Act of 1971. It came into existence on August 8, 1972."
+  },
+  {
+    "question": "What constitutional mechanism does the Punchhi Commission recommend for equal representation of states in Rajya Sabha?",
+    "options": ["Increasing total strength of Rajya Sabha", "Amending relevant provisions to give equality of seats to states irrespective of population size", "Giving weightage based on area of states", "Creating a new house for equal state representation"],
+    "correct": 1,
+    "explanation": "The Punchhi Commission recommended that a balance of power between states inter se is desirable and this is possible by equality of representation in the Rajya Sabha. This requires amendment of the relevant provisions to give equality of seats to states in the Rajya Sabha, irrespective of their population size."
+  },
+  {
+    "question": "Under which article can Parliament legislate on State List subjects during President's Rule?",
+    "options": ["Article 249", "Article 250", "Article 252", "Article 356 read with Article 357"],
+    "correct": 3,
+    "explanation": "When the President's Rule is imposed in a state (Article 356), the Parliament becomes empowered to make laws with respect to any matter in the State List in relation to that state. This power flows from Article 356 read with Article 357."
+  },
+  {
+    "question": "The document mentions that the Indian Constitution originally contained 8 Schedules, but currently has how many Schedules?",
+    "options": ["10", "11", "12", "14"],
+    "correct": 2,
+    "explanation": "Originally, it contained 8 Schedules. At present, the Constitution consists of 12 Schedules (with Schedules 9, 10, 11 and 12 having been added through amendments)."
+  }
+]

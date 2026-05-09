@@ -1,0 +1,3082 @@
+[
+  {
+    "question": "Under the Indian Councils Act 1861, the Central Council was enlarged by addition of how many Additional Members for legislative purposes?",
+    "options": [
+      "Not less than 10 and not more than 16",
+      "Not less than 8 and not more than 14",
+      "Not less than 6 and not more than 12",
+      "Not less than 4 and not more than 8"
+    ],
+    "correct": 2,
+    "explanation": "The Indian Councils Act 1861 enlarged the Central Council by addition of not less than six and not more than twelve Additional Members, nominated by the GG for a period of 2 years, with at least half being non-official."
+  },
+  {
+    "question": "Which of the following correctly describes the limitation of the Indian Councils Act 1861?",
+    "options": [
+      "No attempt was made to demarcate legislative powers of Central and Local Legislatures",
+      "It did not allow the GG to issue ordinances in emergency",
+      "It failed to introduce the portfolio system",
+      "It failed to restore legislative powers of Bombay and Madras"
+    ],
+    "correct": 0,
+    "explanation": "The key limitation of the Indian Councils Act 1861 was that no attempt was made to demarcate the legislative powers of Central and Local Legislatures, and the GG could legislate for the whole of India."
+  },
+  {
+    "question": "Lord Canning introduced the portfolio system in India for the first time using powers granted under which Act?",
+    "options": [
+      "Government of India Act 1858",
+      "Indian Councils Act 1892",
+      "Indian Councils Act 1861",
+      "Charter Act 1853"
+    ],
+    "correct": 2,
+    "explanation": "The Indian Councils Act 1861 empowered the GG to make rules for more convenient transactions of business in council. Using this authority, Lord Canning introduced the portfolio system in India for the first time."
+  },
+  {
+    "question": "The Indian Councils Act 1861 enabled the creation of new provincial legislative councils. Which of the following sets is correctly matched?",
+    "options": [
+      "Bengal (1862), Punjab (1886), Burma (1897)",
+      "Bengal (1862), Madras (1886), Punjab (1897)",
+      "Bengal (1865), North-Western Provinces (1886), Burma (1897)",
+      "Bengal (1862), North-Western Provinces (1886), Punjab (1897)"
+    ],
+    "correct": 3,
+    "explanation": "The Act enabled new provincial legislative councils—Bengal (1862), North-Western Provinces (1886), Punjab (1897) and Burma (1897)."
+  },
+  {
+    "question": "Under the Indian Councils Act 1861, an ordinance issued by the GG in case of emergency could remain in force for a maximum period of:",
+    "options": [
+      "One year",
+      "Four months",
+      "Six months",
+      "Three months"
+    ],
+    "correct": 2,
+    "explanation": "The GG was empowered to issue ordinances in case of emergency without the concurrence of the Legislative Council, which could remain in force for a maximum period of six months."
+  },
+  {
+    "question": "Under the Indian Councils Act 1892, the number of additional members in the Central Legislature was increased to:",
+    "options": [
+      "Not less than 8 and not more than 14",
+      "Not less than 12 and not more than 20",
+      "Not less than 6 and not more than 12",
+      "Not less than 10 and not more than 16"
+    ],
+    "correct": 3,
+    "explanation": "The Indian Councils Act 1892 increased the number of additional members in the Central Legislature to not less than 10 and not more than 16, with at least half being non-official."
+  },
+  {
+    "question": "The Indian Councils Act 1892 was criticised by the Congress during its sessions in 1892 and 1893 primarily because:",
+    "options": [
+      "It did not restore legislative powers of provincial councils",
+      "It failed to introduce the system of direct elections in India",
+      "It maintained official majority in legislatures",
+      "It did not allow questions to be asked in the legislature"
+    ],
+    "correct": 1,
+    "explanation": "The Act was criticised by the Congress during its session in 1892 and 1893 because it failed to introduce the system of direct elections in India."
+  },
+  {
+    "question": "A key feature of the Indian Councils Act 1892 regarding elections was that:",
+    "options": [
+      "The law carefully avoided the use of the word 'election'",
+      "It introduced direct elections for all council members",
+      "It introduced universal adult franchise",
+      "Members elected sat as representatives of various bodies"
+    ],
+    "correct": 0,
+    "explanation": "The Act introduced indirect/limited 'election' via recommendations by bodies, but the law itself very carefully avoided the use of the word 'election'; members still sat as nominees of the government."
+  },
+  {
+    "question": "Under the Indian Councils Act 1892, members of the councils were allowed to:",
+    "options": [
+      "Vote on the budget and ask supplementary questions freely",
+      "Ask questions on foreign relations and railway expenditure",
+      "Move resolutions on matters of general public interest",
+      "Discuss the budget, ask questions with six days' notice, but supplementary questions were not allowed"
+    ],
+    "correct": 3,
+    "explanation": "The Act enlarged council functions: members could discuss the budget and ask questions with six days' notice, but supplementary questions were not allowed and no vote on the budget was permitted."
+  },
+  {
+    "question": "Who became the first Indian member of the Viceroy's Executive Council under the Morley-Minto Reforms of 1909?",
+    "options": [
+      "Satyendra Prasanna Sinha",
+      "Gopal Krishna Gokhale",
+      "Pherozeshah Mehta",
+      "Bal Gangadhar Tilak"
+    ],
+    "correct": 0,
+    "explanation": "In 1909, Satyendra Prasanna Sinha (later Lord Sinha) became the first Indian member of the Viceroy's Executive Council as Law Member."
+  },
+  {
+    "question": "After 1909, what was the total membership of the Imperial Legislative Council and how many were elected?",
+    "options": [
+      "Total 69, 27 elected",
+      "Total 60, 27 elected",
+      "Total 70, 35 elected",
+      "Total 50, 20 elected"
+    ],
+    "correct": 1,
+    "explanation": "After 1909, the Imperial Legislative Council had 60 members, of whom 27 were elected; an official majority was retained at the Centre."
+  },
+  {
+    "question": "The Morley-Minto Reforms of 1909 declared that territorial representation did not suit India and advocated for:",
+    "options": [
+      "Representation by classes and interests",
+      "Separate electorates for all communities",
+      "Universal adult franchise",
+      "Proportional representation"
+    ],
+    "correct": 0,
+    "explanation": "The Morley-Minto Reforms declared that territorial representation did not suit India and that 'representation by classes and interests is the only practical method of embodying the elective principle of Legislative Councils.'"
+  },
+  {
+    "question": "Which of the following was a key background event that influenced the Morley-Minto Reforms of 1909?",
+    "options": [
+      "The formation of the Indian National Congress",
+      "The Simon Commission Report",
+      "The Partition of Bengal (1905)",
+      "The Shimla Deputation of 1906 led by Agha Khan"
+    ],
+    "correct": 3,
+    "explanation": "In 1906, the Shimla Deputation led by Agha Khan and other Muslim leaders presented Lord Minto with a proposal for separate Muslim electorates, which was a key background event influencing the Morley-Minto Reforms."
+  },
+  {
+    "question": "Under the Morley-Minto Reforms 1909, what was the composition of the Central Legislative Council?",
+    "options": [
+      "Total 60 members, 37 official, 23 non-official",
+      "Total 72 members, 40 official, 32 non-official",
+      "Total 69 members, 37 official, 5 nominated non-official, 27 elected non-officials",
+      "Total 65 members, 30 official, 35 non-official"
+    ],
+    "correct": 2,
+    "explanation": "The Central Legislative Council had a total of 69 members: 37 official, 5 nominated non-official and 27 elected non-officials, with seats specifically reserved for Muslims, British Capitalists, Landlords and a General Electorate."
+  },
+  {
+    "question": "The Montagu Declaration of 1917 spoke of:",
+    "options": [
+      "Dominion Status for India immediately",
+      "Increasing association of Indians in every branch of administration and gradual development of self-governing institutions",
+      "Abolition of the Secretary of State for India",
+      "Complete independence for India"
+    ],
+    "correct": 1,
+    "explanation": "Montagu's Declaration of 1917 stated: 'The policy of His Majesty's Government is that of the increasing association of Indians in every branch of the administration and the gradual development of self-governing institutions with a view to the progressive realization of responsible government in India as an integral part of the British Empire.'"
+  },
+  {
+    "question": "Who was the first appointee as the High Commissioner for India in London, created under the Montague-Chelmsford Reforms 1919?",
+    "options": [
+      "Sir William S. Meyer",
+      "Lord Chelmsford",
+      "Lord Morley",
+      "Sir John Simon"
+    ],
+    "correct": 0,
+    "explanation": "The Montague-Chelmsford Reforms 1919 created the High Commissioner for India in London, with Sir William S. Meyer as the first appointee in 1920."
+  },
+  {
+    "question": "Under the Montague-Chelmsford Reforms 1919, out of eight members of the GG's executive council, how many would be Indians?",
+    "options": [
+      "Four",
+      "Three",
+      "Two",
+      "Five"
+    ],
+    "correct": 1,
+    "explanation": "To implement the policy of increasing association of Indians, of the eight members of the GG's executive council, three would be Indians under the Montague-Chelmsford Reforms 1919."
+  },
+  {
+    "question": "The Montague-Chelmsford Reforms 1919 made the Central Legislature bicameral. What were the two houses and their respective strengths?",
+    "options": [
+      "Federal Assembly (150) and Senate (60)",
+      "Legislative Council (100) and Legislative Assembly (145)",
+      "Council of State (145) and Legislative Assembly (60)",
+      "Legislative Assembly (145) and Council of State (60)"
+    ],
+    "correct": 3,
+    "explanation": "The Central Legislature became bicameral—Legislative Assembly (145) and Council of State (60)—with limited franchise and an elected majority in the Assembly."
+  },
+  {
+    "question": "Under the Montague-Chelmsford Reforms 1919, Provincial Dyarchy divided provincial subjects into 'Transferred' and 'Reserved' subjects. Which of the following correctly describes 'Reserved' subjects?",
+    "options": [
+      "Administered by the Central Government",
+      "Administered by Governors and his Executive Council without being accountable to Legislative Council",
+      "Administered by elected representatives with full autonomy",
+      "Administered by Indian Ministers accountable to the Legislative Council"
+    ],
+    "correct": 1,
+    "explanation": "Under the Provincial List, powers were divided into 'Transferred' (administered by Indian Ministers accountable to the Legislative Council) and 'Reserved' subjects (administered by Governors and his Executive Council without being accountable to Legislative Council). This dual system is called Dyarchy."
+  },
+  {
+    "question": "Under the Montague-Chelmsford Reforms 1919, which of the following were made exclusively provincial items in terms of financial devolution?",
+    "options": [
+      "Salt tax, forest revenue, and trade",
+      "Customs, income tax, railways, and defence",
+      "Military expenditure and foreign affairs",
+      "Land revenue, excise, irrigation and stamps"
+    ],
+    "correct": 3,
+    "explanation": "Under Financial Devolution in the Montague-Chelmsford Reforms, land revenue, excise, irrigation and stamps were made exclusively provincial items."
+  },
+  {
+    "question": "The Montague-Chelmsford Reforms 1919 extended communal representation to include separate electorates for which groups beyond Muslims?",
+    "options": [
+      "Depressed Classes, Sikhs, Indians Christians, Anglo-Indians",
+      "Sikhs, Indian Christians, Anglo-Indians, Europeans",
+      "Sikhs, Parsis, Buddhists, Europeans",
+      "Women, Sikhs, Anglo-Indians, Parsis"
+    ],
+    "correct": 1,
+    "explanation": "The Act extended communal representation, providing separate electorates for Sikhs, Indian Christians, Anglo-Indians, Europeans in addition to Muslims."
+  },
+  {
+    "question": "The Central Public Service Commission was established under which Act and on which date?",
+    "options": [
+      "Indian Councils Act 1892, on 15 August 1893",
+      "Morley-Minto Reforms 1909, on 1 April 1910",
+      "GOI Act 1935, on 1 April 1937",
+      "Montague-Chelmsford Reforms 1919, on 1 October 1926"
+    ],
+    "correct": 3,
+    "explanation": "The Montague-Chelmsford Reforms 1919 provided for a Public Service Commission; the Central PSC was established on 1 October 1926."
+  },
+  {
+    "question": "Originally, the Montague-Chelmsford Act of 1919 applied to which 8 provinces?",
+    "options": [
+      "Bengal, Madras, Bombay, UP, Punjab, Sind, Orissa and Central Provinces",
+      "Bengal, Madras, Bombay, UP, Punjab, Bihar, Orissa and Central Provinces",
+      "Bengal, Madras, Bombay, UP, Punjab, Bihar, Assam and Central Provinces",
+      "Bengal, Madras, Bombay, UP, Punjab, Bihar, Orissa and Assam"
+    ],
+    "correct": 1,
+    "explanation": "Originally the Act of 1919 applied only to 8 provinces: Bengal, Madras, Bombay, UP, Punjab, Bihar, Orissa and Central Provinces. In 1923, the Act was extended to Burma and later to NWFP."
+  },
+  {
+    "question": "The Muddiman Report was related to the analysis of which aspect of colonial governance?",
+    "options": [
+      "Analysis of Dyarchy under the 1919 Act",
+      "Recommendations for the GOI Act 1935",
+      "Working of the Simon Commission",
+      "Study of communal representation"
+    ],
+    "correct": 0,
+    "explanation": "The Muddiman Report (Muddiman Committee/Reforms Enquiry Committee 1924) investigated the working of dyarchy under the 1919 Act and issued a divided report."
+  },
+  {
+    "question": "The GOI Act 1935 was based on which document prepared after the Third Round Table Conference?",
+    "options": [
+      "Simon Commission Report",
+      "White Paper on the Indian Constitution",
+      "Nehru Report",
+      "Montagu Declaration"
+    ],
+    "correct": 1,
+    "explanation": "GOI Act 1935 was based on the White Paper on the Indian Constitution prepared by the British Government after the Third Round Table Conference."
+  },
+  {
+    "question": "Which of the following was NOT one of the four major provisions of the GOI Act 1935?",
+    "options": [
+      "All India Federation",
+      "Dyarchy at the Centre",
+      "Provincial Autonomy",
+      "Universal Adult Franchise"
+    ],
+    "correct": 3,
+    "explanation": "The GOI Act of 1935 contained 4 major provisions: All India Federation, Provincial Autonomy, Dyarchy at the Centre, and Safeguards which vested special powers with the central and provincial executive. Universal Adult Franchise was not among them."
+  },
+  {
+    "question": "For the proposed All India Federation under GOI Act 1935, which conditions needed to be met for federation to be formed?",
+    "options": [
+      "All British Indian provinces must join, and at least 30 princely states must consent",
+      "States entitled to at least half of 52 seats in proposed Council of States should agree, and their aggregate population should be at least 50% of total population of Indian States",
+      "All states must agree to join, and population must be 75% of total Indian states",
+      "Two-thirds of states by area must join, and population must be 60% of total"
+    ],
+    "correct": 1,
+    "explanation": "States entitled to at least half of the seats (52) allotted to states in the proposed Council of States should agree to join, and the aggregate population of these states should be at least 50% of the total population of the Indian States."
+  },
+  {
+    "question": "The GOI Act 1935 abolished the Indian Council. This council was originally established under which Act?",
+    "options": [
+      "Charter Act 1833",
+      "Indian Councils Act 1861",
+      "Morley-Minto Reforms 1909",
+      "Act of 1858"
+    ],
+    "correct": 3,
+    "explanation": "The GOI Act 1935 abolished the Indian Council which was established under the Act of 1858, on account of much agitation in India against its Anti-India policies."
+  },
+  {
+    "question": "Under the GOI Act 1935, dyarchy was abolished in provinces and introduced at the Centre. Which subjects were 'reserved' for the GG at the Centre?",
+    "options": [
+      "Land revenue and excise",
+      "Defence and external affairs",
+      "Education and local self-government",
+      "Agriculture and public health"
+    ],
+    "correct": 1,
+    "explanation": "The GOI Act 1935 introduced dyarchy at the Centre where defence, external affairs etc. were 'reserved' for the GG; this was never operationalised as the Federation never formed."
+  },
+  {
+    "question": "Under the GOI Act 1935, Provincial Autonomy was introduced. Which of the following was a key feature?",
+    "options": [
+      "All provincial laws required assent of the GG",
+      "Provinces continued to derive power from the Central Government",
+      "The distinction between Reserved and Transferred subjects was retained",
+      "For the first time, the Act recognised provinces as separate legal entities, free from directions of GOI except for specific purposes"
+    ],
+    "correct": 3,
+    "explanation": "Under the GOI Act 1935, for the first time, the Act recognised provinces as separate legal entities, free from directions and control of GOI and SOS except for specific purposes. The provinces derived their power and authority directly from the British Crown."
+  },
+  {
+    "question": "Bicameral legislature under the GOI Act 1935 was introduced in how many provinces and which were they?",
+    "options": [
+      "5 provinces — Bengal, Madras, Bombay, Bihar and Assam",
+      "6 provinces — Bengal, Madras, Bombay, United Provinces, Bihar and Assam",
+      "7 provinces — Bengal, Madras, Bombay, UP, Punjab, Bihar and Assam",
+      "4 provinces — Bengal, Madras, Bombay and United Provinces"
+    ],
+    "correct": 1,
+    "explanation": "Bicameral Legislature was introduced in 6 provinces — Bengal, Madras, Bombay, United Provinces, Bihar and Assam under the GOI Act 1935."
+  },
+  {
+    "question": "Which federal institution was formed as a result of the GOI Act 1935?",
+    "options": [
+      "Reserve Bank of India and Federal Railway Authority",
+      "High Court and Central Bank",
+      "Supreme Court and Federal Assembly",
+      "Federal Court (1937) and Federal Railway Authority"
+    ],
+    "correct": 3,
+    "explanation": "The GOI Act 1935 led to the formation of the Federal Court (1937) and Federal Railway Authority."
+  },
+  {
+    "question": "The Simon Commission (Indian Statutory Commission) was set up ahead of schedule in November 1927. When was the review of the 1919 Act originally due?",
+    "options": [
+      "1931",
+      "1929",
+      "1933",
+      "1927"
+    ],
+    "correct": 1,
+    "explanation": "The Government of India Act 1919 included a provision for a commission to review India's progress after 10 years. The review was due by 1929, but the Conservative Cabinet appointed the Simon Commission two years early in November 1927."
+  },
+  {
+    "question": "The Simon Commission arrived in India on:",
+    "options": [
+      "1 January 1929",
+      "8 November 1927",
+      "15 March 1928",
+      "3 February 1928"
+    ],
+    "correct": 3,
+    "explanation": "The Conservative Cabinet under Stanley Baldwin appointed the Indian Statutory (Simon) Commission in November 1927, two years early; it arrived in India on 3 February 1928."
+  },
+  {
+    "question": "Why was the exclusion of Indians from the Simon Commission justified by the British?",
+    "options": [
+      "India was not yet ready for self-governance",
+      "The Viceroy opposed Indian inclusion",
+      "The committee reported to the British Parliament",
+      "Indians lacked constitutional knowledge"
+    ],
+    "correct": 2,
+    "explanation": "The exclusion of Indians from the Simon Commission was justified on the grounds that the committee reported to the British Parliament, despite two Indian members serving in the British Parliament."
+  },
+  {
+    "question": "At which Congress session was the resolution to boycott the Simon Commission 'at every stage and in every form' passed?",
+    "options": [
+      "Lahore Session 1929",
+      "Calcutta Session 1928",
+      "Nagpur Session 1920",
+      "Madras Session 1927"
+    ],
+    "correct": 3,
+    "explanation": "Congress at Madras (Dec 1927, President M.A. Ansari) resolved to boycott the Commission 'at every stage and in every form.'"
+  },
+  {
+    "question": "Which of the following groups supported (cooperated with) the Simon Commission?",
+    "options": [
+      "Congress Socialist Party and Communist Party of India",
+      "Indian National Congress and All India Muslim League",
+      "Unionist Party (Punjab) and Justice Party (Madras)",
+      "Hindu Mahasabha, Liberal Federation, Muslim League under Jinnah"
+    ],
+    "correct": 2,
+    "explanation": "Some Depressed Classes leaders (notably B.R. Ambedkar) engaged with the Commission and gave evidence; Unionist Party (Punjab) and Justice Party (Madras) also co-operated."
+  },
+  {
+    "question": "The Delhi Proposals of December 1927 were aimed at uniting the Congress and Muslim League. Which of the following was NOT among the key demands?",
+    "options": [
+      "Abolition of the zamindari system",
+      "One-third Muslim representation at the Centre",
+      "Sindh separated from Bombay",
+      "Joint electorates with reserved seats for Muslims"
+    ],
+    "correct": 0,
+    "explanation": "The Delhi Proposals' key demands included joint electorates with reserved seats for Muslims, one-third Muslim representation at the Centre, weightage for Muslims in Punjab and Bengal, and Sindh separated. Abolition of the zamindari system was not among them."
+  },
+  {
+    "question": "The All Parties Conference of 1928 was convened by:",
+    "options": [
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "M.A. Ansari",
+      "Motilal Nehru"
+    ],
+    "correct": 2,
+    "explanation": "M.A. Ansari convened the All Parties Conference with representatives from Congress, Muslim League, Hindu Mahasabha, Sikh Central League and others."
+  },
+  {
+    "question": "The Nehru Report was finalized/approved in:",
+    "options": [
+      "August 1928",
+      "March 1929",
+      "December 1928",
+      "May 1928"
+    ],
+    "correct": 0,
+    "explanation": "All Parties Conference appointed a committee under Motilal Nehru in May 1928; the Nehru Report was finalized/approved in August 1928."
+  },
+  {
+    "question": "According to the Nehru Report (1928), residual powers were to be vested in:",
+    "options": [
+      "The provinces",
+      "Joint Central-Provincial committees",
+      "The Centre",
+      "The British Parliament"
+    ],
+    "correct": 2,
+    "explanation": "The Nehru Report proposed a federal structure with provincial autonomy, but residual powers with the center (seen as more unitary than federal)."
+  },
+  {
+    "question": "The Nehru Report (1928) proposed how many fundamental rights?",
+    "options": [
+      "Nineteen",
+      "Fifteen",
+      "Twelve",
+      "Twenty-two"
+    ],
+    "correct": 0,
+    "explanation": "The Nehru Report envisaged universal adult franchise and listed nineteen fundamental rights (equal rights including women's equality; freedoms of religion, expression, association; no state religion)."
+  },
+  {
+    "question": "At the Calcutta Congress Session (December 1928), what ultimatum was given to the British regarding the Nehru Report?",
+    "options": [
+      "Accept within 6 months or face immediate armed struggle",
+      "Accept the report as final constitution immediately",
+      "Accept dominion status within one year, failing which Congress would demand complete independence",
+      "Call elections within two years"
+    ],
+    "correct": 2,
+    "explanation": "At Calcutta (Dec 1928), Congress approved the Report but—pushed by younger leaders—fixed a one-year deadline for dominion status, failing which the goal would shift to complete independence."
+  },
+  {
+    "question": "Who formed the Independence of India League in April 1928?",
+    "options": [
+      "Bal Gangadhar Tilak and Lala Lajpat Rai",
+      "Motilal Nehru and Mahatma Gandhi",
+      "Subhas Chandra Bose and Bhagat Singh",
+      "J.L. Nehru and S.C. Bose as Secretary, with S. Srinivasa Iyengar as President"
+    ],
+    "correct": 3,
+    "explanation": "In April 1928, the Independence of India League was formed by J.L. Nehru and Bose as Secretary and S.Srinivasa Iyengar as President."
+  },
+  {
+    "question": "Jinnah's 14 Points were presented in response to:",
+    "options": [
+      "The Poona Pact",
+      "Rejection of his amendments at the Calcutta Session (Dec 1928) of the Nehru Report",
+      "The formation of the Congress Socialist Party",
+      "The Simon Commission Report"
+    ],
+    "correct": 1,
+    "explanation": "Jinnah's amendments were rejected at the Calcutta Session, prompting his 14 Points (March 1929), forming the basis for Muslim League's future demands."
+  },
+  {
+    "question": "Which of the following was among Jinnah's proposed amendments at Calcutta (Dec 1928) that Congress rejected?",
+    "options": [
+      "Residuary powers to provinces",
+      "Universal adult franchise",
+      "Abolition of the salt tax",
+      "Separate electorates for Muslims"
+    ],
+    "correct": 0,
+    "explanation": "Jinnah's proposed amendments at Calcutta (Dec 1928) that Congress rejected included: one-third Muslim representation at the Centre, proportional representation for Muslims in Punjab & Bengal till adult suffrage, and residuary powers to provinces."
+  },
+  {
+    "question": "The Lahore Congress Session of December 1929 was presided over by:",
+    "options": [
+      "Mahatma Gandhi",
+      "Motilal Nehru",
+      "Subhas Chandra Bose",
+      "Jawaharlal Nehru"
+    ],
+    "correct": 3,
+    "explanation": "The Lahore Session (19–29 Dec 1929) was under J. Nehru's presidency, which adopted Purna Swaraj as the goal."
+  },
+  {
+    "question": "At the Lahore Congress Session (December 1929), which date was fixed for an Independence Day pledge?",
+    "options": [
+      "15 August 1930",
+      "26 January 1930",
+      "1 March 1930",
+      "31 December 1929"
+    ],
+    "correct": 1,
+    "explanation": "The Lahore Session fixed 26 January 1930 for an Independence Day pledge. On 31 Dec 1929, Nehru hoisted the tricolour on the banks of the Ravi."
+  },
+  {
+    "question": "Gandhi's 11-point ultimatum was sent to Viceroy Irwin on:",
+    "options": [
+      "12 March 1930",
+      "2 March 1930",
+      "6 April 1930",
+      "31 January 1930"
+    ],
+    "correct": 3,
+    "explanation": "Gandhi's eleven demands were sent to Viceroy Irwin on 31 January 1930; receiving no satisfactory response, Gandhi wrote again on 2 March 1930 announcing he would violate the salt laws."
+  },
+  {
+    "question": "Which of the following was included in Gandhi's 11-point ultimatum to Viceroy Irwin?",
+    "options": [
+      "Abolish the salt tax and end the government's salt monopoly",
+      "Demand for immediate independence",
+      "Release of all prisoners including those convicted of violence",
+      "Establishment of a constituent assembly"
+    ],
+    "correct": 0,
+    "explanation": "Point 4 of Gandhi's 11-point ultimatum was to abolish the salt tax and end the government's salt monopoly. The demand for immediate independence was not among these specific 11 points."
+  },
+  {
+    "question": "The Congress Working Committee empowered Gandhi to decide the timing and place of the Civil Disobedience Movement. What did Gandhi identify as the unifying issue by February 1930?",
+    "options": [
+      "Non-payment of rent",
+      "Land revenue",
+      "Foreign cloth boycott",
+      "Salt tax"
+    ],
+    "correct": 3,
+    "explanation": "By February 1930, Gandhi identified the salt tax as a unifying issue due to its universal impact on Indians."
+  },
+  {
+    "question": "The Dandi March began on 12 March 1930. Gandhi started from Sabarmati with how many satyagrahis and walked approximately how many miles to Dandi?",
+    "options": [
+      "78 satyagrahis, ~240 miles",
+      "50 satyagrahis, ~200 miles",
+      "100 satyagrahis, ~300 miles",
+      "78 satyagrahis, ~200 miles"
+    ],
+    "correct": 0,
+    "explanation": "Gandhi began the Dandi March with 78 satyagrahis from Sabarmati, walked ~240 miles to Dandi, and broke the salt law on 6 April."
+  },
+  {
+    "question": "Gandhi broke the salt law at Dandi on which date?",
+    "options": [
+      "21 May 1930",
+      "12 March 1930",
+      "5 May 1930",
+      "6 April 1930"
+    ],
+    "correct": 3,
+    "explanation": "Gandhi broke the salt law on 6 April 1930 at Dandi after beginning the march on 12 March 1930."
+  },
+  {
+    "question": "Subhas Chandra Bose compared the Dandi March to:",
+    "options": [
+      "The Russian Revolution",
+      "Napoleon's march to Paris",
+      "The French Revolution",
+      "The Boston Tea Party"
+    ],
+    "correct": 1,
+    "explanation": "Subhas Chandra Bose compared the Dandi March to Napoleon's march to Paris."
+  },
+  {
+    "question": "Gandhi was arrested before the planned Dharasana action on the night of:",
+    "options": [
+      "21-22 May 1930",
+      "2-3 April 1930",
+      "12-13 April 1930",
+      "4-5 May 1930"
+    ],
+    "correct": 3,
+    "explanation": "On 2 March Gandhi had notified Irwin of the intended salt satyagraha, and before the planned Dharasana action he was arrested on the night of 4–5 May 1930."
+  },
+  {
+    "question": "Who led the non-violent raid at Dharasana Salt Works on 21 May 1930 after Gandhi's arrest?",
+    "options": [
+      "Subhas Chandra Bose and Bhagat Singh",
+      "Vallabhbhai Patel and Rajagopalachari",
+      "Abbas Tyabji (arrested en route) and then Sarojini Naidu",
+      "Jawaharlal Nehru and Motilal Nehru"
+    ],
+    "correct": 2,
+    "explanation": "After Gandhi's arrest, Abbas Tyabji (arrested en route) and then Sarojini Naidu led a non-violent raid at Dharasana Salt Works (21 May 1930) that was met with brutal lathi-charges."
+  },
+  {
+    "question": "The salt march to Vedaranniyam in Tamil Nadu during the Civil Disobedience Movement was led by:",
+    "options": [
+      "N. G. Ranga",
+      "P. Krishna Pillai",
+      "K. Kelappan",
+      "C. Rajagopalachari"
+    ],
+    "correct": 3,
+    "explanation": "In Tamil Nadu, C. Rajagopalachari led the salt march to Vedaranniyam, supported by anti-liquor campaigns."
+  },
+  {
+    "question": "In Peshawar on 23 April 1930, which military unit refused to fire on non-violent demonstrators at Qissa Khwani Bazaar?",
+    "options": [
+      "Rajput Regiment",
+      "Royal Garhwal Rifles",
+      "Madras Regiment",
+      "Punjab Regiment"
+    ],
+    "correct": 1,
+    "explanation": "At Peshawar (23 Apr 1930), at Qissa Khwani Bazaar, troops fired on non-violent demonstrators; Royal Garhwal Rifles (including Chandra Singh Garhwali) refused to fire and were punished."
+  },
+  {
+    "question": "Which of the following mass engagement tools were used during the Civil Disobedience Movement?",
+    "options": [
+      "Radio broadcasts and newspapers",
+      "Cinema and posters only",
+      "Prabhat pheris, vanar senas, and manjari senas",
+      "Morse code and telegraphy"
+    ],
+    "correct": 2,
+    "explanation": "Mass Engagement Tools during CDM included Prabhat pheris (early morning processions), vanar senas (youth brigades), manjari senas (women's brigades), as well as secret pamphlets (patrikas) and magic lantern shows."
+  },
+  {
+    "question": "The First Round Table Conference was held during:",
+    "options": [
+      "September 1931 – December 1931",
+      "12 November 1930 – 19 January 1931",
+      "January 1930 – June 1930",
+      "November 1932 – December 1932"
+    ],
+    "correct": 1,
+    "explanation": "The First RTC was held from 12 November 1930 to 19 January 1931. It was attended by British officials, princely states and British-Indian parties except the Congress."
+  },
+  {
+    "question": "Dr. B.R. Ambedkar pressed for which demand at the First Round Table Conference?",
+    "options": [
+      "Separate electorates for the Depressed Classes",
+      "Abolition of untouchability",
+      "Land reforms for scheduled castes",
+      "Universal adult franchise"
+    ],
+    "correct": 0,
+    "explanation": "At the First RTC, Dr B.R. Ambedkar pressed for separate electorates for the Depressed Classes."
+  },
+  {
+    "question": "The Gandhi-Irwin Pact was signed on:",
+    "options": [
+      "26 March 1931",
+      "5 March 1931",
+      "25 January 1931",
+      "31 January 1931"
+    ],
+    "correct": 1,
+    "explanation": "The Gandhi-Irwin Pact was signed on 5 March 1931."
+  },
+  {
+    "question": "Under the Gandhi-Irwin Pact, which of Irwin's concessions allowed coastal villagers to make salt?",
+    "options": [
+      "Salt Law Relaxation — right to make salt in coastal villages for personal consumption (not for sale)",
+      "Remission of fines",
+      "Return of confiscated lands",
+      "Withdrawal of emergency ordinances"
+    ],
+    "correct": 0,
+    "explanation": "Under the Gandhi-Irwin Pact, the Salt Law Relaxation gave the right to make salt in coastal villages for personal consumption (not for sale)."
+  },
+  {
+    "question": "Which demand was rejected by Irwin in the Gandhi-Irwin negotiations?",
+    "options": [
+      "Withdrawal of emergency ordinances",
+      "Commutation of death sentences of Bhagat Singh and comrades to life imprisonment",
+      "Release of political prisoners",
+      "Return of confiscated lands"
+    ],
+    "correct": 1,
+    "explanation": "Irwin rejected the demand to commute the death sentences of Bhagat Singh and his comrades to life imprisonment. He also rejected the demand for a public inquiry into police excesses."
+  },
+  {
+    "question": "The Karachi Special Congress Session (March 26-31, 1931) was presided over by:",
+    "options": [
+      "Motilal Nehru",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel"
+    ],
+    "correct": 3,
+    "explanation": "The Karachi Special Congress Session (March 26 to 31, 1931) was presided over by Sardar Vallabhai Patel."
+  },
+  {
+    "question": "The Karachi Session of 1931 is significant because:",
+    "options": [
+      "It elected Gandhi as permanent President of Congress",
+      "For the first time, a clear definition of Swaraj was spelled out for the masses",
+      "It adopted the Poorna Swaraj resolution",
+      "It launched the Civil Disobedience Movement"
+    ],
+    "correct": 1,
+    "explanation": "Karachi Session is significant because for the first time, a clear definition of Swaraj was spelled out for the masses through the adoption of resolutions on Fundamental Rights and National Economic Programme."
+  },
+  {
+    "question": "The National Economic Programme adopted at the Karachi Session (1931) was drafted by:",
+    "options": [
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi",
+      "Motilal Nehru",
+      "JL Nehru with the help of MN Roy"
+    ],
+    "correct": 3,
+    "explanation": "The National Economic Programme adopted at Karachi was drafted by JL Nehru with the help of MN Roy; it was the first crisp, public rights-and-economy charter for Swaraj."
+  },
+  {
+    "question": "The Second Round Table Conference was held during:",
+    "options": [
+      "September 7 to December 1, 1931",
+      "March 1933 – June 1933",
+      "12 November 1930 – 19 January 1931",
+      "November 17 to December 24, 1932"
+    ],
+    "correct": 0,
+    "explanation": "The Second RTC was held from September 7 to December 1, 1931."
+  },
+  {
+    "question": "At the Second Round Table Conference, the Congress was represented primarily by:",
+    "options": [
+      "Motilal Nehru",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Gandhi"
+    ],
+    "correct": 3,
+    "explanation": "At the Second RTC, Congress was represented by Gandhi, joined along with Madan Mohan Malviya, Sarojini Naidu, G.D. Birla, and others."
+  },
+  {
+    "question": "What was a key political challenge at the Second Round Table Conference?",
+    "options": [
+      "Simon Commission report was released during the conference",
+      "Congress refused to attend",
+      "Labour Government was replaced by a National Government; Lord Irwin was replaced by Lord Willingdon, breaking the channel of communication",
+      "Princely states withdrew from participation"
+    ],
+    "correct": 2,
+    "explanation": "A key political challenge at the Second RTC was that the Labour Government was replaced by a National Government (lack of unified approach) and Lord Irwin was replaced by Lord Willingdon, which broke the channel of communication."
+  },
+  {
+    "question": "The outcome of the Second Round Table Conference indicated that which award would be imposed unilaterally if Indians failed to reach consensus?",
+    "options": [
+      "Simon Award",
+      "MacDonald's Communal Award",
+      "Butler Award",
+      "Lothian Award"
+    ],
+    "correct": 1,
+    "explanation": "The Second RTC ended without agreement; MacDonald's Communal Award was hinted at as a unilateral solution, with declaration of unilateral British Communal Award if Indians failed to reach a consensus."
+  },
+  {
+    "question": "The Third Round Table Conference was held during:",
+    "options": [
+      "November 17 to December 24, 1932",
+      "March 12 to April 6, 1930",
+      "September 7 to December 1, 1931",
+      "January 1933 to March 1933"
+    ],
+    "correct": 0,
+    "explanation": "The Third RTC was held from November 17 to December 24, 1932."
+  },
+  {
+    "question": "The Communal Award was announced by which British Prime Minister and on which date?",
+    "options": [
+      "Stanley Baldwin, on 15 June 1933",
+      "Winston Churchill, on 3 September 1939",
+      "Ramsay MacDonald, on August 16, 1932",
+      "Lloyd George, on 1 January 1932"
+    ],
+    "correct": 2,
+    "explanation": "The Communal Award was announced by British Prime Minister Ramsay MacDonald on August 16, 1932, based on the recommendations of the Lothian Committee (Indian Franchise Committee), formed after the Second Round Table Conference."
+  },
+  {
+    "question": "Under the Communal Award, how many seats were initially reserved for Depressed Classes in provincial legislatures?",
+    "options": [
+      "148 seats",
+      "100 seats",
+      "51 seats",
+      "71 seats"
+    ],
+    "correct": 3,
+    "explanation": "Under the Communal Award, 71 seats in provincial legislatures were reserved for Depressed Classes, later raised to 148 under the separate Poona Pact."
+  },
+  {
+    "question": "What was Congress's position on the Communal Award?",
+    "options": [
+      "Rejected it completely and launched mass protests",
+      "Adopted a stance of non-acceptance and non-rejection",
+      "Suggested modifications and accepted the modified version",
+      "Fully accepted it as a fair solution"
+    ],
+    "correct": 1,
+    "explanation": "Congress opposed the idea of separate electorates but refrained from altering the Award without the consent of minorities. It adopted a stance of non-acceptance and non-rejection."
+  },
+  {
+    "question": "Gandhi launched an indefinite fast in response to the Communal Award primarily to oppose:",
+    "options": [
+      "Segregation of Depressed Classes as a separate political entity",
+      "Muslim separate electorates",
+      "Women's reservation in legislatures",
+      "Weightage to British capitalists"
+    ],
+    "correct": 0,
+    "explanation": "Gandhi viewed the Communal Award as a threat to Indian unity, opposed the segregation of Depressed Classes as a separate political entity, and launched an indefinite fast to demand the adoption of joint electorates with reserved seats."
+  },
+  {
+    "question": "The Poona Pact was signed between Mahatma Gandhi and Dr. B.R. Ambedkar at:",
+    "options": [
+      "Delhi",
+      "Sabarmati Ashram, Ahmedabad",
+      "Yeravda Jail, Poona",
+      "Nagpur Jail"
+    ],
+    "correct": 2,
+    "explanation": "The Poona Pact was signed between Mahatma Gandhi and Dr. B.R. Ambedkar at Yeravda Jail, Poona, to resolve the dispute over separate electorates for Depressed Classes."
+  },
+  {
+    "question": "Under the Poona Pact, the reserved seats for Depressed Classes in provincial legislatures were raised from:",
+    "options": [
+      "18 to 36",
+      "51 to 120",
+      "100 to 200",
+      "71 to 148"
+    ],
+    "correct": 3,
+    "explanation": "Under the Poona Pact, reserved seats were raised from 71 to 148 in provincial legislatures, with 18% reserved in the central legislature."
+  },
+  {
+    "question": "Why did Ambedkar shift from supporting joint electorates to aligning with Muslim, Anglo-Indian, and Christian representatives at the Round Table Conference?",
+    "options": [
+      "Gandhi pressured him to join the coalition",
+      "He wanted to secure more seats for Depressed Classes",
+      "His demand for universal adult suffrage was turned down",
+      "The British government promised him more benefits"
+    ],
+    "correct": 2,
+    "explanation": "Ambedkar shifted to aligning with Muslim, Anglo-Indian, and Christian representatives when his demand of universal adult suffrage was turned down by the Muslim League, princely states, and the British government."
+  },
+  {
+    "question": "The Congress Socialist Party (CSP) was founded at Patna in May 1934. Who were its first president and general secretary?",
+    "options": [
+      "Acharya Narendra Dev (President), Jayaprakash Narayan (General Secretary)",
+      "MN Roy (President), JL Nehru (General Secretary)",
+      "JL Nehru (President), JP Narayan (General Secretary)",
+      "Subhas Chandra Bose (President), JP Narayan (General Secretary)"
+    ],
+    "correct": 0,
+    "explanation": "The Congress Socialist Party (CSP) was founded at Patna in May 1934, led by Acharya Narendra Dev (first president) and Jayaprakash Narayan (general secretary)."
+  },
+  {
+    "question": "Gandhi resigned from Congress membership in October 1934. Which of the following was NOT a reason for his resignation?",
+    "options": [
+      "Jawaharlal Nehru's socialist group was growing in influence",
+      "The Congress had adopted the Communal Award",
+      "Many within Congress favoured Parliamentary Politics which Gandhi opposed",
+      "Over-emphasis on spinning and Harijan work alienated many workers"
+    ],
+    "correct": 1,
+    "explanation": "Gandhi felt out of sync with Congress because many favoured Parliamentary Politics, there was over-emphasis on spinning and Harijan work, and Nehru's Socialist Group was growing. The Communal Award adoption was not among the stated reasons for his resignation."
+  },
+  {
+    "question": "In the November 1934 Central Legislative Assembly Elections, how many seats did Congress win out of those reserved for Indians?",
+    "options": [
+      "42 out of 75",
+      "35 out of 70",
+      "50 out of 80",
+      "28 out of 60"
+    ],
+    "correct": 0,
+    "explanation": "In November 1934, Congress won 42 out of 75 seats reserved for Indians (becoming the Largest Party), marking a shift from confrontation to constitutional politics."
+  },
+  {
+    "question": "The Congress Nationalist Party was formed to protest against the Communal Award of 1932. Who were its founders?",
+    "options": [
+      "MN Roy and JL Nehru",
+      "Motilal Nehru and Lala Lajpat Rai",
+      "M.M. Malviya and Madhav Shrihari Aney",
+      "S. Satyamurthy and C. Rajagopalachari"
+    ],
+    "correct": 2,
+    "explanation": "To protest against the Communal Award of 1932, M.M. Malviya and Madhav Shrihari Aney split away from the Congress and formed the Congress Nationalist Party."
+  },
+  {
+    "question": "The Lucknow Congress Session of April 1936 was presided over by:",
+    "options": [
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Vallabhbhai Patel",
+      "Subhas Chandra Bose"
+    ],
+    "correct": 1,
+    "explanation": "The Lucknow Congress Session (April 1936) was presided over by JL Nehru."
+  },
+  {
+    "question": "What is significant about the Faizpur Congress Session of December 1936?",
+    "options": [
+      "It adopted the Poorna Swaraj resolution",
+      "It launched the Quit India Movement",
+      "It was the first rural session of Congress",
+      "It was the first session presided over by Gandhi"
+    ],
+    "correct": 2,
+    "explanation": "The Faizpur Congress Session (December 1936) was the First Rural Session of the Indian National Congress, presided over by JL Nehru."
+  },
+  {
+    "question": "The Faizpur Congress Session (December 1936) adopted a radical agrarian programme that included:",
+    "options": [
+      "Complete abolition of land revenue",
+      "Substantial (~50%) cuts in land revenue/rent, recognition of kisan sabhas, remission of illegitimate cesses, and tenancy security",
+      "Immediate redistribution of land to landless peasants",
+      "Nationalization of all agricultural land"
+    ],
+    "correct": 1,
+    "explanation": "Faizpur adopted a radical agrarian programme: substantial (≈50%) cuts in land revenue/rent, recognition of kisan sabhas, remission of illegitimate cesses, and tenancy security."
+  },
+  {
+    "question": "After the 1936-37 provincial elections, in how many provinces did Congress form ministries?",
+    "options": [
+      "11 provinces",
+      "5 provinces",
+      "7 provinces",
+      "9 provinces"
+    ],
+    "correct": 2,
+    "explanation": "After the 1936–37 provincial elections, Congress formed ministries in 7 provinces (Madras, Bombay, Central Provinces & Berar, United Provinces, Bihar, Orissa, and later NWFP). Assam was formed subsequently."
+  },
+  {
+    "question": "Congress initially refused office after the 1937 elections until:",
+    "options": [
+      "Gandhi gave his approval",
+      "The Muslim League agreed to join coalition",
+      "The British Parliament passed a resolution",
+      "Governors assured non-use of 'special powers'"
+    ],
+    "correct": 3,
+    "explanation": "Congress initially refused office until Governors assured non-use of 'special powers.' After Viceroy Linlithgow's statement (22 June 1937), the CWC (1 July 1937; Wardha in July) authorized forming ministries."
+  },
+  {
+    "question": "The Congress Ministries formed after the 1937 elections lasted for approximately how long before resigning?",
+    "options": [
+      "28 months",
+      "18 months",
+      "36 months",
+      "24 months"
+    ],
+    "correct": 0,
+    "explanation": "The Ministries formed after the 1937 elections initiated 28 months of Congress rule, ending with resignations in October-November 1939."
+  },
+  {
+    "question": "What triggered the resignation of Congress Ministries in October-November 1939?",
+    "options": [
+      "Gandhi's call for non-cooperation",
+      "Viceroy Lord Linlithgow declared India at war with Germany on 3 September 1939 without consulting Indian representatives",
+      "The British government suspended the Constitution",
+      "The outbreak of communal violence"
+    ],
+    "correct": 1,
+    "explanation": "On 3 September 1939 the Viceroy, Lord Linlithgow, declared India at war with Germany without consulting Indian representatives. When Congress's demand for a clear statement of war aims was refused, the AICC asked its provincial ministries to resign."
+  },
+  {
+    "question": "After the resignation of Congress Ministries in 1939, Governors assumed direct rule under which section of the Government of India Act 1935?",
+    "options": [
+      "Section 93",
+      "Section 70",
+      "Section 110",
+      "Section 45"
+    ],
+    "correct": 0,
+    "explanation": "After the resignation of Congress Ministries, Governors then assumed direct rule under Section 93 of the Government of India Act, 1935."
+  },
+  {
+    "question": "Which of the following correctly describes the 'Neo-Swarajists' of 1934?",
+    "options": [
+      "They formed a separate political party opposed to the Indian National Congress",
+      "They were pro-council-entry Congress leaders ready to assume ministries if constitutional space could be exploited",
+      "They were non-responsive to constitutional politics, like the earlier Swarajists",
+      "They advocated complete non-cooperation with British institutions"
+    ],
+    "correct": 1,
+    "explanation": "'Neo-Swarajists' refers to pro-council-entry Congress leaders (1934 onward) who were ready to assume ministries if constitutional space could be exploited. This made them different from earlier Swarajists who were non-responsivists."
+  },
+  {
+    "question": "Nehru criticized the Gandhian approach of 'Struggle-Truce-Struggle' and proposed instead:",
+    "options": [
+      "'Struggle-Victory'",
+      "Non-violence at all costs",
+      "'Cooperate-then-Struggle'",
+      "Gradualism and constitutional reform"
+    ],
+    "correct": 0,
+    "explanation": "The Leftist Perspective advocated continuing non-constitutional mass movements. Nehru criticized the Gandhian approach of 'Struggle-Truce-Struggle,' proposing instead 'Struggle-Victory.'"
+  },
+  {
+    "question": "The Lee Commission (Royal Commission on the Superior Civil Services in India, 1923-24) examined:",
+    "options": [
+      "India's agricultural conditions",
+      "India's readiness for constitutional reforms",
+      "The structure/composition of higher services and Indianisation",
+      "The working of dyarchy under the 1919 Act"
+    ],
+    "correct": 2,
+    "explanation": "The Lee Commission (Royal Commission on the Superior Civil Services in India, 1923–24) examined the structure/composition of the higher services and Indianisation."
+  },
+  {
+    "question": "The Royal Commission on Indian Currency and Finance 1926, also known as the Hilton Young Commission, led to:",
+    "options": [
+      "Enactment of the Reserve Bank of India Act 1934; the RBI opened on 1 April 1935",
+      "Establishment of the Imperial Bank of India",
+      "Creation of the Finance Ministry of India",
+      "Introduction of decimal currency in India"
+    ],
+    "correct": 0,
+    "explanation": "On Hilton-Young's recommendation, the Reserve Bank of India Act, 1934 was enacted; the RBI opened on 1 April 1935."
+  },
+  {
+    "question": "The CDM Phase 2 was relaunched after the failure of the Second Round Table Conference. On which date did the CWC make the decision to restart CDM?",
+    "options": [
+      "31 December 1931",
+      "January 26, 1932",
+      "4 January 1932",
+      "December 29, 1931"
+    ],
+    "correct": 3,
+    "explanation": "Following the failure of RTC II, CWC made the decision on December 29, 1931 to restart CDM."
+  },
+  {
+    "question": "During CDM Phase 2, on which date was Gandhi arrested by the new Viceroy Willingdon?",
+    "options": [
+      "February 12, 1932",
+      "December 29, 1931",
+      "January 4, 1932",
+      "January 26, 1932"
+    ],
+    "correct": 2,
+    "explanation": "In a direct response to Gandhi's leadership, the new Viceroy Willingdon refused to meet Gandhi and arrested him on January 4, 1932."
+  },
+  {
+    "question": "Under the Indian Councils Act 1861, the GG was empowered to create new provinces for legislative purposes and appoint:",
+    "options": [
+      "Chief Ministers",
+      "Governors",
+      "Deputy Commissioners",
+      "Lieutenant Governors"
+    ],
+    "correct": 3,
+    "explanation": "The GG was empowered to create new provinces for legislative purposes and appoint Lieutenant Governors for them, as well as make territorial adjustments between different provinces."
+  },
+  {
+    "question": "Under the Morley-Minto Reforms 1909, the functions of the Councils were enlarged in three ways. Which of the following was NOT one of those ways?",
+    "options": [
+      "Members could move resolutions on matters of general public interest",
+      "Members could discuss the financial statement at length and move resolutions on it",
+      "Members could vote to reject the budget",
+      "Members were given the right to ask supplementary questions"
+    ],
+    "correct": 2,
+    "explanation": "Under the Act of 1909, the three ways functions were enlarged were: discussing the financial statement, moving resolutions on general public interest (as recommendations only), and extended right to ask questions including supplementary questions. Members could NOT vote to reject the budget."
+  },
+  {
+    "question": "Under which reform was the right to ask Supplementary questions extended to ALL members of the Legislature (not just those asking original questions)?",
+    "options": [
+      "Indian Councils Act 1892",
+      "Montague-Chelmsford Reforms 1919",
+      "Morley-Minto Reforms 1909",
+      "GOI Act 1935"
+    ],
+    "correct": 1,
+    "explanation": "The Montague-Chelmsford Reforms 1919 extended the right to ask Supplementary questions to all members of the Legislature. Under the Act of 1909, only members asking original questions could ask supplementary questions."
+  },
+  {
+    "question": "The Rajah-Moonje Pact (1932) was an agreement between:",
+    "options": [
+      "Jinnah and Congress",
+      "Nehru and the Muslim League",
+      "M. C. Rajah (Depressed Classes leader) and B. S. Moonje (Hindu Mahasabha)",
+      "Gandhi and Ambedkar"
+    ],
+    "correct": 2,
+    "explanation": "The Rajah-Moonje Pact (1932) was between M. C. Rajah (Depressed Classes leader) and B. S. Moonje (Hindu Mahasabha), who agreed to joint electorates with reserved seats for the Depressed Classes—a counter-proposal to separate electorates."
+  },
+  {
+    "question": "Under the Communal Award, what percentage of total seats in the central legislature was reserved for Depressed Classes?",
+    "options": [
+      "10%",
+      "25%",
+      "15%",
+      "18%"
+    ],
+    "correct": 3,
+    "explanation": "Under the Communal Award, 18% of total seats in the central legislature were reserved for the Depressed Classes."
+  },
+  {
+    "question": "In the context of GOI Act 1935, the Princely States' weightage in both Houses of the Bicameral Central Legislature was described as disproportionate because:",
+    "options": [
+      "Princely states contributed more revenue to the federation",
+      "The states were expected to act as checks upon the nationalists",
+      "The British wanted to honour their treaties with the princes",
+      "They were numerically more than British Indian provinces"
+    ],
+    "correct": 1,
+    "explanation": "Both Houses had representation from British India as well as Princely States, with Princely States' weightage being disproportionate as the states were expected to act as checks upon the nationalists."
+  },
+  {
+    "question": "The Butler Committee was appointed by the British to look into the issue of:",
+    "options": [
+      "Working of the Simon Commission",
+      "Communal representation in legislatures",
+      "Preservation of Princely States through British Paramountcy",
+      "Working of dyarchy in provinces"
+    ],
+    "correct": 2,
+    "explanation": "The Princes felt threatened by the States People Conference and sought help from the British who appointed a committee under the chairmanship of Sir Harcourt Butler. The Butler committee laid stress on the preservation of Princely states through British Paramountcy."
+  },
+  {
+    "question": "The States People Conference was formed in 1927 with what objective?",
+    "options": [
+      "To oppose the formation of All India Federation",
+      "To introduce self-governing Institutions in the subjects of Princely states",
+      "To protect the rights of the Princely States",
+      "To demand merger of Princely states with British India"
+    ],
+    "correct": 1,
+    "explanation": "In 1927, the subjects of Princely states had formed the States People Conference with the objective of introducing self-governing Institutions."
+  },
+  {
+    "question": "Which of the following was a unique feature of the GOI Act 1935 compared to other constitutional documents?",
+    "options": [
+      "It had a very detailed Preamble",
+      "It introduced universal adult franchise",
+      "It had an absence of Preamble",
+      "It guaranteed fundamental rights"
+    ],
+    "correct": 2,
+    "explanation": "Another notable feature of the GOI Act 1935 was the absence of a Preamble."
+  },
+  {
+    "question": "Under the Montague-Chelmsford Reforms 1919, what happened to the Secretary of State's salary?",
+    "options": [
+      "It was increased significantly",
+      "It was paid from provincial revenues",
+      "It was abolished and merged with Viceroy's salary",
+      "It was shifted to the British Exchequer (not Indian revenues)"
+    ],
+    "correct": 3,
+    "explanation": "The Montague-Chelmsford Reforms 1919 shifted the Secretary of State's salary to the British Exchequer (not Indian revenues)."
+  },
+  {
+    "question": "The Cunningham Circular, which was protested against in Assam in 1930, required guardians to pledge that:",
+    "options": [
+      "Students would avoid politics",
+      "They would pay all taxes on time",
+      "They would support British war efforts",
+      "Students would not attend foreign schools"
+    ],
+    "correct": 0,
+    "explanation": "In Assam (1930), there were protests against the Cunningham Circular, which compelled guardians to pledge that students would avoid politics."
+  },
+  {
+    "question": "S. Satyamurthy founded the Madras Swaraj Party in 1933 primarily to:",
+    "options": [
+      "Oppose Gandhi's constructive programme",
+      "Protest against the Communal Award",
+      "Launch a separate independence movement in Madras",
+      "Support Council Entry"
+    ],
+    "correct": 3,
+    "explanation": "Earlier in 1933, S. Satyamurthy had founded the Madras Swaraj Party to support Council Entry."
+  },
+  {
+    "question": "In the context of the Purna Swaraj pledge (PS.2), India had been impoverished and the salt tax was highlighted because:",
+    "options": [
+      "It was the highest source of revenue for the British",
+      "It pressed hardest on the poor",
+      "It was only collected in coastal areas",
+      "It was used to fund the British army in India"
+    ],
+    "correct": 1,
+    "explanation": "PS.2 of the Purna Swaraj pledge highlighted that India had been impoverished: average incomes were abysmally low; land revenue and the salt tax pressed hardest on the poor."
+  },
+  {
+    "question": "In the context of the Indian Councils Act 1892, the non-official members in the Provincial Legislature ranged from:",
+    "options": [
+      "10 to 16 members",
+      "6 to 10 members",
+      "8 to 12 members",
+      "12 to 18 members"
+    ],
+    "correct": 2,
+    "explanation": "The Indian Councils Act 1892 also provided for non-official members in the Provincial Legislature (8 to 12)."
+  },
+  {
+    "question": "Which of the following was a key outcome of the First Round Table Conference (1930-31)?",
+    "options": [
+      "Simon Commission Report was adopted",
+      "Communal Award was formally announced",
+      "Congress joined and agreed to all British proposals",
+      "Broad agreement on an All-India federation and acceptance of parliamentary/provincial autonomy in principle"
+    ],
+    "correct": 3,
+    "explanation": "The First RTC had a broad agreement on an All-India federation (princes + British provinces) and acceptance of parliamentary/provincial autonomy in principle—foundations later carried into the Government of India Act, 1935."
+  },
+  {
+    "question": "The Delhi Manifesto of November 2, 1929 outlined conditions for attending the Round Table Conference. Which of the following was NOT one of the conditions?",
+    "options": [
+      "The conference should act as a constituent assembly to implement dominion status",
+      "Immediate granting of dominion status without conditions",
+      "Congress should have majority representation",
+      "A general amnesty for political prisoners"
+    ],
+    "correct": 1,
+    "explanation": "The Delhi Manifesto conditions were: the conference should aim to formulate a constitution to implement dominion status, Congress should have majority representation, and a general amnesty for political prisoners. Immediate granting of dominion status was not a condition but a goal."
+  },
+  {
+    "question": "On 31 October 1929, Viceroy Irwin declared what position on India's constitutional future?",
+    "options": [
+      "Dominion status as the ultimate goal and promised a Round Table Conference after the Simon Commission's report, without fixing a timetable",
+      "Status quo until the Simon Commission reported",
+      "Complete independence as the ultimate goal",
+      "Immediate elections to a constituent assembly"
+    ],
+    "correct": 0,
+    "explanation": "On 31 October 1929, Viceroy Irwin declared dominion status the ultimate goal and promised a Round Table Conference after the Simon Commission's report, without fixing a timetable."
+  },
+  {
+    "question": "Under the GOI Act 1935, the Communal Award provisions included a Women's Reservation of what percentage in most provinces?",
+    "options": [
+      "1%",
+      "2%",
+      "3%",
+      "5%"
+    ],
+    "correct": 2,
+    "explanation": "The Communal Award under the GOI Act 1935 provisions included Women's Reservation: 3% reserved for women in most provinces."
+  },
+  {
+    "question": "Which of the following correctly describes what happened in Sholapur during the Civil Disobedience Movement?",
+    "options": [
+      "A major lathi charge killed dozens of protesters",
+      "A mass salt march was organized",
+      "The local Congress committee was banned",
+      "Workers struck, destroyed symbols of British authority, and established a parallel government"
+    ],
+    "correct": 3,
+    "explanation": "In Sholapur during CDM, workers struck, destroyed symbols of British authority, and established a parallel government."
+  },
+  {
+    "question": "The Purna Swaraj resolution (PS.6) dealt with which aspect of British rule in India?",
+    "options": [
+      "Economic exploitation through tariffs",
+      "Political repression through censorship",
+      "Cultural alienation — the education system estranged Indians from their society and trained them to accept subordination",
+      "Military disarmament of Indians"
+    ],
+    "correct": 2,
+    "explanation": "PS.6 dealt with Cultural alienation: the education system had estranged Indians from their own society and trained them to accept subordination."
+  },
+  {
+    "question": "Under the Montague-Chelmsford Reforms 1919, how was women's franchise handled?",
+    "options": [
+      "Women could vote only in local elections",
+      "Women's franchise was left to provinces; several (e.g., Madras, 1921) enfranchised women in the 1920s",
+      "Women were not given any voting rights",
+      "Universal women's franchise was granted across India"
+    ],
+    "correct": 1,
+    "explanation": "Women's franchise was left to provinces; several (e.g., Madras, 1921) enfranchised women in the 1920s—so women could vote/contest in some provinces before 1935."
+  },
+  {
+    "question": "Lord Birkenhead's taunt that Indians could not agree on a constitution led to the formation of:",
+    "options": [
+      "The All-Parties Conference and the Motilal Nehru Committee producing the Nehru Report",
+      "The Simon Commission",
+      "The Congress Socialist Party",
+      "The Independence of India League"
+    ],
+    "correct": 0,
+    "explanation": "Lord Birkenhead's taunt that Indians could not agree on a constitution spurred the All-Parties Conference and the Motilal Nehru Committee, producing the Nehru Report (1928)."
+  },
+  {
+    "question": "The Nehru Report proposed what status for the North-West Frontier Province (NWFP)?",
+    "options": [
+      "To remain a Chief Commissioner's Province",
+      "To get full provincial status",
+      "To be given special military administration",
+      "To be merged with Punjab"
+    ],
+    "correct": 1,
+    "explanation": "The Nehru Report proposed NWFP to get full provincial status and Sindh's separation (subject to conditions)."
+  },
+  {
+    "question": "At the May 1934 AICC at Patna, what significant decision was made regarding future political strategy?",
+    "options": [
+      "Congress formally rejected the GOI Act 1935",
+      "Congress launched the Quit India Movement",
+      "Gandhi was re-elected as Congress President",
+      "Congress set up a Parliamentary Board to contest forthcoming elections"
+    ],
+    "correct": 3,
+    "explanation": "May 1934 (AICC at Patna): Congress set up a Parliamentary Board to contest forthcoming elections, marking the shift to constitutional politics."
+  },
+  {
+    "question": "How did Gandhi describe the Congress offices won in 1937 in his Harijan column?",
+    "options": [
+      "'Steps towards complete independence'",
+      "'A necessary compromise with imperialism'",
+      "'These offices have to be held lightly and not tightly. They are crowns of thorns'",
+      "'The first fruits of our long struggle'"
+    ],
+    "correct": 2,
+    "explanation": "In Harijan, Gandhi commented: 'These offices have to be held lightly and not tightly. They are crowns of thorns.'"
+  },
+  {
+    "question": "The significance of the resignation of Congress Ministries in 1939 was that it:",
+    "options": [
+      "Ended the 28-month 'Congress rule,' shut the constitutional route, and pushed the movement back to mass agitation — leading to Individual Satyagraha (1940–41) and Quit India (August 1942)",
+      "Caused the British to make significant constitutional concessions",
+      "Led to immediate independence negotiations",
+      "Led to the formation of a national government"
+    ],
+    "correct": 0,
+    "explanation": "The significance of the resignation of Congress Ministries was that it ended the 28-month 'Congress rule,' shut the constitutional route, and pushed the movement back to mass agitation — leading to the Individual Satyagraha (1940–41) and, later, Quit India (August 1942)."
+  },
+  {
+    "question": "Under the Morley-Minto Reforms 1909, Muslims were given representation beyond their population with which feature designed to serve British strategic interests?",
+    "options": [
+      "No property qualifications for Muslim voters",
+      "High income qualifications for Muslim voters",
+      "Weighted voting rights for educated Muslims",
+      "Low income qualifications for voting serving strategic interests for the British authority"
+    ],
+    "correct": 3,
+    "explanation": "Muslims were given representation beyond their population, with low income qualifications for voting serving strategic interests for the British authority under the Morley-Minto Reforms 1909."
+  },
+  {
+    "question": "The Purna Swaraj pledge's PS.8 described the method of winning freedom as:",
+    "options": [
+      "Armed revolution against British rule",
+      "International pressure through the League of Nations",
+      "Winning freedom non-violently by withdrawing cooperation from the Raj and, when called upon, by civil disobedience including non-payment of taxes",
+      "Gradual constitutional reform through elections"
+    ],
+    "correct": 2,
+    "explanation": "PS.8 stated: It is wrong to submit to such a rule. We will win freedom non-violently—by withdrawing cooperation from the Raj and, when called upon, by civil disobedience including non-payment of taxes—and we solemnly resolve to follow Congress directions until Purna Swaraj is achieved."
+  },
+  {
+    "question": "Under the Nehru Report (1928), what was proposed regarding separate electorates?",
+    "options": [
+      "Separate electorates only for Muslims",
+      "Separate electorates for all communities with proportional representation",
+      "Separate electorates should be maintained for all minorities",
+      "Joint electorates everywhere; reservation only where a community is in a minority (thus rejecting separate electorates)"
+    ],
+    "correct": 3,
+    "explanation": "The Nehru Report proposed joint electorates everywhere; reservation only where a community is in a minority (thus rejecting separate electorates)."
+  },
+  {
+    "question": "The 'Devolution Rules' under the Montague-Chelmsford Reforms 1919 defined the independent powers of provinces. In terms of legislative devolution, what lists were drawn?",
+    "options": [
+      "Union List and State List",
+      "Central List and Provincial List",
+      "Concurrent List and Federal List",
+      "Reserved List and Transferred List"
+    ],
+    "correct": 1,
+    "explanation": "Legislative Devolution was brought about by separating the items of legislation by the Centre and the Provinces. Accordingly, two lists were drawn: Central List and Provincial List. Residual powers were vested in the GG-in-council."
+  },
+  {
+    "question": "Under the GOI Act 1935, what was the status of Burma?",
+    "options": [
+      "Burma was separated from India",
+      "It was merged with the Central Provinces",
+      "It retained its status as before",
+      "It became an independent dominion"
+    ],
+    "correct": 0,
+    "explanation": "Under the GOI Act 1935, Burma was separated from India as a creation of new provinces."
+  },
+  {
+    "question": "The Minorities Pact proposed by Ambedkar at the Round Table Conference included what arrangement for reviewing separate electorates for Depressed Classes?",
+    "options": [
+      "Annual review by a joint committee",
+      "Permanent separate electorates with no review",
+      "A referendum to reassess the arrangement in 20 years",
+      "A review after 10 years"
+    ],
+    "correct": 2,
+    "explanation": "The Minorities Pact proposed separate electorates for the Depressed Classes, with a referendum to reassess the arrangement in 20 years."
+  },
+  {
+    "question": "Regarding Subhas Chandra Bose’s activities in the 1920s, which of the following is correct?",
+    "options": [
+      "He established the Congress Democratic Party in 1921.",
+      "He rejected the leadership of C.R. Das during the Non-Cooperation Movement.",
+      "He was the founding president of the All India Trade Union Congress.",
+      "He served as the editor of the 'Forward' newspaper of the Swaraj Party."
+    ],
+    "correct": 3,
+    "explanation": "In 1921, Bose participated in the NCM and became a disciple of C.R. Das; he served as the editor of 'Forward', the newspaper of the Swaraj Party. He assumed the AITUC presidency in 1929, not as a founder, and planned the Congress Democratic Party in 1930."
+  },
+  {
+    "question": "Which specific resolution was adopted during the Haripura Congress session of 1938 under Bose’s presidency?",
+    "options": [
+      "Unconditional support for Britain in the upcoming World War.",
+      "Immediate launch of a six-month ultimatum to the British.",
+      "Abolition of Landlordism.",
+      "Formation of a separate sovereign state for minorities."
+    ],
+    "correct": 2,
+    "explanation": "The Haripura session (1938) included resolutions for the establishment of a Socialist State, Abolition of Landlordism, and protection of workers' and peasants' rights."
+  },
+  {
+    "question": "What was the primary ideological rift between Subhas Chandra Bose and Mahatma Gandhi during the Tripuri session (1939)?",
+    "options": [
+      "Bose wanted to accept the federal scheme of the 1935 Act while Gandhi opposed it.",
+      "Bose advocated for the resignation of Congress ministries while Gandhi wanted them to continue.",
+      "Gandhi supported a socialist restructuring of India while Bose preferred gradualism.",
+      "Bose proposed a six-month ultimatum for independence, whereas Gandhi felt the masses were not ready."
+    ],
+    "correct": 3,
+    "explanation": "Bose favored an immediate struggle and proposed a six-month ultimatum to Britain, which Gandhi opposed because he believed the Congress and masses were not ready."
+  },
+  {
+    "question": "Which document or mission was described by Mahatma Gandhi as a 'Post Dated Cheque'?",
+    "options": [
+      "The August Offer",
+      "The White Paper",
+      "The Cripps Mission",
+      "The Wavell Plan"
+    ],
+    "correct": 2,
+    "explanation": "Gandhi dismissed the Cripps Mission scheme as a 'Post Dated Cheque' because it offered post-war dominion status instead of immediate power transfer."
+  },
+  {
+    "question": "Following the resignation of Subhas Chandra Bose from the Congress presidency in 1939, who was appointed as the new president?",
+    "options": [
+      "Pattabhi Sitaramayya",
+      "Rajendra Prasad",
+      "Maulana Abul Kalam Azad",
+      "Jawaharlal Nehru"
+    ],
+    "correct": 1,
+    "explanation": "Bose resigned in April 1939 due to a lack of support, and Rajendra Prasad became the new president."
+  },
+  {
+    "question": "What was the significance of the 'Day of Deliverance' observed on December 22, 1939?",
+    "options": [
+      "It marked the launch of the Individual Satyagraha by Vinoba Bhave.",
+      "It marked the formation of the Forward Bloc by Subhas Chandra Bose.",
+      "It was observed by the Muslim League to celebrate the resignation of Congress ministries.",
+      "It was the day Britain promised Dominion Status to India."
+    ],
+    "correct": 2,
+    "explanation": "After Congress ministries resigned in late 1939 in protest against the war, Jinnah observed December 22, 1939, as the 'Day of Deliverance'."
+  },
+  {
+    "question": "Who was the first individual satyagrahi selected by Gandhi for the Individual Satyagraha in 1940?",
+    "options": [
+      "Vinoba Bhave",
+      "Brahma Dutt",
+      "C. Rajagopalachari",
+      "Jawaharlal Nehru"
+    ],
+    "correct": 0,
+    "explanation": "Vinoba Bhave was the first satyagrahi (17 Oct 1940), and Jawaharlal Nehru was the second."
+  },
+  {
+    "question": "Under the Cripps Mission proposals of 1942, what was the provision regarding the Indian provinces?",
+    "options": [
+      "Provinces would be governed directly by the British Army after the war.",
+      "Provinces could choose to join the Union or remain outside and secede.",
+      "All provinces were mandated to join a single Indian Union.",
+      "Only Muslim-majority provinces were given the right to stay outside."
+    ],
+    "correct": 1,
+    "explanation": "The mission proposed that provinces could choose to join the Indian Union or remain outside it, and those opting out could secede."
+  },
+  {
+    "question": "Which of the following organizations or parties opposed the Quit India Movement of 1942?",
+    "options": [
+      "The Communist Party of India",
+      "The All India Trade Union Congress",
+      "The Indian National Congress",
+      "The Forward Bloc"
+    ],
+    "correct": 0,
+    "explanation": "The Muslim League, Communist Party of India (CPI), and Hindu Mahasabha are listed as those who opposed or did not participate in the movement."
+  },
+  {
+    "question": "The 'Vidyut Vahini' was an armed wing associated with which parallel government during the Quit India Movement?",
+    "options": [
+      "Satara Prati Sarkar",
+      "Talcher Parallel Government",
+      "Ballia Parallel Government",
+      "Tamralipta Jatiya Sarkar"
+    ],
+    "correct": 3,
+    "explanation": "The Tamralipta Jatiya Sarkar (Tamluk, Bengal) organized relief, schools, and an armed wing called the Vidyut Vahini."
+  },
+  {
+    "question": "Who operated an underground radio station during the Quit India Movement to broadcast news of the struggle?",
+    "options": [
+      "Usha Mehta",
+      "Aruna Asaf Ali",
+      "Sucheta Kripalani",
+      "Lakshmi Sehgal"
+    ],
+    "correct": 0,
+    "explanation": "Usha Mehta ran Congress Radio from Bombay between August and November 1942, which became the voice of the underground movement."
+  },
+  {
+    "question": "The 'Arzi Hukumat-e-Azad Hind' was established by Subhas Chandra Bose in which location?",
+    "options": [
+      "Bangkok",
+      "Rangoon",
+      "Singapore",
+      "Tokyo"
+    ],
+    "correct": 2,
+    "explanation": "Bose established the Arzi Hukumat-e-Azad Hind (Provisional Government of Free India) in Singapore on October 21, 1943."
+  },
+  {
+    "question": "What was the primary objective of the C.R. Formula (1944)?",
+    "options": [
+      "To provide a plan for the complete socialist restructuring of the Indian economy.",
+      "To resolve the deadlock between the Congress and the Muslim League over the Pakistan demand.",
+      "To organize a mass strike in the Royal Indian Navy.",
+      "To demand an immediate constituent assembly from the British."
+    ],
+    "correct": 1,
+    "explanation": "The C.R. Formula was proposed by C. Rajagopalachari to resolve the deadlock between the INC and the Muslim League over the demand for Pakistan and facilitate cooperation for independence."
+  },
+  {
+    "question": "According to the Desai-Liaquat Pact (1945), what was the proposed representation for Congress and the League in the interim government?",
+    "options": [
+      "Proportional representation based on provincial election results.",
+      "60% for Congress and 40% for the Muslim League.",
+      "Equal representation for both the Congress and the League.",
+      "Representation based on the 1935 census."
+    ],
+    "correct": 2,
+    "explanation": "The pact proposed the formation of an interim government with equal representation of the Congress and the League."
+  },
+  {
+    "question": "Which of the following was a key feature of the Wavell Plan (1945)?",
+    "options": [
+      "Immediate withdrawal of the British from India within six months.",
+      "A restructured Executive Council where all members, except the Governor-General and Commander-in-Chief, would be Indian.",
+      "The abolition of the Governor-General’s veto power.",
+      "Granting independence to individual provinces immediately."
+    ],
+    "correct": 1,
+    "explanation": "The Wavell Plan proposed restructuring the Executive Council so that all members except the Governor-General and Commander-in-Chief were Indian representatives."
+  },
+  {
+    "question": "The historic INA trials of 1945-46 were held at which venue?",
+    "options": [
+      "Red Fort, Delhi",
+      "Viceregal Lodge, Simla",
+      "Yervada Jail, Pune",
+      "Cellular Jail, Andaman"
+    ],
+    "correct": 0,
+    "explanation": "The INA trials were held at the Red Fort in 1945-46, putting captured officers like Shah Nawaz Khan and others on trial."
+  },
+  {
+    "question": "The Royal Indian Navy (RIN) mutiny of 1946 started at which establishment?",
+    "options": [
+      "HMIS Shivaji, Lonavala",
+      "HMIS Adyar, Madras",
+      "HMIS Hooghly, Calcutta",
+      "HMIS Talwar, Bombay"
+    ],
+    "correct": 3,
+    "explanation": "The RIN uprising erupted at HMIS Talwar, Bombay, on February 18-23, 1946, sparked by harsh conditions and racism."
+  },
+  {
+    "question": "The Cabinet Mission (1946) rejected the demand for a separate Pakistan primarily because of:",
+    "options": [
+      "The geographical impracticality of dividing provinces like Bengal and Punjab.",
+      "The insistence of the Sikh leaders on a unified India.",
+      "The lack of support from the Muslim League for a separate state.",
+      "The refusal of the British to leave India."
+    ],
+    "correct": 0,
+    "explanation": "The Cabinet Mission rejected a separate Pakistan citing the geographical impracticality of dividing Bengal and Punjab and the risk of economic/administrative challenges."
+  },
+  {
+    "question": "In the Cabinet Mission’s three-tier structure, which provinces were included in 'Section C'?",
+    "options": [
+      "Hindu Majority Provinces like Bihar and Orissa.",
+      "Madras, Bombay, and United Provinces.",
+      "Muslim majority provinces of the North West like Punjab and Sindh.",
+      "Bengal and Assam."
+    ],
+    "correct": 3,
+    "explanation": "The Cabinet Mission grouped provinces into three sections: A (Hindu majority), B (North-West Muslim majority), and C (Bengal and Assam)."
+  },
+  {
+    "question": "Who was invited by the Viceroy to form the Interim Government as Prime Minister in August 1946?",
+    "options": [
+      "Muhammad Ali Jinnah",
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "Mahatma Gandhi"
+    ],
+    "correct": 1,
+    "explanation": "On 12 August 1946, the Viceroy invited Jawaharlal Nehru to form the Interim Government as Prime Minister (de facto PM/Vice-President of Executive Council)."
+  },
+  {
+    "question": "Who served as the temporary chairman of the Constituent Assembly during its first session on December 9, 1946?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "B.R. Ambedkar",
+      "J.B. Kripalani",
+      "Dr. Sachchidanand Sinha"
+    ],
+    "correct": 3,
+    "explanation": "J.B. Kripalani invited Dr. Sachchidanand Sinha to act as the temporary chairman due to his seniority on December 9, 1946."
+  },
+  {
+    "question": "Which plan operationalized the partition of India through votes, referendums, and a boundary commission?",
+    "options": [
+      "The Cabinet Mission Plan",
+      "The Mountbatten Plan",
+      "The Wavell Plan",
+      "The Attlee Declaration"
+    ],
+    "correct": 1,
+    "explanation": "The Mountbatten Plan (June 3, 1947) operationalised partition by votes, referendums, and a boundary commission."
+  },
+  {
+    "question": "The 'Objective Resolution', which formed the basis of the Preamble, was proposed in the Constituent Assembly by whom?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "Sardar Patel",
+      "B.R. Ambedkar",
+      "Jawaharlal Nehru"
+    ],
+    "correct": 3,
+    "explanation": "Jawaharlal Nehru proposed the Objective Resolution on 13 December 1946, which later formed the basis of the Preamble."
+  },
+  {
+    "question": "In the 1946 provincial elections, which party formed the government in Punjab?",
+    "options": [
+      "Hindu Mahasabha",
+      "Indian National Congress",
+      "Unionist Party-Congress-Akali coalition",
+      "Muslim League"
+    ],
+    "correct": 2,
+    "explanation": "Punjab was run by a Unionist Party-Congress-Akali coalition under Khizr Hayat Tiwana until March 1947."
+  },
+  {
+    "question": "The 'Nyayadan Mandals' (people's courts) were a feature of which parallel government?",
+    "options": [
+      "Tamluk",
+      "Tamralipta",
+      "Ballia",
+      "Satara"
+    ],
+    "correct": 3,
+    "explanation": "The Satara Prati Sarkar, led by Nana (Krantisinha) Patil, featured people's courts (Nyayadan Mandals) and the Toofan Sena militia."
+  },
+  {
+    "question": "Which island was renamed 'Shaheed Dweep' by Subhas Chandra Bose in 1943?",
+    "options": [
+      "Nicobar Island",
+      "Java",
+      "Andaman Island",
+      "Singapore"
+    ],
+    "correct": 2,
+    "explanation": "In December 1943, the Japanese handed over the Andaman and Nicobar Islands to Bose, who renamed them Shaheed and Swaraj Dweep respectively."
+  },
+  {
+    "question": "Who was the Commander-in-Chief of the Indian National Army (INA) when it was first established in 1942?",
+    "options": [
+      "Captain Mohan Singh",
+      "Rash Behari Bose",
+      "Subhas Chandra Bose",
+      "Shah Nawaz Khan"
+    ],
+    "correct": 0,
+    "explanation": "When the INA was first formed in 1942, Captain Mohan Singh was made the Commander-in-Chief."
+  },
+  {
+    "question": "The 'Direct Action Day' called by the Muslim League on August 16, 1946, was a response to:",
+    "options": [
+      "The launch of the Quit India Movement.",
+      "The invitation to Congress to form the Interim Government sidelining the League.",
+      "The execution of INA officers at the Red Fort.",
+      "The rejection of the C.R. Formula."
+    ],
+    "correct": 1,
+    "explanation": "The League called for Direct Action Day after Congress was invited by Wavell to form the Interim Govt at the center, sidelining the Muslim League."
+  },
+  {
+    "question": "Under the Indian Independence Act 1947, what was the status of the Government of India Act, 1935?",
+    "options": [
+      "It remained the permanent law for the Princely States.",
+      "It was renamed the 'Constitution of India'.",
+      "It served as the interim constitutional law until new constitutions were adopted.",
+      "It was immediately annulled and replaced by the British Parliament."
+    ],
+    "correct": 2,
+    "explanation": "The Government of India Act, 1935, served as the interim constitutional law for both dominions until new constitutions were adopted."
+  },
+  {
+    "question": "What was the outcome of the referendum held in the North-West Frontier Province (NWFP) in July 1947?",
+    "options": [
+      "The majority voted to join Pakistan.",
+      "The province voted for independence.",
+      "The province voted to join India.",
+      "The province voted to remain under British paramountcy."
+    ],
+    "correct": 0,
+    "explanation": "The NWFP referendum held in July 1947 resulted in a majority for Pakistan."
+  },
+  {
+    "question": "Who led the INA Defence Committee during the Red Fort trials?",
+    "options": [
+      "Muhammad Ali Jinnah",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "Bhulabhai Desai"
+    ],
+    "correct": 3,
+    "explanation": "The INC established the INA Defence Committee, which included prominent lawyers like Bhulabhai Desai, Nehru, and others."
+  },
+  {
+    "question": "The 'Sapru Committee Report' mentioned in the context of 1945 was related to:",
+    "options": [
+      "The reorganization of the Indian National Army.",
+      "The investigation of the Bengal Famine.",
+      "Constitutional proposals and resolving communal issues.",
+      "Economic planning for the post-war era."
+    ],
+    "correct": 2,
+    "explanation": "The Sapru Committee Report (1945) is mentioned as a special constitutional effort alongside the Wavell Plan and Simla Conference."
+  },
+  {
+    "question": "Why did the Sikh leaders oppose the Cripps Mission of 1942?",
+    "options": [
+      "They wanted immediate independence without any transition period.",
+      "They supported the Japanese advance over British rule.",
+      "They were not given representation in the proposed constituent assembly.",
+      "They objected to the provision that could lead to the partition of Punjab."
+    ],
+    "correct": 3,
+    "explanation": "Sikhs objected to the Cripps Mission because the right of provinces to secede (Partition) would take Punjab from them."
+  },
+  {
+    "question": "In the context of the Quit India Movement, what directive was given to 'Soldiers'?",
+    "options": [
+      "To resign immediately and join the Congress.",
+      "To defect and join the Indian National Army.",
+      "To stay in the Army but refrain from firing on compatriots.",
+      "To take over the military barracks from British officers."
+    ],
+    "correct": 2,
+    "explanation": "The specific directive given to soldiers was: 'Stay in the Army but refrain from firing on compatriots.'"
+  },
+  {
+    "question": "Which leader was the President of the Indian Independence League (IIL) when it was established in Bangkok in June 1942?",
+    "options": [
+      "Rash Behari Bose",
+      "Liaquat Ali Khan",
+      "Subhas Chandra Bose",
+      "Mohan Singh"
+    ],
+    "correct": 0,
+    "explanation": "In June 1942, during a meeting in Bangkok, Rash Behari Bose was appointed as the President of the IIL."
+  },
+  {
+    "question": "According to the Cabinet Mission Plan, how were the members of the Constituent Assembly to be elected?",
+    "options": [
+      "Selected by the British Parliament from a list provided by parties.",
+      "Nominated solely by the Viceroy.",
+      "By provincial assemblies through proportional representation.",
+      "Through direct universal adult franchise."
+    ],
+    "correct": 2,
+    "explanation": "The Constituent Assembly was to be elected by provincial assemblies by proportional representation."
+  },
+  {
+    "question": "The 'Wavell Plan' was proposed in 1945 partly because of which external factor?",
+    "options": [
+      "Pressure from the United Nations to decolonize Africa.",
+      "The start of the Russian invasion of India.",
+      "The immediate success of the Quit India Movement.",
+      "The end of the war in Europe and the upcoming General Elections in England."
+    ],
+    "correct": 3,
+    "explanation": "The plan was proposed because the upcoming 1945 General Elections in England required the Conservatives to address Indian issues as the war turned in favor of the Allies."
+  },
+  {
+    "question": "What was the 'Day of Deliverance' as celebrated by the Muslim League?",
+    "options": [
+      "The day the British left India.",
+      "The day the Cabinet Mission arrived.",
+      "The day Congress ministries resigned in 1939.",
+      "The day the partition was announced."
+    ],
+    "correct": 2,
+    "explanation": "Jinnah observed December 22, 1939, as 'Day of Deliverance' following the resignation of Congress ministries."
+  },
+  {
+    "question": "Who was the president of the Ramgarh Session (1940) of the Indian National Congress?",
+    "options": [
+      "Rajendra Prasad",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose",
+      "Maulana Abul Kalam Azad"
+    ],
+    "correct": 3,
+    "explanation": "The Ramgarh Session (1940) was presided over by Maulana Abul Kalam Azad."
+  },
+  {
+    "question": "Which parallel government during the Quit India Movement was led by Chittu Pandey?",
+    "options": [
+      "Satara",
+      "Ballia",
+      "Midnapore",
+      "Tamluk"
+    ],
+    "correct": 1,
+    "explanation": "The parallel government in Ballia (UP) was led by Chittu Pandey in August 1942."
+  },
+  {
+    "question": "In the 1946 elections, the Muslim League secured what percentage of the Muslim votes?",
+    "options": [
+      "91.3%",
+      "20%",
+      "86.6%",
+      "57%"
+    ],
+    "correct": 2,
+    "explanation": "The Muslim League secured 86.6% of Muslim votes, winning 30/30 Muslim seats in the Central Assembly."
+  },
+  {
+    "question": "The Indian Medical Mission to China (1938) was sent by the Congress to serve with Chinese forces against which country?",
+    "options": [
+      "Japan",
+      "Soviet Union",
+      "Germany",
+      "Italy"
+    ],
+    "correct": 0,
+    "explanation": "The five-doctor team was sent by Congress in 1938 to serve with Chinese forces against Japan."
+  },
+  {
+    "question": "Which book written by Subhas Chandra Bose building international support and networking with anti-imperialist circles?",
+    "options": [
+      "Yugantar",
+      "Anandmath",
+      "The Indian Struggle (1920-34)",
+      "Bhawani Mandir"
+    ],
+    "correct": 2,
+    "explanation": "Bose wrote 'The Indian Struggle (1920-34)' during his time in Europe (1933-36)."
+  },
+  {
+    "question": "The 'Toofan Sena' was a militia associated with which movement or government?",
+    "options": [
+      "The Indian National Army",
+      "The Satara Prati Sarkar",
+      "The Forward Bloc",
+      "The Royal Indian Navy"
+    ],
+    "correct": 1,
+    "explanation": "The Satara Prati Sarkar under Nana Patil featured the Toofan Sena militia."
+  },
+  {
+    "question": "Which section of society was advised by Gandhi during the Quit India Movement to 'Do not resign but declare allegiance to Congress'?",
+    "options": [
+      "Students",
+      "Peasants",
+      "Government Servants",
+      "Soldiers"
+    ],
+    "correct": 2,
+    "explanation": "During the Quit India Movement, government servants were told: 'Do not resign but declare allegiance to Congress.'"
+  },
+  {
+    "question": "What was the total membership strength of the Indian National Army (INA) as it prepared to confront British forces?",
+    "options": [
+      "10,000",
+      "20,000",
+      "100,000",
+      "40,000"
+    ],
+    "correct": 3,
+    "explanation": "The INA grew to about 40,000 members, preparing to confront British forces in India."
+  },
+  {
+    "question": "The 'Shah Nawaz Khan, Prem Sehgal, and Gurbaksh Dhillon' trio is famous in history for:",
+    "options": [
+      "Leading the RIN Mutiny.",
+      "Organizing the Parallel Government in Satara.",
+      "The Red Fort INA Trials.",
+      "Forming the first Provisional Government in Kabul."
+    ],
+    "correct": 2,
+    "explanation": "These key INA leaders were charged with treason and were the primary figures in the Red Fort trials."
+  },
+  {
+    "question": "In the Cabinet Mission plan, which provinces formed 'Section A'?",
+    "options": [
+      "Bengal and Assam.",
+      "Hindu Majority Provinces like Madras, Bombay, and United Provinces.",
+      "Muslim majority provinces of the North West.",
+      "Princely States."
+    ],
+    "correct": 1,
+    "explanation": "Section A consisted of Hindu Majority Provinces: Madras, Bombay, United Provinces, Bihar, Orissa, and Central Provinces."
+  },
+  {
+    "question": "What was the dual role of the Constituent Assembly during its tenure?",
+    "options": [
+      "Managing the Army and Foreign Affairs only.",
+      "Judiciary and Executive.",
+      "Framing the Constitution and acting as the Legislative Assembly.",
+      "Governing both India and Pakistan."
+    ],
+    "correct": 2,
+    "explanation": "The Assembly acted as the Constituent Assembly (framing the Constitution) and functioned as the Legislative Assembly (governing and making laws)."
+  },
+  {
+    "question": "The 'Radcliffe Award' of 1947 was related to:",
+    "options": [
+      "Drawing the India-Pakistan borders.",
+      "The allocation of INA soldiers to the two dominions.",
+      "Financial distribution between India and Pakistan.",
+      "Settling the status of Princely States."
+    ],
+    "correct": 0,
+    "explanation": "The Radcliffe Award (completed Aug 12, 1947) drew the India–Pakistan borders."
+  },
+  {
+    "question": "Which political leader replaced Winston Churchill as the Prime Minister of Britain in 1945?",
+    "options": [
+      "Lord Mountbatten",
+      "Lord Pethick-Lawrence",
+      "Stafford Cripps",
+      "Clement Attlee"
+    ],
+    "correct": 3,
+    "explanation": "The Labour Party won the 1945 elections, and Clement Attlee replaced Winston Churchill as Prime Minister."
+  },
+  {
+    "question": "What was the Congress's stance on the groupings of provinces in the Cabinet Mission Plan (1946)?",
+    "options": [
+      "They rejected it as it contradicted their vision of a unified India.",
+      "They proposed that only princely states should be grouped.",
+      "They wanted the groupings to be based on language only.",
+      "They accepted it as compulsory."
+    ],
+    "correct": 0,
+    "explanation": "Congress rejected the groupings of provinces as it contradicted their vision of a unified India, thinking initially that grouping was optional."
+  },
+  {
+    "question": "The 'Naval Central Strike Committee' was formed during which event?",
+    "options": [
+      "The protest against the Cabinet Mission.",
+      "The RIN Mutiny at HMIS Talwar.",
+      "The start of the Quit India Movement in Bombay.",
+      "The launch of the INA march to Delhi."
+    ],
+    "correct": 1,
+    "explanation": "During the RIN Mutiny, the Naval Central Strike Committee was formed with Lt. M.S. Khan as President."
+  },
+  {
+    "question": "The 1943 Bengal Famine is cited as one of the reasons for the decline of which movement?",
+    "options": [
+      "Non-Cooperation Movement",
+      "Individual Satyagraha",
+      "Quit India Movement",
+      "Civil Disobedience Movement"
+    ],
+    "correct": 2,
+    "explanation": "The Bengal Famine of 1943 is listed as one of the reasons for the decline of the Quit India Movement."
+  },
+  {
+    "question": "Who was the 'Sarbadhinayak' of the Tamralipta Jatiya Sarkar?",
+    "options": [
+      "Satish Chandra Samanta",
+      "Chittu Pandey",
+      "Matangini Hazra",
+      "Nana Patil"
+    ],
+    "correct": 0,
+    "explanation": "Satish Chandra Samanta was the Sarbadhinayak of the Tamralipta Jatiya Sarkar."
+  },
+  {
+    "question": "In the context of the INA, what was the 'Dilli Chalo' call?",
+    "options": [
+      "A student strike in Delhi universities.",
+      "A call for a mass protest at the Red Fort.",
+      "A call for the Constituent Assembly to meet in Delhi.",
+      "The march of the INA from Rangoon/Singapore towards Delhi."
+    ],
+    "correct": 3,
+    "explanation": "The INA prepared to march towards Delhi, an event referred to as 'Dilli Chalo' as they shifted headquarters to Rangoon."
+  },
+  {
+    "question": "Which INA regiment was named after a female historical figure?",
+    "options": [
+      "Sarojini Naidu Regiment",
+      "Matangini Hazra Regiment",
+      "Rani Jhansi Regiment",
+      "Kasturba Gandhi Regiment"
+    ],
+    "correct": 2,
+    "explanation": "Regiments of the INA were named after leaders like Gandhi, Nehru, Azad, Bose, and the Rani Jhansi (led by Captain Lakshmi Sehgal)."
+  },
+  {
+    "question": "Why did the Muslim League boycott the first session of the Constituent Assembly?",
+    "options": [
+      "They disagreed over the issue of partition and their demand for Pakistan.",
+      "They wanted the assembly to meet in Karachi.",
+      "They were protesting the arrest of Jinnah.",
+      "The British refused to grant them any seats."
+    ],
+    "correct": 0,
+    "explanation": "Members from the Muslim League boycotted the first session due to disagreements over partition."
+  },
+  {
+    "question": "What was the 'bitter pill' that Gandhi referred to in 1939?",
+    "options": [
+      "The acceptance of the 1935 Act.",
+      "The declaration of war by the Viceroy.",
+      "The resignation of Congress ministries.",
+      "The rejection of Bose’s presidential re-election."
+    ],
+    "correct": 2,
+    "explanation": "Gandhi welcomed the resignations of Congress ministries in 1939, calling them a 'bitter pill' necessary to cleanse the Congress."
+  },
+  {
+    "question": "Under the Desai-Liaquat Pact, what percentage of seats were proposed to be reserved for minorities?",
+    "options": [
+      "50%",
+      "10%",
+      "33%",
+      "20%"
+    ],
+    "correct": 3,
+    "explanation": "The pact proposed 20% reserved seats for minorities in the government."
+  },
+  {
+    "question": "The 'August Offer' of 1940 was presented by which Viceroy?",
+    "options": [
+      "Lord Mountbatten",
+      "Lord Linlithgow",
+      "Lord Willingdon",
+      "Lord Wavell"
+    ],
+    "correct": 1,
+    "explanation": "Viceroy Linlithgow presented the 'August Offer' in August 1940."
+  },
+  {
+    "question": "Who was the 'Finance Member' in the Interim Government when the Muslim League joined in October 1946?",
+    "options": [
+      "Asaf Ali",
+      "Jawaharlal Nehru",
+      "I.I. Chundrigar",
+      "Liaquat Ali Khan"
+    ],
+    "correct": 3,
+    "explanation": "When the League joined the Interim Government on 26 Oct 1946, Liaquat Ali Khan became the Finance Member."
+  },
+  {
+    "question": "In the 1945 Indian elections, which provinces saw the Muslim League form governments?",
+    "options": [
+      "Bengal and Sindh",
+      "Assam and Orissa",
+      "Punjab and NWFP",
+      "Bihar and United Provinces"
+    ],
+    "correct": 0,
+    "explanation": "While Congress formed ministries in 8 provinces, the Muslim League led in Sindh and Bengal."
+  },
+  {
+    "question": "Which revolutionary group is mentioned as tracing its origins to early 20th-century societies like the Anushilan Samiti?",
+    "options": [
+      "Ghadar Party",
+      "Hindustan Republican Association",
+      "Forward Bloc",
+      "Yugantar Group"
+    ],
+    "correct": 3,
+    "explanation": "The document notes the origins of militant nationalism in Bengal trace back to societies like Anushilan Samiti and the Yugantar group."
+  },
+  {
+    "question": "The 'Silk Letter Movement' (Reshami Rumal Andolan) was a collaboration involving which group/empire?",
+    "options": [
+      "The Soviet Union",
+      "The Ottoman Empire",
+      "The Japanese Empire",
+      "The United States"
+    ],
+    "correct": 1,
+    "explanation": "The movement was a collaboration between Deoband leaders, the Ottoman Empire, Afghanistan, and Germany."
+  },
+  {
+    "question": "Who led the 'Provisional Indian Government' set up in Kabul in 1915?",
+    "options": [
+      "Raja Mahendra Pratap Singh",
+      "Rash Behari Bose",
+      "Sachindranath Sanyal",
+      "Subhas Chandra Bose"
+    ],
+    "correct": 0,
+    "explanation": "The Provisional Indian Government in Kabul (1915) was led by Raja Mahendra Pratap Singh, Barkatullah, and others."
+  },
+  {
+    "question": "The 'Kakori Conspiracy' (1925) was a train robbery aimed to fund the activities of which organization?",
+    "options": [
+      "Indian National Army",
+      "Ghadar Party",
+      "Hindustan Republican Association (HRA)",
+      "Anushilan Samiti"
+    ],
+    "correct": 2,
+    "explanation": "The Kakori Conspiracy (1925) was a train robbery aimed to fund HRA activities."
+  },
+  {
+    "question": "What was the British response to the RIN Mutiny as expressed by Clement Attlee?",
+    "options": [
+      "He called for a forceful resolution.",
+      "He invited the sailors to join the British Army.",
+      "He offered immediate independence.",
+      "He ignored the event as a minor service issue."
+    ],
+    "correct": 0,
+    "explanation": "Regarding the RIN Mutiny, Clement Attlee called for a forceful resolution."
+  },
+  {
+    "question": "The 'Objective Resolution' eventually became the basis for which part of the Constitution?",
+    "options": [
+      "Directive Principles",
+      "Fundamental Duties",
+      "Preamble",
+      "Fundamental Rights"
+    ],
+    "correct": 2,
+    "explanation": "The Objective Resolution proposed by Nehru later formed the basis of the Preamble."
+  },
+  {
+    "question": "In 1943, Subhas Chandra Bose established the Provisional Government of Free India in Singapore. He then declared war on which nations?",
+    "options": [
+      "Britain and the U.S.",
+      "The Soviet Union and France",
+      "Japan and China",
+      "Germany and Italy"
+    ],
+    "correct": 0,
+    "explanation": "Bose proclaimed the Provisional Government on 21 Oct 1943 and later declared war on Britain and the U.S."
+  },
+  {
+    "question": "Which of the following was a reason for Congress's rejection of the Wavell Plan?",
+    "options": [
+      "It wanted the Governor-General to have absolute veto powers.",
+      "It objected to the inclusion of any Indian members in the Executive Council.",
+      "It opposed the plan because the Muslim League was excluded.",
+      "It perceived the plan as an attempt to make Congress solely a 'caste Hindu' party."
+    ],
+    "correct": 3,
+    "explanation": "Congress perceived the Wavell Plan as an attempt to limit its influence and make it solely a caste Hindu party."
+  },
+  {
+    "question": "What was the timeframe for the completion of the Indian Constitution by the Constituent Assembly?",
+    "options": [
+      "1 year and 6 months",
+      "5 years",
+      "2 years and 11 months",
+      "3 years and 5 months"
+    ],
+    "correct": 2,
+    "explanation": "The Assembly held sessions over 2 years and 11 months (a total of 166 days) to complete the Constitution in 1950."
+  },
+  {
+    "question": "Under the Mountbatten Plan, which province's assembly voted to join East Bengal (Pakistan)?",
+    "options": [
+      "Bengal",
+      "Sindh",
+      "Punjab",
+      "Assam"
+    ],
+    "correct": 0,
+    "explanation": "The Bengal Assembly voted on June 20, 1947, to partition Bengal, with East Bengal joining Pakistan."
+  },
+  {
+    "question": "The 'Sylhet' region's fate in 1947 was decided by what method?",
+    "options": [
+      "Decision by the Radcliffe Commission alone.",
+      "A vote in the Assam Assembly.",
+      "A referendum.",
+      "A treaty between Nehru and Jinnah."
+    ],
+    "correct": 2,
+    "explanation": "In Sylhet (Assam), a referendum held on July 6–7, 1947, resulted in most of Sylhet going to East Bengal (Pakistan)."
+  },
+  {
+    "question": "What was the title change for the British monarch under the Indian Independence Act 1947?",
+    "options": [
+      "The King became the 'Protector of Dominions'.",
+      "The title 'Emperor of India' was excluded.",
+      "The title was changed to 'Governor-General'.",
+      "The title was changed to 'President of India'."
+    ],
+    "correct": 1,
+    "explanation": "The title of the King of England was modified to exclude 'Emperor of India'."
+  },
+  {
+    "question": "According to the Cabinet Mission, what happened to the British 'Paramountcy' over princely states?",
+    "options": [
+      "It was transferred to Pakistan.",
+      "It was maintained by the British Crown indefinitely.",
+      "It was to end, and states were free to enter agreements with successor governments.",
+      "It was transferred to the Indian Union."
+    ],
+    "correct": 2,
+    "explanation": "The plan stated Princely States were no longer under British paramountcy and were free to enter agreements with successor governments."
+  },
+  {
+    "question": "Who was the 'Vice-President of the Executive Council' in the Interim Government formed in 1946?",
+    "options": [
+      "Lord Wavell",
+      "Jawaharlal Nehru",
+      "Maulana Azad",
+      "Sardar Patel"
+    ],
+    "correct": 1,
+    "explanation": "Nehru took office on 2 Sep 1946 as the Vice-President of the Executive Council (de facto PM)."
+  },
+  {
+    "question": "What was the 'Pakistan demand' resolution passed by the Muslim League in March 1940 called?",
+    "options": [
+      "The Lahore Resolution",
+      "The Simla Resolution",
+      "The Delhi Resolution",
+      "The Karachi Resolution"
+    ],
+    "correct": 0,
+    "explanation": "The League pressed its Pakistan demand as per the Lahore Resolution (March 1940)."
+  },
+  {
+    "question": "In the 1930s, Subhas Chandra Bose spent three years in Europe (1933-36). Which of the following cities is NOT mentioned as a place he visited to build support?",
+    "options": [
+      "Berlin",
+      "Paris",
+      "London",
+      "Vienna"
+    ],
+    "correct": 1,
+    "explanation": "Bose spent three years in Europe visiting Vienna, Berlin, Rome, and London. Paris is not mentioned in this list."
+  },
+  {
+    "question": "The 'Indian Medical Mission to China' (1938) was a five-doctor team. It became a symbol of what?",
+    "options": [
+      "The failure of the League of Nations.",
+      "British medical superiority.",
+      "Asian anti-imperialist solidarity.",
+      "Communist expansion in Asia."
+    ],
+    "correct": 2,
+    "explanation": "The mission became a powerful symbol of Asian anti-imperialist solidarity and burnished Bose's credentials."
+  },
+  {
+    "question": "Which document/offer suggested forming a 'consultative committee' with members from major political parties instead of setting up a national government?",
+    "options": [
+      "The Cripps Mission",
+      "Viceroy Linlithgow’s October 1939 statement",
+      "The August Offer",
+      "The Wavell Plan"
+    ],
+    "correct": 1,
+    "explanation": "In October 1939, Linlithgow suggested forming a consultative committee instead of quickly setting up a national government at the center."
+  },
+  {
+    "question": "What was the 'take it or leave it' attitude attributed to in the PDF?",
+    "options": [
+      "The Wavell Plan",
+      "The Cabinet Mission",
+      "The Mountbatten Plan",
+      "The Cripps Mission"
+    ],
+    "correct": 3,
+    "explanation": "The Cripps Mission is assessed as being 'Rigid' with a 'Take it or leave it' attitude."
+  },
+  {
+    "question": "In the context of the Quit India Movement, which directive was given to 'Princes'?",
+    "options": [
+      "To support the masses and acknowledge the sovereignty of the people.",
+      "To abdicate their thrones immediately.",
+      "To arrest all Congress leaders in their states.",
+      "To sign the Instrument of Accession to Pakistan."
+    ],
+    "correct": 0,
+    "explanation": "The directive to Princes was: 'Support the masses and acknowledge the sovereignty of the people.'"
+  },
+  {
+    "question": "Who was the Vice President of the Naval Central Strike Committee during the RIN Mutiny?",
+    "options": [
+      "M.S. Khan",
+      "Nana Patil",
+      "Chittu Pandey",
+      "Madan Singh"
+    ],
+    "correct": 3,
+    "explanation": "The committee was formed with Lt. M.S. Khan as President and officer Madan Singh as Vice President."
+  },
+  {
+    "question": "Which party fully supported the naval ratings during the RIN Mutiny and mobilized workers in Bombay?",
+    "options": [
+      "The Communist Party of India (CPI)",
+      "The Hindu Mahasabha",
+      "The Muslim League",
+      "The Indian National Congress"
+    ],
+    "correct": 0,
+    "explanation": "The CPI fully supported the naval ratings and mobilised workers in Bombay by shutting down textile mills."
+  },
+  {
+    "question": "What was the 'short term proposal' of the Cabinet Mission (1946)?",
+    "options": [
+      "The drafting of the Preamble.",
+      "The election of a permanent President for India.",
+      "The partition of India.",
+      "The formation of an Interim Government."
+    ],
+    "correct": 3,
+    "explanation": "The Cabinet Mission came with short term (Formation of Interim Government) and long term (Federal and Constituent Assembly) proposals."
+  },
+  {
+    "question": "In the Constituent Assembly, how many seats were allocated for the Princely States?",
+    "options": [
+      "389",
+      "93",
+      "292",
+      "4"
+    ],
+    "correct": 1,
+    "explanation": "Of the 389 seats, 93 were for princely states."
+  },
+  {
+    "question": "Who was elected as the permanent chairman of the Constituent Assembly on December 10, 1946?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Dr. Sachchidanand Sinha",
+      "Dr. Rajendra Prasad",
+      "B.R. Ambedkar"
+    ],
+    "correct": 2,
+    "explanation": "Dr. Rajendra Prasad was elected as the permanent chairman on December 10, 1946."
+  },
+  {
+    "question": "The 'August 15, 1947' deadline for independence was preceded by which major declaration on February 20, 1947?",
+    "options": [
+      "The Attlee Declaration",
+      "The Mountbatten Plan",
+      "The Wavell Appeal",
+      "The Cabinet Mission Statement"
+    ],
+    "correct": 0,
+    "explanation": "Attlee’s declaration (Feb 20, 1947) set a firm deadline for the British exit."
+  },
+  {
+    "question": "According to the PDF, what was the primary reason for the failure of the Gandhi-Jinnah Talks in 1944?",
+    "options": [
+      "Intervention by the British military.",
+      "Disagreement over the Bengal famine relief.",
+      "Deadlock over the demand for Pakistan.",
+      "The refusal of Gandhi to meet Jinnah."
+    ],
+    "correct": 2,
+    "explanation": "The failure of the Gandhi-Jinnah Talks (1944) left a deadlock over the demand for Pakistan."
+  },
+  {
+    "question": "In the context of the Quit India Movement, what was 'Ae Watan Mera Watan' related to?",
+    "options": [
+      "The slogan of the Ballia parallel government.",
+      "A poem by Rabindranath Tagore.",
+      "The official anthem of the INA.",
+      "A movie about Usha Mehta and the underground radio."
+    ],
+    "correct": 3,
+    "explanation": "The document mentions the movie 'Ae Watan Mera Watan' in relation to Usha Mehta running the underground Congress Radio."
+  },
+  {
+    "question": "Under the Cabinet Mission, 'Major communal questions' at the Centre required what kind of majority?",
+    "options": [
+      "A majority of each of the two major communities present and voting, plus a majority of all members present and voting.",
+      "A simple majority of all members.",
+      "A two-thirds majority of all members.",
+      "Consent of the British Parliament only."
+    ],
+    "correct": 0,
+    "explanation": "Major communal questions required a majority of each of the two major communities plus a majority of all members present and voting."
+  },
+  {
+    "question": "Which of the following describes the 'Desai-Liaquat Pact'?",
+    "options": [
+      "A formal treaty signed by Gandhi and Jinnah.",
+      "A British document detailing the partition process.",
+      "Secret talks between senior leaders of Congress and the Muslim League to negotiate a future coalition.",
+      "The resolution passed at the Simla Conference."
+    ],
+    "correct": 2,
+    "explanation": "Secret talks were held between Bhulabhai Desai (INC) and Liaquat Ali Khan (ML) in Jan 1945 for a future coalition government."
+  },
+  {
+    "question": "Who was the 'Labour leader in Churchill’s War Cabinet' who headed the 1942 mission to India?",
+    "options": [
+      "Stafford Cripps",
+      "Lord Pethick-Lawrence",
+      "Clement Attlee",
+      "A.V. Alexander"
+    ],
+    "correct": 0,
+    "explanation": "Sir Stafford Cripps was a Labour leader in Churchill's War Cabinet who headed the Cripps Mission."
+  },
+  {
+    "question": "The 'Indian Struggle (1920-34)' is a book written by which leader?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Subhas Chandra Bose",
+      "C.R. Das"
+    ],
+    "correct": 2,
+    "explanation": "Subhas Chandra Bose wrote 'The Indian Struggle (1920-34)' while in Europe."
+  },
+  {
+    "question": "Which province resolution to join Pakistan was made on June 26, 1947?",
+    "options": [
+      "Assam",
+      "Sindh",
+      "Punjab",
+      "Bengal"
+    ],
+    "correct": 1,
+    "explanation": "The Sindh Assembly resolved to join Pakistan on June 26, 1947."
+  },
+  {
+    "question": "In the 1946 Interim Government, who was the representative of the 'Sikhs' in the 12-member cabinet?",
+    "options": [
+      "There was no Sikh representative.",
+      "Khizr Hayat Tiwana",
+      "Master Tara Singh",
+      "One member was from the Sikh community (cabinet representation)."
+    ],
+    "correct": 3,
+    "explanation": "The 12-member cabinet included 1 representative from the Sikh community (among Hindus, Muslims, SC, Christians, and Parsis)."
+  },
+  {
+    "question": "What was the 'Singapore Mutiny (1915)' primarily about?",
+    "options": [
+      "A strike by shipyard workers for higher pay.",
+      "A rebellion by Indian sailors against poor food.",
+      "A rebellion by Muslim soldiers against deployment to fight the Ottoman Empire.",
+      "A protest against the execution of Rash Behari Bose."
+    ],
+    "correct": 2,
+    "explanation": "Muslim soldiers in Singapore rebelled against deployment to fight the Ottoman Empire and were later executed."
+  },
+  {
+    "question": "The 'Hindustan Socialist Republican Association (HSRA)' was the later form of which organization?",
+    "options": [
+      "Anushilan Samiti",
+      "Forward Bloc",
+      "Ghadar Party",
+      "Hindustan Republican Association (HRA)"
+    ],
+    "correct": 3,
+    "explanation": "After the Kakori incident, the HRA adopted socialism and became the HSRA (led by Bhagat Singh and others)."
+  },
+  {
+    "question": "Who was the 'Sarbadhinayak' of the Tamralipta Jatiya Sarkar?",
+    "options": [
+      "Usha Mehta",
+      "Chittu Pandey",
+      "Satish Chandra Samanta",
+      "Nana Patil"
+    ],
+    "correct": 2,
+    "explanation": "Satish Chandra Samanta was the Sarbadhinayak of the Tamralipta Jatiya Sarkar."
+  },
+  {
+    "question": "What is the primary theme of the 'Modern History with Kawal Sir' notes for 1937-1945?",
+    "options": [
+      "The rise of the East India Company.",
+      "The detailed history of the Mughals.",
+      "The social reforms of the 19th century.",
+      "The Indian National Movement and the path to independence/partition."
+    ],
+    "correct": 3,
+    "explanation": "The document title and content focus on the Indian National Movement (1937-1945), ideological divides, and revolutionary activities leading to independence."
+  },
+  {
+    "question": "Regarding the evolution of Civil Services in India, which Governor-General is regarded as the 'Father of Civil Services in India'?",
+    "options": [
+      "Lord Bentinck",
+      "Lord Cornwallis",
+      "Warren Hastings",
+      "Lord Wellesley"
+    ],
+    "correct": 1,
+    "explanation": "Lord Cornwallis is regarded as the Father of Civil Services in India because he tried to check corruption through encouragement and discipline."
+  },
+  {
+    "question": "What was the primary objective of establishing the college at Fort Williams in Calcutta by Lord Wellesley?",
+    "options": [
+      "To study Indian Law and Philosophy",
+      "To provide education to Indian elites",
+      "To train Civil Servants in local languages and customs",
+      "To promote modern science research"
+    ],
+    "correct": 2,
+    "explanation": "Lord Wellesley established the college at Fort Williams in 1800 with the objective of training Civil Servants of the Company in the languages and customs of India."
+  },
+  {
+    "question": "Which Act first sought to introduce a system of open competition for the selection of civil servants in India?",
+    "options": [
+      "Charter Act of 1833",
+      "Charter Act of 1813",
+      "Indian Civil Services Act of 1861",
+      "Government of India Act of 1858"
+    ],
+    "correct": 0,
+    "explanation": "The Charter Act of 1833 sought a system of open competition through examination and adequate provisions of education and training, though it came into effect in 1853."
+  },
+  {
+    "question": "The concept of a merit-based modern Civil Service in India was introduced in 1854 based on the report of which committee?",
+    "options": [
+      "Aitchison Commission",
+      "Lord Macaulay's Report",
+      "Raleigh Commission",
+      "Lee Commission"
+    ],
+    "correct": 1,
+    "explanation": "Lord Macaulay's Report of the Select Committee of British Parliament introduced the concept of a merit-based modern Civil Service in 1854."
+  },
+  {
+    "question": "Following the termination of the East India Company in 1858, the power of superior political appointments was vested in:",
+    "options": [
+      "The British Crown",
+      "The Court of Directors",
+      "The Governor-General",
+      "The Civil Service Commission"
+    ],
+    "correct": 0,
+    "explanation": "The GOI Act of 1858 vested the power of superior appointments of a political nature with Her Majesty (British Crown), exercisable by the Secretary of State."
+  },
+  {
+    "question": "Who was the first Indian to qualify for the Indian Civil Service in 1863?",
+    "options": [
+      "S.N. Banerjee",
+      "Satyendra Nath Tagore",
+      "Dadabhai Naoroji",
+      "Gopal Krishna Gokhale"
+    ],
+    "correct": 1,
+    "explanation": "In 1863, Satyendra Nath Tagore became the first Indian to qualify for the Indian Civil Service."
+  },
+  {
+    "question": "What was the main feature of the 'Statutory Civil Service' introduced by Lord Lytton?",
+    "options": [
+      "A merit-based system for provincial services",
+      "Reservation of seats for the working class",
+      "Nomination of Indians from high families to 1/6th of covenanted posts",
+      "Open competitive examinations held in India"
+    ],
+    "correct": 2,
+    "explanation": "Introduced in 1878-79, it consisted of 1/6th of covenanted posts to be filled by Indians of high families through nominations by Local Government."
+  },
+  {
+    "question": "Which commission recommended the classification of Civil Services into Imperial, Provincial, and Subordinate services?",
+    "options": [
+      "Lee Commission",
+      "Aitchison Commission",
+      "Saddler Commission",
+      "Hunter Commission"
+    ],
+    "correct": 1,
+    "explanation": "The Aitchison Commission (1886) recommended classifying services into Imperial Indian Civil Service, Provincial Civil Service, and Subordinate Civil Service."
+  },
+  {
+    "question": "The Government of India Act 1919 recommended that competitive examinations for civil services be held:",
+    "options": [
+      "Simultaneously in India and England",
+      "In Calcutta and Delhi only",
+      "Only in London",
+      "Only in Allahabad"
+    ],
+    "correct": 0,
+    "explanation": "The GOI Act of 1919 recommended simultaneous examinations in India and in England."
+  },
+  {
+    "question": "Which commission recommended the establishment of a Statutory Public Service Commission and parity between Europeans and Indians in the ICS?",
+    "options": [
+      "Aitchison Commission",
+      "Butler Committee",
+      "Lee Commission",
+      "Simon Commission"
+    ],
+    "correct": 2,
+    "explanation": "The Lee Commission (1924) recommended the establishment of a Statutory Public Service Commission and suggested 50:50 parity between Europeans and Indians be reached in 15 years."
+  },
+  {
+    "question": "Under the Government of India Act 1935, which three services were to continue as 'All India Services'?",
+    "options": [
+      "ICS, IPS, and Indian Medical Service",
+      "ICS, IPS, and IFS",
+      "ICS, Provincial Service, and Subordinate Service",
+      "Central, Provincial, and Subordinate Services"
+    ],
+    "correct": 0,
+    "explanation": "As a result of provincial autonomy under the Act, only the Indian Civil Service, IPS, and Indian Medical Service continued as All India Services."
+  },
+  {
+    "question": "Which of the following was the first newspaper published in India?",
+    "options": [
+      "Sambad Kamudi",
+      "Samachar Darpan",
+      "The Bengal Gazette",
+      "Bombay Samachar"
+    ],
+    "correct": 2,
+    "explanation": "James Augustus Hickey started The Bengal Gazette in 1780, which was the first newspaper of India."
+  },
+  {
+    "question": "Why was the Censorship of Press Act 1799 enacted by Lord Wellesley?",
+    "options": [
+      "Because of the 1857 revolt",
+      "Due to the threat of French Invasion",
+      "To promote English language papers",
+      "To stop the spread of Indian nationalism"
+    ],
+    "correct": 1,
+    "explanation": "The Act was enacted in 1799 due to the threat of French Invasion, imposing wartime-like restrictions and pre-censorship."
+  },
+  {
+    "question": "Which Governor-General or acting GG is known as the 'Liberator of the Indian Press'?",
+    "options": [
+      "Lord Ripon",
+      "Lord Lytton",
+      "Lord Wellesley",
+      "Lord Metcalfe"
+    ],
+    "correct": 3,
+    "explanation": "Lord Metcalfe is remembered as the 'Liberator of the Indian Press' because his Press Act of 1835 scrapped the 1823 licensing regime."
+  },
+  {
+    "question": "What was the specific 'gagging' feature of the Vernacular Press Act of 1878?",
+    "options": [
+      "It banned the publication of any political news",
+      "It discriminated between English and Vernacular newspapers with no right to appeal",
+      "It required all papers to be in English",
+      "It mandated pre-censorship for all English newspapers"
+    ],
+    "correct": 1,
+    "explanation": "The Act gagged vernacular papers through bonds and seizures while sparing the English press, and the Magistrate's action was final with no right of appeal."
+  },
+  {
+    "question": "Which newspaper turned into an overnight English newspaper to escape the Vernacular Press Act?",
+    "options": [
+      "Amrita Bazar Patrika",
+      "Samachar Darpan",
+      "Mirat-ul-Akbar",
+      "Sambad Kamudi"
+    ],
+    "correct": 0,
+    "explanation": "Amrita Bazar Patrika turned into an overnight English newspaper to escape the operation of the Vernacular Press Act."
+  },
+  {
+    "question": "Who was the editor of the journal 'Mooknayak'?",
+    "options": [
+      "Mahatma Gandhi",
+      "BR Ambedkar",
+      "Motilal Nehru",
+      "Dadabhai Naoroji"
+    ],
+    "correct": 1,
+    "explanation": "BR Ambedkar was associated with the journal Mooknayak."
+  },
+  {
+    "question": "Which leader was charged with sedition and sent to Mandalay for six years following the Newspaper (Incitement to Offences) Act 1908?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Lala Lajpat Rai"
+    ],
+    "correct": 0,
+    "explanation": "Tilak was charged for sedition and sent to Burma (Mandalay) for six years under the context of the 1908 Act."
+  },
+  {
+    "question": "The Calcutta Madrassa was established in 1781 by Warren Hastings for the study of:",
+    "options": [
+      "Indian Law and Philosophy",
+      "Muslim Law and related subjects",
+      "English Literature",
+      "Modern Sciences"
+    ],
+    "correct": 1,
+    "explanation": "Warren Hastings established the Calcutta Madrassa in 1781 for the study of Muslim Law and related subjects."
+  },
+  {
+    "question": "The Charter Act of 1813 sanctioned 1 Lakh rupees for education, but the funds were delayed due to a controversy between:",
+    "options": [
+      "Orientalists and Anglicists",
+      "Hindus and Muslims",
+      "Primary and Secondary education advocates",
+      "The Crown and the Company"
+    ],
+    "correct": 0,
+    "explanation": "The controversy regarding the type of education (Modern vs Tradition) and the medium of instruction led to the 'Orientalist Anglicist Controversy'."
+  },
+  {
+    "question": "What was the primary recommendation of Macaulay's Minute of 1835?",
+    "options": [
+      "Compulsory primary education for all",
+      "Promotion of traditional Indian learning",
+      "Modern Education through English language only",
+      "Education through vernacular languages"
+    ],
+    "correct": 2,
+    "explanation": "Macaulay's Minute favored the Anglicist view, recommending modern education through the English language only."
+  },
+  {
+    "question": "Which document is considered the 'Magna Carta of English Education in India'?",
+    "options": [
+      "Hunter Commission Report",
+      "Saddler Commission Report",
+      "Macaulay's Minute",
+      "Woods Despatch"
+    ],
+    "correct": 3,
+    "explanation": "Woods Despatch of 1854 is regarded as the Magna Carta of English Education in India."
+  },
+  {
+    "question": "According to Woods Despatch (1854), what was the recommended medium of instruction for higher studies?",
+    "options": [
+      "English",
+      "Sanskrit",
+      "Vernacular",
+      "Persian"
+    ],
+    "correct": 0,
+    "explanation": "Woods Despatch recommended English as the medium of instruction for higher studies and Vernacular at the school level."
+  },
+  {
+    "question": "The Hunter Education Commission of 1882 primarily focused on reviewing:",
+    "options": [
+      "Technical education",
+      "University education only",
+      "Legal education",
+      "Primary and secondary education"
+    ],
+    "correct": 3,
+    "explanation": "The Hunter Commission made primary recommendations regarding primary and secondary education after reviewing progress since Woods Despatch."
+  },
+  {
+    "question": "Why did Lord Curzon enact the Indian Universities Act of 1904?",
+    "options": [
+      "Because he viewed educational institutions as factories of political revolutionaries",
+      "To make primary education compulsory",
+      "To promote research in vernacular languages",
+      "To increase the number of private colleges"
+    ],
+    "correct": 0,
+    "explanation": "The Act was passed because Curzon viewed universities as breeding grounds for political revolutionaries and sought to tame them."
+  },
+  {
+    "question": "The Saddler University Commission (1917-1919) is also known as the:",
+    "options": [
+      "Raleigh Commission",
+      "Hartog Committee",
+      "Calcutta University Commission",
+      "Aitchison Commission"
+    ],
+    "correct": 2,
+    "explanation": "The Saddler University Commission was also called the Calcutta University Commission."
+  },
+  {
+    "question": "The Wardha Scheme of Basic Education (1937) was based on whose ideas?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Zakir Hussain",
+      "Mahatma Gandhi"
+    ],
+    "correct": 3,
+    "explanation": "The Wardha Scheme (Nai Talim) was based on Gandhi's idea of 'Learning through Activity' as published in Harijan."
+  },
+  {
+    "question": "The Sergeant Plan of Education aimed to achieve universal literacy in India within:",
+    "options": [
+      "20 years",
+      "40 years",
+      "50 years",
+      "10 years"
+    ],
+    "correct": 1,
+    "explanation": "The Sergeant Plan (1944) provided a long-term plan aiming to bring about universal literacy in India within 40 years."
+  },
+  {
+    "question": "Which industry's capitalist lobby ironically made the first demand for improved factory worker conditions in India?",
+    "options": [
+      "Lancashire textile capitalists",
+      "Indigo planters",
+      "Bombay Mill owners",
+      "Tea plantation owners"
+    ],
+    "correct": 0,
+    "explanation": "Lancashire textile capitalists demanded better conditions so that Indian textile industries would not have the advantage of cheap labor."
+  },
+  {
+    "question": "The Indian Factory Act of 1881 prohibited the employment of children below the age of:",
+    "options": [
+      "12 years",
+      "5 years",
+      "7 years",
+      "9 years"
+    ],
+    "correct": 2,
+    "explanation": "The First Factory Act of 1881 provided that children under 7 years of age should not be employed."
+  },
+  {
+    "question": "Why were the Moderates initially indifferent or opposed to labor legislation like the Factory Acts?",
+    "options": [
+      "They did not believe in worker rights",
+      "They supported the British owners",
+      "They wanted children to work",
+      "They believed it would affect the competitive edge of Indian-owned industries"
+    ],
+    "correct": 3,
+    "explanation": "Moderates believed legislation would affect the competitive edge of Indian industries and did not want to divide the movement on class lines."
+  },
+  {
+    "question": "Who was the founding President of the All India Trade Union Congress (AITUC) in 1920?",
+    "options": [
+      "Dewan Chaman Lal",
+      "Lala Lajpat Rai",
+      "NM Lokhande",
+      "CR Das"
+    ],
+    "correct": 1,
+    "explanation": "Lala Lajpat Rai was the founding President of AITUC in 1920."
+  },
+  {
+    "question": "Which Act made strikes in public utility services like railways and posts illegal without a one-month advance notice?",
+    "options": [
+      "Indian Penal Code",
+      "Trade Union Act of 1926",
+      "Indian Factory Act of 1891",
+      "Trade Disputes Act of 1929"
+    ],
+    "correct": 3,
+    "explanation": "The Trade Disputes Act of 1929 made strikes in public utility services illegal without one month's advance notice."
+  },
+  {
+    "question": "Under the police system established by Cornwallis in 1791, who was the head of the district police?",
+    "options": [
+      "The Collector",
+      "The Superintendent of Police (SP)",
+      "The Daroga",
+      "The Zamindar"
+    ],
+    "correct": 1,
+    "explanation": "Cornwallis established a system with a Daroga for each Thana and a Superintendent of Police (SP) as the head of the district."
+  },
+  {
+    "question": "The Police Commission of 1860 led to the creation of a system based on:",
+    "options": [
+      "Civil constabulary",
+      "Zamindari supervision",
+      "Military policing",
+      "Village panchayats"
+    ],
+    "correct": 0,
+    "explanation": "The 1860 commission led to the Indian Police Act, which established a system of civil constabulary."
+  },
+  {
+    "question": "Who was the head of the province's police department under the Indian Police Act of 1860?",
+    "options": [
+      "SP",
+      "DIG",
+      "Commissioner",
+      "Inspector General (IG)"
+    ],
+    "correct": 3,
+    "explanation": "The Act established the IG as the head in a province, DIG as the head in a range, and SP as the head in a district."
+  },
+  {
+    "question": "In the early judicial system under Warren Hastings, what was the function of 'District Diwani Adalats'?",
+    "options": [
+      "To collect revenue",
+      "To try civil disputes",
+      "To oversee police duties",
+      "To try criminal disputes"
+    ],
+    "correct": 1,
+    "explanation": "District Diwani Adalats were established in districts to try civil disputes."
+  },
+  {
+    "question": "Under the Cornwallis Code, the Collector was made responsible only for:",
+    "options": [
+      "Revenue administration",
+      "Judicial administration",
+      "Police administration",
+      "Education administration"
+    ],
+    "correct": 0,
+    "explanation": "The Cornwallis Code separated powers, making the Collector responsible only for revenue administration with no magisterial functions."
+  },
+  {
+    "question": "Which language replaced Persian in the Supreme Court during the reforms of William Bentinck?",
+    "options": [
+      "Hindi",
+      "English",
+      "Sanskrit",
+      "Bengali"
+    ],
+    "correct": 1,
+    "explanation": "Under William Bentinck, English replaced Persian in the Supreme Court."
+  },
+  {
+    "question": "The British policy toward princely states between 1765 and 1813 is known as:",
+    "options": [
+      "Policy of Ring Fence",
+      "Policy of Subordinate Isolation",
+      "Struggle for Equality",
+      "Policy of Subordinate Union"
+    ],
+    "correct": 0,
+    "explanation": "The 1765-1813 period was the 'Policy of Ring Fence', aimed at creating buffer states for the security of British territories."
+  },
+  {
+    "question": "What did the term 'Breakwaters of future storms' refer to in the context of British relations with princely states?",
+    "options": [
+      "The buffer state of Awadh",
+      "The role of princely states in preventing future uprisings like 1857",
+      "A system of sea defenses",
+      "Military fortifications on the coast"
+    ],
+    "correct": 1,
+    "explanation": "The British saw princely rulers as 'Breakwaters of future storms' to maintain order and prevent uprisings after the 1857 revolt."
+  },
+  {
+    "question": "The 'Policy of Equal Federation' (1935-1947) failed primarily because:",
+    "options": [
+      "The British withdrew the offer",
+      "The GOI Act 1935 was repealed",
+      "The princes refused to join",
+      "Nationalists objected to nominated representatives from princely states"
+    ],
+    "correct": 3,
+    "explanation": "The federation never materialized due to opposition from nationalists who objected to representatives being nominated by rulers rather than elected."
+  },
+  {
+    "question": "What was the purpose of the 'Chamber of Princes' (Narendra Mandal) established in 1921?",
+    "options": [
+      "To provide a forum for princely rulers to voice concerns to the British government",
+      "To organize an uprising against the British",
+      "To manage the education of young princes",
+      "To recruit princes into the army"
+    ],
+    "correct": 0,
+    "explanation": "It was established to provide a forum where princely rulers could voice concerns and end British isolationist policies."
+  },
+  {
+    "question": "The Butler Committee (1927) was established to examine the nature of:",
+    "options": [
+      "Industrial disputes",
+      "British Paramountcy",
+      "Police corruption",
+      "Education standards"
+    ],
+    "correct": 1,
+    "explanation": "The Butler Committee (Indian States Committee) examined the nature of British paramountcy over princely states."
+  },
+  {
+    "question": "Who was elected President of the All India States People's Conference (AISPC) in 1939?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Subhas Chandra Bose",
+      "Mahatma Gandhi"
+    ],
+    "correct": 0,
+    "explanation": "In 1939, Jawaharlal Nehru was elected President of the AISPC."
+  },
+  {
+    "question": "Which of the following was the oldest Indian newspaper published till date, as per the text?",
+    "options": [
+      "Samachar Darpan",
+      "Mumbai Samachar",
+      "Nav Jivan",
+      "The Bengal Gazette"
+    ],
+    "correct": 1,
+    "explanation": "Mumbai Samachar is the oldest Indian newspaper which is published till date."
+  },
+  {
+    "question": "Under the Hartog Committee (1929) recommendations, what should be the duration of primary education?",
+    "options": [
+      "4 years",
+      "3 years",
+      "6 years",
+      "8 years"
+    ],
+    "correct": 0,
+    "explanation": "The Hartog Committee recommended that primary education should be of 4 years."
+  },
+  {
+    "question": "Which commission recommended the creation of a 'Department of Criminal Intelligence' (CID) at the center?",
+    "options": [
+      "Aitchison Commission",
+      "Lee Commission",
+      "Andrew Frazer Commission (1902)",
+      "Police Commission of 1860"
+    ],
+    "correct": 2,
+    "explanation": "The 1902 Police Commission under Andrew Frazer recommended creating a CID at the center."
+  },
+  {
+    "question": "The 'Downward Filtration Theory' in education implied that:",
+    "options": [
+      "The government focused on elites, expecting education to reach the masses through them",
+      "Only primary education should be funded",
+      "Education funds should be filtered through the Company",
+      "Education should start from the bottom village level"
+    ],
+    "correct": 0,
+    "explanation": "The focus on high schools and colleges instead of mass education was an example of the Downward Filtration Theory."
+  },
+  {
+    "question": "Which of the following journals is correctly matched with its associate?",
+    "options": [
+      "Swami Vivekanand - Rast Goftar",
+      "Dadabhai Naoroji - Mooknayak",
+      "Motilal Nehru - National Herald",
+      "Mahatma Gandhi - Harijan"
+    ],
+    "correct": 3,
+    "explanation": "Mahatma Gandhi was associated with Harijan, Young India, and Nav Jivan. (Motilal Nehru was associated with Independent, JL Nehru with National Herald, Ambedkar with Mooknayak, and Naoroji with Rast Goftar)."
+  }
+]
